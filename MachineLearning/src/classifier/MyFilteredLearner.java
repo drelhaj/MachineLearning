@@ -23,6 +23,7 @@ import java.util.Random;
 import java.util.SortedSet;
 import java.util.TreeSet;
 import weka.classifiers.bayes.NaiveBayes;
+import weka.classifiers.functions.SMO;
 import weka.classifiers.meta.FilteredClassifier;
 import weka.core.converters.ArffLoader.ArffReader;
 import java.io.*;
@@ -80,7 +81,7 @@ public class MyFilteredLearner {
 			filter.setAttributeIndices("last");
 			classifier = new FilteredClassifier();
 			classifier.setFilter(filter);
-			classifier.setClassifier(new NaiveBayes());//SMO
+			classifier.setClassifier(new SMO());//SMO
 			Evaluation eval = new Evaluation(trainData);
 			eval.crossValidateModel(classifier, trainData, 4, new Random(1));
 			System.out.println(eval.toSummaryString());
@@ -104,7 +105,7 @@ public class MyFilteredLearner {
 			filter.setAttributeIndices("last");
 			classifier = new FilteredClassifier();
 			classifier.setFilter(filter);
-			classifier.setClassifier(new NaiveBayes());
+			classifier.setClassifier(new SMO());
 			classifier.buildClassifier(trainData);
 			// Uncomment to see the classifier
 			//System.out.println("--------->  "+classifier);

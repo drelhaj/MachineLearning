@@ -56,7 +56,7 @@ import java.io.*;
             }
 			System.out.println("===== Loaded text data: " + fileName + " =====");
 			reader.close();
-			System.out.println(text);
+			//System.out.println(text);
 		}
 		catch (IOException e) {
 			System.out.println("Problem found when reading: " + fileName);
@@ -73,7 +73,7 @@ import java.io.*;
             Object tmp = in.readObject();
 			classifier = (FilteredClassifier) tmp;
             in.close();
- 			System.out.println("===== Loaded model: " + fileName + " =====");
+ 			//System.out.println("===== Loaded model: " + fileName + " =====");
        } 
 		catch (Exception e) {
 			// Given the cast, a ClassNotFoundException must be caught along with the IOException
@@ -104,8 +104,8 @@ import java.io.*;
 		// Another way to do it:
 		// instance.setValue((Attribute)fvWekaAttributes.elementAt(1), text);
 		instances.add(instance);
- 		System.out.println("===== Instance created with reference dataset =====");
-		System.out.println(instances);
+ 		//System.out.println("===== Instance created with reference dataset =====");
+		//System.out.println(instances);
 	}
 	
 	/**
@@ -115,7 +115,7 @@ import java.io.*;
 	public void classify() {
 		try {
 			double pred = classifier.classifyInstance(instances.instance(0));
-			System.out.println("===== Classified instance =====");
+			//System.out.println("===== Classified instance =====");
 			System.out.println("Class predicted: " + instances.classAttribute().value((int) pred));
 		}
 		catch (Exception e) {
@@ -130,10 +130,13 @@ import java.io.*;
 	public static void main (String[] args) {
 	
 		MyFilteredClassifier classifier;
-			classifier = new MyFilteredClassifier();
-			classifier.load("test/Chair_4.txt");
+			
+		for(int i=1 ; i<9; i++){
+		classifier = new MyFilteredClassifier();
+			classifier.load("test/Gov_"+i+".txt");
 			classifier.loadModel("model/myModel.dat");
 			classifier.makeInstance();
 			classifier.classify();
+		}
 	}
 }
