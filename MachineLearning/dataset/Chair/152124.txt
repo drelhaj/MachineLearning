@@ -1,0 +1,282 @@
+ Pilat Media Global Plc / Annual Report 2012 4
+The Group continues to add new clients 
+while preserving the existing client base.  
+As in previous years two contracts were 
+signed with new clients, as well as five 
+license renewal contracts demonstrating 
+a high degree of client loyalty.  These 
+include a new strategic client which is a 
+leading global media and entertainment 
+group where IBMS will serve as the 
+central rights management, content 
+scheduling and media trafficking system 
+for all their linear channels and on 
+demand new media services across 
+Europe, Middle East and Africa.  It will 
+replace several disperse systems, and 
+will deliver new efficiencies through 
+centralisation, standardisation and 
+workflow automation.  As the client is 
+also implementing the Group's MediaPro 
+advertising sales software provided by 
+Pilat Media BV, this major contract win 
+also demonstrates the synergies across 
+Pilat Media's IBMS and the MediaPro 
+businesses.  
+A record number of over twenty 
+implementation and post go live 
+upgrades and expansion projects were 
+undertaken during the year, generating 
+revenues for 2012 and leaving a healthy 
+pipeline for 2013.  As a result of this 
+additional work and the likely signing of 
+new contracts the Group has continued 
+to grow its development capacity.  
+Following the trend that was reported last 
+year, these projects include a growing 
+number of TV Everywhere (TVE ) 
+related initiatives with clients looking 
+to utilise IBMS to serve as the central 
+content management system supporting 
+their multi-screen multi-platform strategy 
+from rights management, meta-data 
+management, linear and non-linear 
+scheduling and media workflow 
+orchestration perspectives.  
+In 2012 Pilat Media continued to direct 
+a high proportion of its research and 
+development (R&D) efforts at further 
+enhancing IBMS' capabilities for TVE 
+related purposes.  Going a step further, 
+the Group also launched OTTilus in 
+mid-2012 to focus on and dedicate 
+to OTT (Over The Top ) solutions for 
+existing and new clients.  OTTilus is 
+developing and starting to market an 
+end-to-end platform that can deliver 
+streaming, catch-up and VOD (Video 
+On Demand ) services through the 
+Internet to the viewer, whether on a PC, 
+a tablet, an internet connected television 
+or a Smartphone.  It can work in 
+conjunction with IBMS or independently.  
+OTTilus started as a joint venture with 
+a specialised partner so that Pilat 
+Media could leverage proven existing 
+technology and expertise. However, upon 
+completion and delivery of the first phase 
+of the platform, which was developed 
+for OTTilus by the partner according 
+to our specifications the Pilat Media 
+has acquired the partner's stake and 
+transferred the lead engineers to OTTilus.  
+The Group should achieve simplified 
+management and accelerate progression 
+of the new initiative with 100% control 
+going forward.  
+Clients' feedback on the new platform 
+is encouraging and the Group hopes 
+to achieve OTTilus' first sales later in 
+2013.  At the year end, as Pilat Media 
+had not received the final enhanced 
+OTT platform, the  250,000 initial 
+payment it had made in respect of the 
+platform, is shown in the balance sheet 
+as a prepayment together with a small 
+amount of development costs spent in 
+the second half of the year.  In future 
+reports, now that the Group has received 
+and tested the delivered software, 
+these investments and the subsequent 
+payments to the partner will be shown as 
+additions to intangible assets.  
+Chairman's and Chief Executive Officer's Statement 2012
+Pilat Media is pleased to report its results for the year 
+ended 31 December 2012.  This has been another year 
+of improvements in all the key metrics.  Revenues grew 
+by 4.2% to their highest ever level of  23.5 million and 
+cash balances, net of loans, increased by  4 million to 
+ 10.7 million.   www.pilatmedia.com 5
+The Board believes that the opportunities 
+that the OTT market presents for Pilat 
+Media are very exciting. Whilst it is 
+already a very competitive market, 
+the Group has a number of unique 
+advantages over other entrants, given 
+Pilat Media's 14 years of broadcast 
+experience and the complementary 
+role IBMS can play both on the content 
+distribution and the advertising selling 
+and insertion fronts.  
+Revenues
+The revenues in Q4 2012 were the 
+highest ever quarterly revenues for the 
+Group at  7.7million (Q4 2011:  6.2 
+million) and this resulted in an increase 
+in annual revenues for 2012 by 4.2% 
+to  23.5 million, again the highest level 
+ever.
+There was a substantial increase in 
+license fees in 2012, increasing by 50% 
+to  4.5 million (2011:  3.0 million).  In 
+2012 license fees represented 19.2% 
+of total revenues (2011:  2.8 million, 
+13.4% of revenues).  In addition to the 
+license fees recognised for ongoing 
+implementation projects, a number of 
+existing broadcasters paid additional 
+license fees for license renewal and 
+extensions as well as for licensing 
+additional modules, such as the relatively 
+new IBMS-Rights module.  
+Revenues for recurring support and 
+maintenance services decreased slightly 
+to  5.5 million (the same level as 2010) 
+as a result of the loss of the maintenance 
+revenue from the Fox Television Stations 
+contract terminated in 2011.  Support 
+and maintenance revenues are expected 
+to increase to 2011 levels and higher in 
+future years as implementation projects 
+come to completion and broadcasters 
+take more channels and services live.  
+Revenues resulting from professional 
+services, which cover project 
+management, requirement analysis, 
+customisation, integration, data 
+migration, training and general customer 
+support, continued to be as strong as 
+last year and altogether amounted to 
+ 13.5 million, representing 57% of 2012 
+revenues (2011:  13.7 million, 61% of 
+revenues).  
+In respect of the large and long-term 
+implementation contracts, revenue on 
+license fees and professional services 
+are recognised progressively according 
+to the project's stage of completion, as in 
+previous years.  As the Group completed 
+a number of implementation projects in 
+2011 and 2012 the revenue contribution 
+of these projects decreased in 2012 to 
+26% of revenue (2011: 49.5%).
+In 2012 there was a reduced reliance on 
+the Group's largest three clients.  These 
+top three clients contributed 25.5% of 
+the total 2012 revenues (32% in 2011).  
+The North and South American clients 
+contributed 40% of total revenues in 
+2012 (2011: 46%), the European and 
+African clients contributed 37% (2011: 
+30%) and the Australasian clients 
+contributed 23% (2011: 24%).
+Research and development
+Pilat Media continues to invest in 
+improvements to the IBMS software to 
+ensure it remains relevant and attractive 
+to existing and new clients. In 2012 
+the Board increased the resources 
+allocated to R&D by 25% to  3.7 
+million (2011:  2.9 million) due to the 
+continued investment in new modules 
+and features and a higher proportion of 
+enhancements commissioned by clients 
+that were of a generic nature.  R&D 
+efforts focused on making IBMS better 
+equipped to support multi-platform TV 
+and TV Everywhere/Anytime initiatives by  Pilat Media Global Plc / Annual Report 2012 6
+further enhancing the Advanced Rights 
+Module (adding customer-defined, 
+multilevel rights management to support 
+multiplatform media environments), 
+developing a version of IBMS that can be 
+deployed in a cloud infrastructure and 
+the creation of IBMSExpress which can 
+be deployed in just a few weeks.  
+Profitability
+Gross profit increased to 52.4% of 
+revenues (2011: 51.1%) as a result of 
+the increase in license fees from contract 
+renewals. During the year additional 
+analytical and development staff were 
+recruited in response to an increase 
+in demand from the existing client 
+base and in preparation for additional 
+growth anticipated in 2013.  However, 
+thanks to restructuring and cost savings 
+initiatives taken in late 2011, general and 
+administrative costs were reduced.  
+Operating profit before impairment 
+of receivables and amortisation of 
+intangible assets in 2012 was  2.8 
+million representing 12.1% of revenues, 
+compared with  2.4 million or 10.7% in 
+2011.  Finance income increased due to 
+the higher cash balances whilst finance 
+costs were higher due to the interest 
+charges on the foreign currency loans.  
+The effective rate of tax in 2012 is 
+25.8% (2011: 11.7%), approximately 
+the standard rate of corporate tax rate in 
+the UK.  The 2011 charge was lower due 
+to the overseas tax charges being offset 
+by research and development tax claims 
+made in the UK relating to earlier years, 
+together with other adjustments to prior 
+year tax charges.
+Statement of Financial Position
+The Group achieved a significant 
+reduction in trade and other receivables, 
+to  10.2 million at the end of 2012 
+compared with  11.3 million at the 
+end of 2011, primarily as a number of 
+implementation projects were completed 
+during the year and the final milestone 
+payments were invoiced and received.  
+As a result of collections during the year, 
+cash balances increased to  14.9 million 
+from  12.4 million at 31 December 
+2011.  This balance includes the sterling 
+value of the currency loans designed to 
+minimise currency fluctuations.  During 
+the year the Group repaid  1.6 million of 
+these currency loans and the balance of 
+the loans at 31 December 2012 reduced 
+to  4.2 million (2011:  5.8 million).  The 
+currency loans are repayable on demand 
+but are not due for repayment in full until 
+31 December 2013.
+Cash flow
+As noted above, the Group generated  4 
+million of cash (2011:  3 million), and 
+achieved a significant increase in cash 
+balances to  14.9 million (2011:  12.4 
+million) whilst reducing the currency loan 
+balance.  The cash balance net of loans 
+increased at the end of 2012 to  10.7 
+million (2011:  6.65 million) as a result 
+of collections of receivables, the profit 
+generated in the year and  0.5 million 
+received from the conversion of share 
+options into shares.
+Key Performance Indicators
+The Board uses a number of financial 
+and non-financial key performance 
+indicators that help in managing the 
+business.  None of the KPIs can be 
+judged in isolation of each other nor can 
+they be used without due interpretation 
+of the reasons that have caused the 
+changes.
+The main financial KPI's the Board uses are:
+2012 2011 2010
+% change in revenues 4.2% 3.0% 13.1%
+% net profit from operations (1) 12.1% 10.7% 14.7%
+Revenue per employee  100,355  103,330  102,632
+Chairman's and Chief Executive Officer's Statement 2012. cont.
+(1) Operating profit before impairment of receivable and before amortisation of intangible assets as a percentage of revenue.
+The non-financial KPI's used by the Board are:
+2012 2011 2010
+Number of new contracts signed 2 22
+Number of new staff hired 47 42 21
+Staff turnover 14% 19% 17%

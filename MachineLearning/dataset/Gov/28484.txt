@@ -1,0 +1,196 @@
+ Notes to the accounts
+4. Directors and employees (continued)
+Pension costs
+The pension costs summarised above of  4 5,000 ( 004,   7 ,000) relate to the Group's defined contribution and defined benefit 
+pension arrangements. 
+Defined contribution plans
+The Group operates defined contribution retirement benefit plans for all qualifying employees.
+The total cost charged to income of   97,000 ( 004,   7 ,000) represents contributions payable to these schemes by the Group at rates 
+specified in the rules of the schemes.  As at  December  005, contributions of   4,000 ( 004,   ,000) due in respect of the current 
+reporting period had not been paid over to the schemes.
+Defined benefit plan
+A subsidiary company operates a defined benefit scheme for some staff.  Accrual of benefits ceased in  997, with the scheme now being 
+operated as a closed fund.  A full actuarial valuation was carried out as at  January  004 and updated to  December  005 by a 
+qualified independent actuary.
+At the date of the last completed independent actuarial valuation, which was  January  004, the market value of the assets of the 
+scheme was   59,000.  The actuary advised that at that date the actuarial valuation of the assets of the scheme was sufficient to cover 
+69% of the benefits that had accrued to members, after allowing for expected increases in earnings.  The scheme is actuarially valued 
+every three years.  The next valuation of the scheme will be as at  January  007.
+Contributions are paid by the employer as and when required to cover any expenses of the scheme. In addition, contributions paid to 
+the scheme during the year were   8,000 ( 004,  nil).
+The Group's policy is to fund the deficit in the scheme by additional contributions to meet the scheme's commitment to members.
+The major assumptions used by the actuary for the update were as follows:
+  31 December   December   December   December 
+  2005   004   00   00 Rate of increase in salaries  not applicable  not applicable  not applicable  not applicable
+Rate of increase in 
+pensions in payment (LPI)  0.0%  0.0%  0.0%  0.0%
+Discount rate  4.8%  5. %  5.4%  5.4%
+Inflation assumption  2.9%   .9%   .9%   .4%
+Expected return on plan assets 3.5%   .8%   .8%  6.5%
+The amounts recognised in income in respect of the defined benefit scheme are as follows: 
+      2005   004
+       '000   '000
+Current service cost      -  ( 0)
+Interest cost      24   4
+Expected return on scheme assets     (14)  ( )
+Actuarial losses / (gains)      36  ( )
+      46  -
+The net charge for the year has been included in finance costs and interest received.
+Actuarial gains and losses have been reported in the income statement.
+The actual return on scheme assets was   ,000 ( 004,   ,000).
+The amount included in the balance sheet arising from the Group's obligation in respect of the defined benefit pension scheme is  
+as follows:
+     Value at 31/12/05 Value at  / /04
+       '000   '000
+Total value of assets (with profit policy)     387   59
+Present value of scheme liabilities     (517)  (46 )
+Liability before taxation      (130)  ( 0 )
+Deferred taxation       9   Liability recognised in the balance sheet     (91)  (7 )
+Analysis for reporting purposes:   
+Non-current liabilities      ( 0)  ( 0 )
+Deferred tax assets       9        (91)  (7 )
+Movements in the present value of net defined benefit obligations in the year were as follows:
+      2005   004
+       '000   '000
+At  January      (102)  (9 )
+Current service cost      -  ( 0)
+Interest cost (net)      (10)  ( )
+Contributions      18   0
+Actuarial (loss) / gain      (36)   At 31 December      (130)  ( 0 )
+  
+Movements in the present value of scheme assets in the year were as follows:
+      2005   004
+       '000   '000
+At  January      359   59
+Expected return on scheme assets     14   Actuarial gains and losses      (3)  ( )
+Contributions      18   0
+Benefits paid      (1)  -
+At 31 December      387   59
+ 
+Bloomsbury Publishing Plc 54 55 Notes to the accounts
+4. Directors and employees (continued)
+The history of experience adjustments is as follows:
+     2005  004  00  00      '000  '000  '000  '000
+    
+Present value of defined benefit obligations   (517) (46 ) (45 ) (404)
+Fair value of scheme assets     387  59  59  5 Deficit in scheme     (130) ( 0 ) (9 ) (5 )
+Experience gains and losses on scheme assets:
+Amount ( '000)     (3) ( ) ( 6) (5)
+Percentage of scheme assets    (1%) ( %) (4%) ( %)
+ Experience gains and losses on scheme liabilities:    
+Amount ( '000)     12  ( )  Percentage of the present value of the scheme liabilities   2%  % ( %)  %
+5. Taxation
+(a) Tax charge for the year
+      2005   004
+       '000   '000
+Based on the profit for the year: UK corporation tax at  0%   5,579  4,807
+  Over provision in respect of prior year   (8)  (54)
+  Overseas taxation - current year   386  -
+      5,957  4,75 Deferred tax (notes 11 and 15): UK     (45)  ( 97)
+  Overseas     (431)  (600)
+      5,481   ,956
+(b) Factors affecting tax charge for the year
+The tax assessed for the year is different from the standard rate of corporation tax in the UK ( 0%).  The differences are explained below:
+      2005   004
+       '000   '000
+Profit before taxation      20,127   6,697
+Profit on ordinary activities multiplied by the standard rate of corporation tax in the UK of  0%  6,038  5,009
+Effects of: Expenses not deductible for tax purposes    412   65
+ Difference between depreciation and capital allowances   76  87
+ Expenses deductible for tax purposes in different periods   61  -
+ Utilisation of tax losses     (234)  -
+ Losses for the year in subsidiary company not utilised   79  564
+ Corporation tax relief on share options exercised   (604)  (575)
+ Difference between profit on disposal of freehold property and taxable gain  -  ( 4)
+ Different rate of tax on overseas results    137  ( 9)
+ Adjustment to tax charge in respect of previous periods   (8)  (54)
+Current tax charge for the year     5,957  4,75 (c) Factors affecting tax charge for future years
+Details of the Group's deferred tax assets are shown in note  .
+6. Dividends
+A dividend of  .478p per share (  ,77 ,000) was paid to the equity shareholders on 7 July  005, being the amount proposed by the 
+directors, and subsequently approved by the shareholders at the  005 Annual General Meeting ( 004:  .677p per share,   , 75,000).
+For the current year
+On  8 November  005 an interim dividend of 0.600p per share ( 445,000) was paid to the equity shareholders ( 004: 0.5 p per  
+share,   8 ,000).
+The directors propose that a dividend of  .0p per share will be paid to the equity shareholders on 6 July  006. Based on the number of 
+shares currently in issue, the final dividend will be   , 89,000 ( 004,   ,77 ,000).  This dividend is subject to approval by the shareholders 
+at the Annual General Meeting and has not been included as a liability in these financial statements.
+7. Earnings per share
+The basic earnings per share has been calculated by reference to earnings of   4,646,000 ( 004,   ,74 ,000) and a weighted average 
+number of Ordinary Shares in issue of 7 , 4,0 4 ( 004, 70,84 ,6 7). The diluted earnings per share has been calculated by reference to a 
+weighted average number of Ordinary Shares in issue of 7 ,49 ,58 ( 004, 7 , 5,05 ) which takes account of share options and awards 
+under the Group's Performance Share Plan.
+The reconciliation between the weighted average number of shares for the basic earnings per share and the diluted earnings per share 
+is as follows: 
+      2005   004
+      Number  Number
+Weighted average number of shares for basic earnings per share   72,134,014  70,84 ,6 7
+Dilutive effect of share options and awards under Performance Share Plan   1,359,567   , 9 ,4 6
+Weighted average number of shares for diluted earnings per share   73,493,581  7 , 5,05 The reconciliation between earnings before and after exceptional gain is as follows:
+      2005   004
+       '000   '000
+Earnings after exceptional gain     14,646   ,74 Exceptional gain (net)      -  (4 7)
+Tax relief on exceptional costs     -  ( 98)
+Earnings before exceptional gain     14,646   , 6
+The earnings per share before exceptional gain are shown below: 
+      2005   004
+Basic earnings per share before exceptional gain    20.30p   7. p
+Diluted earnings per share before exceptional gain    19.93p   6.8 p
+Bloomsbury Publishing Plc 56 57 Notes to the accounts
+8.  Property, plant and equipment
+The Group    Short Furniture Computers Motor Total
+    leasehold and and other vehicles
+    improvements fittings office 
+      equipment
+     '000  '000  '000  '000  '000
+Cost:
+At  January  005      87  ,7  9  , 6 Additions    90 4  6 6  , 68 
+Disposals    - - ( ) ( ) ( 4) 
+Exchange differences on retranslation   - -  -  At 31 December 2005    1,016 328 1,994 178 3,516
+Depreciation:      
+At  January  005     7  50  , 54  44  ,585
+Charge for the year    94   9 45 400
+Disposals    - - - (84) (84)
+At 31 December 2005    131 182 1,483 105 1,901
+Net book value:      
+At 31 December 2005    885 146 511 73 1,615
+At  January  005    76  7 478 85 776
+The Company     Short Furniture Computers Total
+     leasehold and and other 
+     improvements fittings office 
+       equipment
+      '000  '000  '000  '000
+Cost:
+At  January  005      0  87 654  ,044
+Additions     90 4  40  ,084
+At 31 December 2005     1,006 328 794 2,128
+Depreciation:      
+At  January  005      7  50  75 55 Charge for the year     94   6  5 At 31 December 2005     121 182 501 804
+Net book value:      
+At 31 December 2005     885 146 293 1,324
+At  January  005     76  7  79 49 9. Intangible assets
+Goodwill      The Group  The Company
+       '000   '000
+Cost:   
+At  January  005       8,0 5  7 Additions      98  -
+Exchange gain on retranslation      04  -
+At 31 December 2005      19,312  721
+Accumulated impairment losses:
+At  January  005 and  December  005     4, 5  7 Carrying amount:
+At 31 December 2005      15,159  -
+At  January  005       ,87  -
+In accordance with IFRS  , goodwill has been frozen at its net book value at  January  004 and is not amortised, but instead is subject to 
+annual impairment reviews.  Any impairment losses are recognised immediately in the income statement. The carrying value is 
+determined on the basis of value in use.
+Additions represent the following adjustments to the goodwill arising on the acquisitions of Berlin Verlag in  00 and Walker Publishing 
+Company, Inc. in  004:
+        The Group
+         '000
+Adjustment to consideration on acquisition of Berlin Verlag (note 14)     66 Legal expenses on acquisition on Walker Publishing Company, Inc.      Adjustment to fair value of assets of Walker Publishing Company, Inc.      87
+Additions in the year        983
+The carrying amount of goodwill relates to the following geographical segments:
+       The Group
+      2005  2004
+       '000   '000
+United Kingdom      11,245   , 5 Continental Europe      772   9
+North America      3,142   ,50 At 31 December 2005      15,159   ,87 Bloomsbury Publishing Plc 58 59

@@ -1,0 +1,123 @@
+ Performance
+The past year was one of mixed results for Sopheon.  We feel very positive about the advances we have made within our 
+business over time.  In 2011, however, these changes did not produce the expected financial growth.  Revenues totaled 
+ 10.3m, broadly similar to the  10.5m generated in 2010.  In fact, if adjustments are made for the effect of exchange rate 
+movements, revenues in 2011 were the same as in 2010.  EBITDA of  1.5m was also the same as 2010.  Thanks to strict 
+control of costs, and enhanced conversion of development costs into product, we achieved these results despite the 
+expansion of staff in sales, services and development.  For the second year in a row, we are also pleased to report a positive 
+bottom line profit after tax of  104,000 (2010:  152,000). 
+Total license transactions including extension orders were 54 in 2011 (2010: 58).  We experienced good growth in services 
+and maintenance revenues, but license income represented only 29 percent of our total income, compared to 37 percent 
+in 2010.  Some of this shift in apportionment is explained by new customers making smaller initial investments, and then 
+extending implementation across multiple years.  The rest is largely due to higher-than-expected levels of customer extension 
+activity compared to new client acquisition. 
+From a geographical standpoint, the relative contributions of the US and European markets remained broadly steady at 64 
+percent and 36 percent respectively.  Performance of newer product lines improved in 2011 driven partly by our continued 
+investment in development.  Our innovation planning solution, Accolade
+ 
+ Vision Strategist
+ 
+, and our new-product ideation 
+offering,  Accolade Idea Lab
+ 
+, contributed 11 percent and 5 percent of total revenues, compared to 9 percent and 3 percent 
+respectively in 2010.  Income from the sale of our core innovation process support solution, Accolade Process Manager
+ 
+, 
+accounted for the remainder of the total. 
+At the date of this report, full-year 2012 revenue visibility incorporating booked revenue, contracted services business and 
+the run rate of recurring contracts stands at more than  6.0m, compared to  5.2m at the same time last year.  Revenue 
+visibility is more fully defined in Note 4.  
+Strategy and Product
+We have previously stated that Sopheon's growth strategies for 2012 and beyond center on three key objectives:
+ 	 Increase our rate of growth by deploying vertical-specific marketing strategies.  Our revised marketing 
+approach comprises a vertical-specific, integrated mix of tactics ranging from digital advertising campaigns and web-based 
+events to conferences, direct mail and social media programs.  Target sectors include consumer packaged goods, and 
+aerospace and defense. 
+ 
+ 	 Broaden the use of our solutions within existing accounts.  We have introduced a range of new products 
+and services over the past two years, supporting them with account management and marketing programs directed 
+exclusively into our customer base.  Most recently, we reorganized our sales teams to segregate and sharpen the focus 
+between generating additional revenue from existing customers and adding new accounts.
+ 	 Expand direct and indirect distribution channels to acquire new accounts.  During 2011, we widened sales 
+coverage geographically with new hires on the US West Coast and in Germany.  We also continued to build our 
+relationships with consulting partners.  In some cases, the initiative includes development and commercialization of 
+joint offerings.  Universally, these partnerships are calculated to leverage complementary skills and reciprocal account 
+introductions to generate new customers.
+         6 STATEMENT FROM THE CHAIRMAN AND CHIEF EXECUTIVE OFFICER
+STATEMENT FROM ThE ChAIRMAN  
+                  AND ChIEF ExECUTIVE OFFICER
+Accolade
+ 
+ is a registered trademark of Sopheon plc.
+Vision Strategist
+TM
+, Process Manager
+ 
+ and Idea Lab
+ 
+ are trademarks of Sopheon plc. During 2011, we invested in all three of these objectives.  We made progress in some areas.  Where we found progress 
+lagging, we made adjustments.  We look for the payoff from these efforts to be reflected in our 2012 results.  On the 
+product front, 2011 was a milestone year for Sopheon.  First, we completed a full refresh of the technology platform 
+upon which our core software offerings are built, and as a result, these are now wholly based on the current Microsoft
+ 
+ 
+software framework, .net .  This achievement is the culmination of a multi-year effort that was conducted in tandem with 
+the continued creation and commercialization of new product features and functionality.  During 2011, we also introduced 
+a new agile development methodology which will allow us to systematically introduce multiple product releases during the 
+course of a year, rather than larger releases separated by long intervals of time.  The combination of the platform change 
+and switch in methodology provides a mix of important advantages.  Principal among them is that we will be able to build 
+products faster and do a better job of ensuring that they are in step with real customer needs.  In 2012, these changes give 
+us a springboard for the introduction of a number of new functional releases that we expect will advance the value of our 
+solutions in a range of markets. 
+Sopheon remains unique in offering an all-in-one software system that encompasses support for strategic innovation 
+planning, ideation, product development process execution, and portfolio management across the entire product lifecycle. 
+The strength of our market position has been validated by analysts.  Our decision to sustain internal product development 
+investment despite the recent, ongoing economic uncertainty is serving us well in the present and will continue to fortify 
+our business performance and potential in the days ahead. 
+People
+Sopheon is differentiated in the market by its reputation for deep domain expertise in innovation management.  That know-
+how is embodied in our people, whose best-practice understanding and experience have been developed through many 
+years of helping top businesses achieve innovation success.  We are very proud of the commitment that our people have 
+shown in lifting Sopheon to a position of leadership in this area and in building on that standing throughout the recent 
+economic turbulence. 
+Sopheon continues to grow and develop our people.  We are selective about whom we add to the team.  And when 
+someone joins, our actions reflect that we understand the importance of transferring as rapidly as possible what we have 
+learned over time.  We recently kicked off an initiative to package key aspects of our unique experience and knowledge 
+into formal on-boarding and certification training.  In 2012, as this initiative is rolled out, our goal is to reduce the ramp-
+up time for new employees.  This, in turn, will improve our ability to scale our organization as the company continues to 
+grow, without jeopardizing critical standards for high levels of customer satisfaction.  In 2011, also with the goal of better 
+positioning Sopheon for growth, we reported having taken steps to restructure and strengthen Sopheon's executive 
+management team.  Our commercial operations are now organized on a regional basis, with teams in North America and 
+Europe, led by Mike Ducatelli and Jim Conroy respectively.  Jim is a new appointment who brings an extensive track record 
+of sales leadership success to our European business.  he earlier held similar positions at Agentrics, Demantra, and Cap 
+Gemini.
+The Sopheon plc board is made up of three executive directors, augmented by three non-executive directors who bring a 
+wealth of knowledge and experience to our business.  Details about each board member can be found on the inside back 
+cover of this report. 
+Outlook
+Buoyed by strong 2010 results, we expected another year of financial progress in 2011.  Instead, we essentially matched the 
+prior year performance.  The principal reason was a fall in license revenues.  We attribute this drop-off in part to strong 
+demand from our client base for extension business, which absorbed the attention of our sales team and diverted energy 
+from winning new clients.  We have since reorganized our sales resources to ensure a more focused attention to both 
+areas.  We believe this will be reflected in improved license performance in 2012, building on our service and maintenance 
+income streams, which are now each at run-rates of around  1m a quarter.  Accordingly, we remain positive about the 
+growth outlook for the business. 
+We entered 2011 looking to take advantage of an improving business climate.  This included controlled expansion of staff 
+levels in key areas.  As previously reported, we also took action in late 2010 to improve our working capital position to 
+provide the group with flexibility to react to any new, viable market opportunities that arose.  This strategy has enabled 
+continued investment where it is judged necessary to near- and mid-term business performance.  Accordingly, we are 
+maintaining staffing levels and in fact making further controlled investments in sales and services resources to stimulate and 
+support future growth.  Notwithstanding this stance, we are fully conscious of the need to remain vigilant in matching costs 
+to revenue expectations, not least due to the continued uncertainty in the global economy.
+Looking ahead, our sales pipeline remains very active and includes a number of substantial opportunities from both new 
+and existing customers - including some accounts that signed initial business in 2011 - and which we expect to bear fruit 
+in 2012.
+Barry Mence Andy Michuda
+Executive Chairman Chief Executive Officer
+21 March 2012  
+  
+         7 STATEMENT FROM THE CHAIRMAN AND CHIEF EXECUTIVE OFFICER
+Microsoft
+ 
+ is a registered trademark of the Microsoft Corporation in the United States and/or in other countries. 

@@ -1,0 +1,276 @@
+ 26 27
+x Adoption of International Accounting Standards (continued)
+IAS 24 Revised IAS 24 Related Party Disclosures
+IAS 27 Consolidated and separate Financial Statements - Consequential amendments arising from amendments from 
+IFRS 3 (endorsed)
+IAS 28 Investments in Associates - Consequential amendments arising from amendments to IFRS 3 (endorsed)
+IAS 31 Interest in Joint Ventures - Consequential amendments arising from amendments to IFRS 3 (endorsed)
+IAS 32 Financial Instruments Presentation - Amendment Classification of Rights Issues (endorsed)
+IAS 39 Financial Instruments: Recognition and Measurement - Amendments relating to eligible hedged items (endorsed)
+IFRIC 14 Amendments - Prepayments of a Minimum Funding requirement
+IFRIC 17 Distribution of Non-Cash Assets to Owners (endorsed)
+IFRIC 18 Transfer of Assets from customers (endorsed)
+IFRIC 19 Extinguishing Financial Liabilities with Equity Instruments 
+Annual Improvement Project May 2008 (endorsed) 
+Annual Improvement Project April 2009 (endorsed).
+The directors anticipate that the adoption of these Standards and Interpretations as appropriate in future periods will have no 
+material impact on the financial statements of the Group, subject to any future business combinations.
+2  SEGMENTAL ANALYSIS
+Reported segments and their results in accordance with IFRS 8, are based on internal management reporting information 
+that is regularly reviewed by the chief operating decision maker (C. A. Gurry). The measurement policies the Group uses for 
+segmental reporting under IFRS 8 are the same as those used in its financial statements. No comparative figures needed 
+restating to comply with the fact that IFRS 8 needed to be applied retrospectively.
+Information about profit/loss, assets and liabilities
+  2010   2009
+ Equipment Semiconductor Group Equipment Semiconductor Group
+  Components   Components
+            
+Revenue 
+By origination 721,945 28,256,969 28,978,914 979,544 20,927,694 21,907,238
+Inter-segmental revenue - (10,955,775) (10,955,775) - (5,818,279) (5,818,279)
+      
+Total segmental revenue 721,945 17,301,194 18,023,139 979,544 15,109,415 16,088,959
+      
+Profit/(Loss)
+Segmental result (11,483) (71,314) (82,797) 53,697 (1,929,934) (1,876,237)
+     
+Finance expense   (307,344)   (332,670)
+Finance income   4,029   115,355
+Revaluation of investment properties   -   5,000
+Income tax   362,698   (47,292)
+      
+Loss after taxation   (23,414)   (2,135,844)
+      
+Assets and liabilities 
+Segmental assets 641,418 20,538,272 21,179,690 686,103 20,011,600 20,697,703
+     
+Unallocated corporate assets 
+Investment properties   4,291,408   4,317,491
+Deferred taxation   3,096,635   2,019,426
+Current tax receivable   141,468   355,049
+      
+Consolidated total assets   28,709,201   27,389,669
+      
+Segmental liabilities 22,232  2,656,913 2,679,145 51,595  2,018,077 2,069,672
+     
+Unallocated corporate liabilities
+Deferred taxation   2,172,206   2,458,857
+Current tax liability   38,064   14,802
+Bank loans and overdrafts   5,968,290   6,061,705
+Retirement benefit obligation   5,728,000   1,990,000
+      
+Consolidated total liabilities   16,585,705   12,595,036 
+      
+2  SEGMENTAL ANALYSIS (continued) 
+Other segmental information
+   2010  2009
+ Equipment Semiconductor Group Equipment Semiconductor Group
+  Components   Components
+            
+Property, Plant and 
+Equipment additions 415 48,650 49,065 30,300 36,006 66,306
+      
+Development cost additions 71,931 2,743,135 2,815,066 74,355 3,894,826 3,969,181
+      
+Depreciation 7,870 652,618 660,488 16,381 420,520 436,901
+      
+Amortisation 72,202 3,677,887 3,750,089 72,396 4,110,262 4,182,658
+      
+Other significant 
+non cash expenses - 105,000 105,000 - 391,000 391,000
+      
+Inter-segmental transfers or transactions are entered into under commercial terms and conditions appropriate to the location 
+of the business entity whilst considering that the parties are related.
+ UK Germany Americas Far East Total
+          
+Geographical information 
+Year ended 31st March 2010
+Revenue by origination 11,003,298 7,174,100 4,373,550 6,427,966 28,978,914
+Inter-segmental revenue (4,809,162) (6,138,276) - (8,337) (10,955,775)
+     
+Revenue to third parties 6,194,136 1,035,824 4,373,550 6,419,629 18,023,139
+     
+Property, plant and equipment  5,111,636 114,945 58,610 18,677 5,303,868
+     
+Investment properties 3,850,000 - - - 3,850,000
+     
+Goodwill - 3,512,305 - - 3,512,305
+     
+Development cost 2,661,499 1,527,582 - - 4,189,081
+     
+Total assets 21,221,729 4,644,453 1,565,384 1,277,635 28,709,201
+     
+Year ended 31st March 2009
+Revenue by origination 9,042,633 3,426,885 4,569,789 4,867,931 21,907,238 
+Inter-segmental revenue (2,521,074) (2,793,749) (503,456) - (5,818,279)
+     
+Revenue to third parties 6,521,559 633,136 4,066,333 4,867,931 16,088,959
+     
+Property, plant and equipment 5,626,712 197,623 79,139 27,658 5,931,132
+     
+Investment property 3,850,000 - - - 3,850,000
+     
+Goodwill - 3,512,305 - - 3,512,305
+     
+Development cost 3,626,142 1,565,967 - - 5,192,109
+     
+Total assets 20,280,442 3,883,592 1,712,996 1,512,639 27,389,669
+     
+Inter-segmental transfers or transactions are entered into under commercial terms and conditions appropriate to the location 
+of the entity whilst considering that the parties are related.
+3  REVENUE
+   2010  2009
+            
+Geographical classification of turnover (by destination):
+United Kingdom  1,256,706  1,462,174   
+Rest of Europe  3,395,269  3,240,432  
+Far East  7,857,746  6,116,206   
+Americas  4,323,710  4,065,317 
+Others  1,189,708  1,204,830
+     
+   18,023,139  16,088,959
+     
+Notes
+TO THE FINANCIAL STATEMENTS
+continued
+Notes
+TO THE FINANCIAL STATEMENTS
+continued 28 29
+4  LOSS FROM OPERATIONS
+  2010 2010 2009 2009
+Loss from operations is stated          
+after charging or crediting:
+Cost of sales:
+Depreciation  337,299  85,833
+      
+Amount of inventories written down  -  123,364
+     
+Cost of inventories recognised as expense  4,551,645  3,396,695
+     
+Distribution costs (mainly staff costs)  2,939,194  2,563,200   
+Administrative expenses:   
+Amortisation 3,750,089  4,182,658 
+Depreciation 323,189  351,068  
+Audit fees 91,505  109,145 
+Auditors' non audit fees 43,221  50,212 
+Rentals under operating leases:
+Land and buildings 357,831  335,680 
+Other operating leases 34,763  24,085
+Research and development 562,902  29,637  
+IAS 19 Pension effect (105,000)  391,000
+Unrealised exchange loss/(gain) 
+on intergroup loan 127,192  (506,723)
+Increase in valuations of investment properties -  (5,000)
+Other expenses (mainly staff costs) 4,906,625  4,941,476
+    
+   10,092,317  9,903,238
+     
+   13,031,511  12,466,438
+     
+Amounts payable to Baker Tilly UK Audit LLP, Chartered Accountants and its associates in respect of both audit and non-audit 
+services
+    2010 2009 
+     
+Audit services
+Statutory audit of Company's annual accounts and Group consolidation 56,000  51,000
+Other services
+The auditing of accounts of associates of the Company pursuant to
+legislation (including that of countries and territories outside Great Britain)
+This includes:
+Audit of subsidiaries where such services are provided by
+Baker Tilly UK Audit LLP or its associates  17,703 26,985
+Audit of associated pension schemes 12,750 12,750
+Other services supplied pursuant to such legislation 12,619 5,400
+Tax services
+Tax compliance services 13,771 36,615
+Advisory services - 2,000
+    
+  112,843 134,750
+     
+Amounts payable to other auditors in respect of both audit and non-audit services  
+Statutory audit services 17,802 17,024
+Tax compliance services 2,597 1,432
+Other services 1,484 6,151
+   
+  21,883 24,607
+   
+Other operating income:
+Rental income 275,263 275,515 
+Profit on sale of property, plant and equipment 5,350  27,252 
+EU grants and consulting  281,953 111,157 
+Other income  323 75,784
+    
+  562,889 489,708
+    
+All conditions relating to the EU grants have been fulfilled and there are no other contingencies.
+5  EMPLOYEES 2010 2009
+     
+Staff costs, including directors, during the year amounted to: 
+Wages and salaries 7,234,618 8,401,498
+Social security costs 804,475 832,916
+Other pension and health care costs 550,231 938,906 
+Share based payments 103,937 101,439
+   
+  8,693,261 10,274,759
+   
+  2010 2009
+The average number of employees, including directors,  No. No.
+during the year was:  
+Administration 33 38
+Engineering 68 76
+Manufacturing 41 50
+Selling 27 28
+   
+  169 192
+   
+6  DIRECTORS' EMOLUMENTS 2010 2009
+Directors' emoluments    
+Remuneration (including fees) 482,110 531,130
+   
+Emoluments in respect of the highest paid director amounted to:
+   
+Remuneration 200,651 211,412  
+         
+Further details on Directors' emoluments can be found in the Directors' Remuneration Report on page 11.
+7  FINANCE INCOME AND COSTS 
+Bank interest receivable 4,029  43,355
+Pension finance income -  72,000
+  
+ 
+ 
+  4,029  115,355
+    
+Bank interest payable 190,344  332,670
+Pension finance cost 117,000  -
+  
+ 
+ 
+  307,344  332,670
+    
+8  INCOME TAX (CREDIT)/EXPENSE   
+(a) Analysis of tax credit in period   
+Current tax
+UK corporation tax on results of the period (140,807) (292,727) 
+Adjustment in respect of previous periods (927) (12,564)  
+   
+ (141,734) (305,291)
+Foreign tax on results of the period 131,877 119,401
+Foreign tax - adjustment in respect of previous periods - (5,130)  
+  
+Total current tax (9,857) (191,020)
+Deferred tax
+Origination and reversal of timing differences (352,841) 238,312
+  
+Tax (credit)/charge on profit on ordinary activities (note 8(b))  (362,698) 47,292 
+  
+(b) Factors affecting tax charge/(credit) for period  
+Tax assessed for the period is lower than the standard rate of corporation tax in the UK (28%/28%).  
+The differences are explained below:  
+Loss before tax (386,112) (2,088,552)
+    
+Notes
+TO THE FINANCIAL STATEMENTS
+continued
+Notes
+TO THE FINANCIAL STATEMENTS
+continued

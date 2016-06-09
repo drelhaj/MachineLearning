@@ -1,0 +1,132 @@
+ CHAIRMAN AND CEO'S STATEMENT
+2  Annual report and financial statements 2013
+Proton Power Systems plc
+We are pleased to report our results for the year ended 31 December 2013.
+Business development
+The Group is pleased to report the following achievements in 2013:
+   Order received from an Asian based customer for a special maritime feasibility study with a 
+value of  297k.
+   Order received from Siemens AG for SPower's UPS systems with a value of  857k.
+   Completion of development and successful testing of the new PM400 (25kW) stack.
+   Finalised development of the PM Module S25 for use with stationary power supply with 
+25kW of net power.
+   Successful development of a 25kW HyRange System for bus and truck applications.
+   Successful testing and operation of the 5kW PM Module with a UPS application within an 
+EON power station. 
+   Delivery of a 5kW fuel cell system to RENESTA (Airbus Consortium).
+   Successful road testing of the Smith Electric Vehicles (SEV ) Newton 7.5 tonne truck with 
+the Proton Motor 8kW HyRange and tested with customers in the logistic sector.
+   5 years of successful operation for the ZEM passenger ship in Hamburg with more than 
+50,000 passengers transported.
+   Achieved significant cost reductions for production of the PM200 fuel cell stack and PM 
+Module S5.
+   Successful development and testing of a 3kVA Solar Battery Storage System from SPower and 
+further development of 10kVA version.
+   Further improvements of the development infrastructure at our premises in Puchheim.
+The Group has finalized the development of products for mobile, stationary and maritime 
+applications in the fuel cell clean power market; as well as products for UPS and Solar battery 
+storage applications.
+The Group now has a complete portfolio of solutions and products and is ready for a roll out into 
+the world market. The Group strategy is to establish licensing partners to manufacture solutions 
+for the three target market applications: mobile, stationary and maritime systems in Europe and 
+Asia Pacific, providing support to its customers from first planning and simulation up to complete  CHAIRMAN AND CEO'S STATEMENT
+Annual report and financial statements 2013  3
+Proton Power Systems plc
+solutions with integration and after sales service. Customers with limited experience or know-how 
+for fuel cell based solutions will get the best support available. Benefits for our customers are:
+   Fast integration process.
+   No specific Fuel Cell know how necessary.
+   Cost reductions based on usage of existing Proton Power technology.
+Only three companies worldwide are able to provide such in-depth support with own-designed 
+and optimized fuel cells; Proton Power Systems in Europe and two other competitors, which are 
+located in North America.
+Asia Pacific, as a target market, requires our specific attention. Based on the massive pollution 
+problems in that region, we expect demand for clean power applications to increase significantly 
+in the near future. The commitment from governments to take severe action to improve the 
+situation, especially in China, will be a push for our technology. Talks with different companies 
+in China support our expectation. We see China as the fastest growing market for fuel cell 
+applications in the near future and we will focus our attention and efforts accordingly. Made in 
+Germany  technology is highly respected and in demand within China. Initial contracts in China 
+are expected to be for bus and stationary power applications.
+Furthermore, we are seeing good progress in the market introduction of our products and 
+solutions in Europe and are in discussion with several European bus manufacturers. We hope to 
+launch our next electric battery fuel cell bus on the road with a bus manufacturer from the Czech 
+Republic in the second half of 2015. Intensive talks are also underway with a large international 
+logistic company for electric battery fuel cell logistic vehicles, with an initial roll out for Germany 
+planned for 2015. We hope to sign a MOU very soon for that project. Another project, funded by 
+the Austrian government is anticipated with Magna, an Austrian based automotive supplier.
+On the stationary power side, we are seeing very positive market interest for complete high 
+power systems with electrolysers, hydrogen storage, repowering with our fuel cell and connection 
+to the load via our UPS systems. There is also strong interest in the containerised solutions the 
+Group offers for large solar and wind parks from Europe, Africa and China. The Group is currently 
+working with different suppliers in Europe for the supply of electrolysers. Our modular fuel 
+cell design based on our 25kW modules allows us to provide high power delivery up to several 
+Megawatts.
+Our first stationary solar battery storage system from SPower is generating a lot of interest in 
+the Middle East. With sun hours of more than 2,000 per year, production cost of the complete 
+system (solar modules and storage system) for the end user is down to  0.10 per kWh which is 
+cheaper than the price for grid power in most countries. We have also improved our system with 
+the addition of a central control unit, which allows the integrating of our system into a smart 
+grid network. Many of our systems can be operated in parallel with this new feature. A utility 
+company can access and monitor our system centrally and can charge or discharge the batteries 
+remotely. This allows the use of solar energy if required alongside power from the grid to charge 
+the batteries, if there is overcapacity of grid power available. The system can also be operated in 
+an island / stand-alone mode (not grid connected). We expect high growth for such applications in 
+the near future.
+In the maritime sector, we have received requests from China for similar ship installations like the 
+Alsterwasser in Hamburg. We see the maritime applications as long term business. Nevertheless 
+our unique know-how in that sector provides us with a very competitive position in the fuel cell 
+market. CHAIRMAN AND CEO'S STATEMENT
+4  Annual report and financial statements 2013
+Proton Power Systems plc
+We have achieved our development targets for 2013: systems have been tested in depth, 
+reliability was proven and the lifetime in use for our fuel cell stacks is now above 10,000 hours. 
+We have also continued to extend our component supplier base, which, due to specification and 
+quality control procedures, is an extensive process.
+To support the above market developments we have completely updated our product literature, 
+our web site and have participated in exhibitions thoughout Europe.
+The Group's product strategy includes:
+   Modular stationary power of 5kW, 25kW and 50kW for IT, Smart Grid (Solar-and Windparks) 
+and industrial applications.
+   A modular Range Extender (HyRange) for light duty commercial vehicles and city buses of 
+8kW and 25kW/50kW or 75kW.
+   Maritime modular fuel cell systems of 25kW for high power applications. 
+Targets for 2014 are:
+   First orders from Asia Pacific for our products and solutions.
+   Orders for new buses with a HyRange system in Europe.
+   Orders for HyRange systems for logistic vehicles.
+   Order for containerized Hydrogen Power.
+   First significant orders for our solar battery storage system.
+   Further strengthening of our product platform.
+   Enlarging our team with highly qualified staff.
+Finance
+Turnover increased by 21% to  1,114,000 mainly as a result the acquisition of SPower. The 
+operating loss for the year was  4,896,000 which, when added to net finance costs of  828,000 
+and the non-cash loss arising from the change in the fair value of the embedded derivative on the 
+shareholder loan of  3,543,000 resulted in a total loss of  9,267,000. With the exception of the 
+fair value loss on the embedded derivative, this was in line with management expectations.
+The Group secured new loan funding in 2013 of  8,019,000 from Roundstone Properties Limited 
+and received grant funding of  271,000 from the German Government.
+In addition to the above the group received  535,000 from sales of UPS systems. 
+The total funds raised financed the working capital for the year. The Company continues to be 
+interested in involving other investors alongside Roundstone Properties Limited in this exciting 
+opportunity.
+Outlook
+The Board sees the Group as a solitaire in the clean tech market. The unique know how and 
+positioning of Proton Power underlines the high expectation in business development as well as 
+the positive trend of our share price. Together with the SPower product line, the Group can offer 
+a complete range of products, which addresses the fast growing markets worldwide of: clean 
+transport, clean power and energy storage. CHAIRMAN AND CEO'S STATEMENT
+Annual report and financial statements 2013  5
+Proton Power Systems plc
+The main shareholder has committed itself to continue to finance the Group's activities based on 
+the Group's complete product line, strong market growth for its products and systems and our 
+team of experts. New partnerships, especially in China are expected to have a huge impact on the 
+Group's business.
+On behalf of the Board we would like to take this opportunity to thank the Proton Power team 
+and our advisors for their hard work and effort as well as our customers and suppliers for their 
+confidence and support throughout the year.
+John Wall FCA
+Chairman
+Dr Faiz Nahab
+CEO

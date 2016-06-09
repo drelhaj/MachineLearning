@@ -1,0 +1,140 @@
+ RESULTS
+I am pleased to be able to report that Trace has again improved its performance from last
+year's record levels. Turnover, helped by the inclusion of Datawise for the first time,
+increased to  20.6 million (2001 -  15.7 million), our highest ever level. Earnings before
+interest, tax, depreciation and amortisation improved by 17% to  3.25 million (2001 -
+ 2.78 million) and operating profit before amortisation of goodwill improved at a similar
+rate to  2.72 million (2001 -  2.29 million). Headline earnings per share were 13.04p
+(2001 - 11.24p). This result has been achieved in mixed trading conditions and against a
+background which continues to be one of the toughest that our industry has had to face
+in recent times. Our diversity has helped us combat general economic and market factors
+but the state of the financial sector, which shows continuing weakness, remains a
+concern.
+The mix of our business followed the pattern established over the last 18 months, with
+strong growth in bespoke development and related software and consultancy services.
+Our regular recurring maintenance and facilities management income increased to  5.1
+million (2001 -  4.0 million).  After the reduction in package revenues last year, I am
+encouraged in particular by the improvement that our property management software
+business has made which has helped to reverse that trend.
+This year's accounts incorporate for the first time the amortisation of goodwill on the
+Datawise acquisition of  0.66 million. Last year's accounts benefited from a one off
+property revaluation surplus of  2.65 million, of which  0.78 million was reflected in the
+profit and loss account. The impact of these two factors was that after a tax charge of
+ 0.75 million (2001 -  0.78 million) retained profit amounted to  1.29 million (2001 -
+ 2.41 million).
+After the significant increases in property values we have experienced since 1999, there
+has been a softening in the market over the last 12 months. As a result, we have reduced
+the value of our freehold properties by  0.78 million, although all of our properties
+remain valued above original cost. Despite this, our balance sheet has strengthened with
+shareholders' funds reported at  15.4 million (2001 -  14.9 million), representing net
+assets in excess of  1 per share. Whilst the group still continued to generate positive cash
+from its operating activities, cash resources reduced to  0.9 million (2001 -  2 million)
+due to a combination of higher tax payments and changing working capital requirements.
+GROUP OPERATIONS
+Trace Isys continues to be the strongest performer in the group and again exceeded
+budget. Last year saw the first live adoption of TWINS e-Broking, our browser based
+system, and subsequently all our clients have committed to taking it. In terms of new
+sales, our TWINS TS product was implemented at Glenrand on time and on budget. Last
+autumn, we built an interface between TWINS TS and the inreon reinsurance trading
+platform in order to allow inreon to automatically leverage the TWINS TS functionality
+that had traditionally required input from an insurance technician. Although initially
+limited to a very specific type of business, this model offers much scope and will provide
+the next phase in the evolution of our packages.
+Trace Financial improved on its performance last time and generated a good contribution,
+although the level of activity fell below budget due to the continuing poor state of
+financial markets. We made a major release of CLOVERLEAF Finance and the product
+continues to be heavily and successfully used in our installed base, generating good
+service and maintenance revenues, although new licence sales were lower than we had
+hoped. T wo releases of our Trafic product were made to support Crest regulatory changes.
+We have also consolidated our position in money broking software markets, supporting
+foreign exchange electronic trading systems and developing new real time applications.
+We have made the first 3 sales of CAMS, our corporate actions management software, and
+we now have our first live site running successfully. Prospective business looks good in this
+area and we believe the market opportunity is exciting, although financial constraints are
+extending purchasing lead times. 
+Trace Solutions has made good progress this year, contributing significantly to the group's
+results. Continuing quality improvements and increased functionality in our TRAMPS
+property management and accounting system has resulted in a substantial increase in new
+business. Major new clients included DTZ Debenham Tie Leung, ATIS Real Weatheralls and
+CB Hillier Parker, re-confirming our position as the leading supplier at the top end of the
+managing agents' sector. Half of last year's sales were to property companies, establishing
+TRAMPS' position in this sector. Our new Trace Investment Forecaster product, linking
+directly to TRAMPS, will facilitate future sales to property investment companies. The
+BACI suite of commercial agency and business management software continued to sell
+well last year and we are currently working with a third party on further web based
+developments. During the year , we launched TOPMA, an outsourced property management
+accounting service which has created a significant degree of interest. This is a new
+venture but early signs for this, as well as Trace Solutions in general, are encouraging.
+Our regular recurring
+maintenance and
+facilities management
+income increased to
+ 5.1 million... 
+Turnover... increased
+to  20.6 million... our
+highest ever level. 
+Chairman's Statement Trace Group plc
+2 ...we have a very
+healthy balance
+sheet. 
+Chairman's Statement Trace Group plc
+3
+Trace Employer Services has continued to grow its core fully managed payroll business.
+However, the loss of certain large legacy customers, who have opted to go in house, has
+meant that the business overall has made only a modest contribution. Our reputation and
+level of service continues to improve and we have enhanced our service by completing
+our new end-user enquiry package, Phoenix Payview. In the longer term we intend to
+develop this further which will improve our access to the bureau market. Whilst the
+market for managed payroll is large, it is currently sluggish, with few drivers for change.
+The general economic environment has led to increased order timescales but despite this
+we doubled our user base during the year. We have continued to improve internal
+processes in order to increase operational efficiency and thereby reduce operational
+costs. 
+Prospect has had a challenging year having to face, in common with the overall
+recruitment industry, a very depressed market for the first three quarters. However, as a
+result of internal reorganisation and restructuring, together with the successful
+development of new client relationships, Prospect's performance stabilised and improved
+during the year enabling the company to make a profit, albeit at reduced levels compared
+with last time. The operational research and decision support markets have improved
+during the year and will remain a specialist niche area, providing a solid base for
+sustainable growth. We will also continue to change Prospect's wider marketing profile,
+emphasising our ability to cover a much greater range of business critical requirements
+rather than just our historical niche areas.
+This is the first full year that Datawise has been part of the group and it has not been an
+easy period for this business, operating in depressed sectors of the financial market place,
+one which has been impacted by the September 11th tragedy with its knock on effects.
+Whilst profitable, the results have been significantly below what we had hoped for. The
+first phase of the major WebTM project for Deutsche Bank has been successfully
+completed and is currently in live operation in the USA in a number of their customer
+sites. We are looking to exploit the sales potential for this product and will be targeting
+various organisations and sectors, including Transfer Agents and Fund Distributors, and in
+due course the Unit Trust industry. We continue to review the potential for marketing
+alliances across Europe and the upcoming SIBOS trade show will provide a good platform
+for the launch of our new products. 
+CURRENT TRADING AND PROSPECTS
+Trace Isys is continuing to operate at good levels, although current market conditions are
+impacting immediate prospects for growth. Trace Solutions looks set to continue to grow,
+expanding package sales into both the agent and non agent markets. Trace Employer
+Services is taking new orders and is building its fully managed payroll business and
+Prospect, following its reorganisation, is also experiencing increasing levels of activity in
+its markets.
+Our biggest challenge and risk is in our financial software businesses. The worldwide slow
+down in financial markets impacted our second half performance two years ago,
+continued last year and shows no sign of improving. If anything, trading conditions are
+becoming even tighter. We continue to develop products in both Trace Financial and Trace
+Datawise Financial, and whilst our services revenues are holding up, our current and short
+to medium-term growth prospects, both domestically and overseas, could be impacted by
+market factors.
+I remain convinced that the group is capable of producing good profits. However, our
+results will depend to a considerable extent on the performance of Datawise which is
+difficult to predict in volatile markets. We are continuing to look at other potential
+acquisitions and partnership opportunities to help Trace grow further.
+It is again encouraging to see our trading profits and earnings per share increasing and our
+balance sheet strengthening to record levels. Our performance ratios remain good, we
+have delivered significant profits for six years in a row, our operations continue to
+generate cash and we have a very healthy balance sheet. 
+On behalf of the board, I would once again like to thank our staff for their efforts without
+which we could not continue to produce these improved results.
+C W Ingham
+CHAIRMAN
+24th September 2002

@@ -1,0 +1,181 @@
+ 75 Daily Mail and General Trust plc
+Notes to the Balance Sheets
+continued
+32 Deferred Taxation
+Group Company
+2002 2001 2002 2001
+As re-analysed As re-analysed
+Note  m  m  m  m
+Accelerated capital allowances 36.7 38.1 - -
+Unamortised goodwill 3.6 2.7 - -
+Unutilised tax losses from goodwill (3.6) (2.7) - -
+Goodwill offset against reserves iv 16.3 13.0 - -
+Other timing differences 1.9 1.2 - -
+Undiscounted provision for deferred tax 54.9 52.3 - -
+Discount iv (19.9) (13.0) - -
+Discounted provision for deferred tax 35.0 39.3 - -
+Movements on the provision for deferred taxation were as follows:
+Group Company
+ m  m
+At beginning of year 39.3 -
+Owned by subsidiaries acquired (0.2) -
+Net release to profit and loss account (2.1) -
+Reclassification (2.0) -
+At end of year 35.0 -
+Contingent (assets)/liabilities and gains in respect of deferred taxation, not included in the balance sheet, were as follows:
+Group Company
+2002 2001 2002 2001
+ m  m  m  m
+Accelerated capital allowances 1.5 - - -
+Other timing differences (35.2) (23.6) - -
+(33.7) (23.6) - -
+(i) No deferred tax asset has been recognised in respect of certain overseas tax losses as there is insufficient certainty that these losses will
+be utilised within the immediate future.
+(ii) No deferred tax has been provided on revalued assets due to the availability of realised capital losses for which no deferred tax asset
+has been recognised.
+(iii) There are additional unprovided capital losses carried forward which have not yet been agreed with the Inland Revenue.
+(iv) The Group is able to obtain tax relief in some overseas territories for the cost of goodwill arising on its acquisitions of some businesses. 
+In certain cases the goodwill was written off to reserves under the transitional rules set out in FRS 10. Utilisation of the available tax relief in the
+overseas territories gives rise to a timing difference as set out above. The potential timing differences will only reverse on sale of the relevant
+businesses. As the relevant businesses are considered core to the Group there is currently no intention to dispose of them. The potential reversal
+is so far into the future that after discounting, the potential liability becomes insignificant. The effect of discounting the Group's accelerated
+capital allowances is a credit of  3.6 million (2001 as re-analysed  2.4 million). The effect of discounting the Group's other deferred tax assets
+and liabilities is not material.
+74 Daily Mail and General Trust plc
+Notes to the Balance Sheets
+continued
+30 Creditors continued
+(vi) Leases over five years are repaid by instalments.
+(vii) The Company's long-term borrowings are repayable as follows:
+2002 2001
+Eurobonds Eurobonds
+ m  m
+Company
+Between 1 - 2 years 61.1 -
+Between 2 - 5 years 87.5 158.5
+Over five years 485.0 485.6
+633.6 644.1
+31 Provisions for Liabilities and Charges
+Group Company
+2002 2001 2002 2001
+Note  m  m  m  m
+Deferred taxation 32 35.0 39.3 - -
+Other provisions 18.0 16.8 0.3 0.3
+53.0 56.1 0.3 0.3
+Movements on other provisions were as follows:
+Share options Redundancy
+(Note 24) and
+Lease reorganisation Pensions Legal Other Total
+ m  m  m  m  m  m  m
+Group
+At beginning of year 2.1 0.7 1.9 0.7 1.6 9.8 16.8
+Owned by subsidiaries acquired ----- 0.1 0.1
+Charged during year - 0.1 3.4 - 2.8 9.3 15.6
+Utilised during year - - (2.4) (0.3) (1.0) (10.8) (14.5)
+At end of year 2.1 0.8 2.9 0.4 3.4 8.4 18.0
+Other
+Company
+At beginning of year 0.3
+Charged during year -
+Utilised during year -
+At end of year 0.3 77 Daily Mail and General Trust plc
+Notes to the Balance Sheets
+continued
+33 Called Up Share Capital continued
+(vi) Options granted in June, July and December 1997 at respective prices of  4.070625,  4.30 and  4.7375 per share are now exercisable
+as both performance criteria have been met. On 31st October, 2001, the TSR condition was also met in respect of the options granted in
+December 1998 at  6.475 per share, but since real growth in adjusted earnings per share was not achieved in the prior year, nor in the year
+ended 29th September, 2002, compared to that of three years previously, there will be a further minimum delay of approximately one year
+before those options become exercisable. As a consequence, 195,368 of such options lapsed in the year.
+Neither of the performance conditions has been met yet in respect of the options granted in December 1999 at  10.295 per share and in June
+2000 at  10.96 per share. Accordingly, there will also be a minimum delay of approximately one year before those options become exercisable.
+As a consequence, 96,000 options, granted at  10.295 per share, will lapse in the year to 28th September, 2003.
+Movements on the two executive share option schemes were as follows:
+1989 Scheme 1997 Scheme Total
+2002 2002 2002
+No No No
+At beginning of year 374,200 3,097,500 3,471,700
+Granted - 709,000 709,000
+Exercised (102,200) (204,632) (306,832)
+Lapsed - (226,368) (226,368)
+At end of year 272,000 3,375,500 3,647,500
+34 Reserves
+Group Company
+Note  m  m
+Share premium
+At beginning of year 6.3 6.3
+Issue of shares 0.3 0.3
+At end of year 6.6 6.6
+Revaluation reserve
+At beginning of year 111.8 29.6
+Revaluation of investments (46.6) -
+Transfer to profit and loss account i (2.0) (29.6)
+At end of year 63.2 -
+Profit and loss account
+At beginning of year 131.4 949.7
+Retained profit/(loss) for the year 46.2 (25.9)
+Transfer from revaluation reserve i 2.0 29.6
+Currency translation differences on foreign currency net investments (10.0) 1.2
+Taxation on translation differences 5.7 -
+Minority interests (1.9) -
+Adjustment to deferred consideration in respect of goodwill (0.5) -
+At end of year 172.9 954.6
+Total Reserves - 2002 242.7 961.2
+Total Reserves - 2001 249.5 985.6
+(i) The transfer from the revaluation reserve recognises the progressive realisation of a previously unrealised gain on disposal of businesses
+to GWR Group plc as the goodwill on the interest in GWR is amortised.
+(ii) At 29th September, 2002, cumulative goodwill of continuing businesses of  688.9 million (2001  688.4 million) had been written off against
+the profit and loss account.
+76 Daily Mail and General Trust plc
+Notes to the Balance Sheets
+continued
+33 Called Up Share Capital
+Authorised Allotted and fully paid
+2002 2001 2002 2001
+ m  m  m  m
+Ordinary shares of 12.5 pence each 2.5 2.5 2.5 2.5
+ A ' Ordinary Non-Voting shares of 12.5 pence each 48.5 48.5 47.6 47.6
+51.0 51.0 50.1 50.1
+Number of shares Number of shares
+Note 2002 2001 2002 2001
+Ordinary shares 20,000,000 20,000,000 19,886,472 19,886,472
+A' Ordinary Non-Voting shares i, ii, iii 388,000,000 388,000,000 381,129,648 381,027,448
+408,000,000 408,000,000 401,016,120 400,913,920
+(i) The two classes of shares are equal in all respects, except that the   A ' Ordinary Non-Voting shares do not have voting rights and hence their
+holders are not entitled to attend or to vote at general meetings of the Company.
+(ii) During the year, 102,200   A ' Ordinary Non-Voting shares were allotted for aggregate consideration of  278,625 under the terms of
+the Company's 1989 Executive Share Option scheme.
+(iii) At 29th September, 2002, options were outstanding under the terms of the Company's 1989 and 1997 Executive Share Option Schemes
+over a total of 3,647,500 (2001 3,471,700)   A ' Ordinary Non-Voting shares as follows:
+Number of shares under option Option Normal
+2002 2001 price per share Date of Exercise
+1989 Executive Share 
+Option Scheme 148,000 148,000  1.9625 Before 25th January, 2003
+24,000 24,000  3.1125 Before 21st January, 2004
+100,000 142,000  2.445 Before 16th December, 2004
+- 60,200  2.9225 Before 2nd January, 2006
+272,000 374,200
+1997 Executive Share 
+Option Scheme 302,000 488,000  4.070625 Before 12th June, 2007
+24,000 24,000  4.30 Before 21st July, 2007
+24,000 24,000  4.7375 Before 12th December, 2007
+- 4,632  6.475 Before 28th February, 2002
+- 149,368  6.475 Before 15th June, 2002
+758,000 818,000  6.475 Before 15th December, 2008
+96,000 38,000  10.295 Between 23rd December, 2002 and 23rd June, 2003
+647,000 713,000  10.295 Between 23rd December, 2002 and 23rd December, 2009
+44,000 44,000  10.96 Between 16th June, 2003 and 16th June, 2010
+15,000 -  8.34 Between 18th December, 2003 and 18th June, 2004
+691,000 729,000  8.34 Between 18th December, 2003 and 18th December, 2010
+65,500 65,500  7.25 Between 11th July, 2004 and 11th July, 2011
+609,000 -  6.45 Between 14th December, 2004 and 14th December, 2011
+10,000 -  6.48 Between 2nd January, 2005 and 2nd January, 2012
+90,000 -  6.45 Between 21st January, 2005 and 21st January, 2012
+3,375,500 3,097,500
+3,647,500 3,471,700
+(iv) These options were granted at market value at the date of grant and none required any payment. They are not normally exercisable before
+the third anniversary of the date of grant and in all circumstances will lapse if not exercised within ten years.
+(v) In the case of the 1997 Executive Share Option Scheme, they are normally exercisable only when the relevant performance conditions
+have been met. The first condition is that, in respect of four out of six consecutive monthly calculation dates (which start in the thirtieth month
+following the date of grant of a particular option), the total shareholder return ( TSR') of the Company must exceed that of the FTSE 100 index.
+Secondly, there must be real growth in earnings per share over a period of three consecutive financial years.

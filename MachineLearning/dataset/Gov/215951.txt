@@ -1,0 +1,243 @@
+ We have audited the financial statements of 
+William Ransom & Son plc for the year ended 
+31 March 2006 which comprise the consolidated profit
+and loss account, the consolidated and Company balance
+sheets, the consolidated cash flow statement, the
+statement of total recognised gains and losses and the
+related accounting policies and notes. These financial
+statements have been prepared under the accounting
+policies set out therein. We have also audited the
+information in the Directors' Remuneration report 
+that is described as having been audited.
+This report is made solely to the Company's
+shareholders, as a body, in accordance with Section
+235 of the Companies Act 1985. Our audit work has
+been undertaken so that we might state to the
+Company's shareholders those matters we are
+required to state to them in an auditors' report and 
+for no other purpose. To the fullest extent permitted
+by law, we do not accept or assume responsibility to
+anyone other than the Company and the Company's
+shareholders as a body, for our audit work, for this
+report, or for the opinions we have formed.
+Respective responsibilities of 
+directors and auditors
+The directors responsibilities for preparing the Annual
+Report, the Directors' Remuneration Report and the Group
+financial statements in accordance with applicable law
+and United Kingdom Accounting Standards are set out
+in the Statement of Directors' Responsibilities.
+Our responsibility is to audit the financial statements
+and the part of the Directors' Remuneration Report 
+to be audited in accordance with relevant legal and
+regulatory requirements and International Standards
+on Auditing (UK and Ireland).
+We report to you our opinion as to whether the
+financial statements give a true and fair view and
+whether the financial statements and the part of the
+Directors' Remuneration Report to be audited have
+been properly prepared in accordance with the Companies
+Act 1985. We also report to you if, in our opinion, the
+Company has not kept proper accounting records, if we
+have not received all the information and explanations
+we require for our audit, or if information specified by
+law regarding directors' remuneration and other
+transactions is not disclosed.
+We read other information contained in the Annual
+Report, and consider whether it is consistent with the
+audited financial statements. The other information
+comprises only the Directors' Report, the unaudited
+part of the Directors' Remuneration Report, the Chairman's
+Statement, the Operating and Financial Review and
+the Corporate Governance Statement. We consider the
+implications for our report if we become aware of any
+apparent misstatements or material inconsistencies
+with the financial statements. Our responsibilities 
+do not extend to any other information.
+22 23
+We report to you whether in our opinion the information
+given in the Directors' Report is consistent with the
+financial statements.
+Basis of audit opinion
+We conducted our audit in accordance with International
+Standards on Auditing (UK and Ireland) issued by the
+Auditing Practices Board. An audit includes examination,
+on a test basis, of evidence relevant to the amounts and
+disclosures in the financial statements and the part of
+the Directors' Remuneration Report to be audited. It
+also includes an assessment of the significant estimates
+and judgements made by the directors in the preparation
+of the financial statements, and of whether the 
+accounting policies are appropriate to the Group's 
+and Company's circumstances, consistently applied
+and adequately disclosed.
+We planned and performed our audit so as to obtain
+all the information and explanations which we considered
+necessary in order to provide us with sufficient evidence
+to give reasonable assurance that the financial statements
+and the part of the Directors' Remuneration Report to
+be audited are free from material misstatement, whether
+caused by fraud or other irregularity or error. In forming
+our opinion we also evaluated the overall adequacy of the
+presentation of information in the financial statements
+and the part of the Directors' Remuneration Report to
+be audited.
+Opinion
+In our opinion;
+  the financial statements give a true and fair view,
+of the state of affairs of the Group and the Company
+as at 31 March 2006 and of the Group's profit for
+the year then ended;
+  the financial statements and the part of the Directors'
+Remuneration Report to be audited have been properly
+prepared in accordance with the Companies Act
+1985; and
+  the information given in the Directors' Report is
+consistent with the financial statements.
+RSM Robson Rhodes LLP
+Chartered Accountants and Registered Auditors
+Cambridge, England
+Independent auditors'
+report to the shareholders of
+William Ransom & Son plc
+Annual Report 2006 William Ransom & Son plc William Ransom & Son plc Annual Report 2006 Consolidated balance sheet
+at 31 March 2006
+25
+Consolidated profit and loss account
+for the year ended 31 March 2006
+24
+Turnover
+Current year acquisitions 11,225 -
+Other continuing operations 21,285 18,946
+Total continuing operations 32,510 18,946
+Discontinued operations - 825
+Group turnover 2 32,510 19,771
+Cost of sales (18,417) (12,092)
+Exceptional cost of sales 5 (607) -
+Total cost of sales (19,024) (12,092)
+Gross profit 13,486 7,679
+Selling and distribution costs (6,632) (4,613)
+Administrative expenses (4,969) (2,551)
+Provision for bad debt 6 80 (514)
+Total administrative expenses (4,889) (3,065)
+Operating profit/(loss)
+Current year acquisitions 975 -
+Other continuing operations 990 444
+Total continuing operations 1,965 444
+Discontinued operations - (443)
+Group operating profit 7 1,965 1
+Costs of fundamental reorganisation - discontinued operations 8 - (98)
+Profit/(loss) after exceptional items 1,965 (97)
+Net interest payable 10 (439) (114)
+Profit/(loss) before taxation 1,526 (211)
+Tax on profit/(loss) on ordinary activities 11 (780) 53 
+Profit/(loss) after taxation 746 (158)
+Equity minority interests 2 -
+Profit/(loss) attributable to shareholders 748 (158)
+Earnings per share: 13
+Basic 1.03p (0.46p)
+Diluted 1.03p (0.46p)
+The Company's loss after tax for the year was  97,000 (2005: 1,511,000 loss).
+There is no difference between the profit on ordinary activities before taxation and the profit/(loss) attributable to
+shareholders for the year stated above and their historic cost equivalents.
+Statement of total recognised gains and losses
+Profit/(loss) attributable to shareholders 748 (158)
+Exchange adjustments offset in reserves 2 -
+Total recognised gains and (losses) for the year 750 (158)
+Note 2006 2005
+ '000  '000
+Restated
+Note 2006 2005
+ '000  '000
+Restated
+Fixed assets
+Intangible assets 14 29,548 11,703
+Tangible assets 15 6,263 6,251
+35,811 17,954
+Current assets
+Stocks 18 6,970 3,368
+Debtors 19 7,616 2,967
+Cash at bank and in hand 2,220 229
+16,806 6,564
+Creditors:amounts falling due within one year 20 (9,521) (4,936)
+Net current assets 7,285 1,628
+Total assets less current liabilities 43,096 19,582
+Creditors:amounts falling due after more than one year 21 (5,283) (1,514)
+Provision for liabilities and charges 23 (659) (218)
+Net assets 37,154 17,580
+Capital and reserves
+Called up share capital 24 8,433 3,572
+Share premium account 25 21,978 7,018
+Profit and loss account 25 6,745 7,260
+Total equity shareholders' funds 37,156 17,850
+Equity minority interests (2) -
+Capital employed 37,154 17,850
+The financial statements were approved by the Board on 6 July 2006 and signed on its behalf by:
+T G Dye R D Howard
+Director Director
+Annual Report 2006 William Ransom & Son plc William Ransom & Son plc Annual Report 2006 Consolidated cash flow statement
+for the year ended 31 March 2006
+27
+Note 2006 2005
+ '000  '000
+Net cash inflow from operating activities 27 2,609 224
+Returns on investment and servicing of finance
+Interest received 13 42
+Interest paid (415) (156)
+Interest element of finance lease rental payments (10) -
+(412) (114)
+Taxation paid
+UK Corporation tax (745) (242)
+Capital expenditure and financial investment
+Payments to acquire tangible fixed assets (662) (4,105)
+Receipts from sale of tangible fixed assets 78 557
+Receipts from sale of intangible fixed assets 5 -
+(579) (3,548)
+Acquisitions and disposals
+Payment to acquire trade - (58)
+Purchase of subsidiary undertaking (12,569) (6,518)
+(Overdraft)/Cash balances acquired with trade or subsidiary (524) 875
+(13,093) (5,701)
+Equity dividends paid (1,265) (536)
+Cashflow before use of liquid resources and financing (13,485) (9,917)
+Management of liquid resources
+Decrease in liquid resources - 3,000
+Financing
+Proceeds from new bank loans 4,900 1,984
+Issue of ordinary share capital 10,000 2,249
+Issue expenses for shares (569) (73)
+Repayment of bank loans (750) -
+Capital element of finance lease rental payments 24 -
+13,605 4,160
+Increase/(decrease) in cash 28 120 (2,757)
+Company balance sheet
+at 31 March 2006
+26
+Fixed assets
+Intangible assets 14 29,503 5,537
+Tangible assets 15 6,237 6,061
+Investments 16 5,051 8,018
+40,791 19,616
+Current assets
+Stocks 18 6,763 2,498
+Debtors 19 7,831 2,078
+Cash at bank and in hand 2,085 -
+16,679 4,576
+Creditors:amounts falling due within one year 20 (14,261) (3,708
+Net current assets 2,418 868
+Total assets less current liabilities 43,209 20,484
+Creditors:amounts falling due after more than one year 21 (5,283) (1,488)
+Provision for liabilities and charges 23 (697) (226)
+Net assets 37,229 18,770
+Capital and reserves
+Called up share capital 24 8,433 3,572
+Share premium account 25 21,978 7,018
+Profit and loss account 25 6,818 8,180
+Equity shareholders' funds 37,229 18,770
+The financial statements were approved by the Board on 6 July 2006 and signed on its behalf by:
+T G Dye R D Howard
+Director Director
+Note 2006 2005
+ '000  '000
+Restated
+William Ransom & Son plc Annual Report 2006 Annual Report 2006 William Ransom & Son plc

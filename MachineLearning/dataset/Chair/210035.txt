@@ -1,0 +1,130 @@
+  
+Contents
+PAGE
+Chairman's Statement 3 - 6
+Advisers 7
+Board of Directors 8
+Report of the Directors 9 - 11
+Corporate Governance 12 - 14
+Report on Remuneration 15 - 16
+Report of the Independent Auditors 17 - 18
+Principal Accounting Policies 19 - 21
+Consolidated Profit and Loss Account 22
+Consolidated Balance Sheet 23
+Company Balance Sheet 24
+Consolidated Cash Flow Statement 25
+Notes to the Financial Statements 26 - 41
+3  
+Chairman's Statement
+I am pleased to report that Vianet was able to make significant progress, in the year to 30 September
+2003, towards its objective of being the leading telemetrised application specialist in the European
+vending market.
+This progress was in line with the strategy outlined in last year's report of seeking to build recurring
+revenues through long-term customer partnerships with global brands, operators and machine
+manufacturers.  Vianet's strategy has been further enhanced by its strategic alliance with Alcatel which
+was first announced in May 2003 and culminated in final agreements signed subsequent to the year-end
+on 14 October 2003.
+As well as the intensive effort over the second half of the year which went into progressing and
+agreeing our relationship with Alcatel, Vianet was also able to develop the sales pipeline with the first
+two account wins from major brands being announced in October 2003.
+The financial benefits of these major developments are expected to show through in future periods but
+each was critically important in enabling Vianet to complete, subsequent to the year-end, a further
+successful fundraising, which raised  3.5million, net of expenses, to finance the Company's next stage
+of development towards meaningful revenue generation and profitability.
+Financial Results
+The loss after tax for the year ended 30 September 2003 was in line with expectations at  1,902,577
+(year to 30 September 2002:  1,798,325 loss) on sales of  33,714 (2002:  13,124). Net interest income
+was  9,199 (2002:  17,906). The resultant basic loss per share was 3.1p (2002: basic loss per share
+6.3p). The Group had approximately  143,000 of net cash at 30 September 2003. At 11 December,
+following the successful conclusion of the Company's recent fundraising, net cash stood at  3.5
+million.  No dividend is payable.
+Trading and Operations
+The above results reflect the costs, which are primarily people related, to support Vianet's further
+progress over the year in its development towards a leading position in the European vending market.
+Our in-house software engineering resources continue their transition from product development
+towards a more market facing, customer focus, working closely with the sales and marketing team. The
+Company's ability to service its market has been enhanced through further recruitment of staff with
+commercial experience and European language skills. The involvement of six dedicated, primarily
+market facing staff, from Alcatel significantly enhances our sales capability. 
+Vianet's sales and marketing strategies over the last two years are now coming to fruition. On 21
+October 2003 the Company announced that Selecta Group, the European market leader in providing
+food and beverage services for breaks, had agreed to install 250 viTel data collection units across five
+European countries for connection to vOpen early in calendar 2004 and that the Company has been
+appointed to operate a managed services contract in respect of these units for a trial period of up to two
+years.
+Furthermore, on 22 October 2003, the Company announced that it had received an order on behalf of
+Red Bull (Europe), the functional energy drinks producer, to purchase an initial 150 viTel units for
+connection to vOpen on or before 31 March 2004.  Red Bull has been using approximately 30 viTel
+units connected to vOpen over the past six months to help manage its energy drink vending operations
+in the UK. 
+The Company has increased the number of telemetry units in the field, or subject to orders, from 18 at
+30 September 2002 to over 600 as at the date of this report.
+Strategic Developments
+4  
+It was announced on 14 October 2003 that the Company had entered into both a Co-operation
+Agreement and a Host Licence with Alcatel Bell NV (Alcatel ), a member of the Alcatel global
+telecommunications solutions group.  These agreements constitute a mutually exclusive, extendable
+five year global strategic marketing alliance targeted at the vending machine market and the grant of an
+extendable five year licence of the Vianet software to Alcatel for the purposes of hosting and providing
+our vOpen telemetry service.  Initial licence payments totalling  750,000 (excluding VAT) in respect
+of 2003/2004 have been received by Vianet pursuant to these agreements, although income received
+prior to 30 September 2003 has been deferred into the 2003/2004 profit and loss account. .
+In order to further aid the development of the Company's ongoing relationship with Alcatel, the
+Directors will consider the potential benefits of changing Vianet's financial year end to December to
+coincide with that of Alcatel.
+The Directors believe that the alliance with Alcatel is a very important strategic step for the Company
+and is further endorsement of Vianet's position as a specialist application service provider to the
+vending market. Sales and marketing co-operation between the two organisations will also
+considerably leverage Vianet's existing resources in these areas and should lead to the acceleration of
+revenue generation both through capturing additional customers and shortening the long lead times
+which Vianet has experienced historically in closing commitments from major corporate customers.
+Operational benefits which will flow from the alliance include Alcatel's telecommunications
+capabilities and support for roll-outs on a pan-European basis to customers.
+Board Structure and Management
+The directors referred in the fundraising prospectus to the recent strengthening of the management team
+through the recruitment of John Thomson in August 2003. John is a highly qualified manager and
+brings significant international operations experience in building joint venture and distributor
+relationships in the FMCG and the pharmaceutical sectors. His immediate priority has been to build
+and manage a practical working relationship between the Company and Alcatel with a view to
+maximising the potential of the alliance. As announced on 9 December 2003, John has now joined the
+Board as Chief Operating Officer and he will be subject to re-appointment as a director at the
+forthcoming Annual General Meeting.  
+I am also pleased to announce it is intended that Clive Moffatt will join the Board as a non-executive
+director with effect from 1 January 2004 in line with the intention stated in the Company's recent
+prospectus to add non-executive expertise relevant to the Company's activities and markets. Clive has
+extensive knowledge of international companies and marketing gained through both operational
+experience and strategic consulting.  . Clive is managing partner of The Moffatt Associates Partnership
+which prepared the independent market report contained in the Company's recent prospectus. His keen
+appreciation and analysis of the issues to be addressed by the Company in facing the global FMCG
+sector were instrumental in confirming the Board's opinion that Clive would make a significant
+contribution to the Group. Clive will also be subject to re-appointment as a director at the forthcoming
+Annual General Meeting and I welcome him to the Board.  
+I also announced my intention to step down as Chairman in view of increased external executive
+responsibilities which I have recently assumed. I will therefore be resigning from the Board at the
+forthcoming Annual General Meeting. By then I will have served almost four years as Chairman of
+Vianet. During a very challenging time for small companies, Vianet has been looking to capitalise on
+new technologies and it has proved necessary to undertake a fundamental review of the Company's
+strategy and market position and a radical overhaul of the senior management team. The recruitment of
+Ian Orrock as Chief Executive in November 2001 was the turning point in Vianet's development and I
+am pleased to confirm that Ian will become Executive Chairman with effect from the conclusion of the
+Annual General Meeting. 
+Throughout Vianet the efforts of management and staff in the year to 30 September 2003 have been
+outstanding and have been a major factor in the Company's ability to remain focused and successful
+5  
+during a very challenging year. My thanks go to them for their continuing hard work and commitment
+to Vianet's commercial success.
+The average employee headcount during the year was 22 (2002: 22). The current headcount is 21.
+Outlook
+The Company has started its new financial year in good shape. The business model  remains geared to
+securing long-term recurring revenues from major customers. It has also been refined and strengthened
+by Vianet's alliance, as a specialist application service provider, with  Alcatel.  
+Despite the volatility of the market, I remain confident of the Company's ability, in partnership with
+Alcatel, to capture a material share of this evolving vending market. In parallel, we are in the early
+stages of pursuing adjacent market opportunities for our core technology in other markets.
+ The Company has been able to announce its first account wins from major industry brands and is in a
+sound financial position to achieve its priorities of closing further sales and generating growing
+revenues from successful roll-outs to an expanding blue-chip customer base.
+John M May
+Chairman
+12 December 2003
+6

@@ -1,0 +1,271 @@
+ 4 Focus Solutions Group plc Annual Report & Accounts 2004
+Alastair Taylor  Chairman
+The Group will continue to move towards delivering value for
+shareholders by strengthening its position as the leading provider of
+electronic trading solutions to the life and pensions market and exploiting
+the opportunities emerging in the mortgage market.  Alastair Taylor, Chairman
+Chairman's Statement
+Business review
+Last year, we promised to continue to
+reduce costs and to target resources to
+maintain the Group's improving financial
+performance. This we have done. Despite
+continued tough trading conditions in
+our core UK life and pensions market, I
+am pleased to report that the Group has
+made excellent progress during the year.
+Pre-Tax Losses were significantly reduced
+to  0.38 million, down from  3.8 million
+last year. During the second half of the
+year, the Group reported an operating
+profit of  0.1 million and generated cash
+from trading for the first time. These are
+landmark events in the Group's
+development.
+Total sales revenues were down 18% to
+ 5.4 million reflecting the changing mix
+of revenue in the business as sales of
+goal:technology licences and services
+continued to grow strongly, up 30%, and
+the completion of the major Point of Sale
+(POS) solution developed for Norwich
+Union resulted in an anticipated revenue
+decline. The business has matured
+during the year and given our recent
+success in entering new market sectors,
+we look to the future with optimism.
+The Group has continued to expand its
+market share in the UK life and pensions
+market. With the sale of e-business
+components to Clerical Medical, part of
+HBOS Group, and of a Multi Channel
+Advice (MCA ) solution to another
+leading life and pensions provider
+during the period, all of the top ten UK
+life and pensions companies now use
+MCA solutions components based on
+goal:technology. Whilst the majority of
+turnover came from our existing
+customer base, new customers during
+the year also included Winterthur Life UK
+and Webline in the life and pensions
+market, Network Data and Kensington
+Mortgages in the mortgage market, and
+a leading high street bank.
+Our market leading MCA solutions are
+widely recognised, having won the 'Best
+use of IT in insurance' category at the
+Financial Sector Technology Awards for
+the past two years, last year for Norwich
+Union's RIO project and this year for
+Zurich's ETi project.
+During the year, Milliman USA Inc, a
+leading North American actuarial services
+business acquired the business and
+liabilities of Focus Solutions Inc, a wholly-
+owned subsidiary of Focus Solutions
+Holdings Inc (FSHI ) in which Focus had
+retained a 49% investment since the
+disposal of 51% of the issued share
+capital of FSHI to management last year.
+As part of the acquisition agreement,
+Milliman has signed a new three year
+licence agreement with the Group,
+ensuring that Focus will benefit from any
+future revenue based on the use of
+goal:technology through royalty
+payments. Initial progress is encouraging,
+although this is unlikely to result in
+substantial revenues in the short term.
+In February, we launched XFormation,
+the world's first commercially available
+XForms Integrated Development
+Environment (IDE) for the creation of
+web solutions. Incorporating technology
+supplied by x.port.net Limited,
+XFormation is a generic XForms based
+toolkit, supporting the next generation
+of forms technology that is set to
+replace HTML forms. XFormation has
+global application across all industry
+sectors.
+During the year, we secured our first
+orders for MCA solutions for the UK
+mortgage market, with Network Data
+and Kensington Mortgages. While not
+significant in terms of value, these
+contracts are very significant for the
+business, particularly the provision of an
+online mortgage application system to
+Kensington to enable brokers and
+intermediaries to transact electronic
+new mortgage business directly via the
+Internet.
+Review of results
+Turnover for the year ending 31st March
+2004 was  5.4 million compared with
+ 6.6 million in the previous financial
+year. This reduction was principally the
+result of the completion of the Norwich
+Union Point of Sale solution, RIO. In
+contrast, sales of goal:technology and
+associated services increased by 30%
+from  2.81 million to  3.67 million and
+now represent 66% of turnover,
+compared with 43% last year.
+Despite the decline in sales revenues,
+we reduced our loss before tax to
+ 0.38 million compared to  3.8 million
+last year. In the second half of the year,
+the business generated a profit of
+ 0.28 million. This is the first six month
+period in the Group's history in which
+we have generated a profit.
+The progress made towards profitability
+in the year, was largely achieved by
+reducing administrative expenses from
+ 9.60 million last year to  5.98 million
+this year. Cost reductions achieved in
+the first half of the year fed through into
+a much improved performance in the
+second half. The monthly administrative
+costs of the business have been reduced
+to  0.42 million in the second half of the
+year, equivalent to annualised costs of
+ 5.03 million. Substantial savings were
+made at an executive level, in Focus Solutions Group plc Annual Report & Accounts 2004 5
+administrative areas and in professional
+service delivery, particularly in relation
+to the RIO project. However, we
+maintained our investment in research
+and development, sales and marketing
+and in our partnerships team, as it is
+these areas that will develop and grow
+the business in the future. Investment
+in these areas will continue at similar
+levels in FY2005, while we maintain
+stringent control over all areas of
+expenditure.
+Losses after tax were  0.28 million
+against  3.43 million last year, after a
+corporation tax credit of  0.1 million
+against the costs of investment in
+research and development for the year
+ending March 2003.
+Cash outflow from operating activities
+during the year totalled  0.9 million
+(FY2003:  2.4 million). During the year, a
+total of  0.7 million was raised from
+share placings or the exercise of share
+options. In the second half of the period,
+the Group generated  0.2 million of
+cash from its trading activities. This is the
+first period in the Group's history when it
+has achieved this. Cash and money
+market deposits at 31st March 2004
+were  1.5 million, compared with  1.3
+million at 30th September 2003 and  1.7
+million at the end of the last financial
+year, and the balance sheet remains
+debt free. During the year, we did,
+however, negotiate bank facilities
+totalling  350,000 with HSBC plc, should
+we require them.
+Loss per share for the year ending
+31st March 2004 was 1.0p, compared
+with a loss of 13.4p for the year ending
+31st March 2003.
+The Board's primary objective is to
+provide the resources necessary for the
+business to grow and create a business
+of sustained profitability and cash
+generation. In the long term, this
+represents the best opportunity for
+return on investment. Accordingly, we
+currently have no plans to pay a
+dividend in the near future.
+Research and development
+The investment in research and
+development and in product
+development is substantial and totalled
+ 0.9 million in FY2004 (FY2003:  1.0
+million). This investment is fully written
+off in the year in which it is incurred. The
+Group benefits from the research and
+development tax credits and has made a
+provision in the accounts for the credit
+due for FY2003. No provision has yet
+been made for FY2004, pending
+agreement of the FY2003 submission.
+People
+The Group has achieved much since
+flotation on AIM in March 2000. We now
+face different challenges and during the
+year a number of changes to the Board
+were made to help take the Group
+forward to its next phase in its
+development.
+Martin Clements was appointed to the
+Board as Finance Director on June 12th
+2003 when Sue Hele stepped down as
+Finance Director. As Focus enters the
+next phase of its development, the
+Group will benefit from Martin's
+experience in developing high profile
+software companies both in the UK and
+internationally. I would like to extend my
+thanks to Sue for her commitment and
+contribution to the Group during the
+previous two and half years.
+Bob Hull retired as a non-executive
+director and Company Secretary on 25th
+September 2003 after nearly five years
+involvement with the Group, including
+acting as Finance Director at the time of
+the AIM flotation. We remain extremely
+grateful to Bob for his efforts at the time
+of the float and for his continued wise
+counsel since that event. I would like to
+wish him all the best in his future
+endeavours.
+The improved financial performance of
+the Group is a testament to the
+reputation of our staff for both their
+technical expertise and responsiveness to
+customer requirements. To achieve these
+results in the current environment has
+required both flexibility and commitment
+from our staff. These challenging times
+have created many pressures, in spite of
+which our team has continued to exceed
+our expectations time after time. I thank
+all of them for their continued
+commitment to Focus and for their
+achievements and enthusiasm.
+Outlook
+Whilst the whole financial services
+market remains volatile, insurance
+companies and others in the financial
+services industry are moving steadily
+towards electronic trading. Over the next
+year, a number of significant changes in
+regulation are likely to accelerate this.
+However, customers are still reviewing
+expenditure carefully. Consequently, we
+will continue to contain costs and target
+resources to maintain the Group's
+improving financial performance in this
+challenging environment. The Group will
+continue to move towards delivering
+value for shareholders by strengthening
+its position as the leading provider of
+electronic trading solutions to the life
+and pensions industry and exploiting
+the opportunities emerging in the
+mortgage market. We will continue
+working to fully exploit the potential of
+our MCA solutions based on
+goal:technology, supporting our new
+product, XFormation, and developing
+partnerships to help us penetrate other
+market sectors and regions.

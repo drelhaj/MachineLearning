@@ -1,0 +1,171 @@
+ 35
+Notes to the Accounts 
+Reserves
+(a) Reconciliation of movements in shareholders' funds
+The Group Cosalt plc
+2002 2001 2002 2001
+ 000s  000s  000s  000s
+Profit for the financial year/period 4,220 4,159 5,043 3,626
+Dividends (2,188) (2,092) (2,188) (2,092)
+2,032 2,067 2,855 1,534
+Shares issued 11 - 11 -
+Net increase in shareholders'
+funds for the year/period 2,043 2,067 2,866 1,534
+Opening shareholders' funds (as previously stated) 26,024 23,919 24,024 22,452
+Prior year adjustment* (486) (448) (486) (448)
+Opening shareholders' funds (as restated) 25,538 23,47 1 23,538 22,004
+Closing shareholders' funds 27,581 25,538 26,404 23,538
+*Restated for change in accounting policy (see Statement of Accounting Policies - Deferred taxation on page 23).
+Shareholders' funds include the following non-equity interests:
+7.50% Cumulative Preference Shares of  1 each 50 50 50 50
+Details of the rights attaching to these shares are shown in Note 15.
+(b) Reserves 
+Investment
+Share Property Profit
+Premium Revaluation Revaluation Other and Loss
+Account Reserve Reserve Reserves Account Total
+ 000s  000s  000s  000s  000s  000s
+The Group
+At 28 October 2001
+(as previously stated) 2,321 470 67 1,148 18,851 22,857 
+Prior year adjustment* - - - - (486) (486)
+At 28 October 2001 (as restated) 2,321 470 67 1,148 18,365 22,37 1
+Premium on shares issued 9 - - - - 9
+Profit for the year - - - - 2,032 2,032
+At 27 October 2002 2,330 470 67 1,148 20,397 24,412
+Cosalt plc
+At 28 October 2001 
+(as previously stated) 2,321 645 67 814 17,010 20,857
+Prior year adjustment* - - - - (486) (486)
+At 28 October 2001 (as restated) 2,321 645 67 814 16,524 20,37 1
+Premium on shares issued 9 - - - - 9
+Profit for the year - - - - 2,855 2,855
+At 27 October 2002 2,330 645 67 814 19,379 23,235
+*Restated for change in accounting policy (see Statement of Accounting Policies - Deferred taxation on page 23).
+Other Reserves include Capital Redemption Reserve  814,000 (2001:  814,000) for both the Group and 
+Cosalt plc.
+Accumulated acquisition goodwill written off directly to Group reserves up to 30 August 1998 amounts 
+to  2,112,000. 
+34
+Notes to the Accounts 
+Called up share capital
+Authorised Issued and fully paid
+2002 2001 2002 2001
+ 000s  000s  000s  000s
+7.50% Cumulative Preference Shares
+of  1 each 250 250 50 50
+Ordinary Shares of 25p each 3,700 3,700 3,119 3, 117
+3,950 3,950 3,169 3,167
+During the year 8,000 ordinary shares were issued on the exercise of options under the 1987 Executive Share
+Option Scheme. The total cash consideration amounted to  11,200.
+There are options in existence under the various Executive Share Option Schemes in respect of the following
+ordinary shares:
+Option granted Number of shares Period of option Price per share
+December 1994 20,000 December 1997 to December 2004 140.00p
+December 1996 14,000 December 1999 to December 2006* 212.00p
+February 1997 7,250 February 2000 to February 2007* 219.50p
+February 1997 42,750 February 2000 to February 2004* 219.50p
+December 1997 60,000 December 2000 to December 2004* 232.50p
+December 1998 90,000 December 2001 to December 2005* 204.50p
+April 2000 57,300 April 2003 to April 2010* 179.50p
+April 2000 44,700 April 2003 to April 2007* 179.50p
+April 2001 113,500 April 2004 to April 2008* 222.50p
+April 2001 11,000 April 2004 to April 2011* 222.50p
+June 2002 99,092 June 2005 to June 2009* 289.50p
+June 2002 1,908 June 2005 to June 2012* 289.50p
+* Performance criteria of an increase in earnings per share of 2% per annum above the Retail Price Index over
+a rolling three year period must be achieved before exercise is permitted.
+7.50% Cumulative Preference Shareholders (non-equity interests) have the following rights:
+(i) In priority to ordinary shareholders, to a fixed cumulative preference dividend at a rate of 7.50% per annum;
+(ii) On a return of capital on a winding up, will carry the right to repayment of capital together with a sum equal 
+to any arrears of dividend in priority to the rights of ordinary shareholders;
+(iii) To attend and vote at a general meeting of the Company only in certain limited circumstances where the
+special rights attaching to these shares might be varied or their interests affected.
+15 16  37
+Notes to the Accounts 
+Pension commitments
+The Group operates several pension schemes, the major one being of the funded defined benefit type. 
+This scheme was closed to new entrants on 25 July 2000 and replaced by a defined contribution scheme. 
+The assets of the defined benefit schemes are held in separate trustee administered funds.
+The Group has continued to account for pensions in accordance with Statement of Standard Accounting 
+Practice 24 (SSAP24) and the disclosures given in a) below are those required by that accounting standard.
+A new pension cost accounting standard - Financial Reporting Standard 17 (FRS17) was issued in November
+2000. The mandatory full implementation of this FRS has now been deferred. Prior to this, transitional
+disclosure rules apply and these additional disclosures are set out in b) below.
+a) SSAP24 Pension Costs
+Contributions to the main scheme are charged to the profit and loss account so as to spread the cost of 
+pensions over employees' working lives with the Group. Contributions are determined by a qualified actuary 
+on the basis of the triennial valuations.
+The latest actuarial valuation of the main scheme was carried out as at 31 December 2001. The valuation
+employed the projected unit method of valuation for liabilities. As a result of the main scheme being closed 
+to new entrants from 25 July 2000, other things being equal, over the long term, this is expected to lead 
+to a gradual increase in the age profile and hence contribution rate. However, this increasing contribution rate 
+will be applied to a gradually reducing pensionable salary roll as people retire or cease membership.
+The scheme's assets were valued using a market based valuation approach.
+The main long-term assumptions adopted for the purpose of deriving the pension costs in these accounts were 
+that the investment return would be 7 .25% per annum (pre-retirement) and 5.50% per annum (post-retirement);
+that basic salaries for pension calculation purposes would be frozen for 3 years until April 2005 and would then
+increase in line with price inflation, assumed to be 2.5% per annum, and that the lower earnings limit offset
+would increase by 2.5% per annum. Present and future pensions have been assumed to increase at the rate 
+of 5% per annum (pre April 1994 accrual) and by 2.5% per annum (post April 1994 accrual; non GMP
+element only).
+At the start of this financial year, the market value of the assets was  21.6m and, using the assumptions noted
+above, this was sufficient to cover 79% of the benefits that had accrued to members, after allowing for 
+expected future increases in earnings. 
+As at 31 December 2001 the funding level as calculated under the prescribed assumptions of the Minimum
+Funding Requirement (MFR) of the Pensions Act 1995 was 85%.
+The actuarial deficit disclosed by the 2001 valuation will be spread over the average remaining working life 
+of the membership (12 years). 
+A decision regarding the final contribution rate is yet to be agreed between the Group and Trustees, however,
+pending the agreement of a new rate, the Company has agreed to pay contributions at the rate of 10% of
+pensionable salaries plus  818,000 per annum from 1 February 2002, subject to an annual funding review 
+by the actuary. This rate was certified by the scheme actuary.
+The pension cost, derived under SSAP24, in respect of the main scheme charged in these accounts was
+ 1,144,000, (2001:  816,000). This includes an additional charge of  649,00 (2001:  186,000) in respect of 
+the amortisation of the balance sheet provision and scheme shortfall existing at the start of the financial year.
+An amount of  165,000 (2001:  216,000) is included in provisions for liabilities and charges, this being the
+excess of the accumulated pension cost charged against profit over the amount paid to the scheme.
+36
+Notes to the Accounts 
+Contingent liabilities
+The Group Cosalt plc
+2002 2001 2002 2001
+ 000s  000s  000s  000s
+(a) Under guarantee of overdrafts and
+loans of Subsidiary Undertakings - - 10,436 7,877
+(b) Deferred interest under a debenture
+held by a Subsidiary Undertaking - - 1,805 1,799
+(c) Cosalt plc has also guaranteed leasing
+and other arrangements of Subsidiary
+Undertakings in the ordinary course of business.
+Leasing obligations
+(a) Future commitments due under finance leases are:
+The Group Cosalt plc
+2002 2001 2002 2001
+ 000s  000s  000s  000s
+Within one year 746 789 - -
+Between two and five years 1,045 1,121 - -
+1,791 1,910 - -
+Less: future finance charges 142 132 - -
+1,649 1,778 - -
+Shown in creditors (Note 13) as:
+Amounts falling due within one year 675 71 1 - -
+Amounts falling due after more than one year 974 1,067 - -
+1,649 1,778 - -
+(b) Annual commitments due under non-cancellable operating leases are:
+The Group Cosalt plc
+2002 2001 2002 2001
+ 000s  000s  000s  000s
+(i) Land and buildings
+Leases which expire within one year 27 42 - -
+Between two and five years 184 301 25 -
+In five years or more 742 71 2 3 33
+953 1,055 28 33
+(ii) Plant
+Leases which expire within one year 155 148 8 1
+Between two and five years 630 619 8 22
+In five years or more 75 69 - -
+860 836 16 23
+The majority of leases of land and buildings are subject to rent reviews.
+17 19 
+18  

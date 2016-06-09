@@ -1,0 +1,124 @@
+ 62 | Brammer plc | Annual Report 2012
+FINANCIAL RISK MANAGEMENT
+I: Financial risk factors
+The group's activities expose it to a variety of financial risks: market risk (including foreign exchange price risk), credit risk, liquidity risk,
+cash flow and interest rate risk. The group's overall risk management programme focuses on the unpredictability of financial markets
+and seeks to minimise potential adverse effects on the group's financial performance.
+Risk management is carried out by a central treasury department (group treasury) under policies approved by the Board of directors.
+Group treasury identifies, evaluates and hedges financial risks in close co-operation with the group' s operating units. The Board provides
+written principles for overall risk management, as well as written policies covering specific areas, such as foreign exchange risk, interest
+rate risk, credit risk, use of non-derivative financial instruments, and investing excess liquidity. Derivative financial instruments are used
+to hedge exposure to fluctuations in foreign exchange rates and interest rates in accordance with group policy.
+(a) Market risk
+(i) Foreign exchange risk and hedging activities
+The group operates internationally and is exposed to foreign exchange risk arising from currency exposures, primarily with respect to
+the Euro and Sterling. Foreign exchange risk arises primarily from recognised assets and liabilities and also net investments in foreign
+operations.
+The group has significant investments in foreign operations, whose net assets are exposed to foreign currency translation risk. Currency
+exposure arising from the net assets of the group's foreign operations is managed primarily through hedging borrowings denominated
+in foreign currencies against the net assets of foreign operations denominated in the same currencies. The group documents these
+hedging relationships at inception and assesses, both at inception and on an on-going basis, whether they are highly effective. Where
+the hedges are highly effective, gains or losses on the borrowings are recognised in equity. The gains or losses relating to the ineffective
+portion are recognised immediately in the income statement.
+In 2012 the group did not apply hedge accounting for hedges of exposures arising from recognised assets and liabilities in foreign
+currency. Foreign operations operate primarily in local currency or have minimal net exposure to foreign currencies.
+The impact on revenue and operating profit of Sterling weakening against the Euro is reflected in the segmental analysis (note 1) which
+shows the results at the 2012 actual average exchange rate ( 1.23: 1) and at the 2012  management rate' ( 1.20: 1).
+(ii) Cash flow and interest rate risk
+The group's income and operating cash flows are substantially independent of changes in market interest rates. The group's interest
+rate risk arises from long-term borrowings. Borrowings issued at variable rates expose the group to cash flow interest rate risk. Borrowings
+issued at fixed rates expose the group to fair value interest rate risk.
+As the group is principally financed by a  100 million floating rate revolving credit facility the group uses interest rate swaps to manage
+exposure to floating interest rates. At 31 December 2012, the group had in place interest rate swaps which had the effect of fixing the
+rate on a notional principal debt of  30 million and  10 million respectively. The group classifies such swaps as cash flow hedges and
+states them at fair value which amounted to a loss of  0.3 million recognised on the balance sheet.
+The group seeks to minimise cash deposits held at banks; surplus cash is used to repay external debt. The group manages liquidity
+with a combination of short term cash forecasts that look three months forward on a rolling basis and identify short term cash surpluses
+and requirements. Long term cash requirements are identified with a five year financial planning model that uses scenario based
+planning to assess the impact of the group's strategic plans on profitability and liquidity.
+The Euro yield curve at 31 December 2012 implied a decrease in interest rates of 1.5% over the course of 2013. An increase of 1.0%
+applied to the borrowing under the central facility would result in an increase of approximately  0.4 million in the group' s interest expense.
+(b) Credit risk
+The group has no significant concentrations of credit risk. It has policies in place to ensure that sales of products are made to customers
+with an appropriate credit history.
+(c) Liquidity risk
+Prudent liquidity risk management implies maintaining sufficient cash and the availability of funding through an adequate amount of
+committed credit facilities. Group treasury aims to maintain flexibility in funding by keeping committed credit lines available.
+Management monitors rolling forecasts of the group's liquidity position on the basis of expected and projected cash flow. 63 | Brammer plc | Annual Report 2012
+FINANCIAL RISK MANAGEMENT
+Contractual obligations
+The table below analyses the maturity profile of the group's financial liabilities based on the remaining period from the balance sheet
+date to the contractual maturity date. Short-term creditors, including trade creditors and accruals, are excluded from the analysis as
+they are considered to form part of the group's day-to-day operating cycle.
+At 31 December 2012
+Less than 1 year 2-5 years More than 5 years Total
+ m  m  m  m
+Long term debt obligations (note 14) 2.9 52.7 - 55.6
+Finance lease obligations (note 15) 0.1 0.1 - 0.2
+3.0 52.8 - 55.8
+At 31 December 2011
+Less than 1 year 2-5 years More than 5 years Total
+ m  m  m  m
+Long term debt obligations (note 14) 3.0 47.6 - 50.6
+Finance lease obligations (note 15) 0.1 0.2 - 0.3
+3.1 47.8 - 50.9
+Long term debt obligations comprise the principal amount of borrowings where the borrowings are drawn down against a facility which
+is available for more than one year. Under the facility each drawing is a separate utilisation and interest is payable at the maturity of
+each utilisation. No utilisation is made for a period greater than six months.
+Deferred tax, deferred consideration, and post employment benefit liabilities are not included in the table above. During 2010, the
+group agreed a deficit funding plan with the trustees of the Brammer Services Limited Retirement Benefit Scheme, which provides for
+the group to make payments of  2.8 million, indexed for inflation, in the years 2011 to 2023 inclusive.
+II: Capital risk management
+The group's objectives when managing capital are to safeguard its ability to continue as a going concern in order to provide returns
+for shareholders and to maintain an optimal capital structure to reduce the cost of capital.
+The group considers the gearing and capital structure of the business periodically and adjusts as appropriate. In September 2011 a
+placing of 10,535,000 new ordinary shares, representing approximately 9.9% of the total issued share capital, was made in order to
+fund the acquisition of the Buck & Hickman business.
+The group monitors capital on the basis of headroom against its committed borrowing facilities, compliance with the covenants imposed
+by the committed borrowing facilities, and the group's ability to raise further equity capital.
+The group was in full compliance with all its financial covenants throughout each of the periods presented.
+2012 2011
+ m  m
+Total borrowings (note 14) 56.0 51.2
+less: cash and cash equivalents (note 12) (2.2) (15.9)
+Net debt 53.8 35.3
+Total equity 121.0 117.6
+Total capital 174.8 152.9
+In July 2011 the group signed new banking facilities for a five year term which provides up to  100 million ( 81.1 million) of debt
+finance. At 31 December 2012 the committed facility is  100 million (2011:  100.0 million).
+The group's headroom against its committed facility was as follows:
+2012 2011
+ m  m
+Committed group facility 81.1 83.9
+Current utilisation 51.3 46.4
+Headroom (note 15) 29.8 37.5
+Under the terms of the facility the group is permitted to enter into up to  53.9 million of additional net borrowings outside this facility. 64 | Brammer plc | Annual Report 2012
+FINANCIAL RISK MANAGEMENT
+III: Key accounting estimates, judgements and assumptions
+Estimates and judgements are continually evaluated and are based on historical experience and other factors, including expectations
+of future events that are believed to be reasonable under the circumstances.
+The group makes estimates and assumptions concerning the future. The resulting accounting estimates will, by definition, seldom
+equal the related actual results. The estimates and assumptions that have a significant risk of causing a material adjustment to the
+carrying amounts of assets and liabilities within the next financial year are discussed below.
+(a) estimated impairment of goodwill
+The group tests annually whether goodwill has suffered any impairment, in accordance with the accounting policy stated on page 58.
+The recoverable amounts of cash-generating units have been determined based on value-in-use calculations. These calculations
+require the use of estimates (note 8).
+(b) income tax provisions
+The group is subject to income taxes in numerous jurisdictions. Significant judgement is required in determining the worldwide provision
+for income taxes. There are many transactions and calculations for which the ultimate tax determination is uncertain during the ordinary
+course of business. The group recognises liabilities for anticipated tax audit issues based on estimates of whether additional taxes will
+be due. Where the final tax outcome of these matters is different from the amounts that were initially recorded, such differences will
+impact the income tax and deferred tax provisions in the period in which such determination is made (notes 5 and 18).
+(c) determination of deferred consideration payable
+The level of deferred consideration recognised in respect of acquisitions is subject to continual evaluation by the directors. Any subsequent
+revision to the amounts recognised will have no impact on the group's results as those adjustments will be reflected in the carrying
+value of goodwill (note 17).
+(d) retirement benefit obligations
+The present value of the pension obligations depends on a number of factors that are determined on an actuarial basis using a number
+of assumptions. The assumptions used in determining the net expense for pensions include the discount rates. Any changes in these
+assumptions will impact the carrying amount of retirement benefit obligations.
+Note 26 details the actuarial assumptions used in determining the carrying amount at 31 December 2012.
+(e) share-based payments
+The inputs to the Black-Scholes option-pricing model, which include dividend yield, expected volatilities and risk free interest rates impact
+the valuation of the fair value of the share-based payments (note 20).

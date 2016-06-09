@@ -1,0 +1,215 @@
+ 39 38
+Notes to the financial statements continued
+For the year ended 31 December 2006
+14 Derivatives and other financial instruments continued
+Currency exposures
+There is a foreign currency exposure as at 31 December 2006 related to amounts receivable under sale agreements 
+concluded in US dollars, Australian dollars, Canadian dollars and Euros which are included in short term debtors.
+Borrowing facilities
+The Company has arranged a borrowing facility amounting to  2,000,000, none of which had been utilised at the 
+balance sheet date. The facility would be repayable on demand and would bear interest at LIBOR plus 2% per annum.
+Fair values
+There are no material differences between fair values and book values for any financial assets and liabilities.
+15 Share capital
+2006 2005
+  
+Authorised:
+100,000,000 ordinary shares of 5p each 5,000,000 5,000,000
+Allotted, issued and fully paid:
+58,719,835 (2005: 50,582,068) ordinary shares of 5p each 2,935,991 2,529,103
+The following shares were issued during the year in respect of options exercised under the Enterprise Management 
+Incentive Scheme and the Unapproved Share Option Scheme:
+496,000 ordinary shares at 23.5p
+21,666 ordinary shares at 45.5p
+33,333 ordinary shares at 50p
+On 20 February 2006 1,664,272 ordinary shares of 5p each were issued at 44.65p as part consideration for the 
+acquisition of ML Software B.V. (see note 10).
+On 7 June 2006 5,454,546 ordinary shares of 5p each and 991,759 share options were issued for cash   
+consideration of 55p per share. The share options are exercisable in tranches such that 467,950 options were 
+exercisable by 6 December 2006 (83,334 options at 60p each and 384,616 options at 65p each), 440,476 
+options are exercisable by 6 June 2007 (83,333 options at 60p each and 357,143 options at 70p each), 
+and 83,333 options are exercisable by 6 December 2007 at 60p each.
+On 6 December 2006 83,334 and 384,616 shares were issued to Mr Totah and Eurocom Investments LP in respect of
+options at 60p and 65p respectively.
+Share options
+At 31 December 2006 the following options had been granted over the ordinary shares of 5p each and remained 
+outstanding to be exercised.
+14 Derivatives and other financial instruments continued
+Liquidity risk
+The Group's objective is to maintain a balance between continuity of funding and flexibility through the use of an 
+overdraft. The Group's policy is to ensure that there is sufficient funding in place to meet foreseeable peak 
+borrowing requirements. 
+Foreign currency risk
+A number of hedging transactions were entered into in Canadian Dollars and US Dollars to limit the exposure of 
+foreign currency fluctuations.
+The table below shows the Group's currency exposures, in other words those transactional (or non-structural) 
+exposures that give rise to the net currency gains and losses recognised in the profit and loss account. Such 
+exposures comprise the monetary assets and monetary liabilities of the Group that are not denominated in the 
+operating (or  functional') currency of the operating unit involved.
+As at 31 December 2006, these currency exposures were as follows:
+2006 2005
+  
+Net foreign currency monetary assets.
+US Dollar 843,104 807,578
+Canadian Dollar 1,420,136 413,987
+Australian Dollar 106,030 47,302
+Euro 352,270 43,501
+Israeli Shekel 15,737 18,597
+2,737,277 1,330,965
+As at 31 December 2006, the Group also held forward foreign currency contracts of  1,052,932 (2005:  1,424,133) 
+to hedge expected settlements of foreign currency debtor balances due within one year. The unrealised gain at the 
+year end was  59,936 (2005:  2,511).
+Interest rate risk profile of financial assets
+Total Floating interest rate Non interest rate
+bearing financial bearing financial
+assets assets
+   
+31 December 2006 3,444,206 3,247,302 196,904
+31 December 2005 3,522,387 2,883,323 639,064
+The benchmark rate for determining interest receipts for the floating rate financial assets depends on the currency.
+Interest rate risk profile of financial liabilities
+The Group did not operate a bank overdraft at the balance sheet date (2005:  Nil).
+Pilat Media Global plc Annual Report and Accounts 2006 Pilat Media Global plc Annual Report and Accounts 2006 41 40
+15 Share capital continued
+Movements in the number of share options outstanding and their related weighted average exercise prices are as 
+follows:
+2006 2005
+Average Average 
+exercise price exercise price 
+in   per share Options in   per share Options
+At 1 January 0.3336 5,882,675 0.3481 6,062,497
+Granted 0.6880 1,441,759 0.4550 2,048,000
+Exercised 0.4348 1,018,949 0.2350 104,822
+Lapsed 0.4591 110,000 0.4158 73,000
+Cancelled - - 0.5000 2,050,000
+At 31 December 0.3972 6,195,485 0.3336 5,882,675
+The fair value of options granted to employees during the period was determined using the standard binomial  option 
+pricing valuation model as  48,667 (2005:  469,750). The significant inputs into the model were the exercise price 
+shown above, risk free interest rate of between 3.75% and 5% depending on the date of grant of the options, a 
+dividend yield of zero, volatility of the share price based on the share price volatility for a comparable Group of 
+companies for the last ten years and an estimate of forfeiture based on historical leaver information.
+16 Reserves
+Share Capital Share Merger Other Profit Total
+premium redemption option reserve reserve and loss
+amount reserve reserve account
+       
+GROUP
+1 January 2006 
+(as previously reported) 5,196,081 50,000 - (853,955) 3,108,000 855,802 8,355,928
+Prior year adjustment - - 266,876 - - (186,813) 80,063
+1 January 2006 restated 5,196,081 50,000 266,876 (853,955) 3,108,000 668,989 8,435,991
+Investor share option 
+exercises 135,633 - (135,633) ----
+Transfer on share 
+option exercises/lapses - - (32,042) - - 32,042 -
+Profit for period ----- 2,586,911 2,586,911
+Premium on allotment
+(net of expenses) 3,528,837 ---- 3,528,837
+FRS20 charge for the year - - 233,729 - - - 233,729
+Proceeds of issue 
+of options - - 209,233 - - - 209,233
+31 December 2006 8,860,551 50,000 542,163 (853,955) 3,108,000 3,287,942 14,994,701
+Notes to the financial statements continued
+For the year ended 31 December 2006
+15 Share capital continued
+Enterprise Management Incentive Scheme
+Date of grant Number of Exercise Period of exercise
+ordinary shares price
+(pence)
+16 April 2002 2,075,675 23.5 16 Apr 2003 - 15 Apr 2012
+19 July 2005 1,781,334 45.5 19 July 2006- 18 July 2015
+13 December 2006 300,000 76 13 December 2007 - 12 December 2016
+Unapproved Share Option Scheme
+Date of grant Number of Exercise Period of exercise
+ordinary shares price
+(pence)
+16 April 2002 650,000 23.5 16 Apr 2003 - 15 Apr 2012
+31 January 2003 60,000 23.5 31 Jan 2004 - 30 Jan 2013
+30 September 2003 200,000 40 30 Sep 2004 - 29 Sep 2013
+12 July 2004 369,667 50 12 July 2005 - 11 July 2014
+19 July 2005 85,000 45.5 19 July 2006 - 18 July 2015
+13 December 2006 150,000 76 13 December 2007 - 12 December 2016
+Options are exercisable in three equal tranches on the first, second and third anniversary of date of grant.
+Share options are granted to directors and to selected employees. The exercise price of the granted option is equal 
+to the market price of the shares on the date of the grant. Options are conditional on the employee completing one 
+year's service (the vesting period). The options have a contractual option term of ten years. The Group has no legal 
+or constructive obligation to repurchase or settle options in cash.
+During the year the following investor options were issued and at 31 December 2006 remain unexercised:
+Date of grant Number of Exercise Period of exercise
+ordinary shares price
+(pence)
+4 July 2006 83,333 60 4 July 2006 - 6 June 2007
+4 July 2006 83,333 60 4 July 2006 - 6 December 2007
+4 July 2006 357,143 70 4 July 2006 - 6 June 2007
+Pilat Media Global plc Annual Report and Accounts 2006 Pilat Media Global plc Annual Report and Accounts 2006 43
+Notes to the financial statements continued
+For the year ended 31 December 2006
+42
+18 Cash flows
+Restated
+2006 2005
+  
+a Reconciliation of operating profit to net cash inflow from operating activities
+Operating profit 3,576,788 2,124,992
+Depreciation and amortisation 239,109 180,408
+Share option expense 233,729 200,264
+Profit on sale of fixed assets - (229)
+Increase in debtors (4,239,239) (2,033,807)
+Increase in creditors 786,598 372,282
+Net cash inflow from operating activities 596,985 843,910
+b Analysis of cash flows for headings netted in the cash flow statement
+Returns on investments and servicing of finance
+Interest received 93,093 140,743
+Net cash flow from returns on investments and servicing of finance 93,093 140,743
+Capital expenditure and financial investment
+Purchase of tangible fixed assets (459,354) (252,508)
+Purchase of intangible fixed assets (1,719,746) (727,361)
+Sale of tangible fixed assets - 1,640
+Net cash outflow from capital expenditure and financial investment (2,179,100) (978,229)
+Acquisitions and disposals
+Acquisition of subsidiary (1,393,683) -
+Cash at bank and in hand acquired with subsidiary 38,071 -
+Net cash outflow from acquisitions and disposals (1,355,612) -
+Management of liquid resources
+Cash (placed on)/returned on term deposits (363,979) 952,894
+Net cash (outflow)/inflow from management of liquid resources (363,979) 952,894
+Financing
+Issue of share capital 3,443,086 24,633
+Equity share issue expenses (41,224) -
+Net cash inflow from financing 3,401,862 24,633
+16 Reserves continued
+Share Capital Share Other Profit Total
+premium redemption option reserve and loss
+amount reserve reserve account
+      
+COMPANY
+1 January 2006 
+(as previously reported) 5,196,081 50,000 - 3,108,000 (67,049) 8,287,032
+Prior year adjustment - - 266,876 - - 266,876
+1 January 2006 restated 5,196,081 50,000 266,876 3,108,000 (67,049) 8,553,908
+Investor share 
+option exercises 135,633 - (135,633) - - -
+Transfer on share option
+exercises/lapses - - (32,042) - - (32,042)
+Profit for period - - - - 469,762 469,762
+Premium on allotment 
+(net of expenses) 3,528,837 ---- 3,528,837
+FRS20 charge in 
+subsidiary for the year - - 233,729 - - 233,729
+Proceeds of issue 
+of options - - 209,233 - - 209,233
+31 December 2006 8,860,551 50,000 542,162 3,108,000 402,713 12,963,427
+17 Reconciliation of movement in equity shareholders' funds
+Restated Restated
+Group 2006 Group 2005 Company 2006 Company 2005 
+    
+Profit for the financial year 2,586,911 1,569,471 469,762 7,049
+Issue of shares 406,888 5,241 406,888 5,241
+Premium on shares issued in period (net of expenses) 3,528,837 19,392 3,528,837 19,392
+FRS20 charge for the year 233,729 200,264 233,729 200,264
+Transfer on share option exercises/lapses - - (32,042) -
+Proceeds of share issues relating to investor options 209,233 - 209,233 -
+Net addition to equity shareholders' funds 6,565,598 1,794,368 4,816,407 231,946
+Opening equity shareholders' funds 10,965,094 9,170,726 11,083,011 10,851,065
+Closing equity shareholders' funds 17,930,692 10,965,094 15,899,418 11,083,011
+Pilat Media Global plc Annual Report and Accounts 2006 Pilat Media Global plc Annual Report and Accounts 2006

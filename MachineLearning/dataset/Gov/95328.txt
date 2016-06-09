@@ -1,0 +1,248 @@
+ Huntsworth plc 
+Annual Report and Accounts 2011 
+Business Review
+Corporate Governance
+Financials 
+Other Information
+ 
+40
+We have audited the group financial statements of Huntsworth plc for the year ended 31 December 2011 which comprise the 
+Consolidated Income Statement, the Consolidated Statement of Comprehensive Income and Expense, the Consolidated Balance 
+Sheet, the Consolidated Cash Flow Statement, the Consolidated Statement of Changes in Equity and the related notes 1 to 29.  
+The financial reporting framework that has been applied in their preparation is applicable law and International Financial Reporting 
+Standards (IFRSs) as adopted by the European Union.
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 
+2006. Our audit work has been undertaken so that we might state to the company's members those matters we are required to  
+state to them in an auditor's report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume 
+responsibility to anyone other than the company and the company's members as a body, for our audit work, for this report, or  
+for the opinions we have formed. 
+Respective responsibilities of directors and auditor
+As explained more fully in the Directors' Responsibilities Statement set out on page 27, the directors are responsible for the 
+preparation of the Consolidated financial statements and for being satisfied that they give a true and fair view. Our responsibility 
+is to audit and express an opinion on the Consolidated financial statements in accordance with applicable law and International 
+Standards on Auditing (UK and Ireland). Those standards require us to comply with the Auditing Practices Board's Ethical Standards 
+for Auditors.
+Scope of the audit of the financial statements
+An audit involves obtaining evidence about the amounts and disclosures in the financial statements sufficient to give reasonable 
+assurance that the financial statements are free from material misstatement, whether caused by fraud or error. This includes 
+an assessment of: whether the accounting policies are appropriate to the group's circumstances and have been consistently 
+applied and adequately disclosed; the reasonableness of significant accounting estimates made by the directors; and the overall 
+presentation of the financial statements. In addition, we read all the financial and non-financial information in the annual report to 
+identify material inconsistencies with the audited financial statements. If we become aware of any apparent material misstatements 
+or inconsistencies we consider the implications for our report.
+Opinion on financial statements
+In our opinion the group financial statements:
+  Give a true and fair view of the state of the group's affairs as at 31 December 2011 and of its profit for the year then ended;
+  Have been properly prepared in accordance with IFRSs as adopted by the European Union; and 
+  Have been prepared in accordance with the requirements of the Companies Act 2006 and Article 4 of the IAS Regulation.
+Opinions on other matter prescribed by the Companies Act 2006
+In our opinion the information given in the Directors' Report for the financial year for which the consolidated financial statements are 
+prepared is consistent with the financial statements.
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following:
+Under the Companies Act 2006 we are required to report to you if, in our opinion:
+  Certain disclosures of directors' remuneration specified by law are not made; or
+  We have not received all the information and explanations we require for our audit.
+Under the Listing Rules we are required to review:
+  The directors' statement, set out on page 18, in relation to going concern; 
+  The part of the Corporate Governance Statement relating to the company's compliance with the nine provisions of the UK 
+Corporate Governance Code specified for our review; and
+  Certain elements of the report to shareholders by the Board on directors' remuneration.
+Other matter
+We have reported separately on the Parent Company financial statements of Huntsworth plc for the year ended 31 December 2011 
+and on the information in the Directors' Remuneration Report that is described as having been audited. 
+Eamonn McGrath (Senior statutory auditor)
+for and on behalf of Ernst & Young LLP, Statutory Auditor
+London
+2 April 2012
+Independent Auditor's Report
+to the members of Huntsworth plc Huntsworth plc 
+Annual Report and Accounts 2011 
+Business Review
+Corporate Governance
+Financials
+Other Information
+ 
+41
+2011 2010
+Notes
+Before 
+highlighted 
+items 
+ 000
+Highlighted 
+items 
+(Note 6) 
+ 000
+Total 
+ 000
+Before 
+highlighted 
+items 
+ 000
+Highlighted 
+items 
+(Note 6) 
+ 000
+Total 
+ 000
+Turnover 220,887 - 220,887 224,258 - 224,258
+Revenue 4 176,257 - 176,257 173,599 - 173,599
+Operating expenses 5 (152,755) (8,551) (161,306) (143,950) (4,879) (148,829)
+Operating profit/(loss) 4 23,502 (8,551) 14,951 29,649 (4,879) 24,770
+Share of post-tax profit of associates 15 - - - 10 - 10
+Profit/(loss) before interest and taxation 23,502 (8,551) 14,951 29,659 (4,879) 24,780
+Finance income 7 21 - 21 140 - 140
+Finance costs 7 (4,397) - (4,397) (3,077) - (3,077)
+Profit/(loss) before tax 19,126 (8,551) 10,575 26,722 (4,879) 21,843
+Taxation (expense)/credit 9 (3,536) 2,689 (847) (5,879) 1,630 (4,249)
+Profit/(loss) for the year 15,590 (5,862) 9,728 20,843 (3,249) 17,594
+Attributable to:
+Parent Company's equity shareholders 15,590 (5,862) 9,728 20,764 (3,247) 17,517
+Non-controlling interests - - - 79 (2) 77
+15,590 (5,862) 9,728 20,843 (3,249) 17,594
+Note 2011 2010
+Earnings per share
+Basic - pence 11 4.1 7.4
+Diluted - pence 11 3.9 7.1
+Adjusted basic - pence
+1
+11 6.5 8.7
+Adjusted diluted - pence
+1
+11 6.2 8.4
+1 Adjusted basic and diluted earnings per share are calculated based on profit for the year adjusted for highlighted items and the related tax effects (Note 11).
+Consolidated Income Statement
+for the year ended 31 December 2011 Huntsworth plc 
+Annual Report and Accounts 2011 
+Business Review
+Corporate Governance
+Financials 
+Other Information
+ 
+42
+Notes
+2011 
+ 000
+2010 
+ 000
+Profit for the year 9,728 17,594
+Other comprehensive income and expense
+Amounts recognised in the income statement on interest rate swaps 762 809
+Movement in valuation of interest rate swaps (386) (982)
+Tax (expense)/credit of interest rate swaps 9 (113) 37
+Currency translation differences 943 2,404
+Tax (expense)/credit of currency translation differences 9 (179) 49
+Other comprehensive income and expense for the year 1,027 2,317
+Total comprehensive income and expense for the year 10,755 19,911
+Total comprehensive income and expense attributable to:
+Parent Company's equity shareholders 10,755 19,834
+Non-controlling interests - 77
+10,755 19,911
+Consolidated Statement of Comprehensive Income and Expense
+for the year ended 31 December 2011 Huntsworth plc 
+Annual Report and Accounts 2011 
+Business Review
+Corporate Governance
+Financials
+Other Information
+ 
+43
+Notes
+2011 
+ 000
+2010 
+ 000
+Non-current assets
+Intangible assets 12 302,283 291,875
+Property, plant and equipment 13 5,205 5,174
+Investment in associates 15 - 22
+Available for sale financial assets 16 - 104
+Other receivables 244 370
+Derivative financial assets 22 - 4
+Deferred tax assets 21 39 652
+307,771 298,201
+Current assets
+Work in progress 4,060 1,453
+Trade and other receivables 17 42,762 43,898
+Current tax receivable 519 387
+Derivative financial assets 22 - 122
+Cash and short-term deposits 28(d) 5,569 9,305
+52,910 55,165
+Current liabilities
+Bank loans and overdrafts 23 (8) (4,521)
+Obligations under finance leases 19 (25) (72)
+Trade and other payables 18 (49,814) (47,093)
+Derivative financial liabilities 22 (246) (91)
+Current tax payable (2,450) (4,685)
+Provisions 20 (8,162) (19,944)
+(60,705) (76,406)
+Non-current liabilities
+Bank loans and overdrafts 23 (75,745) (56,430)
+Obligations under finance leases 19 (13) (36)
+Trade and other payables (338) (578)
+Derivative financial liabilities 22 (631) (1,164)
+Deferred tax liabilities 21 (1,010) (1,170)
+Provisions 20 (12,144) (11,156)
+(89,881) (70,534)
+Net assets 210,095 206,426
+Equity
+Called up share capital 24 106,385 106,356
+Shares to be issued reserve 26 - -
+Share premium account 26 26,594 25,840
+Merger reserve 26 64,375 63,319
+Foreign currency translation reserve 26 24,900 23,957
+Hedging reserve 26 (813) (1,189)
+Treasury shares 26 (2,140) (1,592)
+Investment in own shares 26 (5,338) (5,480)
+Retained earnings (3,868) (4,785)
+Equity attributable to equity holders of the parent 210,095 206,426
+Non-controlling interests - -
+Total equity 210,095 206,426
+The financial statements were approved by the Directors on 2 April 2012 and signed on their behalf by: 
+Lord Chadlington / Chief Executive Sally Withey / Group Chief Operating Officer and Finance Director
+Consolidated Balance Sheet
+as at 31 December 2011 Huntsworth plc 
+Annual Report and Accounts 2011 
+Business Review
+Corporate Governance
+Financials 
+Other Information
+ 
+44
+Notes
+2011 
+ 000
+2010 
+ 000
+Cash inflow from operating activities
+Cash inflow from operations 28(a) 24,567 25,623
+Interest paid (3,356) (2,553)
+Interest received 27 140
+Cash flows from hedging activities 121 4
+Net tax paid (3,399) (3,141)
+Net cash inflow from operating activities 17,960 20,073
+Cash outflow from investing activities
+Acquisitions of subsidiaries (net of cash acquired) and deferred consideration payments (24,895) (12,218)
+Disposal of associates, net of cash disposed 20 -
+Acquisition of non-controlling interests - (2,145)
+Cost of internally developed intangible assets (322) (89)
+Purchases of property, plant and equipment (2,329) (2,408)
+Proceeds from sale of property, plant and equipment 65 49
+Dividends received from associates 11 40
+Net cash outflow from investing activities (27,450) (16,771)
+Cash inflow/(outflow) from financing activities
+Purchase of own shares - treasury shares (538) (1,525)
+Proceeds from sale of own shares to settle share options 5 531
+Repayment of finance lease liabilities (71) (78)
+Net drawdown of borrowings 14,278 3,201
+Dividends paid to equity holders of the parent (7,714) (5,727)
+Net cash inflow/(outflow) from financing activities 5,960 (3,598)
+Decrease in cash and cash equivalents (3,530) (296)
+Movements in cash and cash equivalents
+Decrease in cash and cash equivalents (3,530) (296)
+Effects of exchange rate fluctuations on cash held (193) 209
+Cash and cash equivalents at 1 January 9,284 9,371
+Cash and cash equivalents at 31 December 28(d) 5,561 9,284
+Consolidated Cash Flow Statement
+for the year ended 31 December 2011

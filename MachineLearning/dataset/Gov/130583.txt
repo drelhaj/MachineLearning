@@ -1,0 +1,377 @@
+ 74 75
+35. Principal Accounting Polices
+The financial statements are prepared in accordance with applicable United Kingdom law 
+and 	 accounting 	 st andar ds 	 (Unit ed 	 Kingdom 	 Gener ally 	 Accept ed 	 Accounting 	 Pr actice). 	
+The principal accounting polices of the Company are set out below. The policies have 
+remained unchanged from the previous year.
+Accounting Convention
+The financial statements have been prepared under the historical cost convention.
+Deferred Taxation
+Deferred taxation is recognised on all timing differences where the transactions or event 
+that give the Company an obligation to pay more tax in the future, or a right to pay less tax 
+in the future, have occurred by the balance sheet date. Deferred tax assets are recognised 
+when it is more likely than not that they will be recoverable. Deferred tax is measured using 
+rates of tax that have been enacted or substantively enacted by balance sheet date.
+Property, Plant and Equipment
+Depreciation is provided on all property, plant and equipment at rates calculated to
+write off the cost, less estimated residual value based on prices prevailing at the date
+of acquisition, of each asset evenly over its expected useful economic life, as follows:
+Short leasehold property Period of the lease
+Motor vehicles 25%	per	ann um
+Fixtures, fittings and equipment 10-33%	per	ann um
+Computers 25-33%	per	ann um
+Deferred Consideration
+The terms of an acquisition may provide that the value of the purchase consideration, 
+which may be payable in cash or shares at a future date, depends on uncertain 
+future events such as the future performance of the acquired Company. The amounts 
+recognised in the financial statements represent a reasonable estimate at the balance 
+sheet date of the amounts expected to be paid and has been classified in the balance 
+sheet in accordance with the substance of the transaction. Where the agreement gives 
+rise to an obligation that may be settled by the delivery of a variable number of shares to 
+meet a defined monetary liability, these amounts are disclosed as debt.
+Investments
+In the Company's accounts, investments in subsidiary undertakings are stated at cost less 
+provision for any impairment in value.
+Lease Commitments
+Rental costs under operating leases are charged against profits as incurred.
+Profit of Parent Company
+As permitted under Section 230 of the Companies Act 1985, the profit and loss account 
+of the Company is not presented as part of these financial statements. 
+Notes to the  
+Company Balance 
+Sheet
+Company 
+Balance Sheet
+As at 31 December 2007
+Year to 
+31 December
+2007   
+Period to
+31 December
+2006   
+Note  '000  '000
+NON-CURRENT ASSETS
+Tangible assets
+Investments
+36
+37
+71
+105,957
+71
+37,895
+106,028 37,966
+CURRENT ASSETS
+Debtors
+Cash at bank 
+38 819
+2,715
+10,384
+5,950
+3,534 16,334
+CREDITORS: Amounts falling
+due within one year 39 (16,695) (12,081)
+NET CURRENT (LIABILITIES) / ASSETS (13,161) 4,253
+TOTAL ASSETS LESS CURRENT LIABILITIES 92,867 42,219
+CREDITORS: Amounts falling
+due after more than one year 40 (48,203) (16,621)
+NET ASSETS 44,664 25,598
+CAPITAL AND RESERVES (EQUITY)
+Called up share capital
+Share premium account
+Staff remuneration reserve
+Profit and loss account
+43
+43
+44
+44
+3,308
+36,643
+443
+4,268
+2,156
+22,517
+128
+797
+SHAREHOLDERS' FUNDS (EQUITY) 44,662 25,598
+The financial statements were approved and authorised for issue on 16 April 2008 by the 
+Board of Directors.  They were signed on its behalf by:
+Tim Alderson 
+Director 76 77
+T he	adjustment	t o	consider ation	r elat es	t o	a	c hange	in	the	def err ed	consider ation	of	
+completed acquisitions under the terms of the relevant sale and purchase agreements. 
+In	addition, 	the	adjustment	inc ludes	acquisition	costs	pr e viously	inc luded	in	 amounts	
+due from subsidiary undertakings  in the prior year.
+The principal Group companies at 31 December 2007 are set out below:
+Subsidiary
+Undertaking
+Nature of
+Business
+Proportion of the
+Ordinary Shares and 
+voting rights held by the 
+company:
+Big Communications 
+Limited
+Brand planning and strategic 
+development
+100%
+Fuse Digital Limited New media marketing, including 
+website design and advertising, 
+SMS messaging, digital video 
+and database management
+100%
+Bray Leino Limited Advertising, events, PR, digital
+and learning and development
+100%
+Bastin Day
+Westley Limited
+Property marketing, providing 
+advertising, media, brochures, 
+signage, exhibitions, CGI, 
+animation, intranet, photography
+100%
+April-Six 	 Limit ed Integrated communications 
+agency specialising in the 
+technology sector
+100%
+Story UK Limited Brand development and 
+creative direct communication
+100%
+RLA Group Limited Marketing and communications 100%
+T he	abo v e	list	e xc ludes	det ails	of	non-tr ading	dormant	subsidiaries . 	 All	of	the	subsidiar y	
+undertakings are incorporated and operate in the United Kingdom.
+38. Debtors
+Year to
+31 December
+2007
+Period to
+31 December
+2006
+ '000  '000
+Trade debtors
+Amounts due from subsidiary undertakings
+Prepayments
+Other debtors
+-
+592
+78
+149
+8
+10,331
+45
+-
+819 10,384
+36. Tangible Fixed Assets
+Fixtures
+& Fittings
+Office
+Equipment Total
+ '000  '000  '000
+Cost
+At 7 March 2006
+Additions
+-
+31
+-	
+52
+-	
+83
+At 1 January 2007
+Additions
+31
+5
+52
+16 
+83
+21 
+At 31 December  2007 36 68 104
+Depreciation 
+As at 7 March 2006
+Charge for the period
+-	
+8
+-	
+4 
+-	
+12
+At 1 January 2007
+Charge for the year
+8
+5
+4 
+16 
+12 
+21
+At 31 December  2007 13 20 33 
+Net book amount at 31 December 2007 23 48 71 
+Net  book amount at 31 December 2006 23 48 71
+37. Investments
+Shares in
+subsidiary undertakings
+ '000
+Cost
+As at 1 January 2007
+Additions
+Adjustment 	 t o 	 consider ation
+37,895
+56,068
+11,994
+As at 31 December 2007
+105,957
+Net book amount at 31 December 2007
+105,957
+Net book amount at 31 December 2006 37,895 78 79
+T he	Compan y	has	a	5	y ear	r e v olving	cr edit	f acility	of	up	t o	 25.7m	of	whic h	 25.4m	
+(2006: 	 8m)	has	been	dr awn	do wn	and	 22.4m	(2006: 	 7.3m)	is	inc luded	in	noncurr ent	
+liabilities . 	 T he	r emaining	 3.1m	(2006: 	 0.7m)	is	inc luded	in	curr ent	liabilities .
+T he	r e v olving	cr edit	f acility	is	subject	t o	r epa yment	on	a	quar t erly	basis	with	maturity	
+shown above. The interest is payable by reference to LIBOR plus 2 per cent which is 
+subject	t o	a	do wnw ar d	r atc het	on	ac hie v ement	of	cer t ain	r atios	of	debt	t o	EBITD A	on
+an annual basis.
+As	at	31	December	2007, 	Net	 Assets	of	the	Gr oup	w er e	 44,665,000, 	and	net	borr o wings	
+under	this	Gr oup	arr angement	amount ed	t o	 25,445,000. 	
+All borrowings are in sterling.
+42. Acquisition Obligations
+The terms of an acquisition may provide that the value of the purchase consideration, 
+which may be payable in cash or shares or other securities at a future date, depends
+on uncertain future events such as the future performance of the acquired company.
+The Directors estimate that the liability for payments that may be due are as follows:
+Initial
+Consideration
+Loan Notes
+Additional 
+Consideration
+Loan Notes
+Shares to 
+be issued Total
+ '000  '000  '000  '000
+Less than one year
+Between one and two years
+Between two and three years
+Between three and four years
+3,449
+1,168
+207
+-
+-
+5,137
+3,230
+4,234
+450
+4,380
+3,230
+4,234
+3,899
+10,685
+6,667
+8,468
+4,824 12,601 12,294 29,719
+43. Share Capital and Share Premium
+The movements on these items are disclosed within the consolidated statement of 
+changes in equity within the consolidated financial statements.
+44. Statement of Movements on Reserves
+Staff remuneration 
+reserve
+Profit and
+loss account
+ '000  '000
+At 1 January 2007
+Credit for share option scheme
+Profit for the period
+Dividends
+128
+315
+-
+-
+797
+-
+3,780
+(309)
+At 31 December 2007 443 4,268
+As permitted by Section 230 of the Companies Act 1985, the Company has not presented 
+its own profit and loss account. The profit for the financial year relating to the Company 
+amount ed	t o	 3,780,314	(2006: 	 797,000).
+39. Creditors: Amounts Falling Due Within One Year
+Year to
+31 December
+2007
+Period to
+31 December
+2006
+ '000  '000
+Trade creditors
+Amounts due to subsidiary undertakings
+Social security and other taxes
+Accruals
+Acquisition 	 obligations 	 (see 	 not e 	 42)
+Bank 	 loan 	 (see 	 not e 	 41)
+Other creditors
+-
+8,543
+28
+649
+3,899
+3,062
+514
+19
+3,609
+51
+551
+7,151
+700
+-
+16,695 12,081
+40. Creditors: Amounts Falling Due After More Than One Year
+Year to
+31 December
+2007
+Period to
+31 December
+2006
+ '000  '000
+Acquisition 	 obligations 	 (see 	 not e 	 42)
+Bank 	 loan 	 (see 	 not e 	 41)
+25,820
+22,383
+9,321
+7,300
+48,203 16,621
+No interest attaches to the acquisition obligations, which are payable in sterling.
+41. Borrowings
+Year to
+31 December
+2007
+Period to
+31 December
+2006
+ '000  '000
+Bank overdraft
+Bank loan
+-
+25,445
+-
+8,000
+25,445 8,000
+The borrowings are repayable as follows:
+Less than one year
+In one to two years
+In more than two years but less than three years
+In more than three years but less than four years
+In more than four years but less than five years
+In more than five years
+3,062
+4,687
+5,348
+6,381
+5,967
+-
+700
+1,700
+1,700
+1,700
+1,700
+500
+25,445 8,000
+Less: Amount due for settlement within 12 months 
+(sho wn 	 under 	 curr ent 	 liabilities) (3,062) (700)
+Amount due for settlement after 12 months 22,383 7,300

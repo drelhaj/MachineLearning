@@ -1,0 +1,203 @@
+ Mineral Resource Statement
+AMC Consultants Pty Ltd (AMC ) completed a Mineral Resource
+Estimate for VGM using geological and assay data available at 30
+March 2011. The data supplied by VGM allowed AMC to
+generate a constrained grade model and estimate a Mineral
+Resource. AMC estimated the Mineral Resources using the
+end of June 2011 surveyed face positions. The Mineral
+Resources at 31 August 2011 were estimated by subtracting
+the production for the months of July and August 2011.
+The VGM Mineral Resource estimate is classified into
+Measured, Indicated and Inferred Mineral Resources based on
+the current drillhole spacing, quality of the drilling information
+and confidence in the geological controls on the gold
+mineralisation and grade continuity. The Mineral Resource
+estimate includes Measured and Indicated Mineral Resources
+that will convert to Ore Reserves on application of modifying
+factors.
+The AMC Mineral Resource estimate is classified and reported
+in accordance with the 2004 JORC Code.
+1
+The information in this statement of Mineral Resources is
+based on information compiled by Mr John Tyrrell who is a
+Member of the Australasian Institute of Mining and Metallurgy
+and a full-time employee of AMC Consultants Pty Ltd. 
+Mr Tyrrell has sufficient relevant experience to be a Competent
+Person as defined by the JORC Code. Mr Tyrrell consents to
+the inclusion of this information in the form and context in
+which it appears. Mineral Resources listed as being prepared
+by AMC were estimated under the direct supervision of Mr
+Tyrrell.
+VATUKOULA GOLD MINES PLC ANNUAL REPORT 2011 33
+RESERVES AND RESOURCES
+AMC estimated a Proved and
+Probable Ore Reserve of 3.3 Mt at
+7.5 grams of gold per tonne for
+contained gold of 0.79 Moz using a
+gold price of US$1400/oz with a
+4.48 grams of gold per tonne cut-off.
+Overview Performance Governance
+Financial Statements
+& Other Information
+7.4 
+Total Measured Resource (Mt)
+4.4
+Total Indicated Resource (Mt)
+4.6 
+Total Inferred Resource (Mt)
+1. Australasian Code for Reporting of Exploration Results, Mineral Resources and Ore 
+Reserves, The JORC Code 2004 Edition, Effective December 2004, Prepared by the 
+Joint Ore Reserves Committee of the Australasian Institute of Mining and Metallurgy, 
+Australian Institute of Geoscientists and Minerals Council of Australia (JORC).
+Vatukoula Layout 2011 1.7_Layout 1  30/12/2011  12:39  Page 33 The following notes highlight assumptions used to generate
+the VGM underground Mineral Resource estimate:
+  An intercept width times gold the cut of grade (COG ) of 4 
+metre grams of gold per tonne (m.g/t Au) and a gold 
+COG of 2 grams of gold per tonne were applied to the 
+resource models to obtain the estimated Mineral Resources.
+  The Mineral Resource models were depleted for mining to 
+31 August 2011, using surveyed mine outlines to 30 June 
+2011 and production figures for July and August 2011 
+  The Mineral Resource models use geological and assay 
+data available at 15 April 2011.
+  The mineralised envelope was defined using geological 
+logging and assay information from diamond drillholes 
+using a nominal lower gold cut-off grade of 1 m g/t Au.
+  Extrapolation of the interpreted mineralised structure was 
+limited to 20m to 50m between section lines and 5m to 
+25m at the ends of each section.
+  Samples are prepared and analysed by fire assay using a 
+25g charge at the on-site laboratory.
+  In situ density data was available from drillhole sampling. 
+Densities were assigned to each of the modelled structures
+based on the average results from all available samples.
+  The estimation method used 3D wireframe and block 
+modelling projected to a 2D plane, with ordinary kriging 
+interpolation. A grade variable (the product of the 
+horizontal or vertical intercept width and grade) was 
+estimated using modelled semi-variograms and 
+geostatistical analysis to determine kriging search 
+parameters. The intercept width was estimated separately 
+and the grade back-calculated.
+  Grade times thickness top-cutting was applied in 
+calculating the grade times thickness variable.
+  The metallurgical response for the orebodies is well 
+understood from actual production. No recovery factors 
+were applied to the Mineral Resource estimate.
+Tailings Mineral Resource
+The Tailings Mineral Resource estimate is an estimate
+developed by CSA Global (CSA ).  In March 2008, CSA
+compiled an independent Competent Persons Report titled An
+Independent Competent Persons report for River Diamonds
+PLC covering the Vatukoula Gold Mine in Fiji, the Panguma
+Prospect in Sierra Leone and the Rio Novo Gold Prospect in
+Brazil (CSA CPR), for inclusion in the application for
+readmission to trading on the Alternative Investment Market
+(AIM) of the London Stock Exchange.
+  The CSA CPR reported the 2006 Mineral Resources, 
+including the Tailings Mineral Resource, according to the 
+JORC Code. No further estimates or data is available at the
+time of this report. AMC cannot verify the estimate and 
+allocate a low reliability to the estimate.
+  The Tailings Mineral Resource is 200,000 ounces of gold, 
+and approximately 10% of the total Measured and 
+Indicated Mineral Resources at VGM. AMC believes that 
+the Tailings Mineral Resource may provide an opportunity 
+to improve the output of the operation, but also believes 
+the relevance of the Tailings Mineral Resource is low. VGM 
+plans to review the tailings resource in conjunction with the 
+results of exploration programmes currently under way, to 
+determine the preferred means to extract the contained 
+gold. VGM production plans do not include the Tailings 
+Mineral Resource pending this review and conversion of 
+mineral resources to ore reserves.
+Overall there has been an increase in 201,000 ounces from the
+2010 Mineral Resources. These changes are attributable to:
+  reductions due to depletion of the models between faces - 
+126,000 ounces of gold.
+  additions due to reinterpretation of previously modelled 
+mineralised structures - 214,000 ounces of gold.
+  additions due to modelling of additional mineralised 
+structures - 113,000 ounces of gold.
+34 VATUKOULA GOLD MINES PLC ANNUAL REPORT 2011
+RESERVES AND RESOURCES (CONTINUED)
+Mineral Resource Table 2011 2010
+Contained Contained 
+Tonnes Grade Gold Tonnes Grade Gold
+(Mt) (g/t Au) (Moz) (Mt) (g/t Au) (Moz)
+Total Measured Resource 7.4 6.0 1.4 7.8 5.6 1.4
+Total Indicated Resource 4.4 8.8 1.3 4.0 9.3 1.2
+Total Inferred Resource 4.6 9.7 1.5 4.2 9.9 1.3
+Total Mineral Resource 16.4 8.0 4.2 16.0 7.6 3.9
+Vatukoula Layout 2011 1.7_Layout 1  30/12/2011  12:39  Page 34 Ore Reserve Statement
+Based on the mine design generated by AMC and within the
+Measured and Indicated Mineral Resource portions of the
+underground VGM deposits, AMC estimated a Proved and
+Probable Ore Reserve of 3.3 Mt at 7.5 grams of gold per tonne
+for contained gold of 0.79 Moz using a gold price of
+US$1400/oz with a 4.48 grams of gold per tonne cut-off.
+The methodology used to determine the 2011 ore reserve
+estimate required stopes to be split into panels to allow some
+stopes to be partially mined such that only the panels with
+reserve classification were considered. Access development to
+the reserve stopes has been added to the mine plan if the
+panels meets the reserve classification. 
+The VGM Ore Reserve estimate is classified and reported in
+the Mineral Reserve Table below in accordance with the 2004
+JORC Code.
+The reduction in Ore Reserve estimate from the 2010 estimate
+is mainly attributable to mining depletion over the past year,
+with some minor additions due to changes in the stope
+designs and cut-off grade.
+Mineral Resources were converted to Ore Reserves
+recognising the level of confidence in the Mineral Resource
+estimate and reflecting any modifying factors. Ore Reserves
+are included in the Mineral Resources estimate throughout this
+report.
+The metal prices, grades, recoveries and costs were used to
+identify mineable blocks to be included in the Ore Reserve
+estimate. The metal prices and exchange rate used in the
+Ore Reserve estimate are:
+  Gold: US$1400/oz
+  Exchange Rate: F$1.00 = US$0.54.
+The underground Ore Reserve estimates comprise the portions
+of the Measured and Indicated Mineral Resources for which
+the appropriate mine planning has been undertaken and can
+be economically mined. The Ore Reserves are derived from the
+Mineral Resources by application of cut-off grades, stoping
+heights, dilution factors and extraction ratio.
+The Proved Ore Reserve estimate is based on Mineral
+Resources classified as Measured, while the Probable Ore
+Reserve estimate is based on Mineral Resources classified as
+Indicated after consideration of all mining, metallurgical, social,
+environmental, statutory and financial aspects of the project.
+The Ore Reserve statement is based on information compiled
+by Mr Junior Oding under the direct supervision of Mr David
+Lee. Mr Oding and Mr Lee are both Members of the
+Australasian Institute of Mining and Metallurgy and full-time
+employees of AMC Consultants Pty Ltd. Mr Lee has sufficient
+relevant experience to be a Competent Person as defined by
+the JORC Code.
+The following notes highlight assumptions used to estimate
+the VGM Ore Reserve estimate:
+  Cut-off grade of 4.48 grams of gold per tonne.
+  Minimum stope mining width of 1.07m.
+  10% stope mining dilution.
+  95% development recovery
+AMC estimated the Ore Reserves using the end of June 2011
+surveyed face positions. The Ore Reserve at 31 August 2011
+was estimated by subtracting the production for the months of
+July and August 2011.
+VATUKOULA GOLD MINES PLC ANNUAL REPORT 2011 35
+Overview Performance Governance
+Financial Statements
+& Other Information
+Mineral Reserve Table 2011 2010
+Contained Contained 
+Tonnes Grade Gold Tonnes Grade Gold
+(Mt) (g/t Au) (Moz) (Mt) (g/t Au) (Moz)
+Total Proved Ore Reserve 0.59 8.96 0.17 0.60 10.40 0.19
+Total Probable Ore Reserve 2.67 7.24 0.62 2.80 7.00 0.64
+Total Ore Reserve 3.26 7.55 0.79 3.40 7.60 0.83
+Note: Values are rounded and may not add correctly in this table.
+Vatukoula Layout 2011 1.7_Layout 1  30/12/2011  12:39  Page 35

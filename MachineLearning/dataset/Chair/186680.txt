@@ -1,0 +1,192 @@
+ I am very pleased to report that 2003 sales, profits and cash all reached record levels,
+surpassing our record achievements in 2002. Our results for 2003 are particularly pleasing
+given that trading conditions for IT companies generally have continued to be challenging. Sales
+revenue increased by 9% to  42.7 million, compared with  39.0 million in 2002. Earnings
+Before Interest, Tax, Depreciation and Amortisation (EBITDA) increased 20% to  4.8 million for
+2003, compared with  4.0 million for 2002. Cash balances improved by  2.8 million, 15%, to
+ 21.8 million over the course of the year.
+It is just over 10 years since we changed our company name to Staffware. Staffware has since this time achieved 38% p.a. average compound
+sales growth, having increased sales approximately 25 fold in that timeframe. During the same period, we have increased earnings per share
+pre goodwill 13 fold from 1.7p to 22.7p in 2003. I believe these are all noteworthy achievements for Staffware in the fast moving and volatile
+software industry.
+Staffware plc Annual Report and Accounts 2003 Chairman and Chief Executive's Statement 
+Chairman & Chief Executive's Statement
+by John O'Connell
+Revenue
+The record revenue came as a result of solid performance in the fourth
+quarter of  13.4 million sales, representing a 5% increase of  0.7 million on
+the fourth quarter 2002 (2002:  12.7 million).
+For the year, licence sales were driven by the strong growth of licence sales
+of our Business Process Management flagship product, the iProcess Engine,
+which increased 128% over 2002 to  16.4 million (2002:  7.2 million). The
+success of the iProcess Engine now means that it accounts for 75% of our
+total licence revenue, compared with 33% in 2002. Overall licence sales
+were  21.9 million, a marginal increase compared with  21.6 million in
+2002, representing 51% of total sales, compared with 55% in 2002. 
+There was a 41% increase in our Maintenance Support revenue to  12.8
+million (2002:  9.1 million), which is a strong indicator of the continued
+loyalty of our growing customer base of 677 organisations on support
+contracts, up from 661 the previous year. Our high rate of support contract
+renewals resulted in annualised support revenue at the end of 2003 of
+ 13.7 million, an increase of 37% compared with  10.0 million at the end
+of 2002.
+Profitability improved in our Professional Services businesses which
+comprise on-site design and integration services, plus training. Whilst there
+was an overall decrease in sales revenue of 6% to  7.8 million compared
+with 2002 ( 8.3 million), profits increased by 25% to  1.0 million. This was
+the result of the continued policy of shortening implementation timescales
+and the successful transfer of Staffware skills to both partners and
+customers. Overall, more than 200 projects were completed successfully in
+the year, underlining Staffware's valuable expertise in the deployment of
+BPM/Workflow technology, globally. These included high profile projects in
+Asia for the Hong Kong Immigration Department, ADP Brokerage Services
+in the USA and the Royal Bank of Scotland in the UK. 
+Our licence average order value, improved by 10% to  103,000, compared
+with  94,000 last year. The proportion of sales to existing customers
+extending their use of Staffware technology was 70%, which compares with
+68% in 2002 and 50% in 2001, again signifying our customers' satisfaction
+with our product and services. 
+Deferred income increased 19% to  9.6 million (2002:  8.1 million), all of
+which will be realisable as revenue during 2004. This includes  0.4 million
+licence revenue.
+In 2003, we signed 9 (2002: 7)  500,000 plus contracts. These included
+the Royal Bank of Scotland, Global Home Loans and a Government
+department in the UK; ABN AMRO and KPN in Holland; a large Telco in
+Poland; Mutual & Federal in South Africa; and ABN AMRO and a global
+financial services company in the US. 
+3
+Our results for 2003 are
+particularly pleasing given that
+trading conditions for IT
+companies generally have
+continued to be challenging.
+Compared to 2002, sales revenue
+increased by 9% to  42.7 million
+and Profit after Tax increased by
+38% to  2.2 million.
+
+
+John O'Connell Chairman & Chief Executive
+15 March 2004 people-to-people 
+ 
+people-to-application 
+ 
+application-to-application
+Geographical Distribution
+For the year overall, by region, the UK/SEEMA division led with major
+deals in the UK and Poland; in Germany, our business enjoyed a
+remarkable turnaround from 2002 and there were noteworthy improved
+performances also in Australia, the Nordic region, Spain and South Africa.
+Staffware in the Netherlands continued to be very profitable, despite
+some deals slipping into 2004. Our businesses in Asia and France did
+not achieve expectations but we do anticipate improved results in 2004.
+Our Americas division achieved its second profitable year in succession
+with $9.8 million of sales in 2003 (2002: $7.8 million) representing 26%
+growth. Our progress here provides the Company with a solid platform for
+continued organic growth and the potential for future acquisitions.
+Flagship customers there include ABN AMRO, UnumProvident and ADP
+Brokerage Services. 
+Overall, 70% of sales were outside of the UK, evidence of the
+increasingly international nature of our business (2002: 65%). Sales by
+destination in pounds sterling terms were as follows:
+% 2003 2002
+UK 30 35
+Rest of Europe 37 32
+Americas 14 13
+Australia 7 11
+Asia Pacific 4 5
+Rest of World 8 4
+T otal 100 100
+Vertical Market Distribution
+The Financial Services Industries - Retail/Wholesale Banking and Insurance
+- again pre-dominated, reflecting our ability to leverage our excellent
+reputation in these markets. Telecommunications was also a strong market,
+driven by our focus on applications to help improve internal efficiencies with
+high ROIs. The Government sector remains a target for Staffware in the
+short and medium term as both central and local governments around the
+world invest to streamline their organisation and improve services to their
+citizens. Overall, the main markets were:
+% 2003 2002
+Finance 38 33
+Insurance 11 16
+T elecommunications 19 11
+Government (Central and Local) 15 19
+Other 17 21
+T otal 100 100
+Working Capital
+Cash collections reached a record of  46.6 million in 2003 (2002:  39.6
+million). At 31 December 2003, cash resources had increased by  2.8
+million, an increase of 15% to  21.8 million (2002:  19.0 million). The
+Group had no material indebtedness. Trade debtors stood at  12.2 million at
+31 December 2003 (2002:  12.3 million) representing approximately 54
+days of sales (2002: 61 days) as we have continued to focus on working
+capital management. 
+Product Development
+During the year, we continued to focus significant investment in R&D, an
+increase of 6% to  7.5 million (2002:  7.1 million), representing 18% of
+sales (2002: 18%). This compares with the UK and global software industry
+averages of 7% and 11% respectively (source: The 2003 R&D Scoreboard;
+Department of Trade and Industry). Since our IPO seven years ago, we have
+invested an average of 18% of our sales in Product Development, amounting
+to  40 million, which we believe is a major factor in maintaining our
+leadership as a best of breed BPM provider internationally.
+Version 2 of the Staffware Process Suite was officially released on 25 June
+2003. This contains a number of new features to make it more attractive to
+IT professionals who design, integrate and deploy medium to high volume
+mission critical process-centric applications in complex IT environments. The
+Staffware Process Suite is now available on a broad range of technology
+platforms, so as to appeal to most organisations which utilise a diverse mix
+of technologies. The Staffware Process Suite has consistently proven its
+capability of enhancing our customers' investments in IT, by streamlining
+interconnecting transactions, as the  Independent Process Layer'. We also
+now integrate with a wide range of third party products.
+Dividend
+The Board of Directors recommends that a final dividend for 2003 of 5.0p
+per ordinary share (2002: 4.0p), an increase of 25%, be paid on 27 April
+2004, to shareholders on the register at the close of business on 02 April
+2004, subject to approval at the AGM on 23 April 2004. This makes a total
+of 7.0p for the year, compared with a total of 5.0p for 2002, an increase of
+40% overall, recognising the continuing improvement in our performance, our
+ability to generate cash and our desire to deliver value to our shareholders as
+our strategy delivers increasing returns.
+Staff
+Our management and staff built on an excellent performance in 2002, with
+significant improvements in all areas of our business. Specifically, the key
+ratios of sales per sales person increased by 29%; revenue per support
+person also rose by 27%, as did revenue per professional services person, by
+10%. The majority of our regions achieved increased profits from increased
+sales revenue. Our product development teams in the UK and the USA
+applied their acknowledged expertise to develop market leading capability in
+our technologies. Our finance and administration support teams enabled us
+to tightly manage and finance our business, whilst our marketing functions
+helped to generate more sales opportunities and increase Staffware's profile
+in the fast developing BPM market. Overall, I believe we have a world class
+team, who have responded magnificently to the opportunities and challenges
+of last year.
+Outlook
+The market potential for BPM is becoming more clearly defined and
+recognised with the release of more technology analysts' reports and
+industry reviews. In particular, the first version of the Gartner Magic Quadrant
+for BPM was released in June of last year with Staffware being highlighted
+as one of only 4 companies (and the only non-American company) in their
+top segment.
+The increasing profile of the BPM market has gained the attention of some
+of the leading IT providers. Some will be potential collaborators, whilst others
+may well become competitors. This is a trend to be expected of any healthy
+growing market and we at Staffware are gearing up to be an even more
+attractive partner to such collaborators, whilst continuing to invest to
+enhance our competitive position and leveraging our best of breed software
+as market opportunities become more numerous. With this in mind, we
+expect to increase the number of sales heads as the year progresses. 
+Although the software licence business model can be inherently volatile
+affecting the timing and recognition of revenues, the increase in our average
+order value for licences, together with the leap in support maintenance
+revenue, indicates the growing confidence of our customers in our
+technology and organisation.  
+With Staffware now acknowledged as the No. 1 European BPM software
+provider** we believe we have a strong platform to leverage our leading
+position on a global basis both organically and through mergers and
+acquisitions including in the USA. Consequently, the Board looks forward to a
+period of sustained growth.
+** Gartner, January 2004
+4

@@ -1,0 +1,110 @@
+ MicroEmissive Displays is delighted to present its first set of results as a public company. These results mark a
+turning point in the Company's history as we move from technology development to full volume ramp up of our
+unique microdisplays for a variety of portable consumer electronics products.
+During 2004 MED transformed from a promising University spin-out, to a public company admitted to the AIM
+market of the London Stock Exchange. Though young, the company has developed a unique and competitive
+technology which addresses growing mainstream consumer markets. The flotation in November 2004 was not an
+exit of itself for any of our investors; many of them participated further in the placing.
+MED is at an early stage and its most significant challenge will be to ramp production to meet a share of the
+projected 29M unit market for microdisplays in 2006. Recent market updates reinforce this opportunity.
+None of this can be realised without the skill and dedication of employees. It is my pleasure to acknowledge the
+efforts of our staff, and to thank them for their continuing exceptional contributions.
+IhavebeenprivilegedtoactaschairmanofMEDoverthepastfiveyears.Iintendtostepdownfromthisroleatthe
+Annual General Meeting in June but remain as a non executive director where I believe that my semiconductor
+experienceandknowledgeoftheconsumerimagingmarketwillcontinuetoaddvaluetothecompany.Christopher
+Smith has been appointed as a non executive director of the company and it is proposed that his appointment to
+therole of chairman of MED isconfirmed at thecompany's Annual GeneralMeeting. Christopher brings awealth of
+experience in directing the boards of private and publicly quoted companies.
+Results
+Turnover for the year to 31 December 2004 was  12,000 (2003:  12,000) which in Q4 2004 included the first
+revenue from sales of MED's QVGA resolution microdisplay products. During the year the company continued to
+promote the design-in of its microdisplay into customers' new products through the sale of development kits.
+Operating costs in the year increased by  1.2m (37%) to  4.4m (2003:  3.2m) due to the expansion in MED's
+operating activities following the completion during H1 2004 of its pilot production line. Production staff for the pilot
+line were recruited during H2 2004 and average staff numbers for the year increased to 31 (2003: 23). Costs
+incurred in the development of the production process were a significant factor in the increase in the loss for the
+year to  4.4m (2003:  3.3m).
+Recoverable VAT contributed to the high debtor balance ( 0.5m) reported at year end. Due to the company's
+anticipated level of VAT zero rated sales, MED is, and can be expected to remain, in a net repayment position for
+VAT purposes.
+MEDisalicenseeofCDTLtdwiththelicenceprovidingaccesstothefundamentalpatentsfororganiclightemitting
+polymer technology. The expansion of this licence contributed to an increase in the value of our intangible assets
+which after amortisation amounted to  2.1m (2003:  1.9m).
+On 30 November 2004 MED was admitted to the AIM market of the London Stock Exchange. At the time of
+admission, MED increased its share capital by way of a placing of ordinary shares raising approximately  13.5m
+cash in net proceeds. New funding in the year also included approximately  3m in a venture capital funding round
+completedinApril2004.Cashbalancesat31December2004were 12.7mandwillenablethecompanytofurther
+expand its operations and begin to develop a significant share of the microdisplay market.
+Markets
+MED's initial market focus for its EVF and micro panel products is primarily in the high growth Digital Still Camera
+sector.Independentmarketresearchers,InsightMediaandTechnoSystemsResearch,forecastthatthissectorwill
+doubleinsizeoverfouryearstoreach100Munitshipmentsperannumby2007.SignificantlyforMED,itisreported
+thatapproximately30%oftheseunitswillincludeanelectronicviewfinder.MED'smicrodisplayfeaturesetoflowest
+power, excellent image quality and electronic integration offers our customers a competitive advantage in their
+markets where these features are critical to added value and product differentiation. MED's ambition is to service
+this sector as market leader by 2008.
+MED'sproductshavealsoreceivedfavourablereviewsintwoemergingmarkets:personalviewers(oftendescribed
+as wearable or headset displays) and night vision products. MED is confident that power consumption, image
+quality and cost will remain the key drivers in microdisplay applications and that its products provide a platform to
+secure market leadership.
+MEDhavelongstandingrepresentativeandagencyagreementswithlocalcompaniesinTaiwan,KoreaandJapan
+to service demand for its products. These three countries generate the majority of all Digital Still Camera designs
+and development. MED intends to continue to expand its distribution channels during 2005.
+MICROEMISSIVE DISPLAYS GROUP PLC
+Chairman'sstatement
+3 Product definition for the Personal Viewer market is more geographically diverse; however, much of the
+development and manufacturing will be centred in Asia.
+Customersandapplications
+During 2004 the Company secured its first two design wins with companies who plan multiple products featuring
+MED microdisplays. In meeting these multiple product requirements MED's display device represents a common
+platform for the display component in all of these customer product variants. The display component requires only
+minor changes to the display lens to meet the specific customer end product application.
+ThefirstcustomerapplicationforMED'smicrodisplayisinanultra-compactUSB-enabledDigitalStillCamerawhich
+can also operate as a video camera and MP3 music player. Developed by NHJ, a Tokyo-based company, the
+product is a member of their   Cheez'' brand family, which is commonly available worldwide in retail stores and
+through specialist catalogue distribution channels.
+The second application is a British designed consumer night vision product used, for example by naturalists and
+fieldsportsenthusiasts.This productto bemanufactured inAsia isthefirst inaseries ofsevenvariants plannedby
+our customer. Initial response to this product has been better than expected as its low cost, high resolution night
+time viewing characteristics is generating considerable interest for security applications.
+Sincetheyearend,theCompanyhasreceivedanorderfromamilitarycustomerfordevicestobeusedintheearly
+development of a new personal viewer.
+Productdevelopments
+In November 2004 MED initiated the development of a second microdisplay product which is planned for market
+introductionin2006.ThiswillbetargetedatthepersonalviewermarketaswellasexpandingMED'sapplicationsin
+digital still cameras.
+IPR
+At the end of 2004, applications were progressing internationally on 14 MED patent families, and during the year,
+the first of these was granted in one jurisdiction (Europe). Additional applications, and possibly further grants, are
+likely to be made during 2005. This is a strong showing for a technology company at this stage of growth, and
+demonstrates the quality of our intellectual property asset base.
+Followingtheplacing,ourlicencefromCDTLtdwasimprovedtoremovefromMEDtheobligationtolicensebackto
+CDT new developments relevant to LEP devices. This gives MED greater independence and will safeguard and
+enhance shareholder value.
+Strategy
+A key component of the Company's strategy, and a major reason for its flotation, is to secure a volume
+manufacturing capability through partnership, acquisition or by commissioning new plant. The Company's
+preference is to enter into partnership with a company already experienced in display manufacture. Putting this
+resource in place, and ready to contribute revenue in 2006, is a crucial step for MED.
+Followinganextensiveworldwidereviewofpotentialpartners theCompanyisinfinaldiscussionswithashortlistof
+three organisations that have the skills and facilities to support MED's volume manufacturing. MED anticipate that
+this selection will be finalised in Q2 2005.
+A supply agreement is in place with Dow Chemical for the supply of polymer materials and in March 2005 we
+announced UMC of Taiwan as our volume silicon wafer foundry.
+Currenttradingandoutlook
+MED commenced shipment of devices to support pre-production runs at two customers during the 1st quarter of
+2005. Shipping the preproduction prototyping quantities enabled MED to finalise the customer and product
+performanceobjectives,andourengineeringteamisnowworkingtowardsastablemanufacturingprocesstomeet
+those needs. Commencement of volume shipments is anticipated in the second half of 2005. The Company enters
+2005 with an encouraging order book.
+The Company continues to work diligently to optimize production yields and considerable progress in this respect
+has been made since production activities began in November 2004.
+MICROEMISSIVE DISPLAYS GROUP PLC
+Chairman'sstatement (continued)
+4 Throughout 2005 the Company will ramp volume and yield, though we are unlikely to maximise our potential until
+volume manufacturing capacity is brought on stream. The Company is on track to meet Directors' expectations.
+PBDenyer Edinburgh
+Chairman 15 April 2005
+MICROEMISSIVE DISPLAYS GROUP PLC
+Chairman'sstatement (continued)
+5

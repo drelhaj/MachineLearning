@@ -1,0 +1,136 @@
+ MONITISE PLC REPORT & ACCOUNTS 2007 3
+OVERVIEW
+I am pleased to report the first results for the Monitise group (the Group) since its demerger from Morse plc
+and admission to the Alternative Investment Market (AIM) on 28 June 2007. In the last year we have made
+strong progress both with our UK business and our international expansion strategy and we are extremely
+well-positioned to become a leading mobile banking and payments platform.
+This was our first full year of trading since Monitise commenced operations as a separate operating company
+within Morse plc in October 2005. The Group is still in its investment phase and, consistent with this and in
+line with the Board's expectations, we reported an operating loss, after  0.6m of exceptional charges, of
+ 8.7m, (nine months ended 30 June 2006:  3.3m) and a doubling of turnover to  0.5m (nine months ended
+30 June 2006:  0.2m).
+This year has seen the Group establish the foundations for its next phase of growth. We have now created
+the first mobile banking and payments ecosystem in the UK market. Importantly, our secure, robust method
+of delivering bank-grade transactions via an intuitive interface on mobile devices is not tied to proprietary bank
+or operator technologies, which gives us the ability to provide our service to all of the major banks and mobile
+operators. Moreover, by leveraging and replicating the existing ATM technical infrastructure already 
+ATM/payment switches. 
+The international mobile banking and payments market is growing very rapidly and we have entered this
+market with a strong foundation of proven, trusted technology and established relationships with high-profile
+banks, mobile operators and switch providers.
+Based on the success of the MONILINK service in the UK and our recently agreed joint venture in the United
+States, we are confident that our ecosystem model provides the most sustainable route to market for banks
+looking to provide mobile banking and payment services in other territories, providing them with rapid returns
+and helping them introduce new value added services to their customers.
+Our vision is to deliver low-cost mobile banking for the mass market and we aim to become a leader in mobile
+banking services worldwide. Having established our platform in the UK and built strong operational and
+contractual relationships with a significant number of banks and mobile operators, including global brands
+such as HSBC, The Royal Bank of Scotland Group, Vodafone, O
+2
+(part of Telefonica) and Orange (part of
+France Telecom), we are seeing our customers acting as advocates for the adoption of Monitise services in
+the other geographies in which they operate.
+OUR MARKET AND MODEL
+Although the mobile banking and payments market is still in the early stages of development, the evidence
+suggests that it should rapidly become one of the main channels to market for banks and financial services
+firms. Banks around the world have progressively expanded banking services from branch networks to 
+self-service channels (such as ATMs) to internet banking and telephone banking. Our view is that mobile
+banking is now the logical continuation of this trend, leveraging automation to reduce costs and improve
+customer convenience. In addition to delivering new income streams and providing cross-selling opportunities
+for banks, mobile banking has the potential to reduce the incidence of fraud, protect the banks from
+disintermediation of transaction business and provide a response to the increasing regulatory pressure 
+for transparency.
+Chairman's Statement
+
+We have made strong progress both with our
+UK business and our international expansion
+strategy and we are extremely well-positioned 
+to become a leading banking and payments
+platform.
+ 
+Duncan McIntyre
+Chairman
+74338 pre  17/9/07  19:30  Page 3
+used by all of the major retail banks, we have ensured simplicity of implementation for banks and MONITISE PLC REPORT & ACCOUNTS 2007 4
+HSBC and first direct were proud to be the global pioneers of the MONILINK service
+when it launched in 2006.   
+first direct, through its award winning SMS balances and alert service, was already a
+recognised leader in mobile banking.  However for HSBC, MONILINK was its first
+significant move into mobile banking services, having considered various options over
+a period of time.   
+We felt the time was right to move to the next generation of mobile banking to provide
+our customers with the convenience and control that is central to ensuring we offer
+flexibility and choice in servicing our 12m+ customers. 
+As with most financial organisations, IT is a scarce resource so the very low integration
+effort required to launch the service was of great appeal to us together with the comfort
+of knowing the service was underpinned by VocaLink with all the inherent security and
+resilience that an ATM switch provides. It was also important for us to be able to offer
+this service to all our customers and not just those registered for on-line banking. 
+The MONILINK service presents significant opportunity in the broader mCommerce
+space with the ability to be a strategic revenue stream in the future as our personal and
+business customers increasingly use mobile phones to manage their finances. 
+We are seeing some very encouraging registration rates from our customers and
+through enhancements to the service are receiving positive feedback, including from
+a 71 year old who called us to say how  wowed' he was by the service! 
+Alison Leonard 
+Head of eCommerce 
+HSBC
+
+ 
+74338 pre  17/9/07  15:57  Page 4 The customer's ability to interact with his or her bank is only part of the mobile banking and payments
+revolution and there are major developments within the industry that will lead to the mobile handset becoming
+the initiator of payments on a broader scale. Mobile banking will, in due course, allow consumers to initiate
+peer-to-peer and remittance payments, manage accounts from which payments are made and access their
+sources of funds to reload whatever electronic payment method is used. There is already a fledgling market
+for cashless transactions using stored value cards, such as the  Oyster' service successfully deployed by
+Transport for London, which requires access to funds directly from users accounts. Through our mobile top-
+up mechanism, we have already demonstrated our ability to meet the demand for a payment mechanism for
+these services. Furthermore, as the stored value card market develops, primarily in response to the industry
+requirement to reduce the cost involved in low value transactions currently serviced by cash, a mobile
+interface and top-up mechanism will be essential to its future success. Monitise is well placed to meet this
+requirement, both in the early stages and in the future as Near Field Communications (NFC) technologies
+within mobile handsets develops. 
+STRATEGY AND OUTLOOK
+Monitise has established a clear footprint in this market with a unique, defendable and sustainable model
+capable of addressing the huge opportunities presented by mass-market global mobile banking and
+payments as well as related applications for our technology and intellectual property. 
+Our strategy for growth in its simplest form rests on three key areas:
+  Sign up the world's leading banks and ATM/payment switches to the Monitise platform;
+  attract the appropriate partners to deliver sustainable, local ecosystems; and 
+  develop a compelling and customer-centric product roadmap ahead of the market.
+We are pleased with the progress of the business in meeting these objectives. We are confident that we will
+reach agreement to provide our services to other UK banking groups over the coming months and we are
+already seeing our customers acting as advocates for the adoption of Monitise services in the other
+geographies in which they operate. We will continue to add partners in the UK and overseas and anticipate
+that the number of customers to whom our services are accessible will continue to build in line with the fast
+growth mobile banking and payments market.
+The individuals who have worked on bringing Monitise to market demonstrated exemplary tenacity,
+commercial acumen and technical flair and they should be justly proud of their achievements so far. 
+I would like to thank them all for their hard work and dedication and I look forward to continuing to work with
+them as we enter this exciting phase of the Group's development.
+Although we will remain in an investment phase for the near future, we are seeing encouraging early signs of
+revenue generation and, as we establish a presence in more overseas markets, this revenue opportunity will
+continue to grow.
+Monitise has strong momentum, an excellent competitive position and compelling prospects. We believe the
+current year will be a period of substantial progress.
+DUNCAN McINTYRE - Chairman 
+MONITISE PLC REPORT & ACCOUNTS 2007 5
+Chairman's Statement (continued)
+
+We are seeing encouraging early signs of revenue generation and, 
+as we establish a presence in more overseas markets, this revenue
+opportunity will continue to grow.
+ 
+74338 pre 17/9/07 21:03 Page 5 MONITISE PLC REPORT&ACCOUNTS2007 6
+With the launch of the Vodafone Internet On Your Mobile we wanted to
+give customers access to all the services they see as essential, in the
+palm of their hand. Banking is one of the most important services that our
+customers use and by partnering with the MONILINK network we can
+ensure that all of our customers are able to access their bank accounts
+on the move, whenever they wish.
+Al Russell
+Head of Mobile Internet and Content Services
+Vodafone UK
+
+ 
+74338 pre  17/9/07  18:01  Page 6

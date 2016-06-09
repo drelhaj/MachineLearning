@@ -1,0 +1,133 @@
+ CHAIRMAN'S STATEMENT
+Overview
+The year under review has seen the acquisition of Custom Micro Products Limited (  CMP'') as detailed below.
+During the year the Group disposed of its subsidiary company, Newmark Onroerend Goed SA, a property holding
+company in Belgium. Since the year end, NSP Europe Limited (  NSP'') has been sold and Concept Hardware and
+Security Solutions Limited (  Concept'') has been closed. We had been hopeful that both of these businesses
+would grow over the last two years to eliminate the trading losses that they had been incurring. However, as
+these levels of activity have still not been achieved, the decision was made to dispose of these two operations
+and eliminate the losses that were still being incurred. The results of these two businesses are included within
+discontinued operations for the year under review.
+Acquisitions and share issues
+The Group acquired the entire issued share capital of CMP, for a total consideration of  2.725 million (before
+costs and interest discount adjustment). Further details are included in note 23 to the financial statements.
+The initial consideration of  800,000 was satisfied by cash on completion, with two tranches of deferred
+consideration of  1.4 million and  525,000 respectively, the latter payable on the basis of the profit before tax
+for the year ending 30 April 2005.
+In order to part fund the acquisition of CMP, the Group raised an additional  1,700,000 (before expenses)
+through a placing of 136,000,000 ordinary shares at 1.25p per share.
+Financial results
+The operating profit for the year was  414,000 (2004: loss  523,000).
+The operating profit for the year for continuing operations before exceptional items and goodwill amortisation
+was  1,519,000 (2004:  935,000), both figures exclude the operating losses of  734,000 and  1,160,000 from
+the discontinued businesses.
+Turnover for the year for continuing operations was  12.3 million (2004:  8.7 million). The main commercial
+factors affecting the results of the divisions are set out below.
+Electronic Division
+Turnover  6,682,000 (2004:  4,032,000)
+Operating profit  1,350,000 (2004:  828,000)
+The combined access control operation comprising Grosvenor and Newmark Technology was ahead of plan for
+the year. CMP's sales for the ten months from date of acquisition were  2.5 million for the period under review.
+The previously anticipated major end-user sales opportunities did not materialise and, as a result, profits were
+lower than the projected level.
+Sales of Siteguard Access (manufactured by Tyco under license from Grosvenor) remain strong and a new
+training initiative by Grosvenor has directly targeted the ADT branch network. This will endorse the position of
+the Siteguard product within the Tyco/ADT portfolio and should increase sales where some branches have yet to
+be converted to the product.
+Grosvenor continues to develop its core product, JANUS access control, and has released a new software
+module to allow generic CCTV control and integration. The product will be further developed to include
+multiple CCTV systems within the same JANUS platform and is due for release early next year. Also being
+developed is an Enterprise edition where multiple JANUS access systems can have their personnel
+administration managed from a single database source.
+We have developed and released a brand new high-end access control product, N-TEC Access (  N-TEC''). A
+distribution deal with Simplex and Thorn International has already been agreed, where N-TEC will be
+interfaced directly to their fire systems and sold exclusively throughout the Middle East, Africa and Russia
+(  MEAR''). The product was launched in July 2005 in Abu Dhabi, UAE, and Amman in Jordan. MEAR is a brand
+new territory for the company with orders already being processed. N-TEC, being unique to Newmark
+Technology will run side by side with the third party C.Cure business and provides a new opportunity to
+revitalise sales which will be entirely under the company's own control.
+The combined sales of Newmark and Grosvenor remain on-plan for the current year and are expected to remain
+so for the remainder of the period.
+Newmark Security PLC
+3 The underlying business trends remain strong, particularly for Grosvenor, with a continuing steady volume of
+core business. Other contracts, some of which have been delayed from last year, are being sought and due to be
+placed in the coming period and include a major bank looking to upgrade its entire security infrastructure,
+defence companies and government facilities.
+CMP is a leader in the UK market for Time & Attendance (  T&A'') terminals and associated peripheral equipment,
+including access control and shop floor data collection equipment. The company has well established sales
+channel alliances in the UK, USA and Europe and is a UK sales channel for T&A software.
+CMP is set to benefit from synergies with Grosvenor Technology, where mutual cooperation is enhancing the
+Group's access control and T&A offering, particularly into new export markets. Recent promising discussions
+with new potential partners in the UK suggest that an additional share of the UK T&A market is available and
+CMP is diligently pursuing these prospects. CMP is also taking steps to secure and enhance it's presence in the
+US market, through opening an additional sales channel.
+CMP maintains a UK based product development and production capability and is seeking to reinforce its
+current position in the T&A marketplace, whilst looking to exploit its capabilities to broaden its product base
+and take full advantage of its strong market position.
+Asset Protection Division
+Turnover  5,666,000 (2004:  4,694,000)
+Operating profit  787,000 (2004:  720,000)
+Safetell's trading throughout the year was broadly in line with plan with the major benefit of a single
+programme of work for Abbey through the summer of 2004 to achieve revenue growth of 21 per cent over
+the previous period. However, that large programme was at lower than usual margin. The new maintenance
+work for HBoS that was started in March 2004 and the revised tender/contract for The Post Office were also
+at lower than normal margin. These two factors on the product mix depressed the overall gross margin by
+4.2 per cent compared to the previous year. Overheads were controlled to the essentials required to manage
+the additional business level, resulting in a rise in operating profit of 9 per cent compared to last year.
+The Eclipse rising screen programmes were maintained with long-term customers in retail finance and petrol
+retailing. For the first time, the value of reconfiguration/refurbishment works for Eclipse exceeded the value of
+new installations.
+Both CounterShield and Eye2Eye were successful during the year with increases in revenue compared to the
+previous year of 21 per cent and 488 per cent respectively. The new customers for these products have been
+mainly Police Authorities and this market opportunity is being pursued vigorously with other forces.
+The demand for RollerCash and BiDi Safe cash handling equipment is dependent on the roll-out programmes of
+established customers. Order intake from The Post Office for a specific programme was very high in the later
+months of the year but during June 2005 this project was put on hold with only one third of the originally
+expected value completed. New interest in this product range is being expressed by both historical and new
+retail finance customers who are tending towards an open plan format requiring secure cash management at
+the work station.
+The development of the new product (  CashCycler'') by the OEM supplier has been severely delayed by technical
+problems and the first unit has only just been made available in July 2005. Much testing and training will be
+required before this product will generate any significant volume.
+Changes to the premises of service providers to comply with the Disability Discrimination Act in October 2004
+continue to fuel demand from public bodies to make reasonable adjustments to their service areas. Police
+authorities, public train and bus ticketing organisations, central and local governments are proving to be a
+good source of work for all forms of screens as the best defence against violence in the front office/reception
+areas.
+The service and maintenance business continues to increase pro-rata to the installed base of primary
+equipments. During the year new contracts were won to maintain all screen systems for a number of clients,
+irrespective of the screen OEM.
+The early months of the current year are affected by the delayed Post Office contract works and performance
+will be below plan in the first half year.
+Newmark Security PLC
+4 The prospects for the second half are more difficult to predict but the level of outstanding quotations and
+orders is promising and a number of excellent prospects for major roll-out programmes offer good grounds
+for growth.
+Balance sheet and cash  ow
+The balance sheet varies significantly from last year with the acquisition of CMP. Goodwill on the acquisition
+has been calculated as set out in Note 23 to the accounts, and other creditors include the deferred element of
+the purchase consideration which will be paid in September 2005. Cash balances include  1.2 million held as
+security for the deferred payment.
+Working capital at April 2005 was affected by some shipping delays on major contracts with Safetell which had
+a significant impact on stock holding at the year end, although this was offset by advance payments from those
+customers, which are included in accruals and deferred income. Trade debtors were also high at the year end
+with large sales volumes in CMP in April.
+With the shares issued in the year to finance the acquisition of CMP, shareholders funds increased from
+ 1.4 million to  3.3 million.
+Net cash flow from operating activities increased from  0.3 million to  0.8 million. With the disposal of the
+property in Belgium, net capital expenditure was minimal.
+Employees
+The Board wishes to thank all employees on their contribution during the year.
+Summary
+The results for the year have obviously been severely affected by the ongoing losses in NSP and Concept. These
+activities have now been terminated and all remaining businesses are profitable, although the results for the
+current year will include the trading losses for the three months to termination and the losses on termination
+of the businesses.
+The Company has made an encouraging start to the new financial year which will be mainly reflected in the
+second half, experiencing a high level of interest in its products and services, particularly within Grosvenor
+Technology, with a number of new contracts with major companies in advanced stages of discussion.
+M DWEK
+Chairman
+14 September 2005
+Newmark Security PLC
+5

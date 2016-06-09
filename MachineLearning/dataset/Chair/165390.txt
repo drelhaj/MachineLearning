@@ -1,0 +1,320 @@
+ Renishaw plc Annual report and accounts 2012 
+02
+Chairman's statement
+Renishaw's markets 
+exhibit attractive, 
+long-term 
+structural growth 
+drivers with 
+continuing global 
+investment in 
+production systems 
+and processes.
+Overview
+I am pleased to announce a record  
+set of Group results in terms of both 
+revenue and profit for the year ended  
+30th June 2012; a year of further  
+progress and growth.
+Total Group revenue for the year was 
+ 331.9m, 15% ahead of the  288.7m  
+for last year. All geographic areas saw 
+good progress, with growth of 18% in  
+the Americas (revenue of  76.8m), 14%  
+in the Far East ( 130.2m), 12% in Europe 
+( 95.7m) and 28% in the UK ( 18.9m) 
+benefitting from a full year's trading from 
+acquisitions. In the Far East we saw  
+a strong recovery in the final quarter  
+of the year, principally due to revenue  
+from China.
+Group profit before tax for the year was 
+ 86.0m, compared with  80.4m last year 
+(excluding a  1.7m exceptional item), 
+an increase of 7%.
+Adjusted earnings per share were 95.6p, 
+an increase of 8% over last year's adjusted 
+earnings per share of 88.5p. Reported 
+earnings per share for the year were 95.6p 
+(2011 90.8p).
+Segmental analysis
+Metrology
+Revenue from our metrology business  
+was extremely strong in the last quarter  
+of the year, resulting in revenue for the  
+full year of  305.8m, compared with 
+ 267 .0m last year, an increase of 15%. 
+Operating profit was  91.8m, compared 
+with  87 .7m in 2011. 
+All product lines reported growth, apart 
+from encoder products which experienced 
+a slowdown during the year but a recovery 
+in the final quarter. The machine tool 
+and calibration product lines performed 
+particularly well and there was strong 
+interest for our Equator product which is 
+gaining wider exposure and acceptance.
+Measurement Devices Limited (MDL) and 
+MTT Investments Limited (the latter now 
+operating as the additive manufacturing 
+product line), acquired last year, also 
+contributed to the growth in this segment. 
+In June an additional 17% shareholding  
+in MDL was acquired, bringing the 
+Company's shareholding to 66%.
+New product releases during the period 
+include the RESOLUTE  ETR, an 
+absolute encoder with extended 
+temperature range for operation in very 
+cold environments such as aerospace; the 
+XR20-W rotary axis calibrator; the REVO
+ 
+ 
+SFP1 surface finish probe and a multi-axis 
+option for our Productivity+  software.
+Sir David R McMurtry 
+CBE, RDI, FRS, FREng, CEng, FIMechE 
+Chairman and Chief Executive Renishaw plc Annual report and accounts 2012 
+03
+Overview Governance Financial statements Performance Shareholder information
+2012 performance
+2012 201 1 Change
+Revenue ( m) 331.9 288.7 + 15%
+Adjusted operating profit ( m)* 83.2 79.3 +5%
+Adjusted profit before taxation ( m)* 86.0 80.4 +7%
+Adjusted earnings per share (pence)* 95.6 88.5 +8%
+Dividend per share (pence) 38.5 35.0 + 10%
+Statutory
+Profit before tax ( m) 86.0 82. 1 +5%
+Basic earnings per share (pence) 95.6 90.8 +5%
+* Adjusted figures are stated after excluding the exceptional item, a reversal of an impairment write-down, 
+in 2011.
+On 3rd February 2012 the Group acquired 
+Thomas Engineering and Construction 
+Limited, an MDL distributor and services 
+provider based in Canada, for the sum  
+of  0.7m, of which  0.2m was paid at the 
+date of acquisition and the balance is 
+payable over the following two years. 
+On 26th April 2012 the Group acquired 
+R&R Sales LLC (R&R ) for the sum of 
+ 2.6m plus additional payments based on 
+future performance. R&R is a US-based 
+supplier of fixtures for the measurement 
+and inspection market. The acquisition of 
+R&R will provide fixturing solutions for our 
+Equator gauge and enable R&R to expand 
+further by utilising Renishaw's worldwide 
+sales and distribution network.
+Healthcare 
+Revenue from our healthcare business  
+for the year was  26.1m, compared with 
+ 21.7m last year, an increase of 20%. 
+Spectroscopy sales were at a record  
+level, driven by an increasing range of 
+applications in nanotechnology, advanced 
+materials and life sciences, and there was 
+also growth in the dental and neurological 
+product lines.
+During the year, the Board refocused part 
+of the healthcare activities to a smaller 
+number of projects, particularly in our 
+neurological products line, and withdrew 
+from the supply of radio frequency coils  
+for use in MRI scanning research which 
+was no longer considered core to our 
+business strategy. 
+Our spectroscopy product line introduced 
+a new integrated Raman/Atomic Force 
+Microscope package and the neurological 
+product line saw further sales of its 
+neuromate
+ 
+ surgical robot used for 
+neurosurgical procedures with the UK's 
+first Stereo Electro Encephalography 
+procedures being carried out to aid the 
+treatment of chronic epilepsy at Frenchay 
+Hospital in Bristol. The next generation of 
+neuroinspire
+ 
+ surgical planning software 
+achieved CE approval in January 2012.
+The continuing significant expenditure  
+on research and development in this 
+segment resulted in an operating loss of 
+ 8.6m, compared with a loss of  8.4m  
+for last year. The Board is targeting that  
+the Healthcare segment will move into 
+profit in the next two years.
+Revenue  m
+331.9 288.7 181.6 171.2 201.2
+2008 2009 2010 2011 2012
+Adjusted profit before tax  m
+86.0 80.4 28.7 8.8 41.7
+2008 2009 2010 2011 2012
+Adjusted earnings per 
+share pence
+95.6 88.5 32.3 9.6 45.9
+2008 2009 2010 2011 2012
+Dividend per share pence
+38.5 35.0 17.6 7.8 25.4
+2008 2009 2010 2011 2012 Renishaw plc Annual report and accounts 2012 
+04
+Chairman's statement continued
+Investment for growth
+The Group continues to invest for 
+long-term growth and during the year 
+has invested  30.3m (2011  16.5m)  
+on facilities, plant and machinery and 
+information technology capacity to provide 
+the platform to accommodate growth 
+expectations:
+  In September 2011, the Group 
+completed its purchase of the premises 
+at Miskin, South Wales. 68,500 sq ft  
+(of a total of 461,000 sq ft) has been 
+refurbished and new CNC machine 
+tools have now been brought 
+into production. 
+  In York, construction of 20,000 sq ft  
+of new premises for occupation by MDL 
+has begun, with completion due at the 
+end of this calendar year.
+  In Dublin, planning consent has been 
+received for a 26,000 sq ft extension  
+of our manufacturing facility. This is 
+due to be completed by the end of 
+this calendar year.
+  At New Mills and Charfield, planning 
+consent has been granted for 
+230,000 sq ft and 50,000 sq ft 
+respectively, primarily to provide 
+additional research and development 
+space on a phased basis.
+  In Slovenia, a new 30,000 sq ft  
+facility has been recently completed  
+and occupied by our associate 
+company, RLS.
+During the year the Group expended  
+a total of  47 .9m (2011  40.0m) 
+on engineering including research 
+and development, current product 
+engineering and manufacturing processes, 
+which is planned to increase further in 
+the coming year.
+Top: Miskin site near Cardiff, 
+South Wales
+Middle left: Miskin site before 
+refurbishment started
+Middle right: Miskin site after 
+refurbishment completed
+Above: Wide ranging applications 
+for MDL products
+Right: R&R fixtures holding engine 
+component for measurement Renishaw plc Annual report and accounts 2012 
+05
+Overview Governance Financial statements Performance Shareholder information
+We continue to grow and expand  
+our global marketing and distribution 
+activities to support the new products 
+introduced:
+  The Group has established a new 
+subsidiary company in Mexico to  
+market and support the Group's 
+products in that country and other 
+Central American countries. 
+  We have expanded our working 
+premises in Germany, Brazil and  
+China, and have refurbished and 
+re-occupied a 16,000 sq ft building  
+in Schaumburg, USA.
+  Our Canadian subsidiary has acquired, 
+refurbished and moved into a larger 
+17 ,000 sq ft facility in Mississauga, 
+Toronto.
+  Our Spanish subsidiary has relocated  
+to newly acquired premises in Barcelona 
+and, in Italy, our subsidiary purchased 
+the property it has occupied for a 
+number of years.
+Balance sheet  
+and working capital
+Net cash balances at 30th June 2012 
+were  21.1m, compared with  23.7m  
+in 2011. In addition, there is an escrow 
+account amounting to  11.5m 
+(30th June 2011  10.8m) relating to the 
+provision of security to the Company's 
+defined benefit pension scheme.
+The Group has also financed an  
+increase of  23.1m in working capital, 
+primarily trade receivables resulting  
+from exceptionally strong revenue in  
+the final quarter.
+Directors
+David Snowden and Terry Garthwaite  
+have each completed nine years on the 
+Board and will not be seeking re-election 
+at the AGM on 18th October 2012. 
+The Board is very grateful for their 
+considerable contributions to the Group.
+The Board is pleased that Dr David Grant 
+has joined the Board with effect from  
+25th April 2012 and further appointments 
+will be made in due course.
+Resolutions to re-elect all continuing 
+directors will be put to the AGM.
+Employees
+The directors thank the Group's 
+employees for their continuing support 
+and significant contribution during this 
+successful year. 
+Headcount at the end of June 2012 was 
+2,904, an increase of 229 during the year. 
+There are currently 182 staff vacancies  
+in the Group, of which 118 are in the UK, 
+and in common with other UK engineering 
+companies Renishaw is continuing  
+to experience difficulty in recruiting 
+high-calibre engineers.
+Awards
+The Group has again received  
+a number of awards during the year, 
+including our 15th Queen's Award for 
+Enterprise 2012 in the Innovations 
+Category for the SP80 ultra-high 
+accuracy analogue scanning probe. 
+Outlook
+As expected the final quarter of the  
+year saw an increase in revenue growth 
+and was a record quarter for the Group, 
+with revenue of  103m. Renishaw's 
+markets exhibit attractive, long-term 
+structural growth drivers with continuing 
+global investment in production systems 
+and processes. The Group therefore 
+continues to invest a significant amount  
+in R&D, manufacturing, marketing and 
+distribution capability with a number of 
+initiatives underway. Although the world 
+economic outlook is uncertain, the Board 
+remains optimistic regarding the Group's 
+own future and prospects and expects 
+that 2013 will be another year of progress 
+for Renishaw.
+Dividends
+A final dividend of 28.2p per share 
+will be paid on 22nd October 2012  
+to shareholders on the register on 
+21st September 2012.
+Sir David R McMurtry 
+CBE, RDI, FRS, FREng, CEng, FIMechE 
+Chairman and Chief Executive
+25th July 2012
+Above: Renishaw wins National Business Award 2011
+(From left) Mike Tobin, CEO, TelecityGroup (Winner 
+2010), David Maxwell, Partner, Grant Thornton, 
+Ben Taylor, Assistant Chief Executive, Renishaw, 
+and awards host John Humphrys, BBC
+Above: Award winning SP80

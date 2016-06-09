@@ -1,0 +1,112 @@
+ D ATAFLEX HOLDINGS PLC AND ITS SUBSIDIARY UNDERTAKINGS
+CHAIRMAN'S AND CHIEF EXECUTIVE'S STATEMENT
+The year to 30 June 2002 marks a significant turning point in the progress of Dataflex. Following a poor first six
+months, we took the decision in December to close offices and reduce overheads. These actions, together with a
+marked increase in revenues, up from  4.9 million to  8 million resulted in the virtual elimination of losses in the
+second half. T otal overheads for the second six months were halved and as a result, the loss before tax in this period,
+compared with the first half of the financial year, was substantially reduced from  6.9 million to  58,000. 
+The full benefit of these actions is not reflected in the figures for the full year to June 2002. During the period under
+review, sales were  12.9 million (2001:  44.7 million) and the loss before tax was  7 million (2001: pre-tax profit
+of  3.18 million). However, the Company is debt free and has cash in hand of  15.6 million.
+The substantial growth in sales in the second half has been driven by several initiatives aimed at
+increasing the potential of our call routing business and opening up new markets. We have
+developed a digital cordless telephone with an integrated call router, which is beginning to sell well
+in Europe and for which we have trial orders in the USA. Also in the USA, potential customers are
+conducting marketing trials for a version of Smart Gem, our single line call router, which allows users
+to make calls to and from regular telephones over the Internet at very attractive prices using
+technology currently only available from personal computers. 
+We have made significant progress with the development and marketing of our new Broadband Voice 
+products. Early commercial success has already been achieved with two customers. We have delivered our first
+volume shipments of these products, which are now in active commercial service. The Board remains confident
+about the future potential of this product range despite the current state of the telecom market.
+Overall, we believe the Company is well positioned for future profitable growth, despite market conditions that may
+well remain depressed in the present year. 
+The year under review has been a very difficult one for our employees who have put enormous effort into
+supporting your board's initiative to reposition the Company within the telecoms sector. We are indebted to every
+one of them.
+The Board feels it would be inappropriate to recommend the payment of a final dividend this year but does propose
+resumption as soon as conditions permit.
+Operations Review
+Call routers
+As we have previously reported, carrier pre-selection, combined with the poor telecom equipment market has
+adversely impacted the revenues for conventional call routers throughout Western Europe. Group turnover from
+this product has fallen significantly over the past year. In addition, despite considerable marketing activity, call router
+sales in a number of emerging markets in Central/Eastern Europe and South America have been
+below expectations. 
+We are however currently conducting an extensive marketing trial in the USA for SmartGem, the
+single line call router. The service being trialled enables consumers to make VoIP (Voice over Internet
+Protocol) calls to and from regular telephones at the very attractive prices currently only
+available for callers from a PC. What is particularly innovative is that the consumer, by using
+our call router (the VoIP dialler) does not need to use a PC or apply a complex dialling
+process to initiate a VoIP call. As a result, new and much lower long distance tariffs can
+be offered on the basis of the IP network only. If these marketing trials are successful,
+we look forward to follow on orders for call routers. 
+2 D ATAFLEX HOLDINGS PLC AND ITS SUBSIDIARY UNDERTAKINGS
+CHAIRMAN'S AND CHIEF EXECUTIVE'S STATEMENT
+T elephony Experts Inc.
+The acquisition of T elephony Experts Inc. during the previous year had been expected to build up a new product
+line, which consisted of the development and supply of calling card systems to alternative telecom operators.
+However the continuing losses and weak revenue forecasts provided by Dataflex, Inc. during December 2001, left
+the board in no doubt that it could not justify any further investment in this business area. The division ceased
+operations on 21 December 2001.
+Call routing DECT cordless telephones
+Dataflex has developed a new digital cordless telephone based on DECT (Digital Enhanced Cordless
+T elecommunications) technology, which incorporates a variant of the Dataflex call router.
+A large part of the Group's revenues in the period from January to June 2002 was based on this
+product and it also accounts for a large percentage of the order book at the end of June. In addition
+to existing customers, the product is being evaluated and tested by several alternative service
+providers in the UK. We have also secured our first order from a US operator for a Call Routing
+WDCT cordless phone (WDCT is the US derivative of DECT technology). 
+Call routing DECT telephones reduce significantly both the cost of customer acquisition and the
+level of customer churn. We believe that these two major benefits make this technology a very
+promising part of the future of Dataflex.
+Broadband access
+Deployment of broadband for high speed Internet access across the UK and continental Europe is gaining
+momentum. This is primarily being achieved by the incumbent telecom operators (also known as PTT s, such as BT
+in the UK), both through their own retail channels and wholesale to the Internet Service Providers. 
+One of the key ways for an Alternative T elecom Operator (ATO) to enhance its offer is to
+provide voice services in addition to high-speed internet access. The latter remains a
+very tight-margin business, but an ATO can significantly improve the value of data
+only broadband by adding voice revenues. ATOs are better placed to capitalise
+on the benefits of Voice than Internet Service Providers, as they are traditionally
+better equipped and have more experience of offering voice services to
+businesses and end customers.
+There are two ways for an ATO to provide voice over broadband to its customers; Local Loop
+Unbundling and by means of wholesale voice over broadband. Whereas the technologies required for
+Unbundling are developed and available, those needed for providing wholesale voice over broadband are now
+expected to become available (initially for business applications) on a larger scale in the next 12 months. Every
+European country is different, and in the UK for example, the recent directive from Oftel, the regulator, will give the
+ATOs a realistic choice between Local Loop Unbundling and wholesale voice over broadband.
+In either case, the Dataflex ViNE product range (Voice integration at Network Edge) deals seamlessly with both
+modes of operation. As a result, we are able to provide better solutions for the customer regardless of technology
+and gain optimal access to all aspects of the broadband market.
+Our ViNE product development programme has made considerable progress over the past six months. We have
+achieved commercial success with two major customers and technical tests continue with several other prospective
+operators in Europe. We have shipped products in first volumes and they are in active commercial service.
+Our product range is inter-operable with all the major Voice over DSL
+gateways being deployed in Europe: Paradyne
+(Jetstream), Tdsoft, Cirpack, Alcatel, Zhone and Lucent.
+3 In addition, partnerships are being developed with the major system integrators who are supplying total solutions to
+the European telecom operators. The product features cover the relevant technologies in use at the customer
+premises, including Basic and Primary rate ISDN and also DECT . Combined with Dataflex's outsourced manufacturing
+expertise and its strong position both in respect of price and features, we are confident that this product range can
+achieve a prominent position in this emerging European market.
+Outlook
+In the short term, we expect to continue to generate sales from our call routers, in particular from the extensive
+market trial in the USA, and also from our Call Routing DECT cordless telephones. 
+Although medium term visibility remains low, our  5.6 million order book at the start of the new financial year
+(compared with  5.4 million on 1 January 2002) gives us some confidence that we should be able to at least sustain
+our current level of business in the next six to twelve months. We will maintain our overheads at or below  500,000
+per month, whilst continuing to develop innovative access products for telecom operators worldwide.
+We believe that the rollout of our Voice over Broadband products will start to contribute modestly during the next
+12 months and become a significant part of the company's revenues in future years.
+In the meantime, a debt free Group balance sheet with significant cash balances of  15.6 million will help Dataflex
+to weather the current depressed telecoms market and ensure that it will be one of the surviving and successful
+suppliers of equipment to telecom operators.
+Dr. Jack Leonard Jacob van Houdt
+Chairman Chief Executive
+25 July 2002
+London
+D ATAFLEX HOLDINGS PLC AND ITS SUBSIDIARY UNDERTAKINGS
+CHAIRMAN'S AND CHIEF EXECUTIVE'S STATEMENT
+4

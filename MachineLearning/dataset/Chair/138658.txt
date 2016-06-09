@@ -1,0 +1,129 @@
+ NETB2B2 PLC
+CHAIRMAN'S STATEMENT
+3
+CHAIRMAN'S STATEMENT
+I am pleased to report that the year ended 30 June 2004 was another successful period in the transformation of
+Netb2b2.  Your Board is committed to continuing with a strategy that will improve all aspects of the Group and
+create significant shareholder value.  Our objective is to make the company a business aggregator, where all Group
+companies operate around a common theme of developing and supporting internet-based, business-to-business
+infrastructure for their clients.  To this end we have made significant progress during the reported period as outlined
+in more detail in the operational review below.
+During the year Netb2b2 successfully completed its capital re-organisation, which enabled it to strengthen its
+balance sheet by approximately  1.5m.  We also completed our operational restructuring, which was of benefit to
+the three core businesses in the Group, particularly Blue Sky.  On the acquisition front, the web hosting business of
+ESNA Limited (ESNA Hosting ) was acquired for a total consideration of  317,000 and this has now been
+successfully integrated into Blue Sky, benefiting that subsidiary company's performance.  cScape continues to
+impress with its performance and a number of new contracts were won.  We have invested in cScape's marketing
+and sales infrastructure, to ensure that its growth continues.  ITM Graphics performed satisfactorily showing a year
+on year improvement and adding a number of new clients to its already impressive list.  Finally we also created a
+new wholly owned subsidiary company called NetPen UK Limited although it did not trade in the year in question.
+Financial Results Summary
+The Group's overall financial performance for the year is summarised below:
+2004
+ 000
+2003
+(Restated)
+ 000
+Turnover for group 5,265 5,364
+Operating profit /(loss) before goodwill amortisation 1 (854)
+Goodwill amortisation - (232)
+Net interest paid (24) (40)
+           _____   _____
+Group loss for the year before tax (23) (1,126)
+Taxation - 26
+  _____       _____
+Group loss for the year after tax       (23)    (1,100)
+Overall the Group's financial performance was satisfactory for the year, with a significant improvement in the
+Group's overall results, net assets and net cash.
+During the year the loss per share on continuing activities was 0.00 pence compared with an adjusted loss per share
+of 0.41 pence in 2003.  Net assets rose from  0.2 million in 2003 (as adjusted) to  1.7 million in 2004, a
+considerable improvement.  During the period the company strengthened its balance sheet through a series of
+placings and other issues of new shares raising a total of  1.5 million.  Our net cash position improved considerably
+and stood at  0.3 million at the period end.
+The directors do not recommend the payment of a final dividend for the year ended 30 June 2004 although this is
+being kept under review for the future. NETB2B2 PLC
+CHAIRMAN'S STATEMENT
+4
+Operational Review
+I reported at the time of the interims that our three largest operating companies were performing well with increased
+turnover, several new contract wins, and a continued focus on higher margin business.  Overall this trend has
+continued and our Group companies continue to strengthen their services and products for both public and private
+sector organisations.  The public sector has continued to be a great source of revenue for all the companies, and we
+expect this to continue.  The formation of NetPen UK and the acquisition of ESNA Hosting, mean that the Group
+expanded its operational activities and now consists of four leading technology businesses each of which has
+considerable scope for organic growth.
+cScape Strategic Internet Services (cScape )
+cScape, is one of the UK's leading Microsoft partner firms and a supplier of internet consultancy services, including
+e-commerce and web expertise.  During the year the Group significantly increased investment in cScape's marketing
+and sales functions and the business has responded well by maintaining profitability and increasing turnover.  As a
+result of the investment made in cScape the business is now in a much better position to retain existing business and
+importantly to increase substantially the number of new contracts it can win.  This process has already started and a
+number of new clients were won, including most recently: in the private sector South East Trains; in the local
+authority sector the London Boroughs of Tower Hamlets, Lambeth and Lewisham and in the NHS Whipps Cross
+and Worthing Trust. It is very pleasing that in this period of sustained growth cScape has been able to sustain its
+excellent reputation for supporting its customers and has retained and grown all its key clients such as the Chartered
+Institute of Personnel and Development and the Chartered Institute of Library and Information Professionals.
+During the year cScape launched a series of strategic product development initiatives, including a Wizard tool - The
+CMS Wizard. Other product initiatives include the development and launch of the MSIB Plus Pack, which marks a
+significant advancement in the deployment of websites.  Previously many organisations had no choice but to build
+bespoke sites from scratch, but the MSIB Plus Pack allows them to achieve this with minimal deployment, reducing
+the need for expensive project management resources.  MSIB enjoys worldwide marketing support from Microsoft
+and is expected to have a positive impact on revenues going forward
+Overall cScape has successfully used this year to build up experience in, and a track record of, producing
+productivity aids, co-operatively marketed with Microsoft and has invested in those areas which will allow it to
+accelerate its profitability and growth.
+Blue Sky (now incorporating ESNA Hosting)
+Blue Sky, a key UK IBM business partner, experienced a year of change during which it moved its business model
+away from consulting to higher margin Application Hosting. To help achieve this we announced in March the
+acquisition of the web hosting business of ESNA Limited. The business has been successfully integrated into Blue
+Sky.
+Blue Sky now has leadership positions in creative design implementation on Lotus Domino, as well as the
+deployment of Lotus Domino based content management, in the hosting and management of rentable applications
+built on Lotus Notes applications, in the deployment of Lotus stand-alone ASP applications for collaboration and in
+the fully managed hosting of Lotus Domino servers based on Linux.
+The company enjoyed success in winning new business, including contracts with Toyota, ITC Networks, Compass
+and IDEA.
+ITM Graphics (ITM )
+ITM, the Group's publishing services business, also benefited from continued investment in order to sustain
+progress and focus the business on higher margin work.  ITM has now evolved into an  integrated web content
+management service' and the second stage of development in Netpublish
+TM
+, based on industry standard software and
+support from Silicon Graphics, recently went live. The company now provides a more comprehensive web based
+infrastructure and suite of services. To complement its already excellent reputation in mid range pre-press and print
+farming activities it is adopting a higher profile colour printing capability to which end ITM is also refurbishing its
+marketing and presentation facilities, which should help it to win new contracts.
+Overall ITM has a strong and well-established client base including many of the largest publishing houses, the
+period saw it consolidate its reputation for the delivery of quality work on time and on budget.  ITM has recently
+won new contracts to provide its publishing services to three new publications  London Living',  Stag & Groom'
+and Air Cargo News all of which are launch issues from independent publishers. Over and above this it has just
+announced a key win with Quantum Business Media, publishers of The Publican and Press Gazette titles. NETB2B2 PLC
+CHAIRMAN'S STATEMENT
+5
+NetPen UK Limited (NetPen UK )
+At the very end of our financial year we announced the creation of a new operating company, NetPen UK Limited.
+This business has been formed to provide information solutions based around the digital pen and paper (DP&P )
+technologies provided by Anoto Group AB of Sweden and Hewlett Packard.  The company targets DP&P solutions
+at the media, professional partnerships, public and healthcare sectors.
+DP&P solutions are a major breakthrough for the provision of intuitive, highly available and rapid information
+acquisition and dissemination. A DP&P based solution uses traditional human data capture tools such as pen and
+paper, and captures, converts and stores handwritten data within an organisation's existing information system.
+Users of the technology save time by eliminating the need to scan forms and manually re-key data. This reduces the
+time taken, for example, to process and store data information from manual form filling and can significantly reduce
+costs.
+NetPen UK is in the process of developing its relationship with Anoto and Hewlett Packard and will be building
+sales momentum with the ambition of commencing to deliver results in the new calendar year.
+Current Trading and Outlook
+Overall, the financial outlook for the Group remains healthy with cScape continuing to add new contract wins over
+the summer, Blue Sky positioned to benefit more fully from the integration of ESNA Hosting and ITM well
+positioned for an upturn in pagination. Trading for the current year to date is ahead of the previous corresponding
+period. Overall the outlook for the Group continues to improve with all the operating subsidiaries advancing in a
+constructive and optimistic way, contributing to Netb2b2's more stable and encouraging position as a whole.
+Netb2b2 is now in a position to pursue aggressively value enhancing acquisitions that have, or can easily acquire,
+our core values. The continuing improvement in performance of the operating companies provides cash both for
+investment in their own future growth but also to help fund such acquisitions.
+To such businesses we will add both capacity and capability by providing scale and skill economies.  We will also
+add capability to businesses where the skills and operating disciplines of the Group will improve returns for all
+shareholders.
+Keith Young 6 December 2004
+Chairman

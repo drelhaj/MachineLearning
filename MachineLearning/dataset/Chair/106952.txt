@@ -1,0 +1,124 @@
+ CHAIRMAN'S STATEMENT
+I am pleased to report the full year results for the year ended 30 April 2007. On behalf of the Board, I would
+like to thank our existing shareholders for their continued support and welcome new shareholders that have
+invested in the Company over the past year.
+Review
+ITM has made excellent progress in building solid financial and technical foundations for the
+commercialisation of its exciting and revolutionary technology. Considerable efforts have been made over
+the last year to move towards the commercial realisation of ITM's technology with the objective of
+maximising income potential by controlling key processes for the use of hydrogen in sustainable energy
+systems.
+The Company believes there are many applications for hydrogen. These include zero carbon housing, hydrogen
+fuels for the automotive industry, back-up power systems and energy storage using hydrogen for renewable
+energy systems. Relationships with potential commercial partners are being developed and I believe that we
+are in a good position to exploit market opportunities.
+During the year in review, terms were agreed on a new manufacturing facility in Sheffield. The design work for
+the new Sheffield site is now nearing completion and preparation work has begun for the installation of the
+manufacturing equipment. This plant will have an annual electrolyser production capability of 10 Megawatts
+which will be one of the largest electrolyser production capabilities in the world. The Group is now designing
+the pre-production prototype units which are anticipated to be produced next year. This is an enormous
+undertaking for a relatively small company and brings our science, engineering and production skills together
+for the first time. The dedication and commitment to this project by our staff is humbling and no level of
+praise is high enough. So far this programme is on time and budget.
+ITM successfully completed all the milestones set out for the year on schedule. In summary, the Company
+announced that it had successfully built and operated a completely platinum free 5 kW solid polymer
+electrolyser stack. The complete elimination of platinum reduces our stack cost per kilowatt below the
+previously stated $164/kW (which included Platinum on one side of the membrane). The Group also
+operated a self pressuring electrolyser at 20 bar. Since the period end, the pressure test target of 75 bar (or
+1,125lb/sq inch), which was originally set for December 2007 was achieved. This programme was accelerated
+to provide important early technical information for the design of the 2008 factory production units which
+are anticipated to combine both pressure and power capabilities in a single unit.
+The Group successfully made and operated a portable 2 liquid fuel cell, which includes a fuel cassette able to
+be removed without loss of power; a so-called  hot-swappable' function. This device also contains all the
+balance of plant and output electronics. This device has been used in commercial presentations, and we are
+continuing discussions with military organisations where the unique attributes of the 2-liquid system,
+independence of the environment, and neutral buoyancy for marine applications are of special interest.
+The progress made in the Oxy-hydrogen fuel cell systems where performance improvements have allowed
+ITM to reach its cost reduction targets, suggests that the best use of limited company resources is to
+develop a working prototype of a fuel cell using the $500/kW technology achieved in June 2007 (in
+accordance with the production assumptions set out on 18 October 2006). This cost is approximately 15%
+of the present price of solid polymer fuel cells, and has a significant commercial value if it can be brought
+into production. In order to maximise benefit to the Company, it has been decided to build a 100W stack
+demonstrating this technology to advance product development and allow real life performance and
+longevity testing of the stack and its balance of plant to be undertaken prior to entering into commercial
+discussions. The Company has therefore decided to substitute the production of a 100W Oxy-hydrogen fuel
+cell stack for the existing 20W December 2007 milestone of a 2-liquid fuel cell.
+The achievement of these milestones has underpinned the Company's ability to seek commercial
+collaborations as they begin to demonstrate ITM's electrolyser and fuel cell equipment in real world
+environments. These include collaboration with ABRO, a trading fund of the Ministry of Defence, to operate
+diesel engines using a small addition of hydrogen from an on-board ITM electrolyser to the existing diesel fuel
+and collaboration with Hydrogen Engine Center Inc to develop products for a non polluting grid independent
+energy system which can undergo field trial testing.
+During the year, ITM joined the US Fuel Cell Council, an organisation dedicated to commercialisation of fuel
+cells in the United States. The Company also joined the US National Hydrogen Association and UK Hydrogen
+Association.
+3 Recent developments
+Significant progress has been made in the development of a 'home refuelling' system using an electrolyser to
+convert renewable or off peak electricity into hydrogen. This device depends upon a 10kW electrolyser
+operating at pressures of 75 bar. The Company announced in June 2007 that a prototype electrolyser
+operated at 10kW. In conjunction with the University of Hertfordshire, ITM has modified a petrol engine
+Ford Focus to operate using pure hydrogen able to be supplied by an ITM electrolyser before switching to
+petrol. An ITM self pressuring electrolyser has now successfully fuelled this vehicle. The vehicle has exceeded
+25 miles on a single charge of hydrogen both when tested on a rolling road, and during testing on public
+highways. Drivability in public road conditions when using hydrogen has proved to be excellent.
+ITM believes the hydrogen infrastructure has already been built because a low cost electrolyser can produce
+hydrogen wherever water and electricity are available. Furthermore, it is possible to inexpensively convert
+most petrol engines to run on hydrogen. We believe these developments bring low cost non-polluting
+transportation forward by many years.
+As a separate programme, ITM has also installed a much smaller electrolyser on-board a 3 litre diesel Range
+Rover. The trace amounts of hydrogen produced are fed to the engine. This equipment has demonstrated that
+an ITM electrolyser can operate successfully in the demanding environment of a moving vehicle, and direct
+observations of reproducible reductions in the principal emissions have been recorded while the electrolyser
+was active. However, the full commercial or military implications of the results cannot be judged in advance
+of a research programme such as that agreed with ABRO.
+ITM has also been working on two long-term research programmes that rely on the same basic understanding
+of chemistry to our electrolysis and fuel cell work. The organic solar photovoltaic research programme
+continues to suggest encouraging possible solutions to the development of much lower cost photovoltaic
+systems by eliminating silicon. Secondly, we have begun to test ways of combining gaseous carbon dioxide
+with electrolytic hydrogen to create liquid fuels. Our initial small scale laboratory tests have been
+encouraging and we have successfully achieved gas to liquid production in an electrochemical cell based on
+our membrane technology. These are very early days and much further work will be needed to confirm the
+commercial value of such a development.
+Financials
+The loss for the year increased from  1.9 million to  2.7 million, in line with the Group's budget. Capital
+expenditure in the year under review was  0.49 million most of which went to provide additional laboratory
+and test equipment and further expansion to our laboratories in Sheffield. We further strengthened the
+scientific and technical team at our laboratories as well as strengthening our management and corporate
+team at our head office in Cambridge. Average headcount for the year grew from 25 to 37 people.
+At the year end, the Group held cash at the bank and on deposits of  31.8 million, following the successful
+raising of  29.4 million funds through a Placing of ordinary shares with institutional investors in May 2006.
+The purpose of the secondary fund raise was to obtain the financial resources necessary to engineer, develop
+and commercialise ITM's first products. The Company earned  1.58 million in interest during the year from
+the investment of the funds and continues to benefit from increasing deposit rates. The Group expects to
+spend approximately  1 million fitting out its new production facility.
+ITM maintained tight control over cash expenditures during the year in review and we will continue to
+monitor budgets carefully. Our costs will gradually increase over the next year to support accelerated
+development and engineering activity. Whilst staff costs remain the biggest single cost element, activity
+with third parties will continue to increase as the Group works on development of complete product
+solutions in line with our published milestones. Expenditure on patents and IP protection also continues to
+be an important part of the cost base.
+The Board is not recommending payment of a dividend in accordance with the dividend policy stated at the
+time of the IPO.
+Board and staff
+In my interim statement in January 2007, I stated that I would not be seeking re-election to the Board of ITM
+in September. We have now concluded a succession planning process and we are close to finalising an
+appointment.
+I hope to be in a position to announce my successor at the AGM in September with a view to him taking
+office in January 2008. The Board has requested that I remain in office until that time in order to facilitate a
+4 smooth transition. Consequently, l will be standing for re-election as Chairman for an interim basis until the
+end of December 2007.
+We are continuing to recruit and strengthen our capabilities throughout the Company. We have hired a
+production manager for our new factory and are currently recruiting additional scientists, production
+technicians and members for our commercial team.
+I would like to welcome new members of staff to ITM and thank all our staff for their tremendous dedication
+and commitment during the year.
+Outlook
+Before the end of the calendar year the Company plans to publicly demonstrate both the Bi-fuel Ford Focus
+and refuelling system using electrolyser prototypes that will closely resemble the initial systems to be
+manufactured. This will be a very exciting and important step forward because ITM's technology will
+become visible and the benefits of our advances will become more easily understood.
+We will continue to expand our commercial relationships over the coming months and prepare the Group for
+first orders and sales.
+Stephen Massey
+Chairman
+5

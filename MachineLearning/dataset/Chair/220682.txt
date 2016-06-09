@@ -1,0 +1,204 @@
+ 02 Xploiteplc AnnualReport 2007
+CHAIRMAN'SSTATEMENT
+Xploiteis acompany that identifies,acquires,consolidates
+anddevelops businesses in theIT services sector.TheGroup
+creates shareholder valueby identifyingandacquiring
+businesses that haveagood strategicfit,integratingand
+consolidatingoperations, reducingcosts anddeveloping
+recurring revenue streams through theefficient deployment
+ofpeople,processes and technologies.
+Overview
+Iam verypleased to reportona successful year for 
+theGroup.
+In the year to 31October 2007, wecompletedboth the
+lastphaseofour previousbuy andbuildcycleandembarked
+onanew oneand so the year may be viewedas oneof
+transitionfromonephase toanother.
+Following thedisposalofMatrix Communications and
+completionof theassociatedearnout withits acquirer 
+Calyx Groupplc, we returned  10.3m to shareholders.
+SinceFebruary theBoardhas beenimplementingabuy and
+build strategy toacquireandbuild scaleanddepthin the
+managed services and storage sectorsof theIT services
+market.Todate theGrouphas madefour acquisitions as 
+set outbelow.
+Consideration
+Month Company Cash Deferred Maximum
+February Posetiv Limited  4.2m-  4.2m
+April Anix Holdings Limited  11m -  11m
+October RedSquaredplc  3.2m-  3.2m
+October ItheonLimited  3.6m  3.2m  6.8m
+Since theseacquisitions weremade,Posetiv,Anix and
+RedSquared,allbusinesses that arefocussedonmanaged
+services and storage,havebeenconsolidated under theAnix
+brand.Successfulconsolidationof thesebusinesses in the
+secondhalfof the year has given theGroupa very strong
+customer base with significant recurring revenues.Itheon
+remains as a standalonebusinessfocusedon the supply of
+networkassurance software.Anix is bothacustomer and
+channel tomarket for Itheon's innovative software.
+TheGroupexpects operationalandother synergies from
+theacquisitionofRedSquaredandItheon tobe realised
+over thecourseof thenext year.Thefullbenefits of the
+acquisitions willonly beapparent as thecurrent year unfolds.
+Results
+Our results have tobeconsideredin thecontextof strategic
+transition.Revenues for the year to 31October 2007 were
+ 31.2m(2006:  29.5m)and we recordedanoperatingloss
+of  0.9m(2006:loss  7.5m)anadjustedoperatingprofit 
+of  1.2m(2006:loss  4.3m),andalossper shareof(1.4p)
+(2006:profit 26.2p).
+Comparingour results for 2007 with thoseof 2006 
+is complicatedby thefollowingfactors:
+ The 2006 results comprised theEquipdistribution
+businessfor threemonths, theIntegrationdivisionfor
+sevenandahalfmonths andFujinTechnology Trading
+for twelvemonths.
+ The 2007 figures reportedhereinincludeFujinTechnology
+Tradingfor tenmonths up toits disposal,Posetiv Limited
+for ninemonths,Anix Groupfor sevenmonths and
+RedSquaredPlcandItheonLimitedfor two weeks 
+eachfollowing their respectiveacquisitions.
+ InNovember 2006 we returned 26pper share
+to shareholders.
+As a result of theacquisitions and thedisposalofFujin,
+theGroupnow has two tradingbrands,Anix andItheon.
+Anix
+Anix now comprises twodivisions encompassingmanaged
+services and the resaleof softwareandhardwarefor data
+storage solutions.Anix is oneoffour Platinumpartners to
+IBMandoneof twoPlatinumpartners toNetApp.It is also
+aMicrosoft Goldpartner andholds many other vendor
+accreditations.This is inline withour strategy ofbuilding
+strong relationships withbest ofbreed vendors.
+Through the successfulconsolidationofAnix andPosetiv
+and theacquisitionofRedSquared,Anix is now positioned
+as oneof theUK's strongest midmarket managed services
+specialists,Itheonowns the software required todeliver
+these services creatingfurther opportunities for theGroup.
+Ovumpredicts that this market willbe worth$41.5Bnby
+2009and that thefastestgrowing regionin the world
+is Europe,MiddleEastandAfrica(EMEA).
+When takenover thelast twelvemonths ofour acquired
+companies' trading, themanaged services billinggrew at an
+annualised rateof40% year on year withnew totalcontract
+margin signings growingby 51% through thefocuson the
+midmarket.Weareexpecting similar growth this year.
+Since1November 2007 Anix has signedor is negotiating
+contracts with totalcontract values inexcess of  10m. Anix now owns twodatacentres witha totalcapacityfor
+100 racks of which50%is currently occupied.Further space
+is sublet fromnational suppliers.TheGrouphas chosen
+tofocusonhigher valuemanaged services rather than
+simplelow marginco-locationor server hotelactivities.
+Themarket has seenmuchactivityin this area recently 
+with the successfulpublicofferingofTelecityand the
+acquisitionofIXEuropeby Equinix.This areaof thebusiness
+typically generates higher margins than the server hotel
+activity.TheGroupcurrently services approximately 220
+customersacross twonetworkoperatingcentres inBristol
+andManchester andexpects tobuildout theseoperations 
+as thecustomer basegrows.
+Hardware sales ofAnix remains important to theGroup;
+wereit not for this sideof thebusiness we wouldnot enjoy
+thebenefits of top tier vendor relationships andaccreditations.
+However,by its verynature this sourceof revenueis harder
+topredict.Anix saw some softeningin this areain 2007 but
+early costandoperationalcontrolhas meant that this side
+of thebusiness willcontinue todeliver strong results for the
+Group.Indeed toward theendof the year theGroup was
+delighted to reportalargecontract withCamelot worth
+some  5m,of which  4mhas been recognisedin the
+current year.
+Itheon
+TheGroup was delighted tocomplete theacquisitionof
+Itheon.This modular based softwareenables us to replicate
+anIBMTivoli  or HPOpenview  styleofmonitoringand
+reportingfor our services customers.Traditionally,Itheon
+has soldits software through thirdparties andit will
+continue todo so usingAnix as bothafurther channel
+tomarket andacustomer.Unlike the softwarefrom the
+larger vendors,Itheon's softwareis idealfor our mid
+market focusbothin terms ofcostand scalability.
+Rather thanintegrate this business under theAnix brand
+theGrouphas decided tocontinue to tradeas Itheonin
+order toprotect the thirdparty revenues that already exist.
+Indeed,given the traditionally highmargins enjoyedby
+softwarebusinesses,it is our aim to tryandextend the
+offeringacrossEuropeMiddleEastandAfrica with a
+positiveimpact on revenues andprofitability.
+Aparticularly excitingelement of theItheon softwareis 
+theability toprovide storageallocation tracking.In simple
+terms this means thecustomer canmeasureandbill the use
+of storageat a verygranular level viaanautomatedprocess.
+This has already been successfully deployedin theUK with
+NHSelectronicpatient records.Havingproved themodel
+theGroupis now going tohost this aspect of the software
+and turn theprovisionof this intoSoftwareas aService
+( Saas').This willenablecustomers to simply loginandpull
+down this serviceona subscriptionbasis andmeans wecan
+launchit globally.Gartner reports that by 2011 25%ofall
+software sold willbe viaSaaSand willhaveaglobal value
+of$19.3bn.
+FujinTechnology
+InSeptember 2007, theGroupdisposedofFujinTechnology
+TradingLimited.Having undertakena strategic review of
+this business, theBoarddecided that Fujin's mobile we b
+content filteringplatform was nolonger core to theGroup's
+activities.Thebusiness was sold toFujin's management 
+for acashconsiderationof  1.0 million realisingaprofit on
+saleof  437,000.Under the terms of this agreement Xploite
+retained the rights toFujin's patentedinnovativecontent
+filteringandcategorisation software, thereby protectingany
+future value that might arisefromits investment todate.
+Board
+During the year wemadeanumber of significant Board
+changes.TheGroup welcomedbackTony Weaver who
+rejoined theBoardinFebruary 2007 as ChiefOperating
+Officer.Tony was previously theCOOofMatrix
+Communications andhadleft only tofacilitate the
+successfulearnoutandintegrationof that business with
+its acquirer Calyx Groupplc.RobertArrowsmithjoined
+as FinanceDirector andbrought withhimmany years
+experienceofmergersandacquisitions withinIT services.
+Ijoined theBoardinAprilas Non-ExecutiveChairman
+andI was joinedinJuly by RichardRamsay whois our
+independent senior Non-executivedirector.Iconsider 
+that the skills of theBoardare very well suited to the
+strategicgoals of theGroup.
+Xploiteplc  03 AnnualReport 2007 04 Xploiteplc AnnualReport 2007
+CHAIRMAN'SSTATEMENT continued
+Employees
+As a specialist servicecompany it is imperative that we
+retainhigh qualityemployees.As thebusinessgrows
+throughacquisitionit is oftenan unsettling timeand I
+wouldlike toextendmy sincere thanks andgratitude to
+allmembersofour stafffor their commitment andloyalty.
+Thehighlevelof service that our customersexpect has
+alwaysbeenmaintainedandit is thanks to thededication
+ofour colleagues that this has beenpossible.
+Group strategy
+TheGroupcontinues its strategy ofidentifying,acquiring
+andconsolidatingbusinesses that haveaclear strategic
+fit focusedonmanaged services and storage solutions,
+twoof thefastestgrowing segments of theIT services
+market.We remainfocussedon valueimprovement by
+integratingandconsolidatingoperations, reducingcosts
+anddeveloping recurring revenue streams through
+theefficient deployment ofpeople,processes and
+technologies,and the subsequent realisationof
+thesebusinesses creating valuefor shareholders.
+Current tradingandoutlook
+Our tradingis encouragingand weareconfident that our
+strategy willprove rewardingfor our shareholders.
+Currently less than10%ofmidmarket customersoutsource
+any or allof their IT- this is our opportunity.This market is
+growing strongly at some40%annually amongstFTSE 250
+customersandit is our aim tobe theUK's number one
+supplier to this market.
+Weannouncedon11December 2007, that discussions were
+takingplace whichmay or may not lead toanoffer for all
+or partof theCompany.Thesediscussions areongoingand
+thereis nocertainty that they will result inaformaloffer.
+We willmakeafurther announcement as appropriate.
+JohnStanden
+Chairman

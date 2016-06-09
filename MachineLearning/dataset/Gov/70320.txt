@@ -1,0 +1,334 @@
+ Notes to the Financial Statements - Group
+continued
+Notes to the Financial Statements - Group
+continued
+10.  Intangible fixed assets
+Investment
+in
+programmes
+ '000
+Programme
+development
+costs
+ '000
+Trademarks
+and 
+copyrights
+ '000
+Total
+ '000
+Cost
+At 1 January 
+2004 25,515 826 11,504 37,845
+Additions 5,003 2,736 12,258 19,997
+Arising on 
+acquisition 56 1,223 3,006 4,285
+Reclassification 2,207 (2,207) - -
+Derecognition - (830) - (830)
+At 31 December 
+2004 32,781 1,748 26,768 61,297
+At 1 January 
+2005 32,781 1,748 26,768 61,297
+Additions 5,004 943 6,195 12,142
+Reclassification 905 (905) - -
+Derecognition - (278) - (278)
+At 31 December 
+2005 38,690 1,508 32,963 73,161
+Amortisation
+At 1 January 
+2004 5,773 106 2,866 8,745
+Charge for the 
+year 2,694 - 1,018 3,712
+Impairment 305 - - 305
+At 31 December 
+2004 8,772 106 3,884 12,762
+At 1 January 
+2005 8,772 106 3,884 12,762
+Charge for the 
+year 3,661 - 1,350 5,011
+Impairment 601 - 91 692
+Derecognition - (106) - (106)
+At 31 December 
+2005 13,034 - 5,325 18,359
+Net book value
+At 31 December 
+2005 25,656 1,508 27,638 54,802
+At 31 December 
+2004 24,009 1,642 22,884 48,535
+At 1 January 
+2004 19,742 720 8,638 29,100
+Under IAS 36 the Group tests for impairment of goodwill and indefinite 
+life intangible assets annually.  In addition the Group has tested 
+other assets where there is an indication of impairment.  The Group 
+has classified each property as an individual CGU.  The recoverable 
+amount of each CGU is calculated from discounted cashflow 
+projections of the future performance of each property. The key 
+assumptions are those regarding forecast profit, discount rates and 
+growth rates for each CGU as follows:
+Forecast profit is initially derived from 5 year average historical 
+profit, taking into account the most recent budget as appropriate. 
+Yearly growth rates in the 9 years subsequent to these forecasts, of 
+between 5% and 10% dependent on maturity of revenue stream 
+ 
+ 
+ 
+ 
+ 
+Group pre-tax interest rate of 10% used as the discount factor 
+Full allocation of overheads by property 
+Where a CGU was found to be impaired based on the assumptions 
+above, a charge was made to bring their carrying value in line with the 
+value calculated.
+On 31 October ER acquired worldwide in perpetuity audio visual, 
+licensing and merchandising, publishing, live events and new media 
+rights to Rupert Bear for  6 million.  Consideration of  3 million was 
+paid on completion with the balance payable in 2 instalments no 
+later than 15 January 2007.  Express  Newspapers retains a minority 
+interest in Rupert Bear of 33.33% plus the right to publish Rupert Bear 
+comic strips in certain Express publications.
+Amortisation and impairment charge
+The amortisation and impairment charge are recognised in cost of 
+sales.  During 2004 and 2005, based on recent performance and 
+management's revised expectations an impairment requirement was 
+identified and charged.
+11.  Goodwill
+ '000
+Cost
+At 1 January 2004 and 31 December 2004 28,970
+At 1 January 2005 28,970
+Additions 20
+At 31 December 2005 28,990
+Amortisation
+At 1 January 2004 9,258
+Impairment 186
+At 31 December 2004 9,444
+At 1 January 2005 and 31 December 2005 9,444
+Net book value
+At 31 December 2005 19,546
+At 31 December 2004 19,526
+At 1 January 2004 19,712
+The Group has classified each property as an individual CGU.  CGUs 
+which constitute a significant component of overall goodwill include 
+Basil Brush  5.0m and Postman Pat  10.4m.
+During 2004, based on recent performance and management's revised 
+expectations an impairment requirement was identified and charged.
+ 
+ 
+8.  Taxation for the period
+(a) Income tax expense
+2005
+ '000
+2004
+ '000
+Current tax expense:
+UK corporation tax charge 162 53
+Double tax relief (162) -
+Foreign tax current year (relief) / charge 162 (53)
+UK tax prior year (credit)/charge - (6)
+Foreign tax prior year charge / (credit) 52 -
+Total current tax 214 (6)
+Deferred tax expense:
+Origination and reversal of timing 
+differences 99 (497)
+Benefit of tax losses recognised 256 487
+Total deferred tax 355 (10)
+Income tax expense / (credit) in  
+income statement 569 (16)
+(b) Reconciliation of effective tax rate
+2005
+ '000
+ 2004
+ '000
+Profit before tax 5,956 2,186
+Notional taxation charge at the UK 
+Corporation tax rate of 30% (2004: 30%) 1,787 656 
+Items not deductible for tax purposes 140 47 
+Tax on share options exercised (40) -
+Tax allowable deductions (127) - 
+Tax allowances less than depreciation (18) 46 
+Recognition of deferred tax assets (108) (37)
+Derecognition of deferred tax liability (64) (64)
+Utilisation of tax losses (569) (211)
+Utilisation of Film Relief (516) (394)
+Double tax relief - (53)
+Adjustments in respect of prior periods 52 (6)
+Taxable gain in excess of  
+accounting gain 32 -
+Total tax in income statement 569 (16)
+(c)  Factors that may affect future tax charges
+The Company has  0.6 million (2004 :  3.0 million) of tax losses that 
+may be available for relief against future trading profits.
+9.  Deferred tax assets and liabilities 
+Recognised deferred tax assets and liabilities 
+Deferred tax assets and liabilities are attributable to the following:
+Assets Liabilities
+2005
+ '000
+2004
+ '000
+2005
+ '000
+2004
+ '000
+Tangible assets 105 61 - -
+Intangible assets - - (1,690) (1,439)
+Tax losses recognised - 256 - -
+Employee benefits 672 66 - -
+Tax (assets) / liabilities 777 383 (1,690) (1,439)
+Movement in deferred tax during the year
+1 January 
+2005
+ '000
+Recognised
+in income
+ '000
+Recognised
+in equity 
+ '000
+31 December
+2005 
+ '000
+Tangible 
+assets 61 44 - 105
+Intangible 
+assets (1,439) (251) - (1,690)
+Tax losses 
+recognised 256 (256) -
+Employee 
+benefits 66 108 498 672
+(1,056) (355) 498 (913)
+Movement in deferred tax during the prior year
+1 January 
+2004
+ '000
+Arising on
+acqusition
+ '000
+Recognised
+in income
+ '000
+Recognised
+in equity
+ '000
+31
+December
+2004 
+ '000
+Tangible 
+assets 28 - 33 - 61
+Intangible 
+assets (1,898) - 459 - (1,439)
+Tax losses 
+recognised 613 130 (487) - 256
+Employee 
+benefits 18 - 37 11 66
+Other 
+timing 
+differences 52 - (52) - -
+(1,187) 130 (10) 11 (1,056)
+39 40 Notes to the Financial Statements - Group
+continued
+Notes to the Financial Statements - Group
+continued
+13.  Investments in subsidiaries
+A list of all subsidiaries can be found in note 33.
+Acquisitions
+Business Combinations are accounted for under the acquisition method.  There were no business combinations in 2005.
+Tell-Tale 
+On 10 September 2004, the Company acquired 100% of the share capital of Tell-Tale Productions Limited and its subsidiary companies for a 
+total consideration of  0.9 million including acquisition costs of  0.3 million. The book value of the net assets at acquisition have been revalued 
+to fair value and adjusted to reflect changes in accounting policies. The fair value of the net assets is  1.0 million. The negative goodwill arising 
+of  0.1 million is amortised over the expected useful life of the non-monetary assets, which will not exceed 20 years.
+ 
+Book value
+at acquisition
+ '000
+Accounting
+policy
+adjustments
+ '000
+Adjustments
+to fair value 
+ '000
+Fair value 
+ '000
+Non current assets
+Investment in programmes, copyrights and trademarks 160 - 2,902 3,062
+Property plant and equipment 187 - (167) 20
+Programme development costs 28 3,025 (1,830) 1,223 
+375 3,025 905 4,305
+Current assets
+Trade and other receivables 181 (79) 130 232
+Cash and cash equivalents 36 - - 36
+217 (79) 130 268
+Total assets 592 2,946 1,035 4,573
+Current liabilities
+Interest bearing loans and borrowings (1,789) - - (1,789)
+Trade and other payables (79) - - (79)
+Accruals and deferred income (1,342) (551) 269 (1,624)
+(3,210) (551) 269 (3,492)
+Non current liabilities - - (93) (93)
+Total liabilities (3,210) (551) 176 (3,585)
+Net (liabilities) /assets (2,618) 2,395 1,211  988
+ '000
+Satisfied by 
+Cash 600 
+Total consideration before acquisition costs 600
+Acquisitions costs capitalised 258
+Total consideration 858 
+Net assets acquired (988)
+Negative goodwill arising (130)
+Tell-Tale made a loss of  1.1 million for the period 1 January 2004 to 9 September 2004.
+The fair value of the net assets acquired has been revised from  (2.6) million to  1.0 million, including a  2.4 million adjustment for alignment of 
+accounting policies and  1.2 million of fair value adjustments. Accounting policy changes include the capitalisation of programme development 
+costs, associated amortisation and recognition of revenue in accordance with the Group's accounting policies. Fair value adjustments include 
+the recognition of intangible assets, the write-down of tangible assets, the recognition of deferred tax assets and a provision for an onerous 
+lease contract.
+During August 2005 a review of the fair values of the Tell-Tale properties was carried out. Based on revised discounted cashflows, investment in 
+programmes was reduced by an amount of  1.8m, copyright increased by  1.5m and accruals decreased by  0.3m due to a revision of budgeted 
+costs in programmes in development.
+12.  Property, plant and equipment
+ 
+Freehold
+land and building
+ '000
+Short
+leasehold
+improvements 
+ '000
+Motor vehicles
+ '000
+Fixtures
+fitting and  office
+equipment
+ '000
+Total
+ '000
+Cost
+At 1 January 2004 300 265 46 1,259 1,870
+Additions - - 14 276 290
+Disposals - (51) (35) (54) (140)
+Arising on acquisition - - - 20 20
+At 31 December 2004 300 214 25 1,501 2,040
+At 1 January 2005 300 214 25 1,501 2,040
+Additions - - 31 254 285
+Disposals (300) (56) (56) (586) (998)
+At 31 December 2005 - 158 - 1,169 1,327
+Depreciation
+At 1 January 2004 4 68 13 786 871
+Charge for the year 5 15 19 335 374
+Disposals - (38) (24) (46) (108)
+At 31 December 2004 9 45 8 1,075 1,137
+At 1 January 2005 9 45 8 1,075 1,137
+Charge for the year 2 105 38 222 367
+Disposals (11) (56) (46) (552) (665)
+At 31 December 2005 - 94 - 745 839
+Net book value
+At 31 December 2005 - 64 - 424 488
+At 31 December 2004 291 169 17 426 903
+At 1 January 2004 296 197 33 473 999
+At 31 December 2005 there were no assets held under finance leases.  At 31 December 2004, motor vehicles and technical equipment with 
+NBV's of  75,000 were held under finance leases.
+Under the Group's banking facility, the bank has a first legal charge over any property, assets and undertakings.
+   
+41 42

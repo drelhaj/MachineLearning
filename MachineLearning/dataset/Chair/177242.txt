@@ -1,0 +1,137 @@
+ Report and Financial Statements 31 December 2011
+2
+Introduction
+ServicePower has made good progress throughout the year, exceeding market forecasts for 2011 and importantly
+delivering a good level of profits.We were delighted to welcome some prestigious organisations onto our client roster,
+including the RSPCA and Assurant, which not only underlines the power of our technology offering but also the
+breadth of its appeal.
+We continue to focus on the delivery of high margin software, hosting and Software as a Service (SaaS) offerings, the
+success of which has been evidenced by the increase in licence and royalty revenue during the year. This has the
+benefit of lowering the risk of the business by enhancing profit margins and providing for more scalability. ServicePower
+now has a growing base of profitable contracts providing a strong platform for future growth.
+Our ability to offer our customers flexibility in terms of software delivery model, selling either via a licence or as a
+hosted service, continues to be well received by customers. In addition, several of the contracts won during the year
+were secured following rigorous competitive testing, proving the stability and highly scalable nature of our software
+platform.
+This success has been achieved despite the relatively challenging market conditions continuing.While our offerings help
+businesses deliver additional services to customers and maximise the efficiency of field services, those businesses are
+still facing budget constraints, and we therefore continue to view our sales pipeline favourably, but nevertheless,
+conservatively.
+The Board is firmly focused on generating increased organic profits but continues to consider the potential for
+accelerated growth through very selective acquisitions. ServicePower will also seek to grow through the entry into new
+market sectors and further extensions of contracts with existing customers.
+Financial Review
+The Company has two segments, ServiceScheduling and ServiceOperations.
+Due to the decision taken in previous years to refocus the business away from low-margin ServiceOperations
+contracts, the decrease in revenues for the year has resulted in a significant increase in profit margins.
+T otal revenue for the year decreased by 27 per cent. T o  13.3 million (2010:  18.3 million).Within this,
+ServiceOperations revenue reduced by 51 per cent. T o  5.6 million (2010:  11.5 million) due in particular to the
+removal of low margin business in the UK in the second half of the prior year, whilst ServiceScheduling licence and
+consultancy revenue increased by 13 per cent. T o  7.7 million (2010:  6.8 million).
+A breakdown of revenue from the ServiceScheduling segment is as follows:
+2011 2010
+  million   million
+Licences 2.1 1.6
+Implementation/support 5.1 4.8
+Mobility 0.5 0.4
+T otal 7.7 6.8
+Joint statement of the Chairman
+and Chief Executive 3
+A breakdown of revenue from the ServiceOperations segment is as follows:
+2011 2010
+  million   million
+Licences 0.9  
+Implementation/support 0.8  
+Hosting/SaaS 1.2 1.9
+Operations US 1.3 3.0
+Operations UK 1.4 6.6
+T otal 5.6 11.5
+The Company continued to invest in maintaining of functionalities across all of its product range, investing  0.7 million
+in 2011 (2010:  0.8 million).
+Gross profit for the period increased to  6.7 million (2010:  5.1 million) due to the change in product mix as shown in
+the table above, and profit before tax increased to  1.1 million (2010:  0.6 million).
+The adjusted profit before tax was  0.9 million, an improvement of  0.6 million on the adjusted profit of  0.3 million in
+2010. The adjusted profit before tax refers to the profit before tax adjusted for a foreign exchange translation gain of
+ 0.2 million (2010:  0.3 million).
+The basic and diluted earnings per share for the full year was 0.50p (2010: basic and diluted earnings per share of
+0.30p).
+Cash balances were  5.5 million at 31 December 2011, compared to the cash balances at 31 December 2010 of  3.7
+million.
+The directors cannot recommend the payment of a dividend at this time (2010: same).
+Operational Review
+Customers
+The healthy pipeline with which the Group entered the year delivered several significant new customer wins.
+ServiceScheduling
+In December 2011, the ServiceScheduling platform was selected by the RSPCA, the UK's leading animal welfare charity,
+as part of its new Command and Control Project. The contract is for an initial five years, consisting of a licences,
+maintenance and support.
+The RSPCA has a vital role to play in crisis situations that threaten the welfare of animals. ServicePower's
+ServiceScheduling platform will be used by the RSPCA to improve the management of its officers' workloads. The
+platform will enable the scheduling and dispatch of incidents in real time to officers out in the field and the subsequent
+management of the ongoing actions associated with each incident.
+Steritech, one of the largest outsourced food safety and quality assurance companies in the US also became a new
+customer for ServiceScheduling, while existing ServiceScheduling customers, including Homeserve, and North
+America's leading home appliance retailer and largest provider of home services, extended their use of the software. Report and Financial Statements 31 December 2011
+4
+ServiceOperations
+In addition to extending its ServiceScheduling licence, Homeserve added a new two year contract for the
+ServiceOperations SaaS platform to manage the dispatch of jobs and the payment of claims.
+Another existing customer, Richer Sounds, the UK's hi-fi, home cinema and flat panelTV specialist retailer, also extended
+its use of the platform, moving from a rolling one year contract onto a three year contract, adding a number of new
+home services. ServicePower is now also providing access to, and managing, a network of qualified servicers across the
+UK who will deliver a UK home repair service to Richer Sounds' customers, providing a physical repair, installation and
+inspection network service.
+Following a successful development and implementation phase, ServicePower's ServiceOperations software also went
+live in the period at Mitsubishi, managing the claims and dispatch for the repair of consumer electronics across North
+America and replacing an incumbent provider.
+The most significant contract in the year was the signing of an additional ServiceOperations licence and revenue share
+contract in March 2011 with Assurant Solutions, one of the world's leading speciality insurance providers. Assurant has
+used ServiceOperations software via the SaaS model for over five years. The new arrangement will expand the use of
+the software for the management of claims and dispatch. ServicePower will receive licence revenue, software
+development and maintenance fees throughout the term of the contract.
+In addition,Assurant Solutions will provide access to the ServiceOperations software to its commercial customer base,
+which includes some of the world's leading retailers and manufacturers.
+ServicePower was delighted to announce in June the first customer to be added via this partnership, a tier 1 retailer.
+The contract is worth a minimum of  1.5 million in revenue in 2011 and due to the part transactional nature of the
+implementation, has the ability to grow in 2012 and 2013.
+Assurant continues to actively target many additional top retailers in the US and ServicePower hopes to be able to
+update shareholders on further progress in 2012.
+Market developments
+In the current market environment, service and retail organisations are seeking means of increasing their customer
+offerings while also increasing efficiencies within their organisations.What has been evident in 2011 is the growing
+adoption of scheduling technology across a broad sweep of sectors to enable what have previously been complex
+scheduling processes carried out manually to become automated and therefore more efficient. Both our
+ServiceScheduling and ServiceOperations platforms can demonstrate high levels of return on investment and are
+therefore well placed to benefit from this trend.
+In addition, in the current economic climate, retailers in particular are seeing slow growth in store revenues and are
+seeking new means of revenue generation. There is a growing recognition of the value of service offerings, such as
+installation and warranty, alongside traditional product ranges. In 2012 we will continue to address this part of the
+market through our ServiceScheduling and ServiceOperations platforms but also via the ServiceMarket platform,
+described below. 5
+Products
+We continued to invest in enhancements to our core ServiceScheduling and ServiceOperations products including a
+major new release of ServiceScheduling in January 2012. This added support for new platforms and operating systems,
+enabling the management of staff capacity at a more granular level and improvement of the handling of non-working
+time, such as breaks. Further integration between ServiceScheduling and ServiceOperations has been developed with
+the introduction of ServiceBroker which allows clients to direct work between various channels of employed engineers,
+the independent servicer network or ServiceMarket.
+During 2012, further development will continue to support the next generation of ServicePower products using cloud
+technology.
+ServiceMarket
+During the latter part of 2011 ServicePower added ServiceMarket to its portfolio of software products. ServiceMarket
+is a web-based marketplace on which pre-approved servicers can  bid' for service jobs advertised by retailers,
+incorporating a payment system. ServicePower will market the software platform initially to the US retail market. The
+directors anticipate this will form part of the ServiceOperations segment.
+Growth Strategy
+ServicePower is the only independent global provider in the marketplace and our market position and expertise is
+becoming more widely known.We are a leader in the white goods, consumer electronics, and insurance and energy
+verticals and continue to build on our reputation in these sectors. However, we are now actively seeking additional
+opportunities in other market verticals such as retail and home services, both of which provide significant
+opportunities for 2012.
+Outlook
+We continue to be focused on our main markets of the US and UK and are working on a number of scheduling
+opportunities and transactional business opportunities both directly and through Assurant.With a robust and scalable
+software platform, a growing customer base and strengthened financial position we believe the opportunities for
+ServicePower to be highly encouraging and are confident of a successful outcome to the year.
+Lindsay Bury, Chairman Mark DufDn,CEO
+22 March 2012

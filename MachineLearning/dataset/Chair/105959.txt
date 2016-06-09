@@ -1,0 +1,125 @@
+ iPoint-media plc
+REPORT AND ACCOUNTS 2009
+4
+Chairman's Statement
+FOR THE YEAR ENDED 31 DECEMBER 2009
+During the period, the Company focused on implementing projects with mobile operators and creating new
+business opportunities for Vitrage, its leading video application platform for fixed line, 3G mobile operators and IP
+broadband users, in particular working closely with Telefonaktiebolaget L M Ericsson (Ericsson ) and Ericsson's
+market units globally. Several projects were delivered to Ericsson's customers during the period.
+The Group experienced slippage with new contracts throughout 2009 as a result of a major slowdown in the
+telecom industry and the global economy, resulting in customers taking longer to commit to prospective 3G video
+calling related projects. Consequently, several significant contracts which were anticipated to be signed during
+2009 were delayed. As a result, turnover for the year ended 31 December 2009 was significantly lower than
+expected and the loss before taxation for the same period was significantly greater than anticipated.
+The Business of iPoint
+iPoint's business is developing enabling technology - service creating platform for developing live interactive video
+calling services. These platforms enables telecom operators and media companies to develop and deploy a wide
+variety of applications and services over broadband internet and mobile networks. The deliverable consists of a
+ Telco grade' video application platform that incorporates a powerful service creation environment (SCE). The SCE
+is based on a suite of software building blocks and pre-configured application templates that enable quick and easy
+deployment of video calling services over IP and 3G networks.
+iPoint's business strategy is based on delivery to three verticals: telecoms, media and content aggregation. The
+Group's core technology and intellectual property are common to all these verticals.
+During 2009, iPoint executed its strategy in the telecoms vertical by working closely with Ericsson and implemented
+signed projects and submitted proposals, together with Ericsson's market units, to tenders issued by leading
+telecom operators worldwide. Ericsson is one of the world's leading vendors to the telecoms industry and the
+directors believe that by working closely with Ericsson, its presence can be leveraged to generate sales of iPoint's
+video application platform known as Vitrage, which complements the Video Gateway (VIG) of Ericsson. To date,
+the Group has delivered four projects with Ericsson to telecom operators in Europe and Asia in which the Vitrage
+platform is used, all of which were delivered in 2009. In addition, iPoint, together with Ericsson, built a pipeline of
+potential tenders for projects with telecom operators in Latin America Central and southeast Asia. The Ericsson
+channel comprises approximately 20 distinct underlying projects (in various phases of quotation/implementation)
+with revenues to the Group from each project in the range of $200,000 to $2,000,000.
+During the last quarter of 2009 the Group established a representative office in China in order to expand its market
+to Chinese customers from the telecom and media sectors. In addition, the Group signed a distribution agreement
+with a leading Chinese distributor which is active in the banking and communications sectors.
+The directors expect some of these tenders to be awarded in 2010 although some will be delayed until 2011
+because of the impact of the global recession.
+iPoint has been in discussions with IBM and the media vertical has been expanded to provide user generated
+content and applications for the printing industry, in addition to TV and mobile services already provided. iPoint-
+media's offering will become a standard part of IBM's  Media Hub' solution in addition to video calling applications.
+Based on the cooperation with IBM, the Israeli Chief Scientist Office and IBM jointly granted iPoint the sum of NIS
+500,000 in a special  Tafnit' program to cover the research and development costs of integrating Vitrage into IBM's
+Media Hub.
+As a result of the economic slowdown in the media market and the restructuring at IBM, iPoint did not succeed in
+achieving a significant proportion of the revenues expected from the media sector for the period under review. The
+slowdown in advertising revenues has had a significant impact on the media sector as a whole and budgets for
+new projects in particular. Consequently, the directors believe that revenues derived from the media vertical will
+continue to be affected during 2010. iPoint-media plc
+REPORT AND ACCOUNTS 2009
+5
+Chairman's Statement
+CONTINUED
+During 2009 iPoint did not succeed in enlarging its revenues from the content aggregators vertical although the
+Group continues to pursue opportunities to market its technology called  Glaze', creating an interface to existing
+web-based video chat and content delivery platforms, which enables subscribers to connect from 3G mobile to
+these services.
+Financial review
+The Company generated revenues of  1,275,908 ($1,990,416) for the year ended 31 December 2009 compared
+to  871,802 ($1,608,475) for the year ended 31 December 2008 and gross profit of  1,065,509 ($1,662,194)
+compared to  706,927 ($1,304,281) in 2008. The results represent an increase of 46 per cent. in revenue and
+51 per cent. in gross profit. The delivery of several projects to mobile operators through Ericsson's market units
+during the period was a key factor in the improvement of the results.
+The year ended 31 December 2009 produced a net loss of  547,378 compared to  2,612,894 for the year ended
+31 December 2008. The net loss of 2008 included  1,293,900 loss from impairment of goodwill compared to  nil
+in 2009. The reduction in net loss in the year ended 31 December 2009 compared to 2008 was achieved principally
+due to the increase in revenue and a 23 per cent. reduction in operating expenses.
+Although revenues were still relatively modest, the Group has commenced certain projects already which are due
+to complete in 2010 and the Directors believe that there are good growth prospects in iPoint's key markets and
+that the Group's products and capabilities are well-matched to market requirements.
+On 14 August 2009 the Group announced a Subscription Offer (with priority to existing shareholders) of  1,727,000
+in Units comprising:
+- 7,040,000 placing shares at 4 pence per Ordinary Share; and
+-  1,408,000 8 per cent. Unsecured Loan Notes due in 2013 with 14,960,000 Bonus Shares at par.
+On 13 November 2009, the Group announced that it had received applications under the Open Offer and the
+Subscription Offer amounting to  1,090,412 and extended the closing date of the Subscription Offer to 15 February
+2010. On 17 February 2010, the Group announced that it had received applications under the Open Offer and the
+Subscription Offer amounting to  1,727,000, the maximum aggregate amount that could be raised under the
+Open Offer and the Subscription Offer.
+The Bonus Shares are not capable of being sold, transferred or pledged to any third party for a period of one year
+from issue and for a period of a further year in respect of 50 per cent. of these Bonus Shares.
+Nisko Investments Ltd agreed not to withdraw or otherwise impair Nisko's guarantee of iPoint Media Ltd's overdraft
+facility with United Mizrahi Bank Ltd for the duration of the term of the Loan Notes issued by the Group(for a period
+of 4 years from date of issue), up to NIS 1,970,000 (the Guarantee ). The above undertaking shall replace Nisko's
+existing undertaking (provided in December 2008) not to withdraw or otherwise impair the guarantee (in an amount
+of NIS 3,500,000) until 31 December 2009. iPoint-media plc
+REPORT AND ACCOUNTS 2009
+6
+Chairman's Statement
+CONTINUED
+Operational highlights during the period
+Material operational achievements for the Group in the year ended 31 December 2009 were:
+  Ericsson and iPoint-media jointly demonstrated the new  GOliveCare' product at the Mobile World Congress
+2009. GOliveCare is a new live interactive mobile video solution for healthcare providers.
+  In March 2009, the Group announced that following an extensive trial period, a major mobile operator has
+selected the Group's Vitrage platform to provide interactive video calling services over its newly deployed
+3G/UMTS network through the Group's partnership with Ericsson Turkey & Israel.
+  In October 2009, the Group was awarded a patent which covers key elements of its video distribution
+technology, known as  Vitrage'. The unique video proxy technology is the basis for the video application
+platform and enables large scale video distribution and transparent connectivity and switching of multiple
+video sources.
+  During 2009 the Group succeeded to deliver, through Ericsson's marketing channel, four projects and several
+trials with European and Asian mobile operators.
+  In December 2009 a Chinese national MobileTV operator selected the Group's new product GOliveStudio
+(based on the Vitrage video application platform and the GOliveTV application) for immediate deployment. The
+purchase of the GOliveStudio will enable the MobileTV Operator's production workstations to manage, audit
+and publish video interactive show settings and production.
+Outlook and Strategy
+In 2010, iPoint will be focusing on completing the sales cycle and deploying its solutions with several operators
+through Ericsson. Several trials with Ericsson are ongoing or have been concluded successfully. The directors
+believe that several projects through Ericsson will materialise during 2010.
+Our strategic decision to open a representative office in China is important for the Group and we're happy to have
+been selected by a leading Chinese national MobileTV Operator so soon after we started activities in China and
+hope that it is an indication of the large potential of the Chinese market for our Vitrage video application platform.
+The outlook of the media vertical looks promising with the new product of the GOlivestudio that was initially
+developed for the Chinese market and now might approach the media market in Europe. With the collaboration
+with IBM, the Group expects new opportunities to be presented.
+Existing business with content aggregators is slowing down and it is more difficult to assess the outlook of this
+vertical.
+I should like to thank all of our team for their commitment, professionalism and creativity, which has placed iPoint
+as a frontier technology pioneer in the broadcast and media sector.
+iPoint remains utterly committed to its core values: total quality and innovation, increasing its revenues and
+developing its relationships with partners and customers.
+E Sagi
+Chairman

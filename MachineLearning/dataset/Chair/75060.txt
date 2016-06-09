@@ -1,0 +1,168 @@
+ 04 Financial Objects plc Annual Report and Accounts 2006
+I am pleased to report another year of strong trading, with the
+momentum of the last two years continuing throughout the
+business. Both revenue and profitability showed continued growth,
+and the order book is at an encouraging level. Cash generation in
+the year was strong, and the year ended with net funds of  2.8
+million. Order backlog at 31 December 2006 was  13.1million,
+compared to  10.4 million at 31 December 2005, an increase
+of 26%.
+Following the successful turnaround of the Group's financial
+performance, the Board proposes to recommence paying
+dividends and recommends a final dividend of 1.0p per share.
+We remain focused on three sectors: banking, wealth
+management and energy.Within each of these sectors we have
+software solutions that are capable of considerable organic
+growth at attractive margins.The success of the wealth
+management and credit risk software has provided a wider
+customer and product base for the Group. Having successfully
+integrated two acquisitions in the past two years, the Group
+will continue to consider suitable opportunities within our
+chosen sectors.
+Financial results
+Group revenues increased by 43% to  19.9 million (2005:  13.9
+million), driven by the recent acquisitions, coupled with organic
+growth across all divisions.Within the  19.9 million of sales,
+42% ( 8.3 million) was recurring support revenue.
+Strong growth in operating profit continues to be achieved.
+Operating profit for 2006, before exceptional items and goodwill
+amortisation, increased to  2.3 million (2005:  1.0 million).
+Operating margins increased to 12%, compared to 7% last year.
+Raft contributed  0.2 million (before exceptional items and
+goodwill amortisation) in the ten months of ownership.
+Operating profit in the second half, before exceptional items and
+goodwill amortisation, was  1.3 million ( 1.0 million excluding
+Raft).This compares to  1.0 million in the first half ( 1.1 million
+excluding Raft). Operating margins in the second half improved
+to 14%.
+The integration of Raft was achieved with exceptional costs of
+only  0.1 million.These costs were offset by exceptional income
+from an insurance claim and the termination of a property lease,
+resulting in a net exceptional credit of  0.1 million for the year.
+After exceptional items and goodwill amortisation, the Group
+made a profit of  1.4 million (2005: loss of  0.2 million).
+There is no material corporation tax charge in the year.The Group
+has tax losses in excess of  11.0 million available for offset against
+future profits. For the first time, a deferred tax asset ( 0.9 million)
+in respect of these losses has been recognised, reflecting the
+reasonable expectation of future profits within the Group.
+Basic earnings per share have increased to 5.4 pence, from a loss
+last year of 0.5 pence.Adjusted to exclude exceptional items,
+goodwill amortisation and the deferred tax credit, the earnings
+per share have increased to 5.3 pence from 2.9 pence.
+As anticipated, operating cash flow at  2.5 million (2005:  0.8
+million) was in line with operating profit.After the cost of
+acquiring Raft ( 1.8 million net) and other exceptional items and
+capital expenditure ( 0.5 million), the Group generated net cash
+of  0.2 million.The Group's net funds at the end of the year were
+ 2.8 million (2005:  2.6 million).
+The Group will adopt IFRS reporting for the year to December
+2007.The principal impact will be in the treatment of goodwill
+and the capitalisation of software development.The effect of these
+accounting changes on 2006 earnings per share is favourable,
+increasing basic earnings per share by 35% from 5.4 pence to 7.3
+pence.The restatement of the 2006 results under IFRS is shown
+on page 45.
+Banking Division
+Banking systems accounted for 57% of the Group's turnover in
+the year to 31 December 2006 (2005: 74%). Operating margins
+improved to 22%, compared to 12% in 2005, strengthened by
+above normal first half licence sales. Excluding the operational risk
+software acquired with Raft, revenues increased by 6% year on
+year.
+Within the division, IBIS had a good year, helped by a high level
+of licence sales, particularly in the first half. It enters 2007 with a
+good sales pipeline in an improving market. activebank also
+returned higher year on year sales, and an improvement in
+operating margins. Costs remain under tight control, with virtually
+all development work being undertaken in our development
+centre in Bangalore. Operational risk software, acquired with Raft,
+had a successful and profitable second half, and is capable of
+significant growth in 2007 and beyond.
+Chairman's Statement
+The outlook for 2007 is encouraging. A number of new
+client contracts within Wealth Management and Energy
+were signed in the second half of 2006, contributing to
+the good order backlog going into 2007. This, along with
+a strong pipeline of sales and the investment we have
+made in sales and marketing, gives us confidence that
+the momentum of growth can be continued.
+Roger Foster
+Chairman 05 Financial Objects plc Annual Report and Accounts 2006
+The activebank system is focused on the UK and Scandinavian
+markets, and is continuing to win new business in these markets.
+The prospects for ibis s2 are more internationally spread, with a
+number of prospects being developed by our partner network.
+Following a particularly successful year, growth in the banking
+division in 2007 is likely to be more modest.
+Wealth Management Division
+Sales of our wealth management software accounted for 12%
+of Group turnover in the year to 31 December 2006 (2005: 9%).
+After a weak first half, operating margins improved significantly in
+the second half to 14%.
+Prospects for 2007 and beyond are very encouraging, with a
+number of new clients signed or close to signature.The sales and
+marketing team has been expanded to exploit the potential of
+the market.We are continuing to develop the product, including
+integration with the ibis s2 Private Banking software.A significant
+number of sales have been won from cross-selling to our banking
+customers.
+Energy Division
+Sales of the credit risk system to the energy trading sector
+accounted for 10% of Group turnover in the year to December
+2006.The system was acquired with Raft in March 2006, and the
+year has seen a strong build up of business, with margins in the
+second half of the year improving to 10%.
+The worldwide demand for sophisticated credit risk systems in
+the energy trading market continues to be encouraging.The
+market leading credentials of the product were demonstrated in
+a substantial contract with Shell InternationalTrading which was
+signed in the second half.The market remains buoyant and there
+is a strong pipeline of sales prospects.
+We have increased the sales team to further exploit the potential
+of this market.We are also investing in the product, extending the
+functionality and creating a new thin client version of the software
+to allow access via the internet and through web portals.
+Other software products
+Sales of our other software products made a useful contribution,
+accounting for 21% of the Group's turnover in the year to
+31 December 2006 (2005: 17%), with full year operating margins
+of 18%.
+Within this division, we have a number of software solutions
+serving specialist markets.These include fairs, a product for
+Independent Financial Advisers; genisys, a document management
+solution; and gvas, property asset management software for
+maintaining large property portfolios.
+Wholly-owned development centre in Bangalore
+Over 50% of employees are now based at our wholly-owned
+development centre in Bangalore, where the majority of
+development is carried out, and most of the product groups now
+have a team in place.This facility enables us to develop high quality
+products while remaining cost competitive.
+Board
+As announced in October 2006, with effect from January 1 2007,
+Karim Peermohamed has stepped up to Chief Executive Officer.
+Karim joined the Company in 1997 as head of operations in
+North America, and prior to his appointment as CEO was Chief
+Operating Officer. I will remain as Chairman on a part time basis.
+John Standen, following nine years as a non-executive director,
+steps down from the Board at the forthcoming AGM. I would like
+to express my thanks and appreciation to John for his substantial
+contribution during his time with Financial Objects.
+People
+I would like to thank all of our employees for their efforts
+over the past year.Their commitment and loyalty will be vital in
+continuing the success of the Group during the exciting period
+ahead.
+Outlook
+The outlook for 2007 is encouraging.A number of new client
+contracts within Wealth Management and Energy were signed in
+the second half of 2006, contributing to the good order backlog
+going into 2007.This, along with a strong pipeline of sales and
+the investment we have made in sales and marketing, gives us
+confidence that the momentum of growth can be continued.
+This confidence in the future is reflected in the decision to
+recommend a return to the payment of a dividend.
+Roger Foster
+Chairman
+12 March 2007

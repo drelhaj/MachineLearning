@@ -1,0 +1,136 @@
+ Smart Metering Systems plc Annual report and accounts 2012 08
+Risk management
+The attention of prospective investors is drawn to the fact that ownership 
+of ordinary shares will involve a variety of risks which, if they occur, may 
+have a materially adverse effect on the Group's business and financial 
+condition and the market price of the ordinary shares could decline.
+Risk Description and mitigating actions
+Failure of physical 
+infrastructure or 
+services of the 
+Company
+The Company operates with a well established IT support infrastructure which is fundamental to the smooth 
+operation of our business. Service interruptions and equipment failures may expose the Company to financial 
+loss and damage its reputation, which could have a material adverse effect on the Company's business, financial 
+condition and results of operations. The Company's business includes the ownership and management 
+of gas meters. If the Company fails to register a meter(s) on its IT system, wrongly classifies a meter 
+or it loses track of a meter(s) within the system then this could also have a material adverse effect.
+The Company's IT infrastructure is subject to failure from a variety of causes largely outwith the Company's 
+control, including human error, equipment failure, power loss, failure of services related to the internet 
+and telecommunications provided by the Company, physical or electronic security breaches, as well as 
+factors outwith the Company's control, such as sabotage, vandalism, system failures of network service 
+providers, fire, earthquake, volcanic ash, flood and other natural disasters, water damage, fibre optic cable 
+cuts, power loss not caused by the Company, improper building maintenance by the landlords of the 
+buildings in which the IT infrastructure is located and terrorism.
+To mitigate against these risks the Company has deployed a fully redundant failover infrastructure which 
+is mirrored in real time with all primary nodes. The mirrored servers are hosted on a secondary site at a Tier 1 
+data centre. A full business continuity plan is in place and is tested regularly. This plan facilitates the use 
+of secondary office place which is fully equipped with computers, phones and other office equipment. 
+Full disaster recovery failover to a new office environment can occur within four hours. 
+Dependency 
+on key clients, 
+terms of contracts, 
+financing costs and 
+performance levels
+In its UKMA business, the Company is largely dependent on a small number of key gas suppliers with which 
+it has entered into commercial contracts. Whilst there are termination provisions within such contracts which 
+are designed to protect the Company in the short term, loss of one or more of these key clients could have 
+a material adverse effect on the future growth of the Company's business. In addition, approximately 90% 
+of the UKMA business revenue at the end of December 2012 was derived from consumers who are clients 
+of suppliers which had contracted with the Company for meter asset management . The balance of the 
+revenue was derived from consumers who had changed gas supplier to non-contracted suppliers. 
+In the event that such non-contracted supplier used another MAM and management of the gas meter 
+was changed to the new asset manager, then the Company would suffer a loss in revenue and would 
+not benefit from the contract termination provisions outlined above.
+The key contracts with gas suppliers oblige the Company to fulfil certain performance obligations. In particular, 
+the Company is required to provide meter assets for an agreed price. If the Company enters into such 
+contracts on uneconomic terms or was unable to secure appropriate levels of asset finance on suitable 
+terms then this would have a material adverse impact on the Company's business, financial condition 
+and results of operations.
+In addition, should the Company be unable to meet an appropriate level of service in its UKGC business 
+this may damage its reputation and could reduce the confidence of the Company's clients and users 
+of its services, impairing its ability to retain existing clients and users and attract new clients and users.
+To mitigate against these risks the Company has now put in place full MAM service contracts that cover over 
+80% of the industrial and commercial market and over 40% of the domestic market and maintain strong 
+relationships with the balance. These contracts ensure that either redemption penalties or recurring rentals 
+will be payable on the vast majority of occasions where a meter point moves from one supplier to another. 
+Strict service levels are monitored daily throughout all core business functions to ensure the Company 
+meets and exceeds customer expectations.  Overview Corporate governance Business review Financial statements
+Annual report and accounts 2012 Smart Metering Systems plc 09
+Risk Description and mitigating actions
+Unforeseen delays 
+and cost overruns 
+when rolling out 
+new and upgrading 
+existing products 
+and services
+Management effort and financial resources are being employed by the Company in rolling out the ADM  
+device. In addition, the Company periodically upgrades and replaces its IT infrastructure. Although the 
+Company has budgeted for expected costings, additional expenses in the event of unforeseen delays, 
+cost overruns, unanticipated expenses, regulatory changes and increases in the price of equipment 
+may negatively affect the Company's business, financial condition and results of operations.
+The Company has considerable experience in forecasting and managing project implementation timetables. 
+However, it may in the future experience unforeseen delays and expenses in connection with a particular 
+project or initiative.
+The Company 
+may experience 
+accelerated 
+demand for 
+its products 
+and services
+The Company expects to be able to meet its current capital expenditures from internal resources and 
+debt facilities. In the event that the Company wins a large order for ADM  devices and/or new smart 
+meters then the Company may consider supporting the working capital requirements for such order(s) 
+by way of an issue of new equity or debt finance or a combination of both.
+If the Company is unable to raise the necessary financing it could adversely affect the Company's ability 
+to expand its business.
+The Company also maintains close relationships with funding partners to give the Directors confidence 
+future growth can be funded.
+The Company 
+could be subject to 
+increased operating 
+costs, as well as claims, 
+litigation or other 
+potential liabilities, 
+in connection with 
+the security and 
+control of the 
+Company's systems 
+and the personal 
+data of users
+The Company relies on systems and personnel in the Company's locations to physically secure IT infrastructure 
+and user data. Any accidental or intentional actions, including computer viruses and unauthorised access, 
+as well as other disruptions could result in increased operating costs or claims. The Company may incur 
+significant additional costs to protect against such disruptions, the threat of security breaches (whether 
+physical or electronic) or to alleviate problems caused by such interruptions or breaches.
+Smart Metering Systems plc is forging a strong reputation for reliable secure IT systems. Our IT systems 
+are designed to be highly resilient against the most serious levels of disruption. Disaster recovery facilities 
+are in place to provide a fully functional alternate location for operations with access to all production 
+data. All production data is backed up live (24/7) to a highly secure offsite facility. Disaster events from 
+fire, communications failures, etc are planned for and solutions are tested. Business continuity insurance 
+is in place to provide protection against costs of such events.
+A party who is able to breach the physical premises and/or electronic security measures of the Company's 
+systems could damage the Company's equipment and/or misappropriate either its proprietary information 
+or the personal information of the Company's users and cause interruptions or malfunctions in its operations. 
+If a third party were able to misappropriate data held on the Company's system then the Company could 
+be subject to claims, litigation or other potential liabilities. Whilst security remains one of the Company's 
+highest priorities, there can be no certainty that the security of its systems will not be breached and the 
+information of the Company's clients and customers put at risk. Any security breach (whether physical 
+or electronic) could have a serious effect on the Company's reputation and could lead to a loss of 
+clients and/or existing clients seeking to claim damages. This could have a material adverse effect 
+on the Company's business, financial condition and result of operations or future growth.
+If the Group is not 
+able to effectively 
+manage its growth, 
+its operations could 
+be damaged and 
+profitability reduced
+The Group's business and operations have experienced rapid growth. If the Group fails to effectively manage 
+this growth in the future, its operations could be harmed. This future growth could place significant demands 
+on the Group's operational and financial infrastructure. If the Group is unable to effectively manage its growth 
+its operations could be harmed and profitability reduced. The growth of the Group's sales and profits in the 
+future will depend, in part, on its ability to expand its operation through the roll out of new products, the exchange 
+of existing gas meters and the launching of its services into new markets and geographies. Furthermore, in 
+order to manage its planned expansion, it will need to continually evaluate the adequacy of its management 
+capability, operational procedures, financial controls and information systems. Accordingly, there can be no 
+assurance that the Group will be able to achieve its expansion goals on a timely or profitable basis.

@@ -1,0 +1,196 @@
+ 8
+independent auditors' report 
+to the members of Carclo plc
+We have audited the group and parent company financial statements (the  'financial statements'') of Carclo plc for the year ended 31 March 
+2008 which comprise the consolidated income statement, the consolidated and parent company balance sheets, the consolidated statement 
+of cash flows, the consolidated statement of recognised income and expense and the related notes. These financial statements have been 
+prepared under the accounting policies set out therein. We have also audited the information in the directors' remuneration report that is 
+described as having been audited. 
+This report is made solely to the company's members, as a body, in accordance with section 235 of the Companies Act 1985. Our audit work 
+has been undertaken so that we might state to the company's members those matters we are required to state to them in an auditor's report 
+and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the company 
+and the company's members as a body, for our audit work, for this report, or for the opinions we have formed.
+respective responsibilities of directors and auditors
+The directors' responsibilities for preparing the annual report and the group financial statements in accordance with applicable law and 
+International Financial Reporting Standards (IFRSs ) as adopted by the EU, and for preparing the parent company financial statements and the 
+directors' remuneration report in accordance with applicable law and UK Accounting Standards (UK Generally Accepted Accounting Practice) 
+are set out in the statement of directors' responsibilities on pages 22 and 23.
+Our responsibility is to audit the financial statements and the part of the directors' remuneration report to be audited in accordance with 
+relevant legal and regulatory requirements and International Standards on Auditing (UK and Ireland).
+We report to you our opinion as to whether the financial statements give a true and fair view and whether the financial statements and the 
+part of the directors' remuneration report to be audited have been properly prepared in accordance with the Companies Act 1985 and, as 
+regards the group financial statements, Article 4 of the IAS Regulation. We also report to you whether in our opinion the information given in 
+the directors' report is consistent with the financial statements. The information given in the directors' report includes that specific information 
+presented in the chairman's statement and the chief executive's and finance director's reviews that are cross referred from the business review 
+section of the directors' report.
+In addition we report to you if, in our opinion, the company has not kept proper accounting records, if we have not received all the 
+information and explanations we require for our audit, or if information specified by law regarding directors' remuneration and other 
+transactions is not disclosed.
+We review whether the statement of Corporate Governance reflects the company's compliance with the nine provisions of the 2006 Combined 
+Code specified for our review by the Listing Rules of the Financial Services Authority, and we report if it does not. We are not required to 
+consider whether the board's statements on internal control cover all risks and controls, or form an opinion on the effectiveness of the group's 
+corporate governance procedures or its risk and control procedures.
+We read the other information contained in the annual report and consider whether it is consistent with the audited financial statements. 
+We consider the implications for our report if we become aware of any apparent misstatements or material inconsistencies with the financial 
+statements. Our responsibilities do not extend to any other information.
+Basis of audit opinion
+We conducted our audit in accordance with International Standards on Auditing (UK and Ireland) issued by the Auditing Practices Board. 
+An audit includes examination, on a test basis, of evidence relevant to the amounts and disclosures in the financial statements and the part 
+of the directors' remuneration report to be audited. It also includes an assessment of the significant estimates and judgments made by the 
+directors in the preparation of the financial statements, and of whether the accounting policies are appropriate to the group's and company's 
+circumstances, consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we considered necessary in order to provide 
+us with sufficient evidence to give reasonable assurance that the financial statements and the part of the directors' remuneration report to be 
+audited are free from material misstatement, whether caused by fraud or other irregularity or error. In forming our opinion we also evaluated 
+the overall adequacy of the presentation of information in the financial statements and the part of the directors' remuneration report to be 
+audited.
+Opinion
+In our opinion:
+the group financial statements give a true and fair view, in accordance with IFRSs as adopted by the EU, of the state of the group's affairs 
+as at 31 March 2008 and of its profit for the year then ended;
+the group financial statements have been properly prepared in accordance with the Companies Act 1985 and Article 4 of the IAS 
+Regulation;
+the parent company financial statements give a true and fair view, in accordance with UK Generally Accepted Accounting Practice, of the 
+state of the parent company's affairs as at 31 March 2008;
+the parent company financial statements and the part of the directors' remuneration report to be audited have been properly prepared in 
+accordance with the Companies Act 1985; and
+the information given in the directors' report is consistent with the financial statements.
+kPMg audit Plc 
+Chartered Accountants 
+Registered Auditor 
+1, The Embankment, Neville Street, Leeds
+10 June 2008
+ 
+ 
+ 
+ 
+   Consolidated income statement 
+year ended 31 March
+     2008   2007 
+  Continuing Discontinued  Continuing Discontinued 
+  operations operations  Total  operations  operations  Total   
+ Notes  000  000  000  000  000  000
+revenue 2 81,274  -   81,274  78,030  1,025  79,055    
+underlying operating profit
+Operating profit before exceptional costs  5,713  -   5,713  4,797  22  4,819 		 	 - rationalisation costs 8 (1,244 ) -   (1,244 ) (593 ) -   (593 )
+- exceptional bad debts  (93 ) -   (93 ) -  -  - 
+           
+After exceptional costs  4,376  -  4,376  4,204  22  4,226
+Operating profit 2 4,376  -   4,376  4,204  22  4,226   
+Site closure costs 9 -  -  -  (561 ) -   (561 ) 
+Profit on sale of surplus properties 10 -  -  -   3,722  -   3,722
+           
+Profit before financing costs  4,376  -   4,376  7,365  22  7,387   
+Finance revenue 11 246  -   246  355  7  362   
+Finance expense 11 (1,267 ) -   (1,267 ) (1,691 ) -   (1,691 )  
+Other finance revenue - 
+retirement benefits 25 10,422  -   10,422  9,996  -   9,996   
+Other finance expense -  
+retirement benefits 25 (9,275 ) -   (9,275 ) (8,865 ) -   (8,865 )
+           
+Profit before tax  4,502  -   4,502  7,160  29  7,189
+Income tax expense 12 -  -  -  (713 ) (2 ) (715 )
+           
+Profit after tax but before profit /  
+(loss) on discontinued operations  4,502  -  4,502  6,447  27  6,474  
+Profit on disposal of discontinued  
+operations, net of tax 4 -  -  -  -   342  342  
+Loss on disposal of discontinued  
+operations, net of tax 4 -   (250 ) (250 ) -   (173 ) (173 )
+           
+Profit / (loss) after tax  4,502  (250 ) 4,252  6,447  196  6,643
+           
+Attributable to:
+Equity holders of the parent  4,543  (250 ) 4,293  6,504  196  6,700 
+Minority interest  (41 ) -   (41 ) (57 ) -  (57 )
+           
+Profit / (loss) for the period   4,502  (250 ) 4,252  6,447  196  6,643
+           
+Earnings per ordinary share  13
+Basic  8.1 p (0.4 )p 7.7 p 11.7 p 0.4 p 12.1 p
+Diluted  8.0 p (0.4 )p 7.6 p 11.5 p 0.3 p 11.8 p
+Dividend per ordinary share 14      
+Arising in respect of the year      1.9 p     1.6 p
+Paid in the year      1.6 p     1.2 p
+Consolidated statement of recognised income and expense 
+year ended 31 March
+ 2008 2007 
+  000  000
+Foreign exchange translation differences  2,493  (643 )
+Net gain on hedge of net investment in foreign subsidiary -  22 
+Actuarial gains on defined benefit schemes 10,339  7,651 
+Taxation on items taken directly to equity (3,300 ) (2,296 )
+   
+Income and expense recognised directly in equity  9,532  4,734
+Profit for the period 4,252  6,643
+    
+Total recognised income and expense for the period 13,784  11,377 
+    
+Attributable to: 
+Equity holders of the parent 13,825  11,434
+Minority interest  (41 ) (57 )
+    
+Total recognised income and expense for the period 13,784  11,377 
+     0
+Consolidated balance sheet 
+31 March
+assets
+Intangible assets  15  28,934  25,365
+Property, plant and equipment  16  25,429  24,585
+Investments  17  265  52
+Deferred tax assets 24 2,273  5,092
+Retirement benefit asset 25 857  -
+Other receivables 18 -  150
+   
+Total non current assets 57,758  55,244 
+   
+Inventories  19  9,661  8,227
+Trade and other receivables  20  16,632  18,243 
+Cash and cash deposits 21  7,785  2,875 
+Assets classified as held for sale  22 1,271  842
+   
+Total current assets  35,349  30,187
+    
+Total assets  93,107  85,431 
+    
+Liabilities
+Interest bearing loans and borrowings 23 14,684  4,877
+Deferred tax liabilities 24 3,785  3,642
+Retirement benefit obligations 25 -  12,061
+Other payables 26 1,000  -
+   
+Total non current liabilities  19,469  20,580 
+   
+Trade and other payables  27 14,078  13,691
+Current tax liabilities   1,919  1,694
+Dividends payable 14 339  222
+Interest bearing loans and borrowings 23 6,847  10,803
+    
+Total current liabilities   23,183  26,410 
+   
+Total liabilities   42,652  46,990
+    
+net assets 50,455  38,441
+    
+Equity
+Ordinary share capital issued  28  2,859  2,815
+Share premium  29  3,916  3,002
+Other reserves  29 3,669  3,670
+Translation reserve  29  3,351  858
+Retained earnings  29  36,660  26,900
+    
+Total equity attributable to equity holders of the parent   50,455  37,245
+   
+Minority interest 29 -  1,196
+    
+Total equity 50,455  38,441
+    
+Approved by the board of directors and signed on its behalf by:
+Christopher ross
+robert Brooksbank           
+}
+ 
+directors
+10 June 2008
+  2008 2007 
+ Notes  000  000

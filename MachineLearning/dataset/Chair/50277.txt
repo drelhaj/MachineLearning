@@ -1,0 +1,138 @@
+ 2
+Chairman's Statement 
+Business 
+Summary 
+We design, build and supply high-end embedded computer products for the defence, telecommunication, 
+aerospace, transportation, scientific and industrial markets.  These high performance products are based on Intel
+ 
+long life cycle components, and cover a range of central processing unit (CPU ) boards and computer systems, 
+which include single and dual processor boards, many using dual-core processors and more recently, quad-core 
+processors. Designed for the 3U and 6U CompactPCI
+ 
+, VME, AMC (Advanced Mezzanine Card) and Multibus II 
+open architecture standards, a common feature of our products is the low level of electrical power required for 
+their high performance capabilities. 
+Our products deliver very high levels of reliability with substantial processing power, making them ideal for use in 
+projects ranging from high-performance military communications systems to commercial industrial control units. 
+Furthermore we develop rugged versions of many of our products for use in harsh and wide temperature 
+environments, making them very appealing for a variety of demanding applications. These long life-cycle boards 
+are batch produced to highly detailed specifications, and the vast majority of these are made in-house. 
+In addition to hardware design capability, our engineering teams undertake a significant amount of software and 
+firmware development to provide interoperability between products, allowing customers to transition smoothly 
+when new updates or designs are available. In this way we continue to see strong customer loyalty and long term 
+relationships, as well as new sales following product launches featuring performance upgrades. We also generate 
+software for both on-board and production test purposes, while also providing support for leading embedded and 
+real-time operating systems.
+Financial 
+Summary 
+We are pleased to report a profit before tax for 2008 of  2,951,603 (2007:  2,432,973), an increase of 21% over 
+the previous year.  Earnings per share for the period increased to 3.26p (2007: 2.62p). In the second half of the 
+year, profit before tax was  1,738,069 an increase of 43% over the first half of 2008 (H1 2008:  1,213,534). This 
+result was achieved on sales of  12,619,631, an increase of 19% compared with 2007 (2007:  10,565,278). 
+Sales in the second half of 2008 also improved, with turnover of  7,138,830 compared with  5,480,801 in the first 
+half.
+Gross margins for the year strengthened again to 53.0% up from 49.4% last year, resulting partly from a strong 
+US dollar and partly from increased sales of our high margin Multibus II products during the period. We do not, 
+however, expect a continuation of this high level of Multibus II sales in the future as this technology has been 
+superseded by newer and superior bus architectures, which we continue to focus on. 
+We ended the year with cash and cash equivalents of  4.99m (2007:  4.80m) and no borrowings. It is 
+encouraging that this increased cash balance was during a period of continuing increases in product development 
+expenditure to  2,031,970 up from  1,522,073 in 2007. 
+We continue to have a good diversity of customers, encompassing large blue chip companies across multiple 
+sectors, with the stable defence market being the biggest contributor to our turnover.
+Review of 
+Operations 
+During 2008 the Company continued to market its products primarily to the defence and telecommunication 
+industries, where innovative products continue to have a high level of demand.  In addition to the launch of new 
+processor boards, we continued to introduce boards which use multi-channel switches operating at gigabit data 
+transfer rates that can be used in high-speed switched fabric VME and CompactPCI
+ 
+ systems. With slight 
+variations in operating capacities and format, these products address many different customer needs. 
+In 2008 we released 9 new products, including more boards designed according to the 3U CompactPCI
+ 
+standard, which is experiencing increased demand. 3U CompactPCI
+ 
+ products are smaller than our traditional 6U 
+CompactPCI
+ 
+ products and are becoming particularly attractive to defence applications. This is due to our ability 
+to put a large amount of functionality on a very small board which can be ruggedised and specified for use in 
+harsh environments. Included among the 3U boards released recently is one using the latest Intel
+ 
+ very low 
+power Atom  processor. This type of board in commercial form is widely used in applications within industrial 
+control. In addition, we continued to extend our family of single slot VME single board computers as well as 
+introducing more high performance 6U CompactPCI
+ 
+ boards. 
+Post the financial year end, in April 2009 we released our most sophisticated product to date, which is based on 
+the latest Intel quad-core processor technology. This quad-core product with its substantial processing capability 
+is well suited for use within the telecommunications, defence and homeland security market sectors. 
+All of the products released in 2008 enable the Company to offer boards which provide enhanced processing 
+capabilities without a significant increase in power consumption - an important attribute for the end users. Low 
+power consumption also leads to higher reliability, which is a characteristic demanded by most users of 
+embedded computer products. The boards offer high performance solutions that continue to attract new 
+customers while encouraging upgrades from current clients keen to take advantage of the improved 
+functionalities.  3
+Chairman's Statement (continued) 
+Future 
+Plans 
+Although we maintain an active policy of exploring value enhancing acquisition opportunities as they arise, this is 
+not our top priority at the moment. Our current emphasis is on internal organic growth where we continue to see 
+many opportunities to grow the business into new market areas without taking unacceptable risk. At the same 
+time we will continue to pursue new sales in our existing markets. 
+We strongly believe that the key to our future success is continuing to expand our range of products, with a 
+particular focus on the CompactPCI
+ 
+ bus architecture, including the newer smaller sized 3U version, together with 
+the VME and AMC architectures. Our business aim will be to design more products for complex, high technology, 
+low to medium volume and high margin applications, along with producing versions targeted for use in harsh 
+environments, including military applications. 
+Even though, like most other businesses, maintaining and growing sales in a contracting world economy is a 
+challenge, an even bigger challenge for us is to expand our engineering resources to keep up with sales demand. 
+Our priority continues to be the swift expansion of our engineering capability both here and abroad. Thus we 
+continue with our policy of recruiting design engineers in the UK and also in India where we have now built a 
+significant design capability. Our operation in Bangalore, India gives us direct access to a large pool of talent, 
+which will supplement our engineering operations in the UK. The design facility in Bangalore is now fully 
+operational (16 employees at the end of 2008) and has already produced several key designs. 
+The Company has used its authority in 2008 to buy back its own shares and the Directors will continue to do this 
+when they consider it appropriate. 
+Dividend The Board will recommend a final dividend of 0.85 pence per share (2007: 0.80 pence) which when added to the 
+interim dividend of 0.45 pence per share will make a total of 1.30 pence per share for the year (2007: 1.20 pence). 
+The total cost of this final dividend will amount to  608,422. The ex-dividend date for the final dividend is 27 May 
+2009, the record date is 29 May 2009 and the payment date is 15 June 2009.
+Outlook Trading in the first quarter of 2009 has proceeded in line with our expectations. Clearly the declining world 
+economic activity is having an effect on companies in the telecommunications and industrial sectors, but we are 
+still experiencing reasonable order intake from these sectors. 
+In the defence field, activity has never been higher for us. Moreover, US Government plans to cut back on some 
+defence projects are unlikely to impact us as the projects which appear to be under most threat, such as the F-22 
+fighter, are not those where we have a major interest. Very strong interest continues in our products for projects 
+for electronic, aerial and battlefield surveillance. Sales growth occurring this year is likely to be more modest than 
+in 2008, but at this stage we expect our financial performance to be satisfactory. Our existing order book and 
+immediate sales prospects give us confidence for the remainder of this year, and, so far as the future beyond that 
+is concerned, we believe there is an abundance of opportunity, particularly in the defence market in the USA. 
+Business growth is determined by our ability to convert this abundance of opportunity into revenue, which in turn 
+depends upon our ability to grow our engineering team quickly enough to satisfy customer demand. Our facility in 
+Bangalore, India has successfully addressed this issue. Investment in engineering development was increased by 
+34% in 2008 over 2007, and we are investing even more in 2009. We see this as a very good time to invest in our 
+core business in order to ensure a substantial increase in the product range we will be offering when economic 
+conditions improve. 
+We have announced some important new product launches during the past 12 months and expect that the 
+continuing release of even more new products based on the latest multi-core Intel
+ 
+ processors should ensure that 
+we are in an excellent position to take advantage of sales opportunities as they arise.
+Corporate 
+Governance 
+As an AIM listed company Concurrent Technologies Plc is not obliged to comply with the Combined Code on 
+Corporate Governance. We do however acknowledge the overall importance of the guidelines and apply as many 
+of the principles therein as are appropriate to a company of our size and nature. 
+Annual 
+General 
+Meeting 
+The Annual General Meeting this year will be held on 8 June 2009. 
+Michael Collins 
+Chairman 
+24 April 2009 
+All companies and product names are trademarks of their respective organisations. 

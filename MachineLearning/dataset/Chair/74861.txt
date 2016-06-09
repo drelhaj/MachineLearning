@@ -1,0 +1,130 @@
+ Chairman's Statement
+Financial results
+Sales for the year ended 31 May 2004 were  237.2m (2003  241.3m), and operating profit
+was  3.7m (2003  6.7m). An exceptional profit on disposal of a business was  4.5m. Net
+interest and financing costs were  8.6m (2003  2.9m). This change was primarily due to the
+early repayment of the 10% Senior Notes. This resulted in a loss before tax of  0.4m
+(2003  3.8m profit), and a loss after tax of  3.0m (2003  1.1m profit). Basic and diluted loss
+per share was 4.04p (2003 1.46p basic earnings, 1.45p diluted earnings).
+Dividend
+The Board is proposing to maintain the final dividend of 1.80p (2003 1.80p) payable on 1 November 2004 to shareholders
+on register at 13 August 2004.
+Foreign currency and trading factors
+Two consecutive years in which sterling has appreciated at greater than 10% against the US dollar inevitably creates
+pressure for our UK based operations. The Board has accelerated the transition of manufacturing to China such that
+transmit/receive modules in Wireless Infrastructure are now manufactured there in quantities exceeding UK output.
+Future expansion in this market will benefit from the lower cost of Chinese manufacturing and will provide a natural
+hedge against the strength of sterling.
+Since our Handset Products group operates in dollar/euro economies, the percentage margins earned are independent
+of the strength of sterling. Absolute value of sales and the profit delivered suffered when translated into sterling.
+Most of the operations of the Integrated Products group are located in the UK while the majority of its output operates
+in a market priced in dollars. This has resulted in pressure on margins in this business segment.
+The global nature of the business implies exposure to currency movement. This has contributed a loss in the year as the
+euro, like the dollar, moved against sterling for a sustained interval. The Board will conduct a review of procedures and
+policy with the intention of introducing improvements in the finance and accounting areas during the year.
+Operations
+As advised in the interim statement, the Board implemented a management and reporting reorganisation of the
+business segments. This was done so that Filtronic is better positioned to address the challenges of moving from
+the development stage into production with a broad range of new products, including power amplifiers. Accordingly,
+the segmental analysis of the operating results is as follows:
+Sales Operating profit
+Year ended 31 May 2004 2003 2004 2003
+ m  m  m  m
+Wireless Infrastructure (WI) 140.9 151.7 10.4 20.9
+Handset Products (HP) 57.4 51.2 10.4 10.8
+Integrated Products* (IP) 37.8 37.5 (13.3) (19.3)
+Central Services (CS) 3.6 1.8 (3.8) (5.7)
+Inter segment (2.5) (0.9) - -
+1 1 1 1
+237.2 241.3 3.7 6.7
+5 5 5 5
+*Includes the Filtronic Solid State Electronic Warfare business, which was sold on 31 December 2003.
+2 Filtronic plc Annual Report 2004 Chairman's Statement
+Wireless Infrastructure
+This business includes the traditional transmit/receive modules and new integrated power amplifiers for mobile base
+stations. The company is now delivering production quantities of WI products to all major original equipment
+manufacturers (OEMs). Additional investments were made during the second half of the year in both aspects of the
+business. In the transmit/receive module business, the decision to expand in China to meet the increasing demands of
+our existing customers and the production ramp for a new major OEM customer required additional funding. A decision
+was made to continue to procure materials in the UK in order to provide cover against any delays in ramping up the
+Chinese production. Following successful ramp-up in China, the UK operation will now focus on new product
+introduction for transmit/receive modules and integrated power amplifiers.
+It became apparent earlier in this calendar year that the company's market opportunity in power amplifiers was for the
+supply of higher value integrated power amplifiers rather than power amplifier modules. Consequently, additional
+resources were deployed in the UK to establish a production facility for this complex integrated product and this
+involved an additional  2m of investment. In the full year, the cost, including this  2m has totalled  5m and following the
+year-end the first production contract has been secured.
+Handset Products
+The supply of internal antennas with higher levels of mechanical integration has dominated this year's performance.
+Since the proportion of our added value has decreased, the margins have fallen in line.
+Taking into account the retranslation of the first half with respect to the end of year exchange rates, the effective
+operating margins in the second half were approximately 15% and are likely to remain at this level with the current level
+of product integration.
+Integrated Products
+Increasing sales in compound semiconductor devices have enabled the whole group to reduce losses. This trend is
+expected to continue. Fully automated assembly systems are now operational for incorporating high power transistors
+into modules for the integrated power amplifiers in WI. Operational improvements within the defence component of the
+business have allowed profitable operation for the year in the US and UK.
+Central R&D
+In addition to creating sales for DSP (Digital Signal Processing) subsystems for both commercial and defence
+applications, a considerable advance has been made on the development of digital predistortion techniques for
+3G integrated power amplifiers.
+Finance
+As advised in the interim statement, the outstanding 10% Senior Notes were re-financed with a  50m term loan. The
+trading conditions prevailing in the latter part of the financial year and the appreciation of sterling against the dollar have
+led to certain breaches of the financial covenants associated with the term loan. The group's two lending banks have
+confirmed their continuing support, including the waiving of the covenant breaches, whilst reserving their rights. Future
+covenant tests will be set to a suitable level based on prevailing trading conditions. The group's overdraft facility has
+been renewed at  9m until July 2005.
+Capital investment
+The growth in demand from both our existing and new customers for wireless infrastructure transmit/receive modules
+caused us to commit further capital expenditure for test equipment and facilitisation, mainly in China. This investment,
+together with new generic manufacturing equipment and processes to service the integrated handset antenna product
+line with new foil technology and automated test equipment for production of integrated power amplifiers for
+3G WCDMA networks will result in capital expenditure of  18m, approximately 50% more than in the 2003/4
+financial year.
+Filtronic plc Annual Report 2004 3 Chairman's Statement
+Outlook
+In WI, production contracts have now been secured with all major OEMs. Growth will mainly occur in China for our
+transmit/receive modules towards the end of this calendar year and the beginning of 2005. A similar time frame also
+exists for the production in the UK for the first integrated power amplifiers, where production requirements are larger
+than initially anticipated. Start-up costs will lead to a loss of approximately  6m before a positive contribution is achieved
+by the year-end.
+In HP, the addition of our new foil technology and the utilisation of our impact extrusion expertise should consolidate
+our world leading position.
+IP will grow primarily due to the increase in sales of compound semiconductors and in particular, the growth in RF switch
+products for mobile handsets. Further growth will also be achieved in supplying the high yield large power transistors
+mounted in the high efficiency module units for the integrated power amplifiers. Past investment at the compound
+semiconductor foundry in Newton Aycliffe has equipped the Integrated Products segment with the capacity to react
+rapidly to increasing market demand creating strong upside potential.
+By far the largest market opportunity for the company is the supply of integrated power amplifiers for 3G base stations.
+Uniquely in this market, Filtronic controls its own supply of GaAs transistors, which are lower cost per watt of power
+compared to silicon LDMOS, the technology used by our competitors. Using feed-forward linearisation, GaAs units are
+more efficient than LDMOS units and with the state-of-the-art digital predistortion both techniques result in lower cost
+and higher efficiency. Whilst GaAs units are more difficult to linearise digitally, full UMTS specifications have been met
+by Filtronic for both constant and pulse power conditions. The company believes that LDMOS amplifiers, linearised
+through digital predistortion will have difficulty in meeting this critical specification under practical pulsed-power
+conditions. Hence, it is likely that our technology offers a significant advantage over competing solutions particularly for
+multicarrier and HSDPA (high speed data packet access) applications.
+The strategic alliance with BAE SYSTEMS is producing sales, at development level, with growth potential as BAE
+SYSTEMS moves to production with its Seaspray 7000 series of active array radars for the surveillance market. Potential
+exists for expansion of the agreement as a result of the proposed merger of Gallileo Avionica, part of Finmeccanica, and
+the Avionics Group of BAE SYSTEMS. The experience of the alliance indicates increased scope for business in the
+sub-system arena coupled with benefits of high reliability manufacturing at low cost. Increased emphasis and budget
+allocation for European homeland security projects offers additional scope for supply of infrastructure elements,
+including airborne active antennas for satellite communications.
+Company directors
+Last year a decision was made to split the roles of Chairman and CEO. Earlier this year, the position of CEO was offered
+to Professor John Roulston. Professor Roulston resigned from the Board of BAE Systems Avionics Limited in June and
+by agreement with his previous employer will take up his position at Filtronic on 6 September 2004.
+Professor Christopher Snowden has accepted the prestigious position as Vice-Chancellor at the University of Surrey but
+will stay as a director with the company until April 2005, after which he will remain as a technical consultant in the area
+of compound semiconductors.
+John Samuel resigned as Finance Director at the beginning of June. Christopher Schofield resigned as Company
+Secretary and executive director to concentrate on the Law practice, Schofield Sweeney, which he co-founded. Dr Maura
+Moynihan, a qualified solicitor specialising in intellectual property and a PhD graduate in biochemistry, joined Filtronic
+two years ago with the remit to become Company Secretary to which position she has now been appointed.
+Professor J David Rhodes CBE FRS FREng
+Chairman
+2 August 2004
+4 Filtronic plc Annual Report 2004

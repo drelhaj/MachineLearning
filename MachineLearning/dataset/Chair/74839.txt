@@ -1,0 +1,118 @@
+ Executive Chairman's Statement
+Filtronic plc Annual Report 2003 2
+Financial results
+Sales for the year ended 31 May 2003 were  241.3m (2002  280.5m). Operating profit before exceptional
+costs, goodwill amortisation, and share compensation costs was  11.0m (2002  17.8m).
+After charging exceptional costs of  1.8m, goodwill amortisation of  2.3m, share compensation costs of
+ 0.2m, and net interest and financing currency costs of  2.9m, the profit before tax was  3.8m
+(2002  25.5m loss). After tax, this was  1.1m (2002  29.0m loss), resulting in basic earnings per share of
+1.46p (2002 39.31p basic loss), which is 1.45p on a diluted basis (2002 39.31p loss).
+Net interest and financing currency costs have fallen to  2.9m from  12.5m in 2002. This is partly due
+to lower levels of net interest payable which reduced to  8.0m from  12.6m in 2002 as a result of buying
+in $37.2m of 10% Senior Notes during the year. Additionally, a net financing currency exchange gain of
+ 4.2m (2002  0.1m) has arisen on the 10% Senior Notes and an exceptional net gain of  0.9m (2002  nil) was realised
+on buying in the Senior Notes at a discount to par value.
+Cash
+At 31 May 2003, Filtronic had a cash balance of  6.5m, having generated  19.5m of cash during the financial year.
+Filtronic's debt was $103.6m ( 63.2m) of 10% Senior Notes, after using  22.1m of cash to buy in $37.2m of 10% Senior
+Notes. Additionally, the company continues to have bank borrowing facilities totalling  31.0m, none of which was being
+utilised at the year end. Net gearing was 51%, compared to 81% at 31 May 2002. 
+Dividend
+The Board is proposing to maintain the final dividend of 1.8p (2002 1.8p) payable on 3 November 2003 to shareholders
+on the register at 15 August 2003.
+Operations
+The segmental analysis of the business is as follows: Operating profit
+before closure costs,
+goodwill amortisation
+and impairment,
+tangible fixed asset
+impairment and
+Sales share compensation
+Year ended 31 May 2003 2002 2003 2002
+ m  m  m  m
+Wireless infrastructure 151.7 188.6 20.9 31.8
+Cellular handset products 51.2 48.8 12.9 11.6
+Electronic warfare 25.7 27.0 (0.5) (1.4)
+Broadband access 10.8 12.5 (2.8) (3.0)
+Inter segment (1.6) (3.9) - -
+Central costs - - (4.9) (5.0)
+11 11
+Excluding Compound semiconductors 237.8 273.0 25.6 34.0
+Compound semiconductors 3.5 7.5 (14.6) (16.2)
+11 11
+241.3 280.5 11.0 17.8
+55 55 Executive Chairman's Statement
+Wireless Infrastructure
+Market conditions have been characterised by strong pricing pressure in 2G and 2.5G systems and low levels of demand
+for 3G WCDMA products. As a result, both sales and operating margins in this business segment declined. Although the
+larger operations in the UK and the USA continued to achieve our target operating margins, low levels of 3G WCDMA
+demand adversely impacted performance in our Finnish and Australian operations. Overall, Filtronic continued to
+outperform its competitors and remains the number one independent supplier of its type in the world. Continued focus
+on customer support, cost reductions and operating efficiency will remain at the forefront of this business segment's
+strategy.
+Cellular Handset Products
+The Cellular Handset Products business had another outstanding year. During the financial year, Filtronic supplied
+approximately 106 million handset antennas, an increase of 23% over the previous financial year. Over one third of
+these units were manufactured in Suzhou, China. Several Far Eastern handset manufacturers have been added as
+customers during the year, although to date they have not accounted for material levels of sales.
+Electronic Warfare
+The Electronic Warfare business segment finished the financial year strongly after a disappointing first half. The
+business was profitable, and increasingly so, in each of the last four months of the financial year, reflecting the
+increasing volumes of production in the European Fighter Aircraft programme, alongside strong demand for certain
+products in the USA.
+Broadband Access
+The Broadband Access business continued to suffer from low levels of demand for its current point to point transceiver
+products resulting in continuing losses. New high performance, lower cost, monolithic microwave integrated circuits
+(MMICs ) from Newton Aycliffe have been designed and are expected to be introduced during the second half of the
+next financial year, which should assist in improving financial performance in this business segment.
+Compound Semiconductors
+Throughout the year, focus has been maintained on developing and qualifying the compound semiconductor processes
+at our state of the art facility at Newton Aycliffe. As I stated in my Interim Statement in January 2003, our agreement
+for foundry sales with M/A-COM, Inc., has not proved fruitful. As a result, we have developed a new proprietary switch
+process and sample product has been supplied to several major potential customers for mobile handset and wireless
+LAN market applications. In addition, an innovative process for the manufacture of very high power transistors has
+been developed for the base station power amplifier market. These transistors are essential to meet the high efficiency
+requirements of our power amplifier development. The MMIC process has been used to supply initial quantities of
+product to BAE SYSTEMS Avionics Ltd and other customers, including internal requirements in the Broadband Access
+business. These products address both the defence and wireless communications markets.
+Filtronic Solid State, California
+Last year, the Board announced the closure of the fabrication facility for compound semiconductors at Filtronic Solid
+State, Santa Clara, California. The exceptional closure costs amounted to  1.8m,  0.9m lower than the estimate made in
+the half year results to 30 November 2002. The compound semiconductor team at Filtronic Solid State is now operating
+as a  fabless' compound semiconductor business using the manufacturing capability at Newton Aycliffe.
+Filtronic plc Annual Report 2003 3 Executive Chairman's Statement
+Outlook
+The Board expects that the group will continue to generate cash and reduce indebtedness during the financial year
+ending 31 May 2004.
+Worldwide demand for mobile infrastructure products continued to decline during the past year with few signs of an
+imminent upturn. Independent forecasts indicate a further decline in the range of 10% to 20% in this market in 2003.
+Notwithstanding these challenging market conditions, Filtronic has continued to consolidate its position as the world's
+leading independent supplier of transmit/receive modules for mobile base stations. Despite pricing pressures and
+difficult markets, the Board remains confident in the medium and long term opportunities offered by the wireless
+communications markets, including 3G, for both the company's existing and new products including high performance
+power amplifiers.
+Filtronic is one of the world's leading manufacturers of mobile handset antennas and supplies over 25% of the world
+demand. The world market for mobile handsets is independently forecast to show an approximate 10% year on year
+unit growth in 2003. The Board expects Filtronic to maintain its market position in this business segment in the
+financial year ending 31 May 2004.
+The Electronic Warfare business is characterised by long development cycles and requires demanding technical
+performance. Filtronic has now entered the production phase for several qualified products on a number of major
+programmes, which should provide sustainable, profitable growth over a number of years.
+Considerable pressure exists to develop and produce more sophisticated and cost effective solutions in the mobile
+telecommunications industry. For the last three years our major research and development effort has been aimed
+specifically at 3G base station equipment. At the heart of the new products are the compound semiconductor
+transistors manufactured at Newton Aycliffe, which are embedded in proprietary circuits to provide high power
+(360 Watts peak) very efficiently. Following the successful demonstration of this technology to several Original
+Equipment Manufacturers (OEMs), customer specific 3G power amplifier requirements are now being addressed using
+internally developed advanced digital linearisation techniques. These customer specific sample units will be delivered to
+at least four major OEMs over the next few months. Other market demands have led us to develop a larger range of
+compound semiconductor products at Newton Aycliffe with an increased urgency to introduce multifunction MMICs
+for both the commercial and defence sectors. Our developments at Newton Aycliffe position Filtronic to take advantage
+of a wide range of compound semiconductor related market opportunities as they arise.
+Overall, our two main businesses are expected at least to maintain their market position. In addition, the Electronic
+Warfare business is now growing and profitable. The range of products and processes, particularly at Newton Aycliffe,
+has been expanded to provide a platform for growth.
+Professor J D Rhodes CBE FRS FREng 
+Executive Chairman
+28 July 2003
+Filtronic plc Annual Report 2003 4

@@ -1,0 +1,99 @@
+ Oxford BioMedica plc
+Annual Report & Accounts 2009
+60
+Notes to the Consolidated Financial Statements
+for the year ended 31 December 2009
+1 ACCOUNTING POLICIES continued
+Rental income
+Rental income from the Group's redundant former research and development facility in San Diego, USA is offset in the statement of comprehensive
+income against the rent payable under the head lease.
+Employee benefit costs
+The Group operates a defined contribution pension scheme for its Directors and employees.The assets of the scheme are held in independently
+administered funds.The pension cost charge recognised in the period represents amounts payable by the Group to the scheme.
+Share based payment
+Equity settled share based payments under which the Group receives services from employees as consideration for equity instruments (options)
+are measured at fair value at the date of grant and expensed on a straight-line basis over the vesting period of the award. Options issued on the
+same date are valued in batches where the valuation model assumptions are the same. At each financial year end, the Group revises its estimate of
+the number of options in each batch that are expected to become exercisable. At the end of the vesting period for each batch of options the
+cumulative charge for share-based payment reflects the actual options that have vested, with no charge for those options which were forfeit prior
+to vesting.The financial consequences of revisions to the original estimates, if any, are recognised in the current year statement of comprehensive
+income either as an addition to or a deduction from the charge for share-based payment, with a corresponding adjustment to equity.
+The fair value of share options is measured using a Black-Scholes option pricing model.Where complex market performance criteria exist, a Monte
+Carlo model has been used to establish the fair value on grant.When share options are exercised the proceeds received are credited to share capital
+(nominal value) and share premium.
+Other employee benefits
+The expected cost of compensated short term absence (e.g. holidays) is recognised when employees render services that increase their entitlement.
+Accrual is made for holidays earned but not taken, and prepayments recognised for holidays taken in excess of days earned.
+Foreign currency translation
+Items included in the financial statements of each of the Group's entities are measured using the currency of the primary economic environment in
+which the entity operates (the  functional currency').The consolidated financial statements are presented in Sterling, which is the Company's
+functional and the Group's presentational currency.
+Monetary assets and liabilities in foreign currencies are translated into the functional currency at the rates of exchange ruling at the end of the
+financial year.Transactions in foreign currencies are translated into the functional currency at the rates of exchange ruling at the date of the
+transaction. Foreign exchange differences are taken to the statement of comprehensive income in the year in which they arise.
+Assets and liabilities of the Company's US subsidiary are translated to Sterling at the year-end exchange rate, whilst its statements of income and
+cash flows are translated at monthly average rates. Redundant assets at the US subsidiary's former laboratories have been written down to a book
+value of zero and have no impact on present or future exchange differences.Translation differences that arise are taken directly to a currency
+translation account within equity.
+Taxation including deferred income tax
+The charge/credit for current tax is based on the results for the year, adjusted for items which are non-assessable or disallowed. It is calculated using
+tax rates that have been enacted or substantially enacted at the financial year end.
+Deferred income tax is accounted for using the liability method in respect of temporary differences arising from differences between the carrying
+amount of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit. In principle,
+deferred income tax liabilities are recognised for all taxable temporary differences and deferred income tax assets are recognised to the extent that
+it is probable that taxable profits will be available against which deductible temporary differences can be utilised.
+Deferred income tax liabilities are recognised for taxable temporary differences arising on investments in subsidiaries and associates, and interests
+in joint ventures, except where the Group and Company are able to control the reversal of the temporary difference and it is probable that the
+temporary difference will not reverse in the foreseeable future.
+Deferred income tax is calculated at the average tax rates that are expected to apply to the period when the asset is realised or the liability is
+settled. Deferred income tax is charged or credited in the statement of comprehensive income, except when it relates to items credited or charged
+directly to equity, in which case the deferred income tax is also dealt with in equity.
+Financial Statements
+Notes to the Consolidated
+Financial Statements Oxford BioMedica plc
+Annual Report & Accounts 2009
+61
+2 FINANCIAL RISK MANAGEMENT
+Financial risk factors
+The Group's relatively simple structure, principally operating in the United Kingdom, and the lack of debt financing reduces the range of financial risks
+to which it is exposed. Monitoring of financial risk is part of the Board's ongoing risk management, the effectiveness of which is reviewed annually.The
+Group's agreed policies are implemented by the Chief Financial Officer, who submits reports at each Board meeting. Other than occasional use of short
+term currency options, the Group does not use financial derivatives, and it is the Group's policy not to undertake any trading in financial instruments.
+(a) Foreign exchange risk
+At the current time,the Group's revenues are mostly receivable in United States Dollars, and certain of its expenditures are payable in Euros and
+US Dollars.The majority of operating costs are denominated in Sterling.The Group's ongoing R&D funding from sanofi-aventis is receivable in
+US Dollars.This presents a possible source of foreign exchange risk in respect of future receipts. Funds received from sanofi-aventis to date have been
+converted to Sterling, so they no longer represent a foreign exchange risk.The Group uses short term currency purchase options and interest-bearing
+deposits in Euros and US Dollars to manage short term fluctuations in exchange rates.
+(b) Interest rate risk
+The Group does not have any committed borrowing facilities, as its cash balances are sufficient to finance its current operations.The Group's policy is
+to maximise interest receivable on deposits, subject to maintaining access to sufficient liquid funds to meet day to day operational requirements, and
+preserving the security of invested funds.To date, interest received on bank deposits has made a significant contribution to providing funding for the
+Group. Interest receivable on bank deposits in 2009 was  642,000 (2008:  1,661,000). Interest rates across the market fell dramatically at the end of
+2008, and this is reflected in much lower bank interest in 2009.
+If interest rates had been 100 basis points higher/lower in 2009, the impact on net loss in 2009 would have been a decrease/increase of  236,000
+(2008:  289,000) due to changes in the amount of interest receivable.
+(c) Credit risks
+The Group's policy is to place funds with financial institutions rated at least A and to distribute deposits between several banks.
+(d) Cash flow and liquidity risk
+At present the Group's operations are funded from its cash and short-term investments.The maturity profile of investments is structured to ensure
+that sufficient liquid funds are available to meet planned operating requirements.To date the Group's funding has been provided mainly by the issue
+of shares and from commercial collaborations, including the TroVax and ocular collaborations with sanofi-aventis. Future working capital is expected
+to be provided by commercial collaborations. Such collaborations typically provide funding from milestone-based payments, which are significant in
+size but infrequent.There can be no certainty that this source of funding will be sufficient, and that additional funding from other sources, including
+the issue of further shares, will not be required. In planning the Group's activities and its financial resources, the Directors take account of the
+probability receiving income from commercial collaborations, and of the likely availability of other sources of funding.The higher degree of risk-
+aversion that we continue to see in equity capital markets makes the issue of new share capital challenging in the near term.The Group's spending
+plans have been set to achieve a balance between adding value to the key development programmes while seeking to maximise the operating
+window provided by current funds.The Directors' current financial projections provide a reasonable basis from which they have concluded that the
+Group's financial resources are sufficient for the foreseeable future, and that there is presently no material cash flow or liquidity risk.
+(e) Pricing risk
+Currently revenue derives from collaboration milestones and reimbursement of funded research and development, which are not sensitive to pricing risk.
+Derivative financial instruments and hedging
+There were no derivatives at 31 December 2009 or 31 December 2008, and hedge accounting has not been used.
+Fair value estimates
+The fair value of short term deposits with a maturity of one year or less is assumed to be the book value.
+Introduction Chairman's Statement Business Review Corporate Information Financial Statements
+Notes to the Consolidated
+Financial Statements
+Appendix

@@ -1,0 +1,145 @@
+  
+2 
+Chairman's Statement 
+Business 
+Summary 
+ 
+We design, manufacture and supply high-end embedded computer products for the defence, telecommunication, 
+aerospace, transportation, scientific and industrial markets. These high performance products are based on Intel
+ 
+ 
+long life cycle components, and cover a range of central processing unit (CPU ) boards and computer systems, 
+which include single and dual processor boards, many using dual-core processors and more recently, Intel
+ 
+ 
+Core  i7 and quad-core Intel
+ 
+ Xeon
+ 
+ processors. Designed for the 3U and 6U CompactPCI
+ 
+, VPX, VME, AMC 
+and Multibus II open architecture standards, a common feature of our products is the low level of electrical power 
+required for their high performance capabilities. 
+Our products deliver very high levels of reliability with substantial processing power, making them ideal for use in 
+projects ranging from high-performance military communications systems to commercial industrial control units. 
+Furthermore we develop ruggedized versions of many of our products for use in harsh and wide temperature 
+environments, making them very appealing for a variety of demanding applications. These long life-cycle boards, 
+the vast majority of which are made in-house, are batch produced to highly detailed specifications. 
+In addition to hardware design capability, our engineering teams undertake a significant amount of software and 
+firmware development to provide interoperability between products, allowing customers to transition smoothly 
+when new updates or designs are available. In this way we continue to see strong customer loyalty and long term 
+relationships, as well as new sales following product launches featuring performance upgrades. We also generate 
+software for both on-board and production test purposes, while also providing support for leading embedded and 
+real-time operating systems. 
+Financial 
+Summary 
+I am pleased to report a profit before tax for 2009 of  2,797,794 (2008:  2,951,603) a reduction of 5% over the 
+previous year following a provision of  279,000 against a doubtful receivable. The Directors view this as a one-off 
+incident and unlikely to be repeated in future periods. Profit after tax for 2009 was  2,538,306 (2008:  2,335,072), 
+an increase of 8.7%. Increased investment in product design has resulted in a reduced tax charge arising from 
+higher Research and Development Tax Credits. Earnings per share for the year increased to 3.55p (2008: 3.26p). 
+In the second half of the year, profit before tax was  1,429,878, an increase of 5% over the first half of 2009 (H1 
+2009:  1,367,916). This result was achieved on sales of  12,854,777, an increase of 2% compared with 2008 
+(2008:  12,619,631). 
+Gross margins for the year strengthened again to 56.4% up from 53.0% last year, a result influenced by the 
+strong US dollar. Although expenditure on product development increased by 60% in the year from  2,031,970 in 
+2008 to  3,250,465 we ended the year with cash and cash equivalents of  4,914,657 (2008:  4,994,266) and no 
+borrowings.  
+We continue to broaden our already diverse customer base most of which comprises large, high quality 
+companies and organisations across multiple sectors and in many countries. Furthermore, in common with last 
+year, our defence customers were the biggest contributors to our turnover. Exports accounted for 87% of revenue.
+Review of 
+Operations 
+During the year the Company continued to market its products into high performance applications which require 
+long term supply and where we see high levels of demand for innovative products. In addition to the launch of 
+new processor boards, we continued to develop many environmentally superior products that can operate at 
+extreme temperatures, elevated altitudes and at high shock and vibration levels. With slight variations in operating 
+capacities and format, these products address many different customer needs. 
+In 2009, we launched 10 new products, including boards designed according to the 6U and 3U CompactPCI
+ 
+ 
+standards and products featuring the quad-core InteI
+ 
+ Xeon
+ 
+ processors which are particularly suited for use 
+within the defence, telecommunications and homeland security market sectors. During this period we also began 
+design work on the latest Intel
+ 
+ Core  i7 products featuring many attributes which are desired by our customers.  
+We continue to develop products using low and ultra-low power processors enabling us to supply products which 
+feature large amounts of functionality on small boards which can then be ruggedized and made to operate in 
+harsh environments. In addition, we continued to extend our family of single slot VME single board computers as 
+well as our range of XMC and AMC products. Low power consumption, with consequent higher reliability, 
+continues to be a critical requirement for end users of embedded computer products. 
+One of the highlights since my Chairman's Statement in April 2009 has been the progress we have made on the 
+development of VPX products and more specifically our involvement in the industry-wide effort to establish the 
+OpenVPX  specification. As a result of its pioneering development work, the Company was at the forefront of 
+releasing OpenVPX  products targeted at the defence and transportation markets in late 2009.  
+Another significant highlight for Concurrent Technologies was the award by Lockheed Martin Corporation in 
+February 2010 of their prestigious STAR Supplier Award for the Company's exceptional performance as 
+measured by quality, delivery, affordability, management and administration.   
+ 
+   
+3 
+Chairman's Statement (continued) 
+Future 
+Plans 
+The key to continued success is to expand our range of products, with a particular focus on the VPX and 
+CompactPCI
+ 
+ bus architectures. Our business aim will be to design more products for complex, high technology, 
+low to medium volume and high margin applications, along with producing versions targeted for use in harsh 
+environments, including military applications. We continue to look for acquisition opportunities but this is not our 
+top priority; indeed there is plenty of scope for internal organic growth where we continue to see many 
+opportunities to grow the business into new market areas without taking unacceptable risk.  
+We continue to press for the expansion of our design engineering capability both in the UK and India and, 
+therefore, maintain our policy of recruiting design engineers in both countries. The design facility in Bangalore, 
+India is now fully operational (20 employees at the end of 2009, up from 16 at the end of 2008) and producing key 
+designs. 
+The Company has used its authority in 2009 to buy back its own shares and the Directors will continue to do this 
+when they consider it appropriate. 
+Dividend In March 2010 the Board declared a second interim dividend of 0.90 pence per share (2008: 0.85 pence final 
+dividend) which was paid to shareholders on 1
+st
+ April 2010. The total cost of this second interim dividend 
+amounted to  643,491. This second dividend, when added to the first interim dividend of 0.50 pence per share 
+paid in September 2009, makes a total dividend for the year of 1.40 pence per share (2008: 1.30 pence). This is 
+an increase of 7.7% over the dividends paid in for 2008. 
+The Directors do not intend to recommend a final dividend given the payment of the interim dividends as 
+mentioned above. 
+Outlook 
+ 
+Trading in the first quarter of 2010 has proceeded in line with our expectations.  
+Reduced world economic activity has had a negative effect on companies in the telecommunications and 
+industrial sectors, but we are seeing signs of recovery which we believe will be sustained in these sectors. 
+Moreover, we have seen no contraction in that part of the defence market in which we operate and in this regard, 
+our future looks positive. We see very strong interest in our products for projects involving the detection and 
+detonation of improvised explosive devices (IEDs) and for electronic, aerial and battlefield surveillance. Sales 
+growth this year is likely to be modest, although at this stage we expect our financial performance to continue to 
+remain satisfactory. Beyond 2010, we are confident that the investment we have made in creating new 
+opportunities, particularly in defence applications, will produce rewards in future periods. 
+Investment in product development was increased by 60% in 2009 over 2008 as we took the view that the 
+improving economic climate warranted an enhanced focus on our core business and a substantial increase in the 
+diversity of our product range. 
+Corporate 
+Governance 
+ 
+As an AIM quoted company Concurrent Technologies Plc is not obliged to comply with the Combined Code on 
+Corporate Governance. We do however acknowledge the overall importance of the guidelines and apply as many 
+of the principles therein as are appropriate to a company of our size and nature. 
+Annual 
+General 
+Meeting 
+The Annual General Meeting this year will be held on 21
+st
+ May 2010. 
+ 
+ 
+Michael Collins 
+Chairman 
+ 
+14 April 2010 
+ 
+All companies and product names are trademarks of their respective organisations. 

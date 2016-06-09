@@ -1,0 +1,220 @@
+ STRATEGIC REPORT
+DEE VALLEY GROUP PLC  ANNUAL REPORT AND FINANCIAL STATEMENTS 2014 DEE VALLEY GROUP PLC  FINANCIAL STATEMENTS 40 41
+OVERVIEW GOVERNANCE FINANCIAL STATEMENTS SHAREHOLDER INFORMATION
+    Restated
+1
+  2014 2013 
+ Notes  000  000
+Revenue  23,787 22,807
+Other operating income 2 2,187 2,079
+Operating expenses (net) 3 (12,874) (12,905)
+Profit from operations  13,100 11,981
+Profit from operations before pension scheme curtailment gain  11,843 11,981
+Pension scheme curtailment gain 22 1,257 -
+Profit from operations  13,100 11,981
+Depreciation 10 (4,534) (4,722)
+Finance income 5 35  161
+Finance expenses 5 (3,503)  (3,388)
+Profit before tax  5,098  4,032
+Taxation 6 566  (146)
+Profit for the year  5,664  3,886
+Basic and diluted earnings per ordinary share 8 122.3p 83.9p
+Adjusted earnings per ordinary share 8 95.1p 83.9p
+All results arise from continuing operations.
+GROUP INCOME STATEMENT
+for the year ended 31 March 2014
+GROUP AND PARENT COMPANY BALANCE SHEET
+as at 31 March 2014
+   Restated
+1
+  
+  Group  Group Company Company
+  2014 2013 2014 2013
+ Notes  000  000  000  000 
+Assets       
+Non-current assets       
+Goodwill 9 5,381 5,381 - -
+Property, plant and equipment 10 94,081 92,757 - -
+Retirement benefit surplus 22 5,554 5,109 - -
+Investments 11 2 2 32,365 32,365
+  105,018 103,249 32,365 32,365
+Current assets       
+Inventories - raw materials and consumables  355  208 - -
+Trade receivables 12 3,283  2,880 -  -
+Other receivables 13 1,718  1,559 3,725  3,725
+Cash and cash equivalents 14 8,226  8,153 -  -
+   13,582  12,800 3,725  3,725
+Total assets  118,600  116,049 36,090  36,090
+Liabilities       
+Current liabilities       
+Interest-bearing loans and borrowings 15 7,639  7,585 1,424  1,543
+Trade and other payables 16 11,171  11,000 2,469  2,292
+Current income tax liabilities  397  389 - -
+   19,207  18,974 3,893  3,835
+Non-current liabilities       
+Interest-bearing loans and borrowings 15 50,500  48,966 -  -
+Deferred income 17 8,021 7,427 - -
+Deferred tax 18 13,438 15,165 -  -
+   71,959 71,558 -  -
+Total liabilities  91,166 90,532 3,893  3,835
+Net assets  27,434  25,517 32,197 32,255 
+Issued share capital 19 232 232 232  232
+Other reserves 26 6,168 6,049 30,541  30,422
+Retained earnings  21,034 19,236 1,424  1,601
+Total equity  27,434 25,517 32,197 32,255
+    Restated
+1
+ 
+  2014 2013  
+ Notes  000  000
+Profit for the year  5,664 3,886
+Items that will not be reclassified to profit or loss   
+Actuarial loss on defined benefit pension scheme 22 (1,310) (531)
+Deferred tax credit on actuarial loss  262 155
+Effect of change in corporation tax rate on accumulated actuarial gains  228 76
+Other comprehensive expense for the year  (820) (300)
+Total comprehensive income for the year net of tax  4,844 3,586
+GROUP STATEMENT OF COMPREHENSIVE INCOME
+for the year ended 31 March 2014
+Approved by the Board of Directors and authorised for issue on 10 June 2014 and signed on its behalf by:
+Graham Scott   David Strahan
+Chairman    Chief Executive
+Company registered in England and Wales with Company Number 04316684.
+1
+ See note 1 to the Financial Statments for further details in respect of the restatement. STRATEGIC REPORT
+DEE VALLEY GROUP PLC  ANNUAL REPORT AND FINANCIAL STATEMENTS 2014 DEE VALLEY GROUP PLC  FINANCIAL STATEMENTS 42 43
+OVERVIEW GOVERNANCE FINANCIAL STATEMENTS SHAREHOLDER INFORMATION
+GROUP STATEMENT OF CHANGES IN EQUITY
+    Capital  Fair
+  Share redemption Other value  Retained Total
+  capital reserve reserves reserve earnings equity
+ Notes  000  000  000  000  000  000
+Balance at 1 April 2012  232 30,337 (32,316) 7,943 18,571 24,767
+Profit  - - - - 3,886 3,886
+Actuarial gain (net of deferred tax) on  
+defined benefit pension scheme  - -  -  - (300) (300)
+Total comprehensive income for the year  - -  -  - 3,586 3,586
+Repayment of B shares   - 85 - - (85) -
+Dividends 20  -  -  -  - (2,836) (2,836)
+Total contributions by, and distributions  
+to, owners of the Company   - 85  - - (2,921) (2,836)
+Balance at 1 April 2013  232 30,422 (32,316) 7,943 19,236 25,517
+Profit  - - - - 5,664 5,664
+Actuarial loss (net of deferred tax) on  
+defined benefit pension scheme  - - - - (820) (820)
+Total comprehensive income for the year  - - - - 4,844 4,844
+Repayment of B shares  19 - 119 - - (119) -
+Dividends 20 - - - - (2,927) (2,927)
+Total contributions by, and distributions  
+to, owners of the Company  - 119 - - (3,046) (2,927)
+Balance at 31 March 2014  232 30,541 (32,316) 7,943 21,034 27,434
+    Capital  Fair
+  Share redemption Other value  Retained Total
+  capital reserve reserves reserve earnings equity
+ Notes  000  000  000  000  000  000
+Balance at 1 April 2012  232 30,337 - - 1,748 32,317
+Profit  - - - - 2,774 2,774
+Total comprehensive income for the year  - -  -  - 2,774 2,774
+Repayment of B shares   - 85 - - (85) -
+Dividends 20  -  -  -  - (2,836) (2,836)
+Total contributions by, and distributions  
+to, owners of the Company   - 85  - - (2,921) (2,836)
+Balance at 1 April 2013   232 30,422 - - 1,601 32,255
+Profit  - - - - 2,869 2,869
+Total comprehensive income for the year  - - - - 4,470 35,124
+Repayment of B shares  19 - 119 - - (119) -
+Dividends 20 - - - - (2,927) (2,927)
+Total contributions by, and distributions  
+to, owners of the Company  - 119 - - (3,046) (2,927)
+Balance at 31 March 2014  232 30,541 - - 1,424 32,197
+COMPANY STATEMENT OF CHANGES IN EQUITY STRATEGIC REPORT
+DEE VALLEY GROUP PLC  ANNUAL REPORT AND FINANCIAL STATEMENTS 2014 DEE VALLEY GROUP PLC  FINANCIAL STATEMENTS 44 45
+OVERVIEW GOVERNANCE FINANCIAL STATEMENTS SHAREHOLDER INFORMATION
+1 ACCOUNTING POLICIES
+BASIS OF PREPARATION
+Dee Valley Group plc (Company) is incorporated and domiciled in the United Kingdom and is listed on the 
+London Stock Exchange.  Both the Parent Company Financial Statements and the Group Financial Statements 
+have been prepared and approved by the Directors in accordance with International Financial Reporting 
+Standards as adopted by the EU (Adopted IFRSs).  On publishing the Parent Company Financial Statements here 
+together with the Group Financial Statements, the Company is taking advantage of the exemption in Section 
+408 of the Companies Act 2006 not to present its individual income statement and related notes as a part of 
+these approved Financial Statements.
+The Financial Statements are prepared on the historical cost basis except for certain items of property, plant 
+and equipment that had been revalued to fair value at the date of transition to Adopted IFRSs and which are 
+measured on the basis of deemed cost, being the revalued amount at the date of that revaluation.
+The Financial Statements have been presented in pounds sterling, rounded to the nearest thousand.
+The accounting policies apart from those set out below have, unless otherwise stated, been applied consistently 
+to all years presented in these Financial Statements.
+AMENDED IAS 1  PRESENTATION OF FINANCIAL STATEMENTS'
+The main change arising from these amendments is the requirement to group items presented in the Group 
+Statement of Comprehensive Income on the basis of whether they would be reclassified to profit or loss at a 
+later date, when specified conditions are met, or not.
+IFRS 13  FAIR VALUE MEASUREMENT'
+This standard establishes a single source of guidance for fair value measurement under International Financial 
+Reporting Standards.  The standard provides guidance on its determination and introduces consistent 
+requirements for disclosures on fair value measurements.  It does not include requirements on when fair value 
+is measured, but rather how it should be measured if required by another standard.  Due to the nature of the 
+Group's financial instruments the adoption of IFRS 13 has not led to a change in their fair value.
+IAS 19(R)  EMPLOYEE BENEFITS'
+In the current year, the Group has applied the revised version of IAS 19 (as revised in June 2011)  Employee 
+Benefits' and the related consequential amendments.  The Group has applied the revised version of IAS 19 (as 
+revised in June 2011) retrospectively and in accordance with the transitional provisions as set out in IAS19.173.  
+These transitional provisions do not have an impact on future periods.  The amendments to IAS 19 change the 
+accounting for defined benefit schemes and termination benefits.  The most significant change relates to the 
+accounting for changes in defined benefit obligations and scheme assets.  All actuarial gains and losses are 
+recognised immediately through the Statement of Other Comprehensive Income in order for the net pension 
+asset or liability recognised in the Consolidated Balance Sheet to reflect the full value of the scheme deficit or 
+surplus.  Furthermore, the interest cost and expected return on scheme assets used in the previous version of 
+IAS 19 are replaced with a  net-interest' amount under the revised version of IAS 19 (as revised in June 2011), 
+which is calculated by applying a discount rate to the net defined liability or asset.  The revised version of IAS 19 
+(as revised in June 2011) also introduces more extensive disclosures in the presentation of the defined benefit 
+cost.
+These Financial Statements are the first Financial Statements in which the Group has adopted the revised version 
+of IAS 19 (as revised in June 2011).  As the Group has always recognised actuarial gains and losses immediately, 
+there is no effect on the prior year defined benefit obligation and balance sheet disclosure.  
+For the year ended 31 March 2014, the Group Income Statement shows an expense which is  27,000 higher 
+(2013:  142,000 higher) and the Condensed Group Statement of Comprehensive Income shows a loss which 
+is  27,000 lower (2013:  142,000 lower) than it would have been prior to the adoption of the revised version of 
+IAS 19 (as revised in June 2011).  
+   Restated
+1
+  
+  Group  Group Company Company
+  2014 2013 2014 2013
+ Notes  000  000  000  000
+Cash flows from operating activities       
+Profit before tax  5,098 4,032 - -
+Adjustments for:      
+Depreciation 10 4,534 4,722 - -
+Loss on disposal of assets 3 169 222 - -
+Net finance costs 5 3,468 3,227 - -
+  13,269 12,203 - -
+Increase in inventories  (146)  (16) - -
+Increase in trade and other receivables  (1,337)  (28) - -
+Increase in trade and other payables  906 1,014 177 147
+Increase in retirement benefit surplus  (471) (556) - -
+Cash generated from operating activities  12,221 12,617 177 147
+Interest paid 5 (1,969) (1,894) (58) (62)
+Tax paid  (661) (27) - -
+Net cash from operating activities  9,591 10,696 119 85
+Cash flows from investing activities      
+Purchase of property, plant and equipment  (6,687) (15,249) - -
+Proceeds from sale of plant and equipment  34  41 - -
+Equity dividends received  -  - 2,927 2,836
+Interest received 5 8  42 - -
+Net cash used in investing activities  (6,645)  (15,166) 2,927 2,836
+Cash flows from financing activities      
+Drawing on revolving credit facility  - 6,000 - -
+Repayment of B shares 19 (119)  (85) (119) (85)
+Equity dividends paid 20 (2,927)  (2,836) (2,927) (2,836)
+Net cash used in financing activities  (3,046)  3,079 (3,046) (2,921)
+Net decrease in cash and cash equivalents  (100)  (1,391) - -
+Cash and cash equivalents at beginning of year 14 8,111  9,502 - -
+Cash and cash equivalents at end of year 14 8,011  8,111 - -
+GROUP AND PARENT COMPANY 
+CASH FLOW STATEMENT
+for the year ended 31 March 2014
+NOTES TO THE FINANCIAL STATEMENTS
+for the year ended 31 March 2014
+1
+ See note 1 to the Financial Statments for further details in respect of the restatement.

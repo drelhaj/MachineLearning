@@ -1,0 +1,107 @@
+ Performance
+Last year represented solid progress on a number of fronts and this is particularly evident in our financial performance.  
+Revenues were up 23 percent, from  10.3m in 2011 to  12.7m in 2012, and we are also pleased to report improvement 
+in profitability.  The EBITDA result was a profit of  1.8m compared to  1.5m in 2011.  We are also very pleased to report 
+further improvement to profit after tax, which rose to  0.3m (2011:  0.1m).  Since 2010, we have steadily extended our 
+resourcing and investment in key operational areas, as part of our ongoing growth strategy, and it is particularly pleasing to 
+see these measures pay off in the context of improving financial performance. 
+We entered 2012 with plans to improve our acquisition rate of new clients and are glad to report that revenue from new 
+clients generated 51 percent of our 2012 revenue, as compared to 21 percent in 2011.
+Total license transactions including extension orders were 49 in 2012 (2011: 54).  License revenues grew by 20 percent 
+and reflected a higher average deal size, validating our expectation that smaller initial orders from the previous year 
+would generate larger extensions in 2012.  Growth in consulting and implementation services was even more marked and 
+approached 50 percent. 
+From a geographical standpoint, customers headquartered in new territories such as China and the Middle East made a 
+major contribution to the year.  Our core innovation solution, Accolade
+ 
+ Process Manager
+ 
+, continued to account for the 
+majority of revenues at 91 percent compared to 84 percent in 2011. 
+At the date of this report, full-year 2013 revenue visibility incorporating booked revenue, contracted services business and 
+the run rate of recurring contracts stands at  6.4m, compared to  6.0m at the same time last year.  Revenue visibility is 
+more fully defined in Note 4.  
+Strategy and Product
+We have previously stated that Sopheon's growth strategies for 2012 and beyond center on three key objectives:
+ 	 Increase our rate of growth by deploying vertical-specific marketing strategies.  Coming into 2012 we 
+realigned sales, product and marketing initiatives around target growth industries.  We revised our marketing approach to 
+be a more vertical-specific, integrated mix of tactics including digital, web-based and social media methods as well as more 
+traditional approaches such as conferences and direct mail.  Target sectors included consumer goods, food and beverage, 
+chemical, high-tech and aerospace and defense.  Although we have seen significant success in the majority of these sectors, 
+aerospace and defense has been held back by well publicized uncertainties around government procurement. 
+ 
+ 	 Broaden the use of our solutions within existing accounts.  We continue to expand the range of our innovation 
+solutions to enable expansion within our customers.  An example is our recent release of Accolade 8.2, which introduces 
+a new module Accolade Innovation Planner
+ 
+ to assist companies in creating strategic enterprise innovation plans.  As 
+reported last year, we also invested in our client growth strategy by focusing account management resources and 
+marketing programs on growing within our customer base.
+ 	 Expand direct and indirect distribution channels to acquire new accounts.  During 2011 we hired new sales 
+people to expand our direct distribution channel.  At the start of 2013, we underpinned our position in Germany through 
+the acquisition of our reseller partner.  We also continued to build our relationships with consulting partners.  Evidence 
+         6 STATEMENT FROM THE CHAIRMAN AND CHIEF EXECUTIVE OFFICER
+STATEMENT FROM ThE ChAIRMAN  
+                  AND ChIEF ExECuTIvE OFFICER
+Accolade is a registered trademark of Sopheon plc.
+Process Manager and Innovation Planner are trademarks of Sopheon plc. of progress during 2012 included our first sale into China, through a partner, and the announcement of a joint product 
+and service offering with Kalypso, a major consulting firm in the innovation market.  In addition we won our second 
+Saudi Arabia based customer and expect to expand into this region going forward.
+Our investment in these strategic objectives started in 2011 and as we predicted, commercial results have started to 
+come through in 2012.  On the product front, in 2011 we completed a full refresh of the technology platform upon which 
+our core software offerings are built to make them Microsoft
+ 
+ .net based.  We also introduced a new Agile development 
+methodology designed to build products faster and do a better job of ensuring that they are in step with real customer 
+needs.  In 2012, these changes resulted in a number of customer-focused releases, culminating in the landmark release of 
+Accolade 8.2 at the start of 2013.  With this release, Sopheon continues to extend the market leadership of the Accolade 
+solution with expanded functionality for innovation users and business processes.
+As Sopheon grows, our solutions and market position also continue to evolve.  With the recent expansion of our solution 
+footprint we have also evolved our market position.  Sopheon partners with customers to provide complete Enterprise 
+Innovation Performance solutions including software, expertise, and best practices to achieve exceptional long-term revenue 
+growth and profitability.  Sopheon's Accolade solution provides unique, fully-integrated coverage for the entire innovation 
+management and new product development lifecycle.  For the first time, businesses can access a single source of the truth 
+across strategic innovation planning, roadmapping, idea and concept development, process and project management, and 
+portfolio and in-market management.
+Our decision to sustain internal product development investment despite the ongoing economic uncertainty is serving us 
+well in the present and will continue to fortify our business performance and potential in the days ahead.  
+People
+Sopheon is differentiated in the market by its reputation for deep domain expertise in innovation management.  That know-
+how is embodied in our people, whose best-practice understanding and experience have been developed through many 
+years of helping top businesses achieve innovation success.  We are very proud of the commitment that our people have 
+shown in lifting Sopheon to a position of leadership in this area. 
+Sopheon continues to recruit, grow and develop our people.  In 2011, as previously communicated, we identified that a 
+key barrier to our ability to scale for growth was a lack of formal onboarding and certification training.  During 2012, 
+we recruited a dedicated training specialist to close this gap.  We held our first formal training events during the year, 
+which enjoyed excellent feedback.  Our goal is to reduce the ramp-up time for new employees, and in turn, improve our 
+ability to scale our organization with growth while maintaining customer satisfaction.  This priority continues to have 
+high visibility inside our company.  In addition, as part of our Accolade version 8 roll out programs we offered customers 
+packaged training classes at Sopheon facilities for the first time.  The feedback and value received from our clients was 
+overwhelmingly positive.  We will expand this program in 2013. 
+Building on steps taken in 2011 to restructure and strengthen Sopheon's executive management team, we were pleased to 
+round out our executive team with the recruitment of Mike Frichol to spearhead global marketing.  Mike has a great deal 
+of experience with emerging high-growth software companies, and has held a number of senior positions in the industry at 
+companies such as Great Plains Software, Infor, and Microsoft.
+The Sopheon plc board is made up of three executive directors, augmented by three non-executive directors who bring a 
+wealth of knowledge and experience to our business.  Details about each board member can be found at the back of this 
+report.  
+Outlook
+We are delighted that revenues and profits for 2012 exceeded market expectations.  In parallel with this positive financial 
+performance, Sopheon continued to make strategic advances during the year.  We announced major new product releases 
+that further embed our leadership in enterprise innovation management.  We started 2013 with the acquisition of a long-
+standing business partner in Germany, a key regional market.  Through 2012 and also coming into 2013, we have continued 
+our steady expansion of resources to keep pace with our growth plans.  Nevertheless, market conditions remain hard to 
+predict, and we continue to watch the cost base closely. 
+On the corporate front, we secured an additional  1.1m of convertible debt finance, giving us the confidence to continue 
+execution of our expansion strategy.  We moved our Amsterdam listing to the Alternext exchange, better suited to a 
+company of our size.  Separately, we shared our intent to undertake a corporate restructuring to reduce the accumulated 
+deficit on the profit and loss account, and to consolidate shares.  Precise details remain under review and we expect to 
+request authorities for these changes at our 2013 annual general meeting.
+Sopheon enters 2013 having made substantial progress on financial, operational and corporate fronts.  We will continue our 
+efforts in all areas and are excited by the opportunities ahead.
+Barry Mence Andy Michuda
+Executive Chairman Chief Executive Officer
+20 March 2013  
+  
+         7 STATEMENT FROM THE CHAIRMAN AND CHIEF EXECUTIVE OFFICER
+Microsoft is a registered trademark of the Microsoft Corporation in the United States and/or in other countries. 

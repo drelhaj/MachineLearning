@@ -1,0 +1,208 @@
+ I am pleased to report to you on the performance and
+progress of the Newport Networks Group PLC
+(Newport  or the Company ) for Fiscal Year 2004.
+Following an IPO share flotation in London on the AIM
+market in May the Company has successfully completed
+a number of key milestones.  These include the launch
+of the 1460 Session Controller system in July, the signing
+of a reseller agreement with Marconi Corporation plc
+(Marconi ) in September and attainment of our revenue
+goals for the Fiscal Year. Revenues of  336,000 for
+2004 were broadly in line with market expectations.
+I am pleased to see that the market for the Company's
+Session Border Controller systems is being rapidly
+established worldwide and that major research houses
+are estimating revenues to attain more than $600M
+US per annum by 2007 (see below).
+Financial Results
+Newport was incorporated on 23 March 2004 and
+did not trade prior to the acquisition of Newport
+Networks Limited on 21 April 2004.  The acquisition
+was an exchange of shares with no change in ownership
+and we are advised that the acquisition should be
+accounted for under the merger accounting rules. This
+is a change from the interim accounts which were 
+prepared under the acquisition accounting rules. As a
+result of the change there is no goodwill included in
+the consolidated financial statements.
+The loss before tax for the year to 31 December 2004
+was  7,381,000, which is in line with market 
+expectations and compares to a loss before tax of
+ 4,510,000 in 2003. 
+The loss after taxation for the year to 31 December 2004
+was  5,697,000 after taking account of credit for Research
+and Development T ax Credits of  1,671,000.   664,000
+of the R&D T ax Credit relates to 2003 and this was received
+in August 2004. The remaining  1,008,000 relating to
+2004 is expected to be received in 2005. In 2004 Newport
+invested over  4.7m in Research and Development. 
+All expenditure on Research and Development is written off
+in the period in which it is incurred.
+Cash Position
+At year end, 31 December 2004, Newport had cash
+balances of  18.9m with no borrowings.
+Session Controller Market
+The Voice over IP (VoIP) market is demonstrating 
+considerable growth as capital expenditures from service
+providers are being focused on deployment of Next
+Generation Networks (NGN). Investments in NGN
+equipment supporting VoIP technologies were estimated
+to be $1.2 billion in 2003. This is forecast to grow to
+$4.8 billion in 2007, with expenditure in NGN 
+equipment forecast to surpass that for legacy 
+equipment in 2005 (Infonetics Research, 2004).  This
+strong growth in NGN equipment underpins the
+Yankee Group (2004) forecasts for the session 
+controller market to be an estimated $624 million 
+in 2007, growing to $1.2 billion in 2008.
+There are also significant market opportunities for the
+Newport Networks 1460 Session Controller related to
+network operating costs as well as delivering new
+NGN VoIP services and applications. The most 
+important of these opportunities is the  PSTN
+Replacement' opportunity where the major incumbent
+operators are looking for VoIP to be a replacement
+technology for the legacy network and, in the process,
+offer considerable cost reductions in network 
+operations.  Publicly announced examples include: 
+- BT's 21CN initiative, to replace the PSTN in the UK,
+is looking to address 50% of the UK market over
+the next 3 years. 
+- Telecom Italia's announcement, in January 2005,
+discusses the trialling of VoIP & video sharing 
+services in early 2005, with full commercial
+deployment starting in late 2005.
+- SBC's (Southwestern Bell) recent announcement to
+roll-out full scale VoIP services over DSL across the 
+United States to business and residential customers
+during 2005, in parallel to their traditional PSTN 
+services.
+Chairman's report
+4 These are supplemented by opportunities in the  IP
+Carrier Interconnect' market, where voice operators
+are seeking to interconnect to each other using IP
+technologies rather than traditional switched network
+solutions.  There is also growing interest in session
+controllers from mobile operators who are seeking to
+migrate to Third Generation (3G) mobile networks. An
+example of this is France Telecom's announcement to
+offer a consolidated set of advanced IP-based services
+over both fixed line and wireless (Orange).  BT has
+also announced a similar concept in collaboration
+with Vodafone.
+Sales and Support
+Following the launch of the 1460 Session Controller in
+July the Company has put in place a Sales and
+Support infrastructure to drive business growth world-
+wide.  The sales structure is based on two main
+regions, each headed  by a Vice President and
+General Manager. One region covers the Americas,
+having Sales and Support headquarters in Dallas,
+Texas. Sales offices are located in Denver, Boston,
+Miami, Vancouver and Ottawa. The second region
+covers Europe & Asia Pacific with Sales and Support
+headquarters in the UK. Sales agency offices are
+located in Germany, Italy, Hong Kong and China. Our
+core sales and support organization is now in place to
+deliver revenue objectives for 2005. The sales strategy
+for the Company is to use established Network
+Equipment Vendors such as Marconi as channels to
+market to address the needs of both fixed line and
+mobile Service Providers worldwide. 
+Marconi
+Our relationship with Marconi continues to strengthen
+following the signing of a reseller agreement last year.
+One of the key benefits of this relationship is that it
+drives the development of integrated solutions and
+extends our reach geographically well beyond 
+opportunities in the UK. 
+Marconi has signed several strategic agreements with
+key partner companies, including Newport, Sonus,
+Huawei, and Mitel enabling them to deliver 
+an end-to-end solution to their NGN customers.  
+Partnerships
+Newport is very active developing network equipment
+vendor partnerships with other major channels
+throughout the world to address the growing 
+requirement for IP session controllers by service
+providers. We anticipate making announcements
+regarding these relationships throughout 2005.
+Establishing major channel partnerships, as with
+Marconi, offers the Company opportunities to develop
+combined product solutions to meet the particular
+needs of service providers and end customers globally. 
+5 Interoperability
+During 2004, Newport entered into interoperability
+testing using a variety of user agents , such as SIP
+phones connected through the 1460 Session
+Controller to a variety of call agents , such as
+softswitches.  These tests cover both access  
+applications, where customers are connecting to a
+service and peering  applications where connections
+are made between Service Providers. Such testing,
+along with appropriate software modifications where
+necessary, represents a crucial step in the creation of
+complete solutions with our channel partners to
+address the needs of different types of service
+providers. A good example of this is the recently 
+certified interoperability for both access and peering
+between the 1460 Session Controller and the widely
+deployed Broadsoft application server. 
+Research and Development
+During 2004, the Company has continued to invest in
+R&D. We believe that additional investments in R&D
+are important to keep pace with the growing demand
+for additional functionality in the product line as 
+identified through discussions with end customers and
+channel partners. Interoperability trials also bring out
+the nuances of inter-working with a range 
+of equipment as the market for carrier class session 
+controllers develops. The understanding of real world
+implementations and the ability to address them in a
+timely fashion adds enormously to both the value of
+the product and the organization. 
+Operations
+The ongoing strategy of the Company is to out-source
+all manufacturing activities to approved Contract
+Equipment Manufacturers. The manufacture of major
+assemblies for the Session Controller product line has
+been contracted to Flextronics. Volume manufacturing
+is in keeping with our overall production plan.
+Working with such world class suppliers is key to
+addressing the quality requirements associated with
+the supply of carrier class equipment to Service
+Providers around the world.
+Marketing
+Newport has been actively promoting the 1460
+Session Controller product line by participating in
+major NGN events and exhibitions around the world.
+Recent event participation has included the 3GSM
+World Congress in France, Spring VON in San Jose,
+California and Telexpo in Brazil. Up-coming events for
+early 2005 will include VON Europe in Stockholm,
+China VoIP in Beijing and Supercomm in Chicago.
+These events provide the opportunity for clients and
+investors to see our products and gain a broader
+understanding of the overall NGN market space. 
+Business Outlook
+We are pleased with our progress to date and 
+encouraged by the increasing level of interest the
+Company has received from potential clients.
+Manufacturing is running according to plan and the
+Company has many systems in use for testing and 
+validation by clients.  We have observed a significant
+strengthening in the market for carrier class session
+controllers over the last 12 months as service providers
+around the world experience rapid expansion of new
+IP services, and in particular VoIP . Consequently, we
+have built a significant pipeline of sales opportunities
+which will accelerate revenues throughout the year in
+support of our overall revenue objectives for 2005. 
+I am delighted to welcome new shareholders and look
+forward to meeting many of you at our Annual
+General Meeting.
+Sir Terry Matthews OBE
+Chairman
+15 March 2005
+Chairman's report
+6

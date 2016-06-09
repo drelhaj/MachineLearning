@@ -1,0 +1,181 @@
+    
+2 
+Chairman's Statement 
+ I am pleased to report another profitable year despite difficult global market conditions. Sales in the second half 
+of 2012 improved on the first half and we have been able to grow sales in the telecommunications and 
+transport markets. Our investment in new product development has allowed us to provide existing customers 
+with an excellent upgrade path and to create new opportunities in some interesting areas including scientific 
+applications. 
+We have maintained our investment in R&D and have again increased our dividend while maintaining a strong 
+balance sheet. We remain positive about sales into our core markets and look forward to realising new 
+opportunities and long-term revenue growth. 
+Financial 
+Summary  
+The Group EBITDA for 2012 was  3,479,094 (2011:  3,860,831). The reduction was due to the lower level of 
+sales caused by the rescheduling of some orders and extended timescales of customer projects. The Group 
+achieved a profit before tax for 2012 of  2,001,404 (2011:  2,710,332), which includes the increased 
+amortisation of capitalised R&D. Earnings per share for the year were 2.75 pence (2011: 3.63 pence). Gross 
+turnover for the year was  12,794,380 (2011:  13,807,669). The gross margin for the year was 51.7% 
+compared with 52.1% for 2011.  
+Our balance sheet remains strong with cash of  2.32m (2011:  3.59m) plus short to medium term cash 
+deposits of  2m (2011:  2m) at the year end, with no borrowings. The reduction in the cash balance at the end 
+of the year was due to increased dividend payments, and expenditure on components required for a large 
+order shipped in the final month of the year. 
+Business 
+Summary 
+The Group is a leading specialist in the design, manufacture and supply of innovative high-end embedded 
+computer products aimed at a wide base of customer types in the telecommunication, defence, aerospace, 
+transportation, scientific and industrial markets. Our products have a long lifecycle which typically provides the 
+Group with high quality sales over many years. 
+The Group's high performance products are based on Intel
+ 
+ long lifecycle components, and cover a range of 
+central processing unit (CPU ) boards and complementary products compatible with the CompactPCI
+ 
+, 
+VPX , VME, AMC and XMC/PMC open architecture standards. Many of the CPUs feature the latest 
+processor platforms from Intel
+ 
+ such as the 3rd generation Intel
+ 
+ Core  processors, six-core Intel
+ 
+ Xeon
+ 
+ 
+processors and the low power Intel
+ 
+ Atom  processors. A common feature of our newer products is the low 
+level of electrical power required for their very high performance capabilities. 
+Our products deliver extremely high levels of reliability with substantial processing power, making them ideal 
+for use in projects ranging from high-performance military communications systems to commercial industrial 
+control units. In addition to our commercial range of boards, we develop ruggedized versions of many products 
+in our range to operate at temperatures ranging from -40
+o
+C to +85
+o
+C, for use in harsh and wide temperature 
+environments, making them very appealing for a variety of demanding applications. Our products also support 
+many of today's leading operating systems including Windows
+ 
+, Linux
+ 
+, Solaris , QNX
+ 
+, VxWorks
+ 
+, LynxOS
+ 
+ 
+and more recently INTEGRITY
+ 
+. 
+In addition to hardware design capability, our engineering teams undertake a significant amount of software 
+and firmware development to provide interoperability between products, allowing customers to transition 
+smoothly when new updates or designs are available. In this way we continue to see strong customer loyalty 
+and long term relationships, as well as new sales following product launches featuring performance upgrades. 
+We also generate software for both on-board and production test purposes. 
+Review of 
+Operations 
+During the year we have launched 11 new high performance embedded computers which feature the latest 3rd 
+generation Intel
+ 
+ Core  i7 processors that are particularly suited for use within the defence, 
+telecommunications and homeland security markets where fast data processing and reliability are critical.  
+Several of these new boards use the AMC architecture supporting MicroTCA
+ 
+ and AdvancedTCA
+ 
+ applications 
+in telecommunications markets, and extend the architecture to processing intensive applications related to 
+physics research. Demonstrated at recent technology events, our latest AMC boards operate with support for 
+our Fabric Interconnect Networking Software (FIN-S) across the Serial RapidIO
+ 
+ networked backplane. These 
+boards are particularly well suited for MicroTCA
+ 
+ based telecommunications and other applications where a 
+large number of computing nodes are required to intercommunicate at high data rates. We have had a 
+significant increase in sales of products to customers using AMC architecture across several markets, 
+particularly scientific and telecoms, albeit from a relatively low but growing share of total sales. We also 
+launched 2 new systems designed to support fast track development of MicroTCA
+ 
+ and VPX  applications. 
+  
+    
+3 
+Chairman's Statement (continued) 
+Review of 
+Operations 
+(continued) 
+Continuing our focus on providing integrated software support, we also announced the release of our Board 
+Level Security Package designed to help customers to deliver secure solutions into applications where 
+protecting critical technologies and data is mandatory, using a combination of deeply embedded proprietary 
+hardware, firmware and software countermeasures to prevent or frustrate attempts to gain access to sensitive 
+data on a secure system. Our Board Level Security Package provides a set of customer configurable security 
+options that can be tailored to provide a unique security solution for each specific application and a means to 
+enhance the security of customers' equipment, thus preventing access to their highly sensitive data and 
+technology.  
+ We continue to have a close relationship with Intel and we are committed to long term support of our 
+customers by being an early adopter of the latest products from the world leader in silicon innovation and 
+computer processing technology. Our products give increasingly higher performance, better reliability and 
+lower power consumption, providing our customers with a long term upgrade path and maintaining our 
+competitiveness within our end markets. 
+The Group's design and engineering team is divided between the UK and India, but all manufacturing and 
+testing takes place in our factory in Colchester, UK. Our sales, marketing and customer support teams operate 
+from the UK and overseas offices including the USA and China. The proportion of our products being exported 
+was 76% (2011: 77%). 
+The Group's customer base continues to be well diversified with large, high quality, international businesses in 
+multiple sectors and in many countries.  
+Future Plans 
+ 
+While the current economic climate is uncertain, our core business is relatively buoyant and we see several 
+opportunities to continue expanding our range of products and to introduce highly innovative technology to 
+significant customers in defence and telecommunications where high-reliability and fast, high volume 
+processing is required. While sales for defence applications have reduced slightly, we have seen promising 
+growth in sales for telecommunications and transport applications. 
+We are a key supplier of Intel
+ 
+ based technology to many major international companies and our products are 
+found in a wide range of ever more sophisticated high-reliability computer systems. We will continue our 
+investment in R&D to ensure a constant expansion of our range of products, with a particular focus on the 
+VPX , VME, AMC and CompactPCI
+ 
+ bus architectures. Work has already begun on the next generation of 
+Intel
+ 
+ Core  i7 processors and we will maintain our strategy of designing more innovative products for 
+complex, high technology, low to medium volume and high margin applications. We are further enhancing the 
+capabilities of these products with new and complementary software packages to provide high-speed data 
+transfer, ease of integration and security. 
+The Company will continue to use its authority to buy back its own shares when the Directors consider it 
+appropriate. 
+Dividend The Board has declared a second interim dividend of 1.05 pence per share (2011: 1.00 pence second interim 
+dividend) which when added to the first interim dividend of 0.65 pence per share will make a total of 1.70 pence 
+per share for the year (2011: 1.60 pence). This will be an increase of 6.25% over dividends paid in 2012. The 
+total cost of this second interim dividend will amount to  750,125. The Directors do not intend to recommend a 
+final dividend. 
+Outlook 
+ 
+Our core business remains strong and while the global economic conditions are difficult to predict and the 
+effects on our markets of fiscal management events such as budget sequestration in the USA are unknown, we 
+remain positive. We also believe that our wide product range and the investment that we have made and 
+continue to make in a diversity of new products puts us in an excellent position to take advantage of the 
+significant opportunities appearing in various markets. 
+Corporate 
+Governance 
+ 
+As an AIM listed company Concurrent Technologies Plc is not obliged to comply with the UK Corporate 
+Governance Code. We do however acknowledge the overall importance of the guidelines and apply as many 
+of the principles therein as are appropriate to a company of our size and nature. 
+Annual General 
+Meeting 
+The Annual General Meeting this year will be held on 28 May 2013. 
+  
+ 
+Michael Collins 
+Chairman 
+ 
+08 April 2013 
+ 
+All companies and product names are trademarks of their respective organisations. 

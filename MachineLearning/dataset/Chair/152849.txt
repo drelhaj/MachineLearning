@@ -1,0 +1,188 @@
+ 02 Pipex Communications plc Annual report and accounts 2006
+ WE HAVE BEEN CONSISTENTLY IMPRESSED WITH THE PROFESSIONALISM 
+OF THE PIPEX TEAM AND THEIR ATTITUDE TOWARDS ATTENTION-TO-DETAIL 
+AND DEADLINES. THEY HAVE DELIVERED AGAINST VERY AGGRESSIVE 
+PROJECT TIMELINES AND SUCCESSFULLY TAKEN THIS ADVENTUROUS 
+LARGE-SCALE PROJECT IN THEIR STRIDE. 
+ MARTIN GILL, HEAD OF NEW MEDIA, COMIC RELIEF
+OVERVIEW
+I am pleased to report that 2006 was another strong year for Pipex 
+with transformational acquisitions in our broadband business and 
+continuing strong organic growth in hosting. Revenues, including 
+acquisitions, increased by 121% to  294 million (2005:  133 million) 
+and EBITDA (pre share option costs) increased by 55% to  23.2 million 
+(2005:  15.0 million). Free cash flow before freehold purchases of 
+ 9.9 million was also strong at  17.6 million compared to  7.9 million 
+in 2005, despite significant capital expenditure in the reported year on 
+our LLU programme.
+I have previously reported to you on our focus of providing additional 
+services to customers in order to support prices and margins and to 
+reduce churn. In 2006, we made a step-change to our capabilities in 
+this area with the acquisition, in March, of Homecall. This added a sizable 
+voice and line rental business to our Broadband division and gave us a 
+strong platform from which to launch the sale of additional services into 
+our customer base. Later in the year we added further scale to our Broadband 
+and Voice division with the purchase of the Bulldog customer base, 
+in September, and with the acquisition of Toucan in October. At the end 
+of 2006, Pipex had over one million customers in this division, over 50% 
+of whom take multiple services.
+Following such a period of acquisitive growth, Pipex will be progressively 
+integrating and consolidating its broadband and voice businesses over 
+the remainder of this year and throughout 2008. We believe that the 
+efficiency savings available to us from running this division as a unified 
+business will contribute significantly to our bottom line in future periods.
+We continue to enjoy strong organic growth in our hosting and domain 
+names division, driven by ever increasing levels of Internet based activity. 
+We are building a state-of-the-art data centre in Cologne to support the 
+rapid expansion of our German business, with the first customers 
+commissioned in the new site in March 2007.
+Also in 2006, we embarked on the commercial exploitation of our 
+wireless spectrum licence, in our joint venture with Intel, successfully 
+trialling WiMAX based services in Stratford-upon-Avon.
+CHAIRMAN'S STATEMENT
+The biggest opportunity... is from the 
+integration of the recent acquisitions of 
+Homecall, Toucan and the customers of 
+Bulldog to form a single unified business, 
+eliminating the functional replication 
+existing in the current structure. This process 
+will be completed by the end of 2008 and 
+will deliver a significant improvement in 
+EBITDA margin for the division.
+PETER DUBENS
+CHAIRMAN
+_0_pip_front_ar06.indd   3 04/05/2007   11:27:19 03 Pipex Communications plc Annual report and accounts 2006
+BROADBAND AND VOICE SERVICES
+The impact of the acquisitions in this area has lifted customer numbers 
+from 283,000 at the end of 2005 to in excess of one million by the end of 
+2006. Most importantly, the penetration of multiple service sales into our 
+customers has grown from an insignificant number at the end of 2005 to 
+a year later where each of our customers takes, on average, 1.74 services 
+from us. This has helped us to lift average revenue per customer to  24.70 
+per month from  23.00 per month last year, in the face of market pricing 
+pressures, particularly in broadband.
+For the customer experience, our focus is to provide excellent connection 
+quality backed up by high quality customer service. We have straightforward 
+pricing with consistent, unified prices for all our services nationwide. 
+We operate a hybrid cost model to help maintain margins. This allows 
+us to optimise service delivery costs to customers by choosing from a 
+number of alternate wholesale providers and, of course, from our own 
+local loop unbundling programme. At the end of 2006 we had unbundled 
+59 exchanges. A further 41 will be unbundled by April 2007, and the 
+remaining 75 are in the pipeline, and due for completion, in the fourth 
+quarter of 2007. Pipex also benefits from a sizable base of business customers 
+which ensures our broadband network is loaded and generating revenues 
+in the daytime when residential traffic is low.
+The biggest opportunity in this division is from the integration of the 
+recent acquisitions of Homecall, Toucan and the customers of Bulldog 
+to form a single unified business, eliminating the functional replication 
+existing in the current structure. This process will be completed by the 
+end of 2008 and will deliver a significant improvement in EBITDA margin 
+for the division.
+HOSTING SERVICES 
+Once again, the division enjoyed good organic growth in the year. In the 
+UK, we are the second largest hosting provider with 413,000 active sites. 
+Domain Names have also performed strongly with UK growth of 33% to 
+1.38 million. In Germany, the number of Hosting Services grew by 23% 
+and domain names by 29% to 370,000. The division continues to benefit 
+from very attractive margins.
+Pipex provides a comprehensive suite of hosting services from shared 
+and virtual private services right up to complex managed hosting solutions. 
+On the back of strong organic growth in Germany in 2006, we invested 
+in a new purpose-built data centre in Cologne. This will come on-stream 
+in three phases, as driven by demand, and will provide sufficient capacity 
+to meet predicted server requirements for the foreseeable future. 
+The first customers went live in the facility in March 2007.
+BUSINESS SERVICES
+This division provides medium sized and larger businesses with virtual 
+private networks, dedicated access, voice, security and bundled hosting 
+solutions. During the year, we enhanced the management within the 
+division to take advantage of the underlying growth in this sector. 
+This has met with some early successes with significant customer 
+wins including the British Library, Honda and Comic Relief.
+ FOR THE CUSTOMER EXPERIENCE, OUR FOCUS IS TO PROVIDE EXCELLENT CONNECTION 
+QUALITY BACKED UP BY HIGH QUALITY CUSTOMER SERVICE. WE HAVE STRAIGHTFORWARD 
+PRICING WITH CONSISTENT, UNIFIED PRICES FOR ALL OUR SERVICES NATIONWIDE. 
+_0_pip_front_ar06.indd   4 04/05/2007   11:27:19 04 Pipex Communications plc Annual report and accounts 2006
+WIRELESS
+At the end of March 2006 we announced a joint venture with Intel to 
+form Pipex Wireless. The aim of the joint venture is to exploit its wireless 
+spectrum licence in the 3.6 - 4.2 GHz band by providing WiMAX based 
+services through a UK city roll-out. Pipex Wireless owns a perpetual, 
+nationwide licence in the UK. Technical trials have been conducted in 
+Stratford-upon-Avon from which we believe we will be able to deliver 
+data speeds of up to 8 Mbs, synchronously. WiMAX has non-line of sight 
+scalable coverage of up to 5km, similar to cellular networks, which compares 
+to around only 50m for WiFi hotspots. The plan is to roll-out to 50 UK 
+towns and cities by 2009, starting in Manchester later this year.
+Pipex Wireless continues to seek out valuable partners in the roll-out of 
+its services, and to this end announced in April 2007 an agreement with 
+Nokia Siemens Networks to co-operate on WiMAX infrastructure and 
+service development to expand the availability of commercial WiMAX 
+services in the UK.
+OPERATIONAL PERFORMANCE
+Turnover in the year increased by 121% to  294 million, with an increase 
+of 14% in continuing operations, to  152 million, and  142 million contributed 
+by the 2006 acquisitions of Homecall, Toucan and the customers of Bulldog. 
+Gross profit increased by 84% to  112 million. Total gross margin in the 
+year decreased from 46.0% to 38.2%, the decline arising principally from 
+the high volume of line rental revenues in the mix of services in the 2006 
+acquisitions. This is demonstrated in the gross margin contributed by the 
+acquired businesses of 31.6%. EBITDA (before share option costs) rose in 
+the year by 55% to  23.2 million. Free cash flow generated, before freehold 
+purchases, was  17.6 million, up from  7.9 million last year despite substantial 
+investments in LLU of  5.8 million. In the year we acquired the freeholds 
+of our Manchester office, housing 850 staff, and the site for the new data 
+centre in Germany.
+CHAIRMAN'S STATEMENT CONTINUED
+ WE ANTICIPATED INTENSE DEMAND FOR VIEWING THE NEWLY REUNITED 
+LEONARDO DA VINCI'S NOTEBOOKS ONCE THEY WERE LIVE ON THE BRITISH 
+LIBRARY WEBSITE. SUCH ADVANCED TECHNOLOGY REQUIRES A HIGHLY 
+AVAILABLE AND RESILIENT NETWORK WHICH PIPEX HAS DELIVERED WITH 
+GREAT SUCCESS. 
+ CYNTHIA CROSSLEY, DIRECTOR, WINDOWS CLIENT BUSINESS GROUP
+_0_pip_front_ar06.indd   5 04/05/2007   11:27:26 05 Pipex Communications plc Annual report and accounts 2006
+FUNDING
+We undertook a small placing in January 2006 raising  13.6 million, net 
+of expenses, at 13p per share to raise funds for future growth opportunities.
+In March and April of 2006 we raised  91.5 million ( 88.3 million net 
+of expenses) through the private placement of 3.875% Guaranteed 
+Convertible Bonds 2011. The bonds had a price of 15.1p and are convertible 
+at 19p into ordinary shares and are listed on the Professional Securities 
+Market of the London Stock Exchange. The proceeds of the bonds were 
+used to repay a  40.0 million bridging loan, obtained to fund the purchase 
+of Homecall and to repay all of Pipex's existing bank debt, amounting 
+to  35.2 million. 
+In October 2006, the company entered into a new senior debt facility 
+of  35.0 million to fund the purchase consideration for the Bulldog and 
+Toucan acquisitions.
+OUTLOOK
+In the first quarter of 2007, we have continued to see an increase in 
+the average number of services bought by our Broadband and Voice 
+customers and this should continue to protect margins whilst inhibiting 
+churn. The opportunity to reduce costs in this division by integrating our 
+acquired operations will, we believe, ensure improving EBITDA margins 
+and cash flow over this year and next.
+We look forward in 2007 to launching the first commercial WiMAX 
+services in the UK. These services are currently being trialled in 
+Milton Keynes and Warwick as the forerunner to our first full-scale 
+city roll-out in Manchester in the fourth quarter.
+PETER DUBENS
+CHAIRMAN
+16 APRIL 2007
+Summary
+   Revenues, including acquisitions, 
+increased by 121% to  294 million.
+   EBITDA (pre share option costs) increased 
+by 55% to  23.2 million.
+   Free cash flow before freehold purchases of 
+ 9.9 million was also strong at  17.6 million 
+compared to  7.9 million in 2005 despite 
+significant capital expenditure in the 
+reported year on our LLU programme.
+   We have continued to see an increase in 
+the average number of services bought 
+by our Broadband and Voice customers 
+and this should continue to protect 
+margins whilst inhibiting churn. 
+_0_pip_front_ar06.indd   6 04/05/2007   11:27:33

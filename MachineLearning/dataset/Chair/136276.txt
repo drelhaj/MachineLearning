@@ -1,0 +1,162 @@
+ Nasstar plc 
+Annual report and financial statements for the year ended 30 September 2012 
+ 
+Chairman's statement 
+ 
+ 
+3 
+ 
+Highlights 
+ 
+ Turnover  2.4m (2011:  2.3m) 
+ 60% increase in Hosted Desktop subscribers to 3,200 at period end (2011: 2,000) 
+ EBITDA* of  106,000 (2011:  336,000)  
+ Loss after tax  313,000 (2011: loss  111,000) 
+  306,000 new equity raised during the year 
+ Awarded Citrix European Service Provider of the Year 2012 
+ Transformation programme to operate the Hosted Desktop platform from two data 
+centres in progress and set to become operational in Q1 2013 
+ New App Portal  designed, strengthening the Company's intellectual property 
+ New version of the Hosted Desktop platform offering Microsoft Lync 2013 as an app 
+with optional Voice over IP (VoIP) service integration being developed for launch in 
+2013 
+ 
+*Earnings before interest, taxation, depreciation, amortisation and share-based 
+payments 
+Chairman's Statement 
+ 
+Turnover increased to  2.4m, with subscribers of the Company's key product, Hosted 
+Desktop, growing by 60% during the year. Hosted Desktop has a number of Unique Selling 
+Points (USPs ). Our Hosted Desktop platform enables us to deliver a wide variety of apps 
+from multiple software vendors, offering real value to businesses wishing to move their IT to 
+the cloud. Invariably companies who decide to take advantage of all the benefits of cloud 
+computing, such as anywhere access to their desktop and data, will need to migrate their 
+bespoke or industry specific software apps to the cloud. This is where Nasstar's Hosted 
+Desktop platform can be leveraged because it provides a single access point through which 
+each customer can access both the most commonly used apps, such as Microsoft Office, as 
+well as the customer's key suite of business apps. The ability to deliver apps of all shapes 
+and sizes to end users in a single place is the reason we have focused our resources on 
+developing the Hosted Desktop platform, because this offers a service of real value and is 
+one that cannot be commoditised easily by any single software vendor. As versions of apps 
+change and new apps are released, Hosted Desktop remains the constant - a delivery 
+platform for all the apps used by a business, all centralised in the cloud and accessible on 
+almost any device via Hosted Desktop.  
+ 
+A further USP of Nasstar Hosted Desktop is that we have our own intellectual property in the 
+architecture of the platform and in the App Portal, the device by which customers are able to 
+manage key aspects of desktop usage and apps for their business using a simple browser-
+based management tool. The App Portal provides customers with control over their users' 
+desktops, apps and data. 
+ 
+Revenue analysis 
+Our revenue is generated from monthly subscriptions to our cloud services, Hosted Desktop 
+and Hosted Exchange. Hosted Desktop revenue consists of per-user-per-month 
+subscriptions, cloud storage of customers' data and hosted apps. Hosted apps include 
+standard software such as Microsoft Office and apps bespoke to the customer's business or 
+industry.  
+  Nasstar plc 
+Annual report and financial statements for the year ended 30 September 2012 
+ 
+Chairman's statement 
+ 
+ 
+4 
+ 
+Hosted Exchange is the name given to a hosted version of Microsoft's Exchange email 
+software, which provides a mailbox that users can access from their desktop, through a web 
+browser or on a mobile device. Hosted Exchange revenue is derived from a monthly fee per 
+mailbox.  
+ 
+It is important to appreciate that a Hosted Exchange mailbox can be sold as a stand-alone 
+product whereby a company just takes hosted mailboxes without Hosted Desktop. However, it 
+is also a key app used by most customers who take the full Hosted Desktop service. So, for 
+Nasstar, Hosted Exchange email is both an app for Hosted Desktop users and a  stand-alone' 
+product where a customer just wants a mailbox. Hosted Exchange revenue is therefore 
+divided into two types - stand-alone mailbox revenue and hosted app revenue. As explained 
+below, it is the stand-alone mailbox revenue that is non-core and which has reduced during 
+the period. When Nasstar sells Hosted Desktop, customers can use either a Nasstar hosted 
+mailbox or their own mailbox solution hosted by a third party. One of our largest partners, for 
+example, sells our Hosted Desktop service with its own Hosted Exchange service. We 
+specifically developed Hosted Desktop to be flexible enough to plug into third-party Hosted 
+Exchange solutions such as those of partners and Microsoft Office 365.  
+ 
+We have operated our own Hosted Exchange platform since 2004 and it was the main focus 
+of our sales between 2004 and 2008, whilst we developed our Hosted Desktop platform and 
+tested it with a small number of early adopters. The result was that by 2008 nearly all of our 
+revenue was from stand-alone mailboxes. In 2008 we switched our sales focus to Hosted 
+Desktop in order to ensure that we built a business with our own IP and service that was 
+substantially less susceptible to commoditisation. 
+ 
+Hosted Desktop revenue, which has risen 50% since 2010, was  1.5m in the year. This was 
+63% of total turnover in the year compared to 52% in 2011 and 42% in 2010. We expect 
+Hosted Desktop revenue as a percentage of total turnover to continue to increase in 2013.  
+ 
+During 2012, revenue from mailboxes fell by  0.24m to  0.74m. This reduction, from 50% of 
+our turnover two years ago to 29% in 2012 was almost exclusively from the loss of stand-
+alone mailbox customers - those who had taken just the Hosted Exchange email service 
+without Hosted Desktop.. We expect sales of mailboxes as an app for use by Hosted Desktop 
+customers to increase in future, whilst we believe the revenue from stand-alone mailboxes 
+has largely stabilised.  
+ 
+In our view the shift from stand-alone mailbox to Hosted Desktop revenue has been vital for 
+our future prospects.  
+ 
+Our target number of Hosted Desktop users by September 2013 is 4,000, a 100% growth 
+from our current number following the expiry of the contract with Allied Healthcare, and a 25% 
+increase on the September 2012 figure of 3,200.  
+ 
+As stated in our Half Yearly Report, we are positioning the Company for growth rather than 
+short-term profitability, and we have continued with this approach. This means continuing to 
+build a bigger and better Hosted Desktop platform, with more product development and more 
+infrastructure rather than short-term profits. We expect to be trading profitably on a monthly 
+basis once we are in the 3,500 to 4,000 range of Hosted Desktop subscribers. 
+ 
+Transformation programme and product development 
+During the year, we continued development of our Hosted Desktop platform. This 
+development included a newly-designed App Portal and a number of product enhancements. 
+Most notably we began a programme to transform Hosted Desktop into a multi-site platform, 
+hosted across two data centres. A contract was entered into with SSE Telecoms for both the 
+provision of data centre space and for connectivity between SSE Telecom's facility and our 
+systems hosted in London.  
+  Nasstar plc 
+Annual report and financial statements for the year ended 30 September 2012 
+ 
+Chairman's statement 
+ 
+ 
+5 
+ 
+The Board considers this transformation of the Hosted Desktop service to a multi-site platform 
+to be an important step for winning larger and more contracts. The result is higher costs in the 
+short term (which started in the second half of the year) without any immediate payback, but 
+we believe that there will be substantial economic benefits as we scale. Serving Hosted 
+Desktop from two data centres will increase our capacity and, in our view, attract more sales 
+from having a geographically diverse system. There will also be a reduction in per subscriber 
+data centre costs once we reach a certain critical mass that we hope to achieve by 2014. 
+Costs incurred during the year included the set up and ongoing rental of rack space in the 
+second data centre and the cost of connectivity between the two sites. The transformation 
+programme is continuing into the new financial year.  
+ 
+Our Research and Development team are also working on the next version of our Hosted 
+Desktop product that will include infrastructure and networking options that will enable 
+customers to use Voice over IP (VoIP) in the Hosted Desktop environment. 
+ 
+We attracted additional institutional investment during the period which strengthened our 
+ability to pursue our transformational growth strategy and we believe we are in a strong 
+position to capitalise on the increased adoption rate of cloud services. 
+ 
+Outlook 
+In October 2012, Nasstar received the Citrix European Service Provider of the Year award 
+which was presented to us in Barcelona at the Citrix Synergy summit. This award is a 
+reflection of the quality of our Hosted Desktop product and underlines our position as a 
+market leader in the hosted desktop space. In the new financial year we have continued to 
+make progress with our multi-site transformation programme and product development, whilst 
+our sales team continues to work closely with a number of valuable partners to win new 
+business. We are very positive about the product and strategy, we have a clear sales target 
+and we are optimistic for the year ahead. 
+ 
+ 
+Lord Daresbury 
+Chairman 
+18 December 2012 
+ 

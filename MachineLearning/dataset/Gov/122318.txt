@@ -1,0 +1,191 @@
+ 32
+Maintel Holdings Plc
+Annual report and financial statements for the year ended 31 December 2008
+www.maintel.co.uk
+33
+3 Employees
+   2008 2007
+ Number Number
+The average number of employees, including directors, during the year was:
+Corporate and administration 20 20
+Sales and customer service       58 65
+Technical and engineering 84 86
+  162 171
+Staff costs, including directors, consist of:
+Wages and salaries 7,050 6,728
+Social security costs    794     768
+Pension costs      120 129
+ 7,964 7,625
+ The Group makes contributions to defined contribution personal pension schemes for employees and directors. The assets of 
+the schemes are separate from those of the Group. The pension cost charge represents contributions payable by the Group 
+to the schemes and amounted to  120,000 (2007 -  129,000). Contributions totalling  22,000 (2007 -  21,000) were 
+payable to the schemes at the year end and are included in creditors.
+4 Directors' remuneration
+ 2008 2007
+  000  000
+The remuneration of the Company directors is as follows:
+Directors' emoluments 447 426
+Pension contributions 8 7
+ 455 433
+Included in the above is the remuneration of the highest paid director as follows:
+Directors' emoluments 137 131
+Pension contributions 4 4 
+ 141 135
+The Group paid contributions into defined contribution personal pension schemes in respect of 2 (2007 - 2) directors during 
+the year.
+ Notes forming part of the financial statements 
+for the year ended 31 December 2008 (continued)
+ Notes forming part of the financial statements 
+for the year ended 31 December 2008 (continued)
+5 Operating profit
+ 2008 2007
+  000  000
+This has been arrived at after charging/(crediting):
+Depreciation of property, plant and equipment 118 136
+Amortisation of intangible fixed assets 263 222   
+Goodwill impairment charge 120 76
+Loss on disposal of plant and equipment 2 -   
+Operating lease rentals
+    - property 183 161
+    - plant and machinery 115 135
+Auditors' remuneration
+    - audit services - Company  7 7
+    - other services relating to taxation - Group 6 18
+    - other services relating to audit of subsidiary undertakings - Group 51 47
+    - other services - Group 25 15
+Leasing income (8) (97)
+6 Financial income and expense
+ 2008 2007
+  000  000
+Finance income
+    Bank interest received 69 115
+Finance expense
+    Other interest payable 1   -
+7 Taxation
+ 2008 2007
+  000  000
+UK corporation tax
+Corporation tax on profits of the period 536 673
+Deferred tax (41) (78)
+Taxation on profit on ordinary activities 495 595
+  34
+Maintel Holdings Plc
+Annual report and financial statements for the year ended 31 December 2008
+www.maintel.co.uk
+35
+7 Taxation (continued)
+The differences between the total tax shown above and the amount calculated by applying the standard rate of UK 
+corporation tax to the profit before tax are as follows:
+ 2008 2007
+  000  000
+Profit on ordinary activities before tax 1,589 1,979
+Profit on ordinary activities at the standard rate of corporation
+tax in the UK of 28.5% (2007 - 30%) 453 594
+Effect of:
+Expenses not deductible for tax purposes 11 11
+Depreciation in excess of capital allowances - 2
+Goodwill impairment 31 23
+Use of trading losses brought forward - (15)
+Change in tax rate affecting deferred tax liability - (20) 
+ 495 595
+8 Dividends paid on ordinary shares
+   2008 2007
+    000  000
+Final 2006, paid 25 April 2007 - 2.9p per share   -   361
+Interim 2007, paid 5 October 2007 - 2.5p per share   -   311  
+Final 2007, paid 30 April 2008 - 3.0p per share   364 -  
+Interim 2008, paid 10 October 2008 - 2.5p per share   300 - 
+   664 672
+The directors recommend the payment of a final dividend for 2008 of 3.1p (2007 - 3.0p) per ordinary share, payable on 29 April 
+2009 to shareholders on the register at 27 March 2009, subject to approval by shareholders at the Annual General Meeting.
+ Notes forming part of the financial statements 
+for the year ended 31 December 2008 (continued)
+9 Earnings per share
+Earnings per share is calculated by dividing the profit after tax for the period by the weighted average number of shares in 
+issue for the period, these figures being as follows:
+   2008 2007
+    Number Number
+   (000s) (000s)
+Weighted average number of ordinary shares of 1p each   11,832 12,452
+    000  000
+Earnings used in basic and diluted EPS, being profit after tax   1,094 1,384
+Goodwill impairment and intangibles amortisation, less tax thereon   305 231
+One-off professional costs, less tax thereon   35  18    
+Adjusted earnings   1,434 1,633
+Earnings per share 
+Basic and diluted   9.2p 11.1p
+Adjusted - as above but excluding goodwill impairment, intangibles
+amortisation and one-off professional costs, less tax thereon   12.1p 13.1p
+ 
+The adjustment above in respect of goodwill impairment, intangibles amortisation, one-off professional costs and tax 
+thereon has been made in order to provide a clearer picture of the trading performance of the Group.
+ The one-off professional costs relate primarily to the recruitment of Mr Buxton (2007 -  25,000 before tax relating to the 
+cost of strategic advice).
+During 2008 the Company repurchased and cancelled 1,565,000 of its ordinary shares, at prices between 94p and 161.5p 
+each at a total cost of  1,782,000, representing 14.5% of the Company's issued share capital as at 31 December 2008. 
+ Notes forming part of the financial statements 
+for the year ended 31 December 2008 (continued) 36
+Maintel Holdings Plc
+Annual report and financial statements for the year ended 31 December 2008
+www.maintel.co.uk
+37
+ Notes forming part of the financial statements 
+for the year ended 31 December 2008 (continued)
+10 Intangible assets  
+  Customer
+ Goodwill relationships Total
+  000  000  000
+Cost
+At 1 January 2007 664 965   1,629
+Acquisition of customer relationships   -    448 448
+At 31 December 2007 and 31 December 2008 664 1,413 2,077
+Amortisation and impairment
+At 1 January 2007 91    97   188  
+Amortisation in the year   -    222 222
+Impairment in the year 76  - 76
+At 31 December 2007 167 319 486
+Amortisation in the year   -   263 263
+Impairment in the year 120  - 120
+At 31 December 2008 287 582 869
+Net book value
+At 31 December 2008    377   831 1,208
+At 31 December 2007   497  1,094 1,591
+Amortisation and impairment charges for the year have been charged through administrative expenses in the consolidated 
+income statement.
+10 Intangible assets (continued)
+The carrying value of goodwill, calculated on a value in use basis, is allocated to cash generating units as follows:
+ 2008 2007
+  000  000
+Pinnacle Voice and Data Limited (now incorporated in Maintel Voice and Data Limited) 232  294
+District Holdings Limited (now incorporated in
+Maintel Europe Limited and Maintel Voice and Data Limited) 145 203
+ 377 497
+Goodwill of  227,000 arising on the acquisition of Pinnacle Voice and Data Limited (since renamed Maintel Network Solutions 
+Limited) in December 2005 was capitalised at 31 December 2005, as was the related deferred payment of  147,000 in 2006, 
+the aggregate being subject to an annual impairment review which has resulted in an impairment charge of  18,000 in 2007 
+and  62,000 in 2008, due to the termination of certain contracts acquired.  
+Goodwill of  290,000 arose on the acquisition of District Holdings Limited in June 2006. This is assessed for impairment at 
+each balance sheet date based on value in use calculations, being the projected future discounted cash flows arising from the 
+acquisition, compared with the carrying value of the goodwill. The impairment of the goodwill has been  58,000 in 2007 and 
+ 58,000 in 2008. 
+The acquisition of District customer relationships was valued at  965,000. These relationships are estimated to have a useful 
+life of 5 years and are therefore amortised over that period and subject to annual impairment review. The 2007 amortisation 
+charge is therefore  193,000 and the 2008 charge  193,000.
+The Group acquired a base of customer relationships from Callmaster Limited on 1 August 2007, for a consideration, 
+including costs, of  448,000. These relationships are estimated to have a useful life of five (maintenance contracts) or seven 
+(network services contracts) years and are therefore amortised over those periods and subject to annual impairment review. 
+The 2007 amortisation charge is  29,000 and the 2008 charge  70,000.
+For the purposes of the impairment review of goodwill, the net present value of the projected future cash flows of the 
+cash generating unit are compared with the carrying value. Projected operating margins for this purpose are based on 
+current trends, and a discount rate of 15.6% is applied to the resultant projected cash flows; the discount rate is based on 
+conventional capital asset pricing model inputs.
+11 Subsidiaries
+The Group consists of Maintel Holdings Plc and its subsidiary undertakings, including several which did not trade during 
+the year. The following were the principal subsidiary undertakings at the end of the year and each has been included in the 
+consolidated financial statements:
+Maintel Europe Limited 
+Maintel Voice and Data Limited
+ 
+Each is wholly owned and incorporated in England and Wales. 
+ Notes forming part of the financial statements 
+for the year ended 31 December 2008 (continued)

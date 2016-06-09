@@ -1,0 +1,100 @@
+ Notes to the financial statements
+for the year ended 31 December
+2009
+Foreign currencies
+Monetary assets and liabilities denominated in foreign currencies are translated into dollars at the rates of exchange prevailing at the balance
+sheet date. Transactions in foreign currencies are translated at the exchange rate ruling at the date of the transaction. Exchange differences
+are taken to the statement of comprehensive income.
+On consolidation, assets and liabilities of subsidiary undertakings and representative offices which are denominated in foreign currencies are
+translated into Dollars at the rate ruling at the balance sheet date. Income and cash flow statements are translated at average rates of
+exchange prevailing during the year. Exchange differences resulting from the translation at closing rates of net investments in subsidiary
+undertakings and of foreign currency representative offices, together with differences between earnings for the year translated at average
+and closing rates, are dealt with in the foreign currency translation reserve.
+The functional currency of the Company and presentational currency of the Group is United States Dollars and accordingly the financial
+statements have been prepared in this currency.
+Property, plant and equipment and depreciation
+Property, plant and equipment are recorded at historical cost less accumulated depreciation. Property, plant and equipment are depreciated
+using the straight line method over their estimated useful lives, as follows:
+Fixtures, fittings and equipment - four years
+Investments
+In its separate financial statements, the Company recognises its investments in subsidiaries at cost less any provision for impairment.
+Leases
+Rent paid on operating leases is charged to the statement of comprehensive income on a straight line basis over the term of the lease.
+Share based payments
+The share option programme allows Directors and employees to acquire shares of the Company. The fair value of options granted is
+recognised as an expense with a corresponding increase in equity. The fair value is measured at grant date and spread over the period
+during which the Directors and employees become unconditionally entitled to the options. The fair value of the options granted is measured
+using an option pricing model, taking into account the terms and conditions upon which the options were granted. The amount recognised
+as an expense is adjusted based on time based conditions to reflect the actual number of share options that will vest. The actual number of
+share options expected to vest is not adjusted for market vesting conditions. Where the terms and conditions of options are modified before
+they vest, the increase in the fair value of the options, measured immediately before and after the modification, is also charged to the
+consolidated statement of comprehensive income over the remaining vesting period. Further details of the treatment of share based
+payments can be found in note 19.
+Segmental disclosures
+The Group's operations are entirely focused on oil and gas exploration activities in the Falkland Islands with its corporate head office in the
+UK. Based on risks and returns the Directors consider that there is only one business segment that they use to assess the Group's
+performance and allocate resources being oil and gas exploration activities in the Falkland Islands and therefore the segmental disclosures
+for the Group have already been given in these financial statements.
+Financial instruments
+The Group's financial assets consist of current account or short term deposits at variable interest rates, loans and other receivables. Any
+interest earned is accrued and classified as interest. Trade and other receivables are stated initially at fair value and subsequently at
+amortised cost.
+The Group's financial liabilities consist of convertible loan notes, trade and other payables. All are non derivative assets. The trade and other
+payables are stated initially at fair value and subsequently at amortised cost. Convertible loan notes are treated as described below.
+Convertible loan notes
+In accordance with IAS 32, the Group has classified the convertible debt in issue as a compound financial instrument. Accordingly, the
+Group presents the liability and equity component separately on the balance sheet. The classification of the liability and equity component is
+not reversed as a result of a change in the likelihood that the conversion option will be exercised. No gain or loss arises from initially
+recognising the components of the instrument separately. Interest on the debt element of the loan is accreted over the term of the loan at
+the effective interest rate. In the event of conversion the equity component relating to the conversion rights and the warrants issued will be
+transferred to share capital and share premium (for any amount over the nominal value of each share).
+The assessment of the equity and debt components of the convertible instrument was made on inception and was not revisited as a result
+of the change in functional currency.
+Derivatives
+Derivatives are recognised initially, and subsequently re-measured, at fair value. Changes in value are recognised in the statement of
+comprehensive income.
+Derivatives may be embedded in other instruments. Embedded derivatives are treated as separate derivatives and measured at fair value,
+with changes in value being recognised in the statement of comprehensive income, when:
+  their terms would meet the definition of a stand alone derivative if they were contained in a separate contract;
+  their economic characteristics and risks are not clearly and closely related to those of the host contract; and
+  the combined contract is not measured at fair value with changes in value being recognised in the statement of comprehensive income.
+Conversion features of convertible debt issued by the group which do not meet the definition of an equity instrument are accounted for as
+derivatives over the company's own equity and are recognised initially, and subsequently remeasured, at fair value. Changes in value are
+recorded in the statement of comprehensive income.
+Critical accounting estimates and judgments
+The Group makes estimates and assumptions regarding the future. Estimates and judgements are continually evaluated based on historical
+experiences and other factors, including expectations of future events that are believed to be reasonable under the circumstances. In the
+future, actual experience may deviate from these estimates and assumptions. The estimates and assumptions that have a significant risk of
+causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are as follows:
+Recoverability of intangible assets
+Under the full cost based method of accounting, the Group capitalises exploration and appraisal costs until it is capable of determining
+whether its exploration efforts were successful and, if they were successful, whether any impairment charges may be required to bring the
+net book values of assets in line with their economic values.
+This assessment involves judgement as to the likely future commerciality of the asset and when such commerciality should be determined
+as well as future revenues and costs pertaining to the utilisation of the licence rights to which such capitalised costs relate and the discount
+rate to be applied to such future revenues and costs in order to determine a recoverable value.
+Impairment review
+The carrying amounts of the Group's E&A assets are reviewed at each balance sheet date and, if there is any indication that an asset may
+be impaired, its recoverable amount is estimated. The recoverable amount is the higher of its net selling price and its value in use.
+Impairment assessments are carried out by the Directors if there has been an event or a change in circumstance that would indicate that
+the carrying value of the asset may not be recoverable.
+While conducting an impairment review of its assets, the Group exercises judgement in making assumptions about future oil and gas
+prices, oil and gas reserves/resources and future development and production costs. By their nature, impairment reviews include significant
+estimates regarding future financial resources and commercial and technical feasibility to enable the successful realisation of the exploration
+expenditure. Changes in the estimates used can result in significant charges to the statement of comprehensive income as any impairment
+loss arising from the review is charged to the statement of comprehensive income whenever the carrying amount of the asset exceeds its
+recoverable amount.
+Convertible loan notes
+The fair value of the liability component on initial recognition is the present value of the stream of future cash flows (including both coupon
+payments and redemption) discounted at the market rate of interest that would have been applied to an instrument of comparable credit
+quality with substantially the same cash flows, on the same terms, but without the conversion option. The applicable rate of interest is
+estimated at 15%.
+Share based payments
+Directors best estimate of the valuations underlying the share based payments are based on assumptions made by Directors using
+updated models previously prepared by external consultants. Those assumptions are described in the Notes to the accounts and include,
+among others, the dividend growth rate, expected volatility, expected life of the options and number of options expected to vest. See note
+19 for further details of these assumptions.
+Notes to the financial statements
+for the year ended 31 December
+2009
+25

@@ -1,0 +1,335 @@
+ The year ended 30 September 2005
+has been one of change. Change 
+in terms of revenue performance
+between the two halves of the year -
+ 9.4m second half versus  4.8m first
+half. Change in terms of product - 
+a dozen new product releases and
+upgrades across the Group. Change
+in terms of management - Julian
+Morris passing on the role of Chief
+Executive to Nick Bolton.
+We believe OMG is a business with
+an exciting present and enticing
+future. The present is a Group of
+companies in strong or dominant
+global market positions, with
+distributed geographical and sector
+risk. The future is one of realisable
+opportunities in both core and
+diversified business based on a 
+deep pool of technology.
+Financial Summary
+Group turnover, including
+acquisitions, rose 30% to  14.2m
+(2004:  10.9m). Turnover excluding
+the acquisition of Peak Performance
+Technologies, Inc.'s business (Peak )
+grew 19% to  12.9m.
+Gross profits improved from 56% 
+of turnover to 60% due to higher
+volume and lower manufacturing
+costs of the new MX motion capture
+system. However, the improvement in
+gross margin was partially offset by
+the sale of earlier product lines at
+lower margins.
+Operating profit before amortisation
+of goodwill and exceptional items
+increased by 193% to  923,000
+(2004:  315,000) and after goodwill
+amortisation and exceptional items,
+increased by 107% to  593,000
+(2004:  286,000).
+The exceptional items amounting 
+to  216,000 comprise one-off costs
+relating to the cost of rationalising
+distribution channels following the
+acquisition of Peak and the cost of
+changes within senior management.
+Profit before tax improved by 51% to
+ 690,000 (2004:  457,000). Earnings
+per share increased by 65% to 1.27p
+(2004: 0.77p).
+The Group's strong cash position
+further improved during the year to
+ 4.4m (2004:  4.1m).
+Business Review
+Second Half Turnaround
+Group full-year profit before tax 
+of  690,000 contrasts dramatically
+with the reported first half loss of
+ 549,000. Stand-alone second half
+profit before tax was a healthy 
+13% of equivalent revenues. The
+turnaround was achieved by a major
+improvement in revenues and tight
+control and selective reduction 
+of costs.
+Sales management has been
+completely reorganised with more
+direct and regular reporting of UK
+and US sales teams. Product 
+lines, services, procedures and
+infrastructure are being consolidated
+across all operations within the
+Group. Manufacturing costs are
+being further reduced by higher
+volume production of standard
+products.
+CHAIRMAN AND CHIEF EXECUTIVE STATEMENT
+2
+OMG plc Report and Accounts 2005
+OMG is a business
+with an exciting
+present and enticing
+future
+25514 PRE  30/1/06  9:57 am  Page 2 Global Revenue Growth
+Revenue growth for the year was
+strong across all markets, with the
+exception of UK which, as previously
+reported, enjoyed exceptional
+revenues in the previous year.
+For the first time in the Group's
+history, North America delivered 
+over half (58%) of global revenues.
+Including eight months of sales 
+from Peak, the Group's second 
+US acquisition, revenues from 
+North America increased by 62%.
+Excluding Peak, revenues from 
+North America rose 37%. In the
+second half year, several large
+individual orders - one for over $3m
+for a very large installation of the
+new MX40 motion capture system -
+were won in the highly competitive
+US entertainment market.
+Far Eastern and Continental
+European markets also grew well
+with revenues up by 83% and 16%
+respectively. In particular, Japanese
+revenues were up 109%, with strong
+growth across all market sectors.
+Acquisition of Peak & other
+Corporate Investment
+The Group's core business was
+significantly strengthened by the
+acquisition of the business of 
+Peak based in Denver, Colorado in
+February 2005. Peak is a specialist 
+in motion capture for sports science
+and human and animal motion
+research using video image recording.
+Within 45 days of completion, the two
+existing companies' product ranges
+were combined and re-branded
+under the name Vicon Peak. Within
+60 days, the Peak Motus motion
+capture software was re-engineered
+to use Vicon's MX cameras. Within
+90 days, the first Vicon orders were
+taken through a former Peak sales
+channel and global distribution
+channels were rationalised, allowing
+access to all markets.
+Peak's product range for its well-
+established sports and animal
+science markets in North America 
+is now considerably extended.
+In Europe, the response of the
+academic sports science market to
+the merger of two well-respected
+companies and the availability of a
+combined optical and video motion
+capture system has been particularly
+strong. As a result, since joining
+OMG, Peak's sales have increased
+while its costs are reduced, giving
+the business new focus as a
+profitable operation.
+During the year, the Group has 
+taken a 12% stake in Munich-based
+start-up Contemplas GmbH.
+Contemplas produces software for
+simple 2D and 3D motion capture
+and analysis based on video (DV)
+recording. Their aim is to bring the
+technology into consumer-driven
+markets such as running-shoe
+selection and fitness assessment.
+Marketing Led, Engineering Driven
+Global sales channels for the
+Group's core products, built around
+motion capture and camera tracking,
+are well established. Applications
+cover an extraordinary range from
+CHAIRMAN AND CHIEF EXECUTIVE STATEMENT
+continued
+3
+OMG plc Report and Accounts 2005
+25514 PRE  30/1/06  9:57 am  Page 3 the production of feature films and
+computer games to military training;
+from medical research and treatment
+to engineering ergonomics; and 
+from sports performance to the 
+study of the neural control of the 
+gait of millipedes.
+During the year the Group has
+increased its marketing resource,
+bringing systematic analysis and
+planning to the process of prioritising
+and specifying the Group's product
+development.
+Industry Awards
+In February 2005, Vicon Motion
+Systems was awarded a Scientific 
+& Technical Academy Award, a
+Technical Oscar , by the Academy
+of Motion Picture Arts & Sciences for
+contributions made through optical
+motion capture to the film industry.
+The Company's other leading
+product for the entertainment
+industry, 2d3's boujou automatic
+camera tracker, was used in 4 out
+the 7 films nominated for the Oscar
+for Best Visual Effects, including the
+winning film Lord of the Rings.
+New Product Introductions
+The Vicon Peak MX product 
+range has been enhanced by the
+introduction of MX Bridge and
+Reference Video. MX Bridge allows
+many older models of Vicon camera
+to be used alongside the new MX
+cameras. Customers wishing to
+upgrade their systems can now do 
+so gradually, without having to
+discard existing cameras.
+As well as the integration of MX
+cameras into the Peak Motus
+system, Vicon software has 
+also been enhanced to allow
+simultaneous video capture from a
+range of DV and digital machine
+vision cameras with a range of
+resolutions and frame rates.
+Vicon Peak motion capture systems
+are frequently used in applications
+where accurate 3-dimensional
+tracking of targets, ranging from
+surgical and medical devices to
+performing actors and animals, 
+is required in real time . During 
+the year, the development of a
+combination of new tracking
+algorithms and software 
+engineering for parallel processing
+on multi-processor computers has
+dramatically increased real-time
+performance. The possibility of a
+director viewing a live multi-character
+animation as it is performed removes
+one of the remaining separators
+between motion capture and
+traditional film making.
+2d3's original automatic camera
+tracker, boujou, used mainly 
+in the movie industry has been
+considerably enhanced and
+upgraded with the release during 
+the year of versions 3.0 and 3.1.
+A simpler version of boujou, aimed 
+at video and educational markets, 
+is now sold under the name bullet.
+Radical Diversifications
+During the year, the Group tasked 
+a team, comprising the past and
+present Chief Executives and a 
+CHAIRMAN AND CHIEF EXECUTIVE STATEMENT
+continued
+4
+OMG plc Report and Accounts 2005
+Although at a very
+early stage, the new
+opportunities for
+diversification look
+exciting
+25514 PRE  30/1/06  9:57 am  Page 4 full-time Business Development
+manager, to evaluate opportunities
+for radical diversification of the
+Group's business. The main 
+criteria were:
+Market potential well above 
+the combined markets of the 
+Group's current products
+Expectation of taking and holding
+market leadership and dominance
+Gain leverage from existing 
+in-house or accessible new
+technologies
+From several dozen potential
+business areas, a short list of
+opportunities has emerged, 
+winning the unanimous support 
+of the Board.
+One opportunity in a defence
+application of 2d3's structure-from-
+motion  IP has moved forward with
+the recently-announced development
+agreement with QinetiQ. Another,
+based on IP from both Vicon and
+2d3, concerns management and
+maintenance of key national
+infrastructure. For reasons of
+commercial sensitivity it is not
+possible to give more details of 
+these developments at present.
+Dividend Policy
+As in previous years, the Directors
+are not declaring a dividend,
+although the dividend policy will 
+be kept under review.
+Comment & Outlook
+Despite the marked contrast 
+between the first and second 
+halves, the Group's overall financial
+performance in 2004/5 was very
+satisfactory, with excellent revenue
+growth, market diversification, good
+control of costs and cash, and
+increasingly healthy profits.
+The Group's plan is to continue 
+this pattern of profitable growth in
+two ways. Firstly, through business
+execution in our core markets, where
+market activity appears well able to
+support this plan. Secondly, through
+a structured business diversification
+programme. Although at a very early
+stage, the new opportunities for
+diversification look exciting.
+Currently the Company has adequate
+internal resources to progress these
+diversifications and has already
+committed an initial investment of
+ 0.2m so far this year. Details of
+progress with diversifications will be
+made available in due course.
+Trading in the current year is 
+making a strong start and we will
+review progress at the Annual
+General Meeting.
+Anthony Simonds-Gooding
+Chairman
+Nick Bolton
+Chief Executive
+CHAIRMAN AND CHIEF EXECUTIVE STATEMENT
+continued
+5
+OMG plc Report and Accounts 2005
+ 
+ 
+ 
+25514 PRE  30/1/06  9:57 am  Page 5

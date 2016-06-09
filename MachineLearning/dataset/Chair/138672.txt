@@ -1,0 +1,123 @@
+ 3
+The year ended 30 June 2005 saw Netb2b2 reaping the benefits of the operational changes and investments made in 
+all our divisional companies during the previous year.  I am delighted that we moved ahead on all our key financial 
+indicators with organic growth in turnover, profit and earnings per share.  This is a good indication that we have a 
+successful strategy in place and importantly all the divisional businesses are now positioned for further growth with 
+particular scope for increased scalability in cScape and Blue Sky.
+Stability and growth in the operating businesses, strong operational management in each division and a healthy financial 
+position has meant that senior management has had more time to devote to significant acquisitions, the first of which, 
+Fernhart New Media, we announced we had completed in September 005.  
+Financial Results Summary
+The Group's overall financial performance for the year is summarised below:
+ 2005 2004
+  000  000
+Turnover for Group 6,303 5,65
+Operating profit before exceptional item 132 1
+Exceptional Item (8) -
+Net interest paid (9) ( 4)
+	 	 	 	 Group profit/(loss) for the year before tax 95 (23)
+Taxation 9 -
+	 	 	 	 Group profit/(loss) for the year after tax 114  (23)
+	 	 	 	 	 	 	 	 Overall the Group's financial performance was very encouraging, with significant improvement in turnover and 
+operating profit, which enabled us to achieve a post tax profit of  114,000 (2004: loss  23,000).  For the reported 
+year the business had three main areas of activity: internet services (cScape and NetPen), publishing and digital 
+communication services (ITM) and specialist hosting (Blue Sky). 
+As can be seen from Note , year on year turnover growth came across all our operations, with the biggest contribution 
+coming in internet services.  This continues the trend reported previously and shows that cScape is indeed going from 
+strength to strength. Profit before tax also increased in all three areas - showing that organic growth is now starting to 
+translate into profitability following the changes we made in the year to 30 June 2004. 
+This is reflected in the figures with an increase in earnings per share to 2.3p per share (Restated 2004: loss 0.6p).  Net 
+assets also grew to  2.03 million (2004:  1.70 million) and cash at bank as at 30 June 2005 stood at  571,000 (2004: 
+ 478,000).
+The directors are not recommending the payment of a final dividend for the year ended 30 June 2005, as we feel it is 
+important to re-invest in our operations and keep cash available for acquisition activity.  We will however continue to 
+review this on an ongoing basis.
+NETB2B2 PLC
+CHAIRMAN'S STATEMENT 4
+Operational Review
+As highlighted above all divisions performed well and achieved increases in turnover and profit.  Margins remain 
+stable and new business wins over the reported period have been numerous across the Group.
+cScape Strategic Internet Services (cScape )
+Our consultancy business, cScape, led by Rob Killick should be congratulated.  The team has turned in an impressive 
+performance this year and the directors consider this has justified the investment we made in the sales and marketing 
+function.  They maintain a very high retention rate for existing clients whilst adding new ones.  cScape has a growing 
+portfolio of  significant clients including CIPD, CILIP and Carbon Trust with multi-year relationships and contracts 
+giving us comfort in terms of earnings visibility for this subsidiary.
+cScape added clients in both the commercial and public sectors with notable wins including: Barclays Bank plc along 
+with several local authorities including Tower Hamlets and Lewisham Council.  The company's status as a Microsoft 
+Gold partner, the development of further .Net tools based capabilities such as BizTalk and Commerce Server to 
+complement the original CMS focus and the addition of a design practice have enabled the company  to continue 
+to address a wider market with a deeper proposition ranging from business consulting through to implementation 
+services.  This shift has given cScape access to the clients' boardrooms where it can advise on a company's overall IT 
+strategy and its link to business to complement the traditional IT functional focus.  This fulfilment across the whole 
+decision making chain leads to bigger contracts and higher margins.
+Blue Sky Hosting (Blue Sky )
+Blue Sky, a key UK IBM business partner and a leading provider of Application Hosting, enjoyed its first full year of 
+benefit from the acquisition of Esna Hosting.  Having focused on maintaining and retaining its client base immediately 
+after the acquisition of ESNA during the first six months of the reported period it extended its focus to include heavier 
+marketing for new business which bore fruit in the form of contract wins with clients such as: Sanctuary Housing, 
+Riverford, Magirus, Greater Manchester Police and Bromley Council.
+Overall client churn was low and hosting provides high and stable margins.  With a strong and stable client base the 
+next stage is to add a managed services business, which can leverage the hosting capabilities of Blue Sky.  We are 
+currently exploring a number of acquisition opportunities, which would enable us to achieve this.
+ITM Graphics (ITM )
+ITM, the Group's publishing and digital communication services subsidiary, managed a small year on year increase in 
+both revenue and profit before tax, which was pleasing given that the market in which it operates has continued to be 
+challenging.  As more publications take pre-press in-house ITM will continue to concentrate on broadening the range 
+of services it offers and we expect to see continued reasonable profit performance in this business
+NETB2B2 PLC
+CHAIRMAN'S STATEMENT 5
+NETB2B2 PLC
+CHAIRMAN'S STATEMENT
+NetPen UK Limited (NetPen )
+NetPen continues to progress and although it has yet to win its first client, we have worked hard on expanding our 
+partner networks, defining the service offering and marketing to corporates.  Accordingly we now have developed 
+relationships outside of just Hewlett Packard with notable links to Nokia and Anoto. Market opportunities look 
+particularly promising in the airline sector, NHS and supporting the mobile professional market.
+Advisory Committee
+We announced in February 005 that we had formed an advisory committee, which consists of three eminent businessmen 
+Sir William Proby, Dr James Bellini and David Montgomery.  Each has a distinguished business career and their 
+experience spans a number of key sectors for the Group including; professional bodies, NGOs, local government and 
+public sector and media.  The formation of the advisory committee has been of great benefit to the Group as it has given 
+us access to an additional pool of experience and advice, complementary to that offered by the Board.  On behalf of 
+shareholders I would like to welcome them to Netbband thank them for their contribution.
+Post period end activity
+Acquisition of Fernhart New Media Limited (Fernhart )
+We announced in September 2005, after the end of the reported period, that we had completed the acquisition of 
+Fernhart for a total consideration of up to  2.5 million.  This comprised an initial consideration of  125,000 in cash; 
+the issue of 706,880 new ordinary 10p shares at a price of 53.05p per share, amounting to  375,000; and a deferred 
+consideration comprising the allotment of Ordinary Shares of up to a value of  2 million depending on the performance 
+of Fernhart in each of the three years ending 30 June 008.
+Fernhart offers consultancy that designs, builds and maintains web sites and interactive television (DiTV ) services 
+for businesses.  The company specialises in a number of sectors including broadcast media, financial services, gaming, 
+insurance, property, public services and institutions.  Its experienced DiTV business has delivered full transactional 
+systems, complete user interfaces and consultancy services for a number of high profile clients.  Companies which 
+Fernhart has supplied services to include: BBC, ITV plc, BSKYB plc, BACC, Sporting Index, Royal Institution of 
+Chartered Surveyors, Royal Yacht Association, Atlas International, PR Shots and Iberian International. Fernhart also 
+holds licences for a range of betting games that it is developing for the burgeoning gambling sector and plans to 
+develop these games for both the web and Interactive TV .
+We were delighted that Fernhart recently announced that it was launching a new internet based racing information and 
+gambling portal to be called OneStopRacing.com. This portal will provide comprehensive horse racing and betting 
+information with links to leading bookmakers and betting exchanges. The service will be free to customers who will be 
+able to analyse racing data using a range of criteria, view bookmakers odds and receive free tips from racing experts.  
+Fernhart has already signed affiliate agreements with a number of partners including Victor Chandler, Sporting Index 
+and Profitable Play (Jackpot Joy) and reached an agreement for the provision of a OneStop branded betting interface 
+enabling bets to be placed with a wide range of bookmakers.   6
+NETB2B2 PLC
+CHAIRMAN'S STATEMENT
+Current Trading and Outlook
+The acquisition of Fernhart has moved the Group onto a different level and is, we believe, a sign of things to come.  
+Early indications are that Fernhart is benefiting from group synergies, particularly cScape's Microsoft Gold certification 
+along with leveraging new opportunities off the back of Blue Sky's hosting capabilities.  Across the whole Group we 
+can offer clients a higher level of expertise and we are increasingly targeting bigger corporate clients.  The interactive 
+media market and in particular the on-line gambling market in which Fernhart operates is experiencing real growth and 
+we hope as a Group to capitalise on this.
+Outside of that we remain strong within the public and local government sectors and our businesses (particularly 
+cScape, Blue Sky and Fernhart) are all performing well in the first months of trading this year.  ITM is still facing a 
+challenging market, but despite churn is maintaining a steady level of turnover and acceptable profitability and NetPen 
+which is still in its infancy has yet to contribute to the overall profitability of the Group.
+Given our continued improved financial and business performance we are even more focused on suitable acquisitions 
+which will bring synergy with our existing operations and which will provide the opportunity of building upon the 
+progress we have achieved to date.
+Keith Young  31 October 2005
+Chairman

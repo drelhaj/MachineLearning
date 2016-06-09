@@ -1,0 +1,226 @@
+ Argos r esources Ltd Annual Report & Accounts 2011
+21
+Risk management report
+The Group's business, financial condition, results and future operations 
+could be materially adversely affected by a number of factors.
+General exploration risk
+A gas discovery, Johnson, has been announced in the adjacent acreage to 
+the east of licence PL001 on a structure that extends into the licence area, 
+but drilling on the licence will be required to confirm the presence of gas on 
+the Company's acreage. In the same acreage a successful nine well appraisal 
+drilling campaign on the Sea Lion discovery was completed by the end of 
+2011 and led the operator to conclude that the field is commercial and will 
+be developed. The last two appraisal wells made further discoveries of oil 
+and gas in the Casper and South Casper prospects and a wet gas discovery 
+in the Beverley prospect. Whilst these results are encouraging with respect 
+to the oil and gas potential of the area, no commercial volumes of oil or gas 
+have yet been discovered in the licence area. There is no certainty that such 
+discoveries will ever be made. 
+Mitigation: An independent Competent Persons Report has been 
+completed to risk the prospects using industry standard methods.
+Commercial risk
+Even if the Group recovers quantities of oil or gas, there is a risk the Group 
+will not achieve a commercial return. Historically, oil prices have fluctuated 
+significantly and are affected by numerous factors over which the Group has 
+no control.
+Mitigation: As production is a number of years away current price volatility 
+is not expected to have a significant impact on the eventual outcome.
+Future funding requirements
+The Group will need to raise additional funding to undertake drilling and 
+there is no certainty that this will be possible.
+Mitigation: Regular discussions are held with current and prospective 
+investors.
+Environmental factors and insurance risk
+Although the Group intends to be in compliance with all applicable 
+environmental laws and regulations, and to insure its operations are in 
+accordance with industry practice, there are certain risks inherent to its 
+activities that could subject the Group to extensive liability. Insurance cover 
+will not be available for every risk faced by the Group.
+Mitigation: The Group applies industry best practice standards.
+Title and payment obligations
+The licence will be subject to applications for renewal and any renewal is 
+usually at the discretion of the relevant government authority.
+Mitigation: Regular discussions are held with Falkland Islands 
+Government officials.
+Political risk
+The Argentine Government has not relinquished its claims to sovereignty 
+over the Falkland Islands and the surrounding maritime areas. 
+Mitigation: The UK Government has stated that it has no doubt about its 
+sovereignty and remains fully committed to the offshore prospecting policy 
+pursued by the Falkland Islands Government.
+ 
+Retention of business relationships
+It is likely that the Group will rely significantly on strategic relationships 
+with other entities in the oil and gas industry such as service providers. The 
+loss of these services could have an adverse effect on the business, financial 
+position and results of operations of the Group.
+Mitigation: The Group establishes good working relationships and 
+oversight arrangements with its operating partners. Argos r esources Ltd Annual Report & Accounts 2011
+22
+Independent auditor's report  
+to the members of Argos Resources Ltd
+We have audited the financial statements of Argos Resources Ltd for the 
+year ended 31 December 2011 which comprise the consolidated statement 
+of comprehensive income, the consolidated statement of financial position, 
+the consolidated statement of cash flows, the consolidated statement of 
+changes in equity, the Company balance sheet and the related notes. The 
+financial reporting framework that has been applied in the preparation of 
+the Group financial statements is applicable law and International Financial 
+Reporting Standards (IFRSs) as adopted by the European Union. The 
+financial reporting framework that has been applied in the preparation of 
+the parent Company financial statements is applicable law and United 
+Kingdom Accounting Standards (United Kingdom Generally Accepted 
+Accounting Practice).
+This report is made solely to the Company's members, as a body, in 
+accordance with applicable Law. Our audit work has been undertaken so 
+that we might state to the Company's members those matters we are 
+required to state to them in an auditor's report and for no other purpose. 
+T o the fullest extent permitted by law, we do not accept or assume 
+responsibility to anyone other than the Company and the Company's 
+members as a body, for our audit work, for this report, or for the opinions 
+we have formed.
+Respective responsibilities of directors and auditors
+As explained more fully in the statement of directors' responsibilities, the 
+directors are responsible for the preparation of the financial statements and 
+for being satisfied that they give a true and fair view. Our responsibility is to 
+audit and express an opinion on the financial statements in accordance with 
+applicable law and International Standards on Auditing (UK and Ireland). 
+Those standards require us to comply with the Auditing Practices Board's 
+(APB's) Ethical Standards for Auditors. 
+Scope of the audit of the financial statements
+A description of the scope of an audit of financial statements is provided on 
+the APB's website at www.frc.org.uk/apb/scope/private.cfm.
+Opinion on financial statements
+In our opinion: 
+  	 the financial statements give a true and fair view of the state of the 
+Group's and the parent Company's affairs as at 31 December 2011 and 
+of the Group's loss for the year then ended;
+  	 the Group financial statements have been properly prepared in 
+accordance with IFRSs as adopted by the European Union;
+  	 the parent Company's financial statements have been properly prepared 
+in accordance with United Kingdom Generally Accepted Accounting 
+Practice; and
+  	 the financial statements have been prepared in accordance with the 
+requirements of the Companies Act 1948 as amended by the Companies 
+(Amendment) Ordinance 2006 (Falkland Islands Companies Act) as it 
+applies in the Falkland Islands.
+Opinion on other matters
+In our opinion the information given in the directors' report for the financial 
+year for which the financial statements are prepared is consistent with the 
+financial statements.
+BDO LLP
+Chartered Accountants
+Reading
+United Kingdom
+Date: 16 March 2012
+BDO LLP is a limited liability partnership registered in England and Wales 
+(with registered number OC305127) Argos r esources Ltd Annual Report & Accounts 2011
+23
+Consolidated statement of comprehensive income
+Y ear ended 31 December 2011
+Note
+Year ended 
+31 December 2011 
+$'000
+Year ended 
+31 December 2010 
+$'000
+Administrative expenses 4 (1,449) (888)
+Finance income 8 40 44
+Foreign exchange gains 123 535
+Loss before tax (1,286) (309)
+Taxation credit/(expense) 9 146 (146)
+Loss for the year attributable to owners of the parent 17 (1,140) (455)
+T otal comprehensive income for the period attributable to owners of the parent (1,140) (455)
+Basic and diluted loss per share (cents) 11 (0.53) (0.26)
+The notes on pages 27 to 34 form part of the financial statements. Argos r esources Ltd Annual Report & Accounts 2011
+24
+Consolidated statement of financial position
+As at 31 December 2011
+Note
+2011 
+$'000
+2010 
+$'000
+Assets
+Non-current assets
+Capitalised exploration expenditure 12 27,390 4,238
+Plant and equipment 13 59 -
+27,449 4,238
+Current assets
+Other receivables 14 204 213
+Cash and cash equivalents 8,175 32,151
+T otal current assets 8,379 32,364
+T otal assets 35,828 36,602
+Liabilities
+Current liabilities
+Trade and other payables 15 731 223
+Corporation tax - 146
+T otal liabilities 731 369
+T otal net assets 35,097 36,233
+Capital and reserves attributable to equity holders of the Company
+Share capital 16 6,556 6,556
+Share premium 17 30,071 30,071
+Retained losses 17 (1,530) (394)
+T otal shareholders' equity 35,097 36,233
+The notes on pages 27 to 34 form part of the financial statements.
+These financial statements were approved by the directors and authorised for issue on 16 March 2012 and are signed on their behalf by:
+Ian Thomson
+Chairman Argos r esources Ltd Annual Report & Accounts 2011
+25
+Consolidated statement of cash flows
+Y ear ended 31 December 2011
+Note
+Year ended 
+31 December 2011 
+$'000
+Year ended 
+31 December 2010 
+$'000
+Cash flows from operating activities
+Loss for period before taxation (1,286) (309)
+Adjustments for:
+Finance income 8 (40) (44)
+Foreign exchange gain on share issue proceeds - (685)
+Depreciation 7 -
+Share based remuneration expense 7 - 184
+Net cash outflow from operating activities before changes in working capital (1,319) (854)
+Decrease/(increase) in other receivables 6 (149)
+(Decrease)/increase in other payables (90) 264
+Net cash outflow from operating activities (1,403) (739)
+Investing activities
+Interest received 43 38
+Exploration and development expenditure (22,671) (389)
+Purchase of plant and equipment (66) -
+Net cash used in investment activities (22,694) (351)
+Financing activities
+Issue of ordinary shares (net of issue costs) - 32,969
+Net cash from financing activities - 32,969
+Net (decrease)/increase in cash and cash equivalents (24,097) 31,879
+Cash and cash equivalents at beginning of period 32,151 447
+Exchange gains/(losses) on cash and cash equivalents 121 (175)
+Cash and cash equivalents at end of the year 8,175 32,151
+The notes on pages 27 to 34 form part of the financial statements.
+  Argos r esources Ltd Annual Report & Accounts 2011
+26
+Consolidated statement of changes in equity
+Y ear ended 31 December 2011
+Share capital 
+$'000
+Share premium 
+$'000
+Retained 
+earnings/deficit 
+$'000
+Total equity 
+$'000
+At 1 January 2010 4,343 - (143) 4,200
+T otal comprehensive income for the year - - (455) (455)
+Share issue (net of issue costs) 2,213 30,071 - 32,284
+Share based payment expense - - 204 204
+At 31 December 2010 6,556 30,071 (394) 36,233
+At 1 January 2011 6,556 30,071 (394) 36,233
+T otal comprehensive income for the year - - (1,140) (1,140)
+Share based payment expense - - 4 4
+At 31 December 2011 6,556 30,071 (1,530) 35,097
+The notes on pages 27 to 34 form part of the financial statements.

@@ -1,0 +1,189 @@
+ 50,341* 204,133
+38,685 166,558
+15,094 119,294
+12,516 75,735
+01
+Wolfson Microelectronics plc  Annual Report and Accounts 2006
+We are pleased to report that the Group continued to
+grow during 2006 in spite of the general slowdown in
+the semiconductor market late in the year. Revenues
+again exhibited a seasonal pattern, with higher figures
+in the second half of the year as a result of demand for
+our customers' products peaking around the winter
+holiday period. While we consolidated our position as 
+a leading provider of high performance audio and
+imaging semiconductors to many of the world's top
+consumer electronic brands, total demand for our
+products ended the year weaker than anticipated. 
+In response to the challenging market conditions, 
+costs have been appropriately contained and inventory
+controlled, resulting in a net margin in line with our long
+term business model. However, a solid pipeline of new
+Wolfson products and the continued growth of new
+consumer electronic devices give us real confidence
+heading into 2007.
+Market trends
+The Digital Revolution is all around us. The changing patterns of
+media access through the web and the personalisation of
+entertainment systems are expanding the market for new and more
+sophisticated digital consumer products. The inexorable progress
+of semiconductor technology allows such products to be created,
+affecting the lives of ever more consumers. Mainstream users are
+now demanding higher functionality, higher performance quality,
+and greater portability based on improved battery life and smaller
+physical size. For instance, convergence of communications
+technology with entertainment facilities is providing a range of
+sophisticated mobile phones which also incorporate music playing
+with video features. In other ways, phones are being combined with
+email capability as well as satellite navigation to provide smart
+phones invaluable to business. Such developments continue to fuel
+demand for higher performance mixed-signal semiconductor
+products, and Wolfson is strategically positioned at the heart of this
+exciting market.
+Product development
+Innovative products are at the core of Wolfson's business. Our
+mixed-signal chips combine both digital and analogue circuitry on
+the same piece of silicon to provide the essential interface between
+the real world and the digital electronic processors. Integrating more
+mixed-signal functionality onto a single chip adds to the capability
+of the end product while reducing its cost. We are developing a
+number of new technologies to provide more integrated functions,
+most notably a family of integrated sound and power management
+products which provide complete solutions for the mixed-signal
+requirements of many portable applications. These developments
+bring with them important economic advantages such as product
+differentiation and higher selling prices, but such products also take
+longer to develop and require higher levels of investment. Although
+we released fewer new products to market in 2006 than in 2005,
+Letter from the Chairman and CEO
+Quarterly revenue and profit before tax ($000)
+*
+Before non-recurring charge
+Annual revenue and profit before tax ($000)
+*
+Before non-recurring charge
+Q105 Q205 Q305 Q405 Q106 Q206 Q306 Q406 2003 2004 2005 2006
+11,835 52,585
+16,475* 57,972
+11,500 47,678
+10,531 45,898
+18,399 61,337
+11,136 41,471
+5,757 33,381
+3,393 30,369
+Revenue
+Profit before tax
+Revenue
+Profit before tax
+Annual Report 06-07_08.qxp6 o_p  26/2/07  09:18  Page 1 02 Letter from the Chairman and CEO
+Wolfson Microelectronics plc  Annual Report and Accounts 2006
+they provide the potential for much higher return. To mitigate the
+increased risk inherent in such complex devices, we have also
+improved our development methodologies to ensure timely launch
+of new products to meet market opportunities. Customers have
+been quick to adopt many of these new solutions, and international
+media critics recently voted one of our latest CODECs product of
+the year. The Company was also recognised widely within the UK
+business community and among its international peers in the
+Fabless Semiconductor Association for its outstanding financial
+and management performance .
+People
+There has been significant development in the senior management
+of the Company towards the end of the year. As I, David Milne,
+reach 65 years in 2007, I announced that I would stand down as
+CEO but look forward to continuing to be an active member of the
+Board. Having been the CEO since founding the Company in 1984,
+it has been a privilege to be a part of the growth of a highly
+profitable semiconductor company with such an international
+presence and prominent customer base. To take the Company to
+the next level of performance and scale, the Board is delighted with
+the appointment of Dave Shrigley, an experienced executive from
+the semiconductor industry, who will take over as CEO from March
+2007. Dave will be based in Edinburgh, and we have been working
+together since early December on the transition process to ensure
+a smooth handover. Spending the majority of his career at Intel,
+Dave held several senior management positions, including VP and
+General Manager of Asia Pacific, where he grew that region more
+than ten fold over six years to $2bn in revenues. His other Intel
+roles included responsibility for major accounts and ultimately
+corporate marketing, reporting to CEO Andy Grove. We welcome
+Dave to the team and look forward to working with him in the future
+development of the business.
+We have expanded our technical sales coverage in the main
+centres of customer concentration and significantly strengthened
+our team with the appointment of Alistair Banham as Senior Vice
+President of Worldwide Sales. His experience of international
+account management with a number of global companies will be
+invaluable to the continued development of the key customer base.
+New product definition remains at the heart of Wolfson's success.
+Only by anticipating industry trends and working closely with
+customers can we ensure the right products are developed to
+meet future market requirements. The appointment of Peter Frith
+to the position of CTO during the year broadens his role in
+influencing the technical development of the Company in support
+of new product definition. He has played a key part in leading the
+technical specification of new products and the introduction of
+new technologies.
+Following George Elliott's resignation, which takes effect from 28
+February 2007, we are also pleased to welcome Mark Cubitt to the
+post of CFO. Scottish CFO of the Year in 2005 and most recently
+with the international engineering company Jacobs Engineering,
+Mark joins the Company with a wealth of financial and city
+experience and we welcome him also to the management team.
+People are the Group's key asset and we have continued to build
+the outstanding Wolfson team. Our foundation - engineering
+capability - has been strengthened globally and we believe we
+have one of the finest mixed-signal engineering teams in the world.
+ Wolfson has continued to grow and consolidate its position as a leading
+supplier of high performance mixed-signal chips, despite the recent general
+semiconductor market slowdown.' John Carey Chairman
+Annual Report 06-07_08.qxp6 o_p  26/2/07  09:18  Page 2 Wolfson Microelectronics plc  Annual Report and Accounts 2006
+The Wolfson brand
+Audio is the key interface to more and more digital consumer
+products, which are increasingly differentiated by their sound
+quality. Voice, music and video are essential features today, and
+our customers rely on crisp, clear signals to provide the best user
+experience. Wolfson, through its focus on providing hi-fi quality in
+its chips has established an internationally recognised brand name
+for its audio products, for both home and portable applications. 
+As the Company introduces additional technologies and addresses
+new markets, we will continue to differentiate our products by
+innovation and quality, anticipating and serving our customers'
+requirements for excellence and performance.
+Looking forward
+In spite of the challenging market conditions that affected Q4
+revenues, Wolfson is well positioned for 2007, reflecting its good
+design momentum and strategic focus on growing digital
+consumer electronic markets. For the first quarter, revenues will be
+impacted by seasonality, particularly in some key applications as
+well as an ongoing inventory correction in the global consumer
+electronics markets. 
+Looking further into 2007, the Company expects quarter on quarter
+revenue growth to commence from the second quarter driven by
+new product launches, an improvement in the inventory cycle and
+Wolfson's strong design win position. Consequently, the Company
+looks forward to delivering further growth for the year. 
+The quarterly financial reporting introduced by the Company last
+year, we believe, provides the best form of communication with
+shareholders to allow them to understand and track the Company's
+ongoing prospects and performance.
+We are continuing to focus on providing our customers with market
+leading chips with which they can differentiate their end products.
+Where appropriate we are looking to acquire technology (such as
+the acquisition in January 2007 of Oligon, a developer of
+microelectronic mechanical technology) to ensure timely new
+product introductions. In 2007, we aim to broaden further our
+customer relationships through the excellence of our technical
+support and the compelling solutions provided by our new product
+introductions. We believe we have the infrastructure in place and
+have the management to take the Company through the next stage
+of development.
+We thank you for your support.
+John Carey David Milne
+Chairman Chief Executive Officer
+30 January 2007
+ The on-going digital revolution continues to fuel demand for Wolfson's
+innovative new products and we look forward to delivering further growth 
+in 2007.' David Milne CEO
+Letter from the Chairman and CEO 03
+Annual Report 06-07_08.qxp6 o_p  26/2/07  09:18  Page 3

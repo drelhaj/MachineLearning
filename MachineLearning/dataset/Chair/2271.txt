@@ -1,0 +1,226 @@
+ 04 Accumuli plc Annual report and accounts 2014
+Overview
+Chairman's statement
+Introduction
+Accumuli produced another excellent 
+performance in the year to 31 March 2014 
+during a period of continued acquisitive 
+growth and re-organisation of the business 
+to allow and accommodate future growth.
+In June 2013 we acquired Signify Solutions 
+Limited (Signify ) for net cash consideration 
+of  2.6m. Signify provides hosted, managed 
+service two-factor authentication utilising both 
+RSA technology (public key cryptography 
+algorithm) and its own Passcode OnDemand 
+software to enable secure remote access to 
+an organisation's network and information.
+In May and November 2013 we settled 
+the deferred consideration in relation to the 
+acquisition of EdgeSeven, paying  1.7m 
+in cash and issuing 6.8 million shares to 
+the owner employees of EdgeSeven, who 
+since acquisition have taken key roles within 
+the group. 
+In December 2013 we acquired Eqalis Limited 
+(Eqalis ), Splunk's (the NASDAQ listed 
+provider of software to analyse and search 
+machine data) leading partner in the UK, 
+which significantly enhanced our capability 
+in Big Data monitoring and analytics for net 
+cash consideration of  1.9m.
+In February 2014 the escrow balance relating 
+to the sale of the Webscreen business to Juniper 
+was released and the group received US$1m.
+Results
+Revenue for the year grew by 18% to  16.6m 
+(2013:  14.1m), driven by acquisitions and 
+growth in services revenue.
+Gross profit increased by 32% to  9.9m 
+(2013:  7.5m), with a corresponding gross 
+profit margin of 60% (2013: 53%). This 
+increase was a result of both the contributions 
+from our targeted acquisitions and through 
+implementation of our strategy to focus on 
+higher margin services revenues rather than 
+technology solution sales. Our success in this 
+is also highlighted in the fact that 61% of our 
+gross profit is now generated from recurring 
+revenues  (2013: 51%).
+Group EBITDA  grew by 32% to  2.9m 
+(2013:  2.2m), producing a net profit margin  
+of 17% (2013: 15%).
+Group loss before tax from continuing 
+operations was  0.9m (2013:  0.3m profit) 
+which reflects the costs associated with a buy 
+and build strategy . Amortisation of intangibles, 
+which is a non-cash expense, and relates 
+almost entirely to acquisition activity, was  1.9m 
+(2013:  1.4m) and separately identifiable 
+costs were  1.4m (2013:  0.2m), of which 
+ 0.4m were non-cash (2013:  0.3m).
+Cash flow remained strong with cash generated 
+from operations
+4
+ increasing by 50% to  3.6m 
+(2013:  2.4m), demonstrating the strength of 
+our business model.
+We finished the year with  3.6m of cash in 
+hand (2013:  7.2m), which was after funding 
+the acquisitions referred to above and 
+payment of our maiden final dividend.
+The fundamental outlook and growth prospects for 
+the IT Security market remain strong and in place.
+The key to success for Accumuli to date 
+has been its ability to execute and integrate 
+the six acquisitions it has made. 
+Highlights in 2014
+   Revenue for the year 
+grew by 18% to  16.6m 
+(2013:  14.1m)
+   Group EBITDA  grew by 
+32% to  2.9m (2013:  2.2m)
+   Cash generated from 
+operations
+4
+ increasing by 
+50% to  3.6m (2013:  2.4m)
+   Acquisition of Eqalis 
+and Signify
+   Recommended dividend 
+of 0.46p per share
+   Revenues derived from managed services, software 
+support and maintenance contracts where the group 
+has an obligation to provide an ongoing service over 
+a contractual period.
+   Earnings from continuing operations before interest, 
+tax, depreciation, share-based payments and separately 
+identifiable costs and income (acquisition/disposal costs, 
+re-organisation costs and one off costs/income).
+  Group EBITDA divided by revenue.
+4
+  Net cash generated from operating activities from 
+continuing operations before separately identifiable 
+costs and income (acquisition/disposal costs, 
+re-organisation costs and one off costs/income) 
+and plc costs. Overview
+www.accumuli.com Accumuli plc Annual report and accounts 2014 05
+Dividend
+We announced and paid our maiden dividend 
+last year of 0.4p per share and indicated that 
+it was our intention to distribute up to 30% of 
+group EBITDA in the form of dividend annually. 
+This reflected our confidence in our cash 
+generative business model. We retain this 
+confidence and are pleased to recommend 
+a final dividend in respect of the year ended 
+31 March 2014 of 0.46p per share, which 
+represents an increase of 15% on last year's 
+dividend. Subject to shareholder approval at the 
+annual general meeting, the dividend will be 
+payable on 15 October 2014 to shareholders 
+on the register on 3 October 2014.
+People
+Over 80% of our gross profit derives from 
+services, which is directly linked to the abilities 
+and expertise of our staff. We believe we have 
+some of the best people in the industry and 
+each and every one of them is instrumental in 
+Accumuli's success. The board acknowledges 
+that any growing business, particularly one 
+characterised by acquisition, will provide 
+challenges, disruption and distractions to its 
+people. However the results delivered provide 
+evidence of our employees' ability to manage 
+change and the board would like to thank all 
+employees for their enthusiasm, diligence 
+and hard work.
+Strategy
+In a rapidly moving market it is important that 
+as a business we are cognisant of market 
+trends and changes as we strive to obtain 
+first mover advantage. 
+Accumuli's strategic aim has been to be 
+a leading UK-based independent specialist 
+in IT Security. With a proliferation in the tools 
+and techniques available to analyse machine 
+data (the so called Big Data  trend) and the 
+convergence of IT Security and Operations 
+to now work jointly together, we are seeing 
+market analysts, vendors and market 
+participants all moving towards a wider 
+description (and product set) of IT Security 
+and Risk Management . Accumuli, with its 
+current capabilities, very much sees itself 
+as being able to operate and succeed in this 
+wider market - the acquisition of Eqalis having 
+provided a significant impetus to the overall 
+level of the group's capability.
+A further key strategic objective of the board 
+has been to improve and increase the visibility 
+of earnings and reduce the reliance upon lower 
+margin, volume dependent product sales. 
+This has been manifested in the disposal of 
+Webscreen (a product sales business which 
+required continued and significant investment 
+to prosper), the acquisition of Signify, a managed 
+service business, and the continuing investment 
+in, and recruitment of staff in, consulting and 
+managed services. 
+The board has publicly stated that it aims to 
+generate more than 60% of gross profit from 
+recurring business, an objective which the 
+group has met in 2014 - and to ensure that 
+its overhead base at the start of a financial 
+year is covered by the gross profit from 
+recurring business, an objective which 
+we continue to work towards. 
+Finally, the key to success for Accumuli to date 
+has been its ability to execute and integrate 
+the six acquisitions it has made. Making more 
+acquisitions, executing and integrating them 
+remains a crucial part of the group's strategy 
+and we spend a lot of time and effort searching 
+for businesses that meet our investment criteria. 
+Effective integration only works if the existing 
+business structure is robust and scalable 
+enough to accommodate new business lines 
+and products. A re-organisation of the business 
+was undertaken and completed during the last 
+financial year which we believe creates the 
+necessary platform for future growth - both 
+via further acquisition and organic growth. 
+Outlook
+The fundamental outlook and growth prospects 
+for the IT Security market remain strong and 
+in place. 
+We continue to see an increasing number of 
+potential sales opportunities driven by our 
+customers who require assistance in managing 
+their IT risk, whether that be availability, 
+performance, visibility, compliance, in-house 
+expertise or security. We now need to convert 
+these opportunities, which we expect to increase 
+the recurring revenue base of the business, 
+albeit only with a partial in-year impact.
+We expect the share of gross profit being 
+generated from legacy product sales to 
+continue to decline; however we expect that 
+revenues from product and services associated 
+with Splunk should increase this year as the 
+trend for Big Data continues to accelerate.
+We remain cautious on operational investment 
+in the overhead base; however we do remain 
+open to taking advantage of opportunities 
+that arise to invest in sales and technical 
+capability in key areas which we believe 
+will add shareholder value.
+As stated before we also remain on the 
+lookout for acquisitions which meet our 
+stringent investing criteria.
+I look forward to another successful financial 
+year for Accumuli and to providing further 
+updates on our progress in the coming months.
+Nick Kingsbury
+Non-executive chairman
+23 June 2014

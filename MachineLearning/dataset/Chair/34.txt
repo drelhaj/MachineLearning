@@ -1,0 +1,114 @@
+ 1Spatial plc
+4
+Chairman's Statement
+1Spatial is a software and solutions provider to national mapping and charting agencies, utilities companies and
+defence and government departments globally. Our technologies allow customers to make key business decisions by
+capturing, managing, processing and analysing spatial data - in a way that traditional technologies do not allow. With
+over 40 years of continual innovation and development, our products make the huge data they manage scalable,
+flexible and highly accurate.
+The common focus for all companies within the Group going forward is to provide end users of data with both
+assurance over its quality and insight into its significance. This is part of the  Big Data' concept. Big Data is a term
+applied to data sets whose size is beyond the ability of commonly used software tools to capture, manage, and
+process. Big data has increased the demand for information management specialists and software firms specialising
+only in data management and analytics; this industry is valued at several billion dollars globally and continues to grow
+significantly each year.
+The year ended 31 January 2013 has been a year of achieving focus and clarity around the strategic direction of the
+business. This was further supported post year-end by a share placing raising approximately  17m (after expenses)
+to support the Group's future strategy and growth plans including potential acquisitions, geographic expansion,
+product development and potential future acquisitions. In particular, it has enabled the group to acquire 90% of Star-
+Apic for  5.2m (excluding direct costs of acquisition) a leading European provider of Geographic Information Systems
+(GIS ) software and solutions, specialising in land and infrastructure management. The Directors believe that Star-
+Apic is an important and highly complementary bolt-on acquisition, significantly enhancing 1Spatial's capability in the
+rapidly growing spatial Big Data market, and leveraging the opportunity for 1Spatial Products into the Star-Apic
+customer base.
+In addition, post year-end, David Richards, CEO of WANdisco plc, joined the Board as Deputy Non-Executive
+Chairman, bringing over 15 years' experience in the Software industry to the Group. David's knowledge of the US
+market which is identified as a key market for growth for the 1Spatial business, is of particular importance. I welcome
+him to the Board during this exciting period of growth for 1Spatial. I reported in my half year statement that the
+company made excellent progress during the period, particularly with respect to the 1Spatial division. This success
+continued in the second half of the year, namely with the award of two strategically important contracts for US
+Census and Ordnance Survey Ireland (OSi). These contracts demonstrate the pedigree of the spatial Big Data
+product suite we offer, allowing these organisations to capture, process and query huge amounts of spatial data,
+which must be highly accurately in near real-time.
+For OSi, 1Spatial will provide an  end to end' National Mapping Solution. OSi will be 1Spatial's flagship first customer
+for the new 1Spatial Management Suite (1SMS) which will be launched in August 2013.
+We are very excited about our next generation products in the 1SMS. Our continued investment in development has
+enabled us to bring to the market products that provide an innovative approach to the way organisations manage,
+process and analyse spatial data, and we believe it's a step change from what traditional technologies currently allow.
+In May we launched 1Edit, a revolutionary, touch screen compatible solution for fast and intuitive data-editing in the
+field or office, and we have received significant interest in 1Edit from both customers and prospects alike.
+Our contract with the US Census further strengthens the long standing engagement we have with Census to provide
+automated process to bring together geospatial data from various sources. With the large, complex, mission critical
+and growing spatial data that Census holds we are regarded as a strategic partner to help them progress towards
+2015 for the decennial census, at which time the US Census will be updated continuously in near real-time.
+The company's long term growth strategy is based on exploiting the opportunities in its scalable intellectual property
+offerings from both the 1Spatial business and the Star-Apic business. The Directors believe that the acquisition of
+Star-Apic will provide:
+  a utilities solution that can be sold into existing customers and markets as well as into new
+customers and markets;
+  access to new markets, such as France and North Africa;
+  additional services and products to the Group's existing customer base. The Elyx software platform
+is built on the same core technology as 1Spatial's technology and can be integrated into the
+1Spatial Management Suite easily and efficiently;
+  a map publishing tool (Mercator) to produce digital and paper maps which can be added onto
+1SMS;
+  additional resource to develop new products aligned to customer needs; and
+  opportunities for the 1Spatial product offerings across the Star-Apic customerbase.
+And lastly, I would like to thank the management team and all of our employees for their hard work and dedication.
+This has enabled us to navigate a challenging environment and strongly position 1Spatial for the future.
+Financial position 1Spatial plc
+5
+Group revenue for the year was  12.1m up from  5.2m in 2012 due to the 12 month contribution from the 1Spatial
+Business that was acquired in November 2011. On a like-for-like basis, revenue growth was down on the prior year
+by  0.8m mainly as a result of reduced revenues in the Avisen business. In 2012 Avisen made a one-off licence sale
+in excess of  1.5m that was not repeated in 2013.
+All trading businesses, namely 1Spatial, Avisen and Storage Fusion made positive adjusted EBITDA contributions to
+the Group. Overall, the Group has recorded an adjusted EBITDA loss of  0.5m, substantially due to head office
+costs of  2.0m. Over time, management has implemented plans to scale the operations in order absorb the fixed
+overhead costs associated with being a listed entity. With the acquisition of Star-Apic and good prospects for the
+other businesses, covering these costs will be achievable.
+The overall net loss for the year is  4.4m. The main reason for the loss is due to the impairment of the Avisen and
+Storage Fusion goodwill and intangible assets of  2.6m as well as  0.9m of amortisation of intangible assets and
+other exceptional items. Whilst the Directors remain optimistic with respect to the long term prospects of the Avisen
+and Storage Fusion businesses, there remains challenges in the short term based on the current pipeline of
+opportunities.
+We have a strong balance sheet post year end following the placing. After the acquisition of Star-Apic, the cash and
+cash equivalents balance as at 25 June is  14m.
+Strategy and reorganisation
+In the last annual report, our long term stated strategy was to continue to grow organically and acquisitively, and to
+convert this growth into higher profit and improved cash flow for distribution to our shareholders; we have made
+significant progress in this respect during the year and post year-end. The cash received from the placing and the
+acquisition of Star-Apic puts the Group in a good position for long term growth and scalability. The Company is now
+under one common branding of 1Spatial, but with three trading subsidiaries, 1Spatial Business, Avisen UK and
+Storage Fusion.
+1Spatial Division
+The 1Spatial division has a strong customer base, working with some of the world's largest National Mapping
+Agencies (NMAs). These relationships have been built over many years.
+1Spatial's strategy is to achieve growth in our current marketplace, leverage our brand and scale the business into
+new geographical markets. Key to this success will be a major focus on partnerships, so that we can leverage our
+technology offerings and provide more options for our customers. Two successes during the period that are
+testament to our strategy are the contract wins with the Irish Mapping agency (OSi) and US Census.
+Building on the current strong customer base, the growth strategy for the business will be to continue to focus on the
+NMA market along with key vertical sectors such as utilities, which is where the Star-Apic acquisition will be a key
+addition.
+Avisen UK
+Avisen continues to provide profitability improvement services to its clients, which include Tesco and Unilever.
+Storage Fusion
+Storage Fusion continues to develop, adding clients and partners to its unique storage resource analytical software
+and providing insight into these organisations' complex infrastructures. With its Cloud enabled offering it provides a
+cost effective way to measure data storage usage and consumption, and with the huge growth forecast in the SAAS
+marketplace the Storage Fusion product is very attractive.
+Conclusion and outlook
+1Spatial is entering an exciting growth phase following a successful Placing to raise funds for a highly complementary
+acquisition as well as the future strategic development and expansion of the business.
+It is the Board's view that the Company is well placed to capitalise on opportunities in the spatial Big Data market with
+a strong team in place and an exceptional product offering. The company has an impressive and growing customer
+base and a healthy pipeline of opportunities including National Mapping Agencies and blue-chip companies.
+The addition of Star-Apic gives increased scale to the business as well as future growth opportunities with
+management will be working over the next six months to integrate the two businesses.
+The Board is encouraged by the progress made during the start of the current financial year and looks forward to the
+future with confidence.  1Spatial plc
+6
+S Berry
+Chairman
+1 July 2013

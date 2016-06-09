@@ -1,0 +1,182 @@
+ Annual Report and Accounts 2002  61
+22. Share capital continued
+Share option schemes
+During the year, 8,110,144 options have been granted under existing employee share option schemes. Options were exercised over
+762,494 shares and options over 1,348,191 shares lapsed during the year.
+Details of the unexercised options granted under the company' s employee share option schemes at 31 August 2002 were as follows:
+Option Ordinary
+Date of grant price (p) shares
+SAYE Scheme 1999 3 December 1999 262.0 1,239,345 
+International SAYE Scheme 1999 2 June 2000 265.0 854,840 
+30 November 2001 282.0 573,211 
+Approved Executive Share Option Scheme 1999 5 May 2000 331.0 54,378 
+8 May 2001 408.0 1,139,560 
+2 November 2001 351.5 320,942 
+3 May 2002 438.0 41,094 
+Executive Share Option Scheme 1999 1 November 1999 342.0 5,620,745 
+16 November 1999 331.5 1,724,639 
+5 May 2000 331.0 174,073 
+8 May 2001 408.0 3,562,194 
+2 November 2001 351.5 5,158,849 
+3 May 2002 438.0 221,853 
+Long T erm Incentive Scheme 1999 8 May 2001 0.1 1,263,666 
+2 November 2001 0.1 1,563,889 
+3 May 2002 0.1 77,054 
+23,590,332 
+The company currently satisfies the exercise of options using existing shares that are purchased in the market by the company' s employee
+trusts. As at 31 August 2002 the company' s employee trusts held 24,514,993 unallocated shares in the company all of which were the
+subject of awards under the company' s employee share schemes. The trustees are obliged to waive the dividends on these shares. The
+options exercised during the year were all satisfied by the transfer of shares to participants by the employee trusts.
+23. Capital and reserves
+Share Profit
+Share premium Merger and loss
+capital account reserve account Total
+ m  m  m  m  m
+Group
+At the beginning of the year 267 26 (823) 924 394
+Prior year adjustment - - - (53) (53)
+At the beginning of the year as restated 267 26 (823) 871 341 
+Issue of ordinary share capital 10 139 - - 149 
+Profit earned for shareholders for the year - - - 392 392 
+Currency translation differences on foreign currency net investments - - - (23) (23)
+Deferred taxation - origination and reversal of timing differences - - - (12) (12) 
+Ordinary dividends - - - (141) (141)
+At the end of the year 277 165 (823) 1,087 706 
+Goodwill (at historic exchange rates) of  2,284m has been written off to reserves.
+Notes to the accounts
+21. Financial instruments continued
+Foreign exchange
+The group estimates its net transaction cash flows in its main currencies of business, which are then hedged forward for up to 18 months
+using a combination of forward exchange contracts and purchased foreign exchange options. At the year end, 86% (2001: 90%) of such
+currency exposures for the following 12 months had been hedged and 0% (2001: 19%) had been hedged between 12 and 18 months.
+The estimated current value of the foreign exchange cover forward contracts and options entered into to hedge future transaction flows is set
+out below based on quoted market prices where available and option pricing models.
+31 August 2002 31 August 2001
+Nominal Nominal
+value of Book Current value of Book Current
+derivatives value value derivatives value value
+ m  m  m  m  m  m
+Foreign exchange forward rate contracts - assets 128 - 12 49 1 1 
+- liabilities 97 - (3) 168 (1) (1)
+Options - assets - - - - - - 
+- liabilities 6 - - 12 - - 
+231 - 9 229 - - 
+A net gain of  9m was recognised on all foreign exchange forward rate contracts and options maturing in the year ended 31 August 2002
+(2001:  11m loss).
+At 31 August 2002 and 31 August 2001, there were no material monetary assets or liabilities in currencies other than the functional
+currencies of group companies, having taken into account the effect of derivative financial instruments that have been used to hedge
+foreign currency exposure.
+22. Share capital
+Allotted, called
+Authorised up and fully paid
+31 August 31 August 31 August 31 August
+2002 2001 2002 2001
+ m  m  m  m
+Equity
+Ordinary shares of 25p 400 300 277 267 
+Authorised Issued
+million million million million
+Number of shares 1,600 1,200 1,107 1,068 
+At the Annual General Meeting of the company held on 31 January 2002, the authorised share capital was increased to  400m by the creation
+of an additional 400 million ordinary shares of 25p each.
+On 27 February 2002 the group announced that it had placed 39 million New Ordinary Shares ( the  New Ordinary Shares') at a price of 390p
+per New Ordinary Share. The New Ordinary Shares represented 3.7% of Allied Domecq' s existing issued share capital. The New Ordinary
+Shares were admitted to the Official List of the UK Listing Authority and began trading on the London Stock Exchange on 4 March 2002.
+The gross proceeds receivable by the group were  152m which was used towards the financing of the acquisitions of Malibu and Mumm
+Cuv e Napa. Net proceeds after issue costs were  149m.
+60 Annual Report and Accounts 2002 Annual Report and Accounts 2002  63
+25. Acquisitions continued
+Accounting Fair
+Book policy value
+values adjustments adjustments Total
+b) Bodegas y Bebidas S.A.  m  m  m  m
+T angible fixed assets 74 - 12 86
+Investments 4 (4) - - 
+Stocks 49 3 - 52
+Debtors 62 - - 62 
+Borrowings (35) - - (35)
+Creditors (43) - - (43)
+Taxation (3) - (4) (7)
+Other provisions (5) - 3 (2)
+Minority interests (4) - - (4)
+Net assets acquired 99 (1) 11 109 
+Goodwill 55 
+Purchase consideration - cash 164 
+On 7 September 2001, the group filed with the Spanish Stock Exchange Commission (the  CNMV') a recommended cash offer for the entire
+share capital of Bodegas y Bebidas S.A., a market leading Spanish wine producer. The offer valued the equity of Bodegas y Bebidas S.A. at
+ 279 m. The offer was cleared by CNMV and the group completed the acquisition of 98% of the outstanding share capital of Bodegas y Bebidas
+on 27 December 2001. Bodegas y Bebidas has been consolidated into the group' s Spirits & Wine segment. The acquisition expands the
+group' s global wine business. 
+The goodwill arising on the acquisition principally relates to the purchase of established premium wine brands. We anticipate that the goodwill
+arising may be deductible for tax purposes, although the amount is yet to be determined. The goodwill and other amounts arising may be
+subject to adjustment as fair values are finalised.
+c) Mumm Cuv e Napa
+Accounting Fair
+Book policy value
+values adjustments adjustments Total
+ m  m  m  m
+T angible fixed assets 11 - 3 14
+Stocks 16 - (7) 9
+Creditors (4) - - (4)
+Taxation - - 4 4 
+Net assets acquired 23 - - 23 
+Goodwill 8 
+Purchase consideration - cash 31 
+On 22 May 2002, the group acquired Mumm Cuv e Napa, a premium Californian sparkling wine for cash consideration of  31m.
+This acquisition of a premium wine further develops the group' s global wine business.
+The goodwill arising on the acquisition principally relates to the purchase of established premium wine brands. We anticipate that the goodwill
+arising may be deductible for tax purposes, although the amount is yet to be determined. The goodwill and other amounts arising may be
+subject to adjustment as fair values are finalised.
+d) Montana
+The group completed the acquisition of Montana on 31 August 2001 and published a provisional table of book values of the assets acquired.
+During the year ended 31 August 2002 the group completed this valuation which did not result in any material change to the individual
+numbers previously disclosed. The net increase in goodwill amounted to  5m. During September 2001 the group paid  231m deferred
+purchase consideration to the shareholders of Montana.
+Notes to the accounts
+23. Capital and reserves continued
+The group adopted FRS 19 Deferred T ax during the year ended 31 August 2002 and restated the opening balance sheet. This resulted in
+a reduction in shareholders' equity of  53m being  46m to the deferred tax balance (note 19) and  7m to the share of reserves of associated
+undertakings (note 15). The tax charge for the year ended 31 August 2001 did not change as a result of the adoption of this standard.
+Share Profit 
+Share premium Merger Capital and loss 
+capital account reserve reserve account Total
+ m  m  m  m  m  m
+Parent company
+At the beginning of the year 267 26 2,420 651 143 3,507
+Issue of ordinary share capital 10 139 - - - 149
+Profit earned for shareholders for the year - - - - 590 590
+Ordinary dividends - - - - (141) (141)
+At the end of the year 277 165 2,420 651 592 4,105 
+24. Minority interests
+Equity Non-equity Total
+ m  m  m
+At the beginning of the year 65 3 68
+Currency translation adjustment (1) - (1)
+Share of profits of subsidiary undertakings 12 1 13 
+Dividends declared (4) - (4)
+Additions 4 - 4 
+At the end of the year 76 4 80 
+25. Acquisitions
+During the year the group made the following acquisitions which were accounted for using the purchase method of accounting. Goodwill will
+be amortised over a 20 year period on a straight line basis. The results of operations of the businesses have been included in the group' s
+consolidated profit and loss account from the date of acquisition.
+a) Kuemmerling GmbH
+Accounting Fair
+Book policy value
+values adjustments adjustments Total
+ m  m  m  m
+T angible fixed assets 2 - 5 7
+Stocks 2 - - 2
+Debtors 8 - - 8
+Borrowings (1) - - (1)
+Creditors (7) - - (7)
+Taxation (1) - - (1)
+Net assets acquired 3 - 5 8 
+Goodwill 116 
+Purchase consideration - cash 124 
+On 4 September 2001, the group completed the acquisition of Kuemmerling GmbH. Kuemmerling is Germany' s fourth largest spirits brand
+and the second largest in the bitters category and has been consolidated into the group' s Spirits & Wine segment. This acquisition
+strengthens the group' s global spirits business. The goodwill arising on this acquisition principally relates to the purchase of an established
+spirits brand. In connection with the acquisition, the group purchased all of the outstanding share capital of Kuemmerling GmbH. None of the
+goodwill is deductible for tax purposes.
+62 Annual Report and Accounts 2002

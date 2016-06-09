@@ -1,0 +1,165 @@
+   
+IndigoVision Group plc 
+ Directors' report and consolidated financial statements 2009 
+  
+ 
+ 
+ 3 
+ 
+Chairman's statement 
+ 
+The year to 31 July 2009 turned out to be a remarkably successful one for IndigoVision, notwithstanding 
+the turbulence in financial markets in the first half, and the impact on the economies in which we operate 
+in the second half.  The rate of growth fluctuated throughout the year but in the end the group has 
+achieved record sales, profit and earnings.  Good progress was also made in developing and bedding in 
+the sales, service, and distribution infrastructure globally.  The group ended the year with strong cash 
+balances and no debt, and the board is recommending a dividend to shareholders for the first time. 
+ 
+ 
+Results 
+In the year to 31 July 2009, revenue growth was achieved in each of the three regions in which we 
+operate, and overall sales grew 43% to a record  26.4m.  Sales doubled in the Americas to  11.2m, grew 
+by 50% in Asia Pacific to  3.9m, and increased 10% in Europe, Middle East and Africa to  11.3m.  All of 
+these rates of growth are creditable given the economic backdrop. 
+  
+Gross margins were lower than last year, reflecting a change in sales mix and greater volumes, but the 
+contribution from gross margin grew 30% to a record  16.9m. Operating costs were 24% higher at 
+ 13.6m; operating profits reached a record  3.26m, 59% higher than the previous year; and adjusted 
+earnings per share reached a record 34.1p, up 59% on the year to 31 July 2008. 
+ 
+The Group started the year with net cash balances of  1.4m.  By the year end these balances had 
+increased to  3.5m, notwithstanding an increase in working capital of  1.6m to finance the greater level 
+of sales.   
+ 
+ 
+Dividend 
+The directors believe there is now sufficient balance sheet strength to commence the payment of 
+dividends to shareholders, who have patiently supported IndigoVision as its business has been 
+developed. 
+ 
+The directors are therefore recommending a dividend of 5.0p per share, payment of which will be subject 
+to the approval of shareholders at the Annual General Meeting.  If approved, the dividend will be paid on 
+27 November 2009 to shareholders on the register on 6 November 2009.   
+ 
+ 
+IndigoVision's business 
+IndigoVision innovates and manufactures Security Management Systems. We integrate popular 3
+rd
+ party 
+systems such as access control, perimeter detection and vehicle license plate recognition, giving users 
+freedom to choose the best technology for their needs yet control it from one  front end'. For video 
+management IndigoVision provides an end-to-end solution - both hardware and software - giving users 
+the maximum performance and confidence which is possible from having a single point of supply. We are 
+also active participants in the ONVIF and PSIA open standards, meaning our users will in future have the 
+same freedom to choose whichever camera manufacturer best suits their needs. 
+ 
+ 
+Growth 
+The security market is undergoing a fundamental technology shift from analogue to IP. More than 90% of 
+this transition to IP has yet to occur, representing a significant opportunity for IndigoVision. In recent 
+years market growth has been 10-20% per annum (source: IMS Research). We estimate IndigoVision 
+has grown sales at an average of roughly twice the rate of growth in the available market in the last five 
+years, steadily increasing our market share. IndigoVision's strategy is to continue to grow organically, 
+funded by our strong margins and net cash generation, with the goal of continuing to outstrip the rate of 
+growth in the IP market.  
+ 
+ 
+ 
+    
+IndigoVision Group plc 
+ Directors' report and consolidated financial statements 2009 
+  
+ 
+ 
+ 4 
+ 
+Technology 
+IndigoVision has a reputation for providing IP systems that scale smoothly from just a few to thousands of 
+cameras. A recent industry survey identified reliability as the single most important factor affecting a 
+user's confidence to move from analogue to IP. The fact that IndigoVision is end-to-end - taking the 
+software-hardware integration headaches away from our partners - is an inherent source of confidence 
+for our users. Our technology also employs a unique distributed architecture with no single point of 
+failure, hugely important for mission critical systems which cannot afford to  go down' just because a 
+central server is temporarily unavailable over the network. Video playback is also a hot favourite with our 
+users with our facility to assess 24 hours of video in just 3 seconds. This, coupled with our suite of video 
+analytics, can enable a ten-fold reduction in the time and cost expended in incident investigation. 
+ 
+ 
+Partners 
+In providing an end-to-end solution we give our partners a single point of accountability so they can have 
+confidence that their project will roll-out smoothly with optimum performance and stability.  We are their 
+single point of training, accreditation, design, purchasing and support.  IndigoVision authorises partners 
+on completion of technical training and we supply exclusively through these partners - never direct to end 
+users or to  box shifters'. This encourages loyalty from our partners and protects our brand.  
+ 
+We think end-to-end means customer satisfaction and profit: if it deploys smoothly then the end user gets 
+a great system, our partners make money, and we make money. Yet we also recognise that users need 
+choice and that open systems are good for the whole market. We have a strong reputation as a provider 
+of world-class end-to-end video solutions integrated with popular 3
+rd
+ party security systems. This gives 
+partners the ease of a single point of supply coupled with freedom of choice for those that prefer to select 
+different manufacturers. 
+ 
+ 
+Global reach and markets 
+We have people in 22 countries, serving hundreds of integrators who deploy IndigoVision systems in 
+approximately 80 countries. Our global supply chain manufactures in the Far East and uses three 
+stocking and service hubs (APAC, EMEA, Americas) to provide local & rapid response to our partners' 
+needs. IndigoVision systems are now installed in 31 airports, having recently won Delhi and Shanghai. In 
+the US alone we have 7000 cameras in 18 casinos, the majority of which have been won in the last year. 
+We continue to build a strong position in Rail, with a number of systems with thousands of cameras in 
+Europe and North America. The Government sector continues to be important for us with the 1000 
+camera US-Canada border win, which we believe to be the largest project in the world using HD 
+cameras.  
+ 
+We have now provided security for four Olympics Games, three G8 Summits and one G20 Summit. We 
+continue to expand in the Police sector with a growing number of stations using IndigoVision systems 
+across the world. We also continue to build reference sites in Ports, with the Port of Montreal, Suez 
+Canal, Spanish Ports and the St Lawrence Seaway. Retail is also growing, with a large North American 
+bank part-way through a major roll out within their retail branch network. Petrochem is also growing, with 
+the Sakhalin pipeline, Shell Albian and state oil companies in Latin America. Key Education projects 
+include Miami University and John Hopkins University in the US.  Safe Cities' projects are starting to 
+emerge in scale, with IndigoVision already having completed a system for a major city in the Far East and 
+projects in 17 cities in Latin America.  Rail projects include the continuing roll out of a major North 
+American project and the Santiago Metro in Chile. Other sectors in which we are making progress include 
+Health, Industrial, Mining, Traffic and Luxury Residential. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+IndigoVision Group plc 
+ Directors' report and consolidated financial statements 2009 
+  
+ 
+ 
+ 5 
+ 
+Current trading and outlook 
+The underlying strength of IndigoVision's business model, people and products has served it well in 
+recent years.  Although financial markets seem to be recovering, the severe contraction in bank balance 
+sheets continues to affect business confidence and investment in all major economies and we expect this 
+will continue for some time.  It remains to be seen how much this will affect business performance in the 
+short term, but expecting an easy year would be unrealistic.  The strength of IndigoVision's market 
+position and technology should enable it to meet this challenge. 
+ 
+The security market is moving from older analogue systems to IP, but 90% of this transition has still to 
+take place.  This presents a clear medium and long term opportunity for IndigoVision to develop further.  
+In the current year, we will be stepping up the spend on research and product development to prepare 
+IndigoVision for the next stage of growth. 
+ 
+Sales and order intake for the first few weeks of the current year show a mixed picture, with some 
+markets doing well and others falling short.  We expect a clearer picture to emerge by the end of the first 
+quarter, and we will update shareholders at the Annual General Meeting at the beginning of November.   
+ 
+ 
+ 
+Hamish Grossart 
+Chairman   
+29 September 2009 

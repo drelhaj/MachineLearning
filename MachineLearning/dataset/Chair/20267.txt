@@ -1,0 +1,176 @@
+  
+ 
+ Page 5 
+ AVIA HEALTH INFORMATICS PLC  
+ (REGISTERED NUMBER: 6470277)  
+ 
+ CHAIRMAN'S REPORT 
+ FOR THE YEAR ENDED 31 MARCH 2012 
+ 
+ 
+Introduction 
+ 
+The results for Avia Health Informatics plc (Avia  or the Company ) for the year ended 31st March 2012 
+are presented here. The consolidated results for the year show turnover of  2.3 million (year ended 31 
+March 2011:  2.1 million), which resulted in an operating loss of  0.7 million (2011: operating loss  0.5 
+million). The gross profit margin in the year was 30 per cent (2011: 41 per cent).  The loss per share for the 
+year was 10.40 pence (2011: loss of 12.25 pence per year).  The Company's cash balance as at 31 March 
+2012 was  0.1 million (2011:  0.4 million). 
+ 
+ 
+Suspension 
+ 
+2011/12 was a very challenging year with sales activity below expectation and insufficient control over 
+expenditure.  Following a positive start to the year, sales activity unexpectedly deteriorated in the latter part 
+of Q1 and Q2. Sales of Odyssey TeleAssess and Odyssey FirstAssess that had been anticipated in the UK 
+failed to materialise owing to changes in NHS policy and funding and deployment issues in the prison sector. 
+In addition, it became increasingly clear that the Company's growth strategy lacked sufficient market 
+analysis and focus.  In August 2011, trading in the Company's shares was suspended following the revenue 
+shortfall impacting on the Company's financial position.   
+ 
+Staff across the Company demonstrated considerable commitment to the Company's future and agreed to a 
+salary deferment totalling  200,000.  The Executive Chairman took over direct responsibility for managing 
+UK and international sales activity from June 2011, as well as operational activity for Plain Healthcare from 
+September 2011.  The Company shares were readmitted to AIM on the 1
+st
+ February 2012. 
+ 
+Company Strategy 
+ 
+Avia's strategy in 2011/12 was aimed at growing its business through selling Odyssey clinical decision 
+support hosted, web and mobile applications and the PathFinderRF hosted solution, working with UK and 
+international partners and resellers to increase their market penetration. Sales growth continues to be 
+targeted through a direct sales force and the engagement of resellers and added value partners. 
+ 
+In June 2011 Avia's wholly owned subsidiary Plain Healthcare Ltd (Plain ) signed a contract with Nene 
+Commissioning Group (Nene ) in Northamptonshire to acquire the intellectual property rights (IPR ) to sell 
+and manage future development of their PathFinder software.  PathFinderRF enables NHS Commissioning 
+Groups and other Primary Care Organisations to more effectively manage referral decision making and 
+documentation from GP surgeries to specialist and community services.  Consideration for the acquired IPR 
+will be paid solely in the form of sales royalties on the licences to use the PathFinderRF software, on a 
+decreasing sliding scale over a five-year period.  Avia will fund the continued development cost of the 
+software. 
+ 
+UK 
+ 
+A range of new software was launched during the year.  This included Odyssey CareAssess, designed as a 
+hosted or locally deployed service to meet the needs of nursing and residential care homes. It enables both 
+clinical and non-clinically trained staff to offer care home residents high levels of care and support in the 
+event of illness or injury.  A successful pilot with care homes in Coventry demonstrated a substantially 
+reduced level of referrals of residents to GPs and emergency departments.   
+ 
+PathFinderRF was also launched.  It is aimed at Clinical Commissioning Groups (CCGs) to support improved 
+quality and cost savings through more effective GP referrals. Five CCGs purchased PathFinderRF during Q4. 
+   
+ 
+ Page 6 
+In addition, we continued to sell Odyssey TeleAssess, Odyssey FacetoFace and Odyssey Reception to out of 
+hours services and walk-in centres, Odyssey FaceToFace to Emergency Departments and Urgent Care 
+Centres, and Odyssey FirstAssess to prisons.   
+ 
+International 
+ 
+Our strategy for international growth has been to identify and work with distribution partners, technical 
+partners who provide interoperability with other health IT systems and strategic partners that can provide 
+access to global markets.  
+ 
+  Odyssey TeleAssess supplied and implemented with a new health insurance group client in Switzerland  
+  Non-exclusive partnership agreement with K3 Healthcare / the Institute of Remote Healthcare to 
+promote the Odyssey software range to providers of remote healthcare 
+  New sales agent in Illinois, USA, to sell Odyssey CareAssess software to nursing homes and assisted 
+living facilities in the United States 
+  New Canadian reseller, The Stevens Company Limited, to sell the Odyssey range in Canada 
+ 
+Software Development 
+ 
+The Company has completed the development and launch of hosted services, which allows global delivery of 
+its clinical content. The use of Service Orientated Architecture allows expansion of revenues both from 
+Odyssey and third party applications in all target sectors. The Company has refined the delivery of the 
+Odyssey user-interface for use with iPad touchscreen technology to enhance the mobility of the application.  
+ 
+The Odyssey clinical knowledge and business logic is now available as a hosted service, enabling customers 
+and users with connectivity through the internet to utilise Odyssey clinical content with a significant 
+reduction in the cost of deployment. Delivering the clinical knowledge via the Cloud supported by Odyssey 
+web services will enable our strategic partners, resellers and end users to access the clinical knowledge and 
+business logic from any internet-connected location in the world. 
+ 
+Board Changes 
+ 
+Nigel Leavy FCA relinquished his role as part time Finance Director on 26th July 2011, becoming a Non-
+Executive Director.  He subsequently retired from the Board on 31
+st
+ January 2012.  The Board wishes to 
+thank Nigel for his services since the inception of the Company. 
+ 
+On 17 August 2012, it was announced Barry Giddings, Executive Chairman and Chief Executive, had stepped 
+down from the Avia board with immediate effect. It was also announced that I had agreed to become Non-
+Executive Chairman and Jeremy Dale, Clinical Director, had agreed to become Interim Chief Executive with 
+both appointments taking immediate effect. Further, it was announced that the Company had commenced 
+the search for a full-time Chief Executive and an additional Non-Executive Director. I am pleased to 
+announce the appointment of Tim Morris, Managing Director of Plain Healthcare, to the Avia Board as 
+Operations Director and that the Board has decided that Jeremy Dale will remain as Chief Executive.  
+ 
+Management  
+ 
+The management of the Company was restructured during 2011/12 with the creation of an Avia 
+Management Team, but this was replaced with a flatter and more focused management structure in August 
+2012: 
+ 
+Directors 
+  Non-Executive Chairman    Roger Lane-Smith 
+  Chief Executive / Clinical Director   Professor Jeremy Dale (also Chairman and Clinical 
+Director of Plain Healthcare) 
+  Operations Director    Tim Morris (also MD of Plain Healthcare) 
+  Non-executive director   To be appointed 
+ 
+Senior Management 
+  Financial Controller / Company Secretary: Paul Preece (also Financial Director of Plain 
+Healthcare) 
+   
+ 
+ Page 7 
+ 
+In addition, following investment in the company by Advanced Computer Software plc in September 2012 
+(see below) ACS has the right to appoint a non-executive director to the Board at a time of their choosing. 
+ 
+Funding 
+ 
+Net cash at 31 March was  0.1 million and the current cash resources of the business remain constrained 
+and as a result the business remains subject to adverse trading swings. As a result of the Company's cash 
+position in August 2012, together the Company's failed attempt to raise equity and/or debt funding in the 
+short term, it was announced on 4
+th
+ September 2012 that ACS had made an interest free loan to the 
+company of  350K, for a term of three years and convertible into 29.9% of the issued share  capital 
+immediately following such conversion.  At the time of announcement I said that We are delighted to enter 
+into the loan agreement with ACS, a fast growing, well respected and substantial business in the sector. The 
+injection of capital into Avia will allow the Company to trade through the short term working capital 
+constraints we have been experiencing and, following conversion of the loan, we will have as our largest 
+shareholder ACS, a business with significant management expertise and financial stability - news which 
+should be welcomed positively by shareholders and existing and potential customers alike. 
+ 
+Current Trading and Outlook 
+ 
+There are considerable opportunities for PathFinderRF and Odyssey sales as Clinical Commissioning Groups 
+become fully established in England, but the NHS is in a transition period in which IT purchasing decisions 
+are being delayed.  This has restrained our UK business in 2012 during Q1 and Q2.  However, we anticipate 
+much stronger growth in Q3 and Q4  of the current financial year as CCGs gain their NHS authorisation.  
+ 
+The major investment that the Company has continued to make, both in clinical and software development, 
+is targeted at innovative cost-effective hosted, web and mobile delivered software solutions and applications 
+in order to capitalise on new opportunities as they present themselves in the future. 
+ 
+ 
+Staff 
+ 
+I would like to thank all my colleagues and staff for their exceptional efforts and support during 2011 and 
+2012. 
+ 
+ 
+ 
+ 
+Roger Lane-Smith  
+Chairman 
+ 
+17 October 2012 
+  

@@ -1,0 +1,140 @@
+ RESULTS
+At the half year I commented on the poor state of our key markets, and in particular the
+financial markets. The underlying market position did not show any significant signs of
+improvement in the second half either and trading conditions remained tough. Whilst levels
+of selling activity and prospective business have since grown to record levels in many of our
+businesses, there is still a reluctance to commit to investment amongst our potential client
+base and decision making continues to take longer than we would like.
+Turnover for the year was  15.9 million (2002 -  20.6 million). The decline was entirely
+attributable to our financial market businesses, where we are not immune to the general
+market conditions which have been as bad as I can recall. On a more positive note, our
+property management software business and our recruitment business both improved
+turnover as did our fully managed payroll operation. Our regular recurring maintenance and
+facilities management activities provide us with a stable earnings stream and turnover from
+these operations increased to  6.26 million (2002 -  5.46 million) with all areas contributing
+to this improvement.
+At the half year we reported gross margins down at 14.4%, in the main due to the shortfall
+in package sales, and this level has broadly been maintained through the second half.
+Continuing cost control resulted in a reduction in net operating expenses and we are
+reporting an operating loss before goodwill and property revaluation adjustments of
+ 565,000 (2002 - profit  2.718 million).
+We have continued to review the acquisition accounting for Trace Datawise Financial
+Limited. As a result, it is the board's view that no further provisions or adjustments are
+required over and above those processed 6 months ago. After a provision for the reduction
+in the value of our freehold properties, interest and tax, we are reporting a loss per share
+of 16.17p (2002 - earnings per share of 8.65p), with goodwill amortisation and impairment
+accounting for 13.56p of this total (2002 - 4.39p).
+The softening in the property market experienced last year has continued. As a result, we
+have reduced the value of our freehold properties by  1.253 million, with all but  168,000
+being charged against the revaluation reserve. The combination of this reduction and the
+goodwill adjustment has resulted in a fall in shareholders' funds to  8.89 million (2002 -
+ 15.40 million). This represents net assets of 58.0p per share of which 51.1p is represented
+by net tangible assets.
+GROUP OPERATIONS
+Trace Isys continued to be the strongest performer in the Group, although trading below last
+year's levels. Package sales were hit as brokers deferred, extended or in some cases
+shelved, plans for investment. By the end of the year all of our clients had moved on to our
+e-Broking system enabling them to process their business from initial client enquiry through
+to final account settlement using a single integrated system. We have also become a
+reseller of Lexis, a document management and workflow system, which will allow us to
+respond to the insurance industry's aim of increasing the amount of business that is handled
+electronically. Lexis is now available with our TWINS products and we are hopeful of taking
+our first orders shortly. The London market is continuing its drive toward electronic trading
+and settlement. As a result, and to enable customers to benefit from this initiative, we are
+progressing our development to implement electronic messaging within our core TWINS
+Transaction Server product.
+Trace Solutions continued to operate at the improved level achieved last year with new
+sales being made in both the corporate and managing agent sectors. We have invested
+heavily in our new products in the last few years and are beginning to benefit from the
+results. Development of our core property management products has continued with several
+of our major clients involved in projects that will increase our products' scope. 12 new
+clients were obtained this year , the best performance in this business for several years. This
+included the first sales of our new investment forecasting system, Cougar. Over the past 18
+months we have worked hard to establish ourselves in the corporate market and property
+investor sector. Recent success will help us in our aim of becoming a major supplier in both
+of these areas. We are looking to build on our success and development efforts and will
+shortly be launching a brand new product specifically for the property investor market.
+Links with other software vendors have been developed to broaden our offering which can
+now also run in a Windows XP environment. Our facilities management activity, whilst small,
+has doubled this year and we expect this growth to continue.
+Two of our businesses, Trace Financial and Trace Datawise, operate in financial markets,
+specifically the wholesale banking and securities sector. This sector has suffered as clients
+and potential clients have significantly cut back on expenditure and reduced or deferred
+investment in software and systems. This naturally has had a major impact on these two
+businesses. At the same time there has also been a downward pressure on rates for bespoke
+and services work and a reduction in the use of external resources by our clients.
+Although our
+markets have been
+difficult, we are
+beginning to see the
+first encouraging
+signs ... 
+Chairman's Statement Trace Group plc
+2 ...we feel we are
+well placed to
+deliver an improved
+performance in the
+current year. 
+Chairman's Statement Trace Group plc
+3
+Trace Financial had hoped to generate significant revenues from its corporate actions
+management product, CAMS. Whilst interest has been high, a lack of budget has been
+the key reason for prospects not moving ahead at this time. Despite this, we now have
+three live corporate actions users. We have developed Transformer, a new messaging
+product based around J2EE technology, which complements our flagship message broker
+system, Cloverleaf, by providing state-of-the art message transformation and data
+dictionary functionality. Our established Trafic and real time processing operations
+continued at good levels. Overall we maintained and developed excellent relationships
+with our clients, which in turn have allowed our services revenues to hold up reasonably
+well. We continue to invest in our products and have increased our marketing activity,
+promoting our primary products and running a number of successful seminars and other
+events throughout the year.
+Trace Datawise had a challenging year. Its results have been disappointing, trading at
+only half the level achieved in the previous financial year. The issues faced were
+detailed in my last report where I also noted that restructuring measures were being
+instigated. These measures have been successful and the losses reported in the first half
+have now been significantly reduced. Datawise is continuing to market its products,
+specifically WebTM and a number of other web based products for Transfer Agents, Fund
+Distributors, Custodians and Clearing Banks. There is the potential for a roll out of our
+highly regarded WebTM product to new clients across Europe and the level of interest
+being shown indicates that Datawise should be able to generate new business when the
+market improves.
+Trace Employer Services continued to grow its core fully managed payroll business and
+is running at nearly double the rate of 12 months ago. New orders are at an all time high
+with the size of individual orders also growing. We are continuing with the development
+of new software to update facilities and improve efficiency, with a consequent impact
+on the services we can provide. With our processes ever improving, we will be looking
+to continue our growth organically and through acquisition.
+Prospect, our recruitment business, operated at similar levels to last year, although a
+strong first half was followed by a much slower second half. This was mainly due to the
+uncertainty in the recruitment sector created by the situation in Iraq. Prospect's key
+niche, Operational Research and Decision Support, continued to perform at consistent
+levels and provided a solid base for the company. The recently restructured and
+refocused operation is being well received by clients and we believe will deliver
+improving results when the economy improves.
+CURRENT TRADING AND PROSPECTS
+Although our markets have been difficult, we are beginning to see the first encouraging
+signs that the situation might improve as the year progresses. We have carried out a
+broad ranging review across the group and have introduced changes which we expect to
+result in significant financial benefits to the group. Our controlled investments have
+helped us maintain a best of breed portfolio of products and services. Our client
+relationships are excellent and our good reputation continues to improve. 
+Prospective business is at record levels. Converting opportunities remains the key. With
+our increasing competitiveness and extra marketing effort we feel we are well placed
+to deliver an improved performance in the current year. With the cost cutting measures
+we have introduced from the beginning of the current year also coming in to effect, I
+believe we have a solid base for the future and that all of our businesses are in a strong
+position to deliver an improved result. It is against this background that the board has
+decided to recommend the payment of a final dividend for the year ended 31st May 2003
+of 0.5p per share. This is expected to be paid on or about 3rd December 2003 to
+shareholders on the register of members on 7th November 2003.
+As ever, on behalf of the board my thanks go to our staff, our customers and
+shareholders.
+C W Ingham
+CHAIRMAN
+24th September 2003
+...the board has
+decided to
+recommend the
+payment of a final
+dividend ... 

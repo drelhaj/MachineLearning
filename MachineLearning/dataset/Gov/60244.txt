@@ -1,0 +1,102 @@
+ 65
+Business description Business review Governance Financial statements Additional information Performance summary
+Business review
+Post employment benefi t liabilities are also not included in the table above. The group makes service-based cash contributions to the 
+Diageo pension scheme in the United Kingdom. In the year ending 30 June 2010, the contribution is expected to be  46 million. In 
+addition, the group has agreed a defi cit funding plan with the trustee of the UK Diageo Pension Scheme, which provides for the group 
+to make a further payment of  50 million in the year to 30 June 2010 into an escrow account. The amount already held in escrow at 
+30 June 2009 is  144 million. It is anticipated that the escrow will be released to the trustee and invested into the Scheme during the 
+year ending 30 June 2010. Funding arrangements are being reviewed and may be adjusted following agreement between Diageo and 
+the trustee, based on the results of the valuation as at 31 March 2009. Additionally, funding arrangements will be reviewed and adjusted 
+in the light of future triennial actuarial valuations. Contributions to other plans in the year ending 30 June 2010 are expected to be 
+approximately  1 25 million.
+Off -balance sheet arrangements
+In connection with the disposal of Pillsbury in October 2001, Diageo has guaranteed debt of International Multifoods Corporation, 
+a wholly owned subsidiary of The JM Smucker Company as from 18 June 2004, to the amount of $200 million ( 1 21 million), until 
+November 2009. The directors are not aware of any instances of default by the borrower at present, but the ability of the borrower 
+to continue to be in compliance with the guaranteed debt instrument, and in particular remaining current on payments of interest and 
+repayments of principal, is signifi cantly dependent on the current and future operations of the borrower and its affi  liates. This guarantee 
+is unrelated to the ongoing operations of the group's business.
+  Save as disclosed above, neither Diageo plc nor any member of the Diageo group has any off -balance sheet fi nancing 
+arrangements that currently have or are reasonably likely to have a material future eff ect on the group's fi nancial condition, changes 
+in fi nancial condition, results of operations, liquidity, capital expenditure or capital resources.
+Risk management
+This section on risk management forms part of the audited fi nancial statements.
+  The group's funding, liquidity and exposure to interest rate and foreign exchange rate risks are managed by the group's treasury 
+department. The treasury department uses a combination of derivative and conventional fi nancial instruments to manage these 
+underlying risks.
+  Treasury operations are conducted within a framework of board-approved policies and guidelines, which are recommended and 
+subsequently monitored by the fi nance committee. This committee is described in the corporate governance report. These policies 
+and guidelines include benchmark exposure and/or hedge cover levels for key areas of treasury risk. The benchmarks, hedge cover and 
+overall appropriateness of Diageo's risk management policies are reviewed by the board following, for example, signifi cant business, 
+strategic or accounting changes. The framework provides for limited defi ned levels of fl exibility in execution to allow for the optimal 
+application of the board-approved strategies. Transactions giving rise to exposures away from the defi ned benchmark levels arising 
+on the application of this fl exibility are separately monitored on a daily basis using value at risk analysis. These derivative fi nancial 
+instruments are carried at fair value and gains or losses are taken to the income statement as they arise. At 30 June 2009 gains and losses 
+on these transactions were not material.
+  The fi nance committee receives monthly reports on the activities of the treasury department, including any exposures away from 
+the defi ned benchmarks.
+Currency risk 
+The group publishes its consolidated fi nancial statements in sterling and conducts business in many foreign currencies. As a result, 
+it is subject to foreign currency exchange risk due to exchange rate movements, which will aff ect the group's transaction costs and 
+the translation of the results and underlying net assets of its foreign operations. Where hedge accounting is applied, hedges are 
+documented and tested for hedge eff ectiveness on an ongoing basis. Diageo expects hedges entered into to continue to be eff ective 
+and therefore does not expect the impact of ineff ectiveness on the income statement to be material.
+Hedge of net investment in foreign operations 
+The group hedges a substantial portion of its exposure to fl uctuations on the translation into sterling of its foreign operations by 
+designating net borrowings held in foreign currencies and by using foreign currency swaps and forwards. Where a liquid foreign 
+exchange market exists, the group's policy approved by the board is to seek to hedge currency exposure on its net investment in 
+foreign operations within the following percentage bands: 80% to 100% for US dollars, 80% to 100% for euros and 50% to 100% for 
+other signifi cant currencies.
+  Exchange diff erences arising on the retranslation of foreign currency borrowings (including foreign currency swaps and forwards), 
+to the extent that they are in an eff ective hedge relationship, are recognised in the statement of recognised income and expense to 
+match exchange diff erences on net investments in foreign operations. Exchange diff erences on foreign currency borrowings not in a 
+hedge relationship and any ineff ectiveness are taken to the income statement. 66
+Diageo Annual Report 2009 
+Business review
+Transaction exposure hedging 
+For currencies in which there is an active market, the group's policy approved by the board is to seek to hedge between 60% and 
+100% of forecast transactional foreign exchange rate risk, for up to a maximum of 21 months forward, using forward foreign currency 
+exchange contracts with coverage levels increasing nearer to the forecast transaction date. The eff ective portion of the gain or loss on 
+the hedge is recognised in the statement of recognised income and expense and recycled into the income statement at the same time 
+as the underlying hedged transaction aff ects the income statement. Any ineff ectiveness is taken to the income statement.
+Hedge of foreign currency debt 
+The group uses cross currency interest rate swaps to hedge the forward foreign currency risk associated with certain foreign currency 
+denominated bonds. The eff ective portion of the gain or loss on the hedge is recognised in the statement of recognised income and 
+expense and recycled into the income statement at the same time as the underlying hedged transaction aff ects the income statement. 
+Any ineff ectiveness is taken to the income statement.
+Interest rate risk 
+The group has an exposure to interest rate risk, arising principally on changes in US dollar, euro and sterling interest rates. To manage 
+interest rate risk, the group manages its proportion of fi xed to fl oating rate borrowings within limits approved by the board, primarily 
+through issuing fi xed and fl oating rate term debt and commercial paper, and by utilising interest rate derivatives. These practices 
+serve to reduce the volatility of the group's reported fi nancial performance. To facilitate operational effi  ciency and eff ective hedge 
+accounting, the group's policy is to maintain fi xed rate borrowings within a band of 40% to 60% of projected net borrowings, and the 
+overall net borrowings portfolio is managed according to a duration measure. The board approved template specifi es diff erent 
+duration guidelines and fi xed/fl oating amortisation periods (time taken for the fi xed element of debt to reduce to zero) depending 
+on diff erent interest rate environments. The majority of Diageo's existing interest rate hedges are designated as hedges. Designated 
+hedges are expected to be eff ective.
+Liquidity risk 
+Liquidity risk is the risk that an entity will encounter diffi  culty in meeting obligations associated with fi nancial liabilities that are settled 
+by delivering cash or other fi nancial assets. The group's policy with regard to the expected maturity profi le of borrowings of group 
+fi nancing companies is to limit the amount of such borrowings maturing within 1 2 months to 50% of gross borrowings less money 
+market demand deposits, and the level of commercial paper to 30% of gross borrowings less money market demand deposits. In 
+addition, it is group policy to maintain backstop facility terms from relationship banks to support commercial paper obligations.
+Credit risk 
+Credit risk refers to the risk that a counterparty will default on its contractual obligations resulting in fi nancial loss to the group. Credit risk 
+arises from cash balances (including bank deposits and cash and cash equivalents), fi xed income and money market investments and 
+derivative fi nancial instruments, as well as credit exposures to customers, including outstanding receivables, fi nancial guarantees and 
+committed transactions. Credit risk is managed on a group basis separately for fi nancial and business related credit exposures.
+Financial credit risk 
+Diageo minimises its fi nancial credit risk through the application of risk management policies approved and monitored by the board. 
+Counterparties are limited to major banks and fi nancial institutions, and the board defi ned policy restricts the exposure to any one 
+counterparty bank by setting credit limits taking into account the credit quality of the counterparty bank as defi ned by Moody's, 
+Standard and Poor's or Fitch. The board also defi nes the types of fi nancial instruments which may be transacted. The group policy 
+ensures that individual counterparty limits are adhered to and that there are no signifi cant concentrations of credit risk. Financial 
+instruments are only transacted with major international fi nancial institutions with a long term credit rating within the A band or better. 
+The credit risk arising through the use of fi nancial instruments for interest rate and foreign exchange management is estimated with 
+reference to the fair value of contracts with a positive value, rather than the notional amount of the instruments themselves.
+  When derivative transactions are undertaken with bank counterparties, Diageo may, where appropriate, enter into certain 
+agreements with such bank counterparties whereby the parties agree to post cash collateral for the benefi t of the other if the net 
+valuations of the derivatives are above a pre-determined threshold. 
+  During the year ended 30 June 2009, Diageo reviewed the credit limits applied and continued to monitor the counterparties' 
+credit quality in response to market credit conditions.

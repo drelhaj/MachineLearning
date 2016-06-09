@@ -1,0 +1,122 @@
+ 3
+Chairman's Statement
+During the period under review, the Group has made much progress with the launch of new
+products and focus on marketing. These two initiatives have had a positive response from some
+of the largest European companies and brands, which has demonstrated the scale and potential
+that exists beyond the UK market. Initial orders are being negotiated with some of Europe's
+major drinks and catering companies.  Indications are that the Company's new products and
+services are perceived by these, and other organisations, as a practical means of enhancing the
+performance and control of their vending assets.
+I am encouraged by the significant progress that has been made in both technical and marketing
+terms up to, and following, the trade launch in May 2002 of vOpen, our completely new family
+of telemetry products. Since the launch, the Company has accelerated its relationship building
+with customers and supply partners, attending a number of trade shows and hiring new sales
+staff.
+A thorough reappraisal of Vianet's strategy and business model took place during the year. This
+confirmed the validity of the Company's strategy of targeting the European vending market for
+telemetry services but entailed making fundamental improvements to the business model in
+terms of product design, manufacturing cost and market positioning. It was also clear that it
+would take longer than originally thought to generate significant contracted revenues. As a
+consequence the Company needed to raise further funding which, I am pleased to say, was
+successfully accomplished in July 2002 despite adverse stock market conditions.
+Management and Staff
+The year saw major changes to the management team. Ian Orrock joined the Board on 12
+November 2001 as Chief Executive and Alastair Kerr joined as Finance Director on 29 January
+2002. Ian Orrock has been the principal force behind Vianet's strategic repositioning and
+fundraising and has also assumed direct responsibility for driving sales and marketing following
+the resignation, in August 2002, of the Sales and Marketing Director recruited earlier in the
+year.
+The Company has expanded the sales team through the appointment of two sales managers
+with extensive experience in the European vending industry, has recruited an Implementation
+Manager with experience of project management and software products, and since the year-
+end two multi-lingual support staff have joined.
+Many of the Company's staff are shareholders, most participate in the Company's Share Save
+Scheme and almost all have share options. Individually they are highly skilled and, as a group,
+they are strongly motivated to the common goal of Vianet's commercial success. The significant
+progress achieved over the past year in all areas is founded on their belief in the Company,
+coupled with hard work and creativity. On behalf of the Board, I wish to record our appreciation
+of the staff's contribution in readying Vianet for commercial success. The average employee
+headcount for the year ended 30 September 2002 was 22, (2001: 20) and is currently 25.
+Financial Results
+The loss before tax for the year ended 30 September 2002 was in line with expectations at
+ 1,955,446 (year to 30 September 2001:  2,155,336 loss) on sales of  13,124 (2001:  32,952).
+The trading results reflected the cessation of the old legacy systems and the development of the
+new vOpen product family which was completed in the year. Interest income was  17,906
+(2001:  99,638). 4
+Chairman's Statement
+Financial Results (continued)
+The resultant loss per share was 6.3 p (2001: loss per share 11.5p). The comparative results
+have been extracted from the audited accounts for the year ended 30 September 2001. The
+Company had approximately  1,595,000 of net cash at 30 September 2002.  No dividend is
+payable.
+Funding
+The Balance Sheet was strengthened by the proceeds from the Placing and Open Offer in July
+2002. A total of  2.3 million was raised, exceeding the target set by the Board. Expenses have
+been carefully managed throughout the year and while the current rate of cash burn is increasing
+as a result of more marketing and product rollout activity it is anticipated to sustain the Company
+through to the commencement of volume rollout.
+The Company has held encouraging discussions with its bankers about the funding of significant
+and rentalised contracts. The bank has confirmed an overdraft facility to support the Company's
+short term working capital requirements. Negotiations are ongoing with the bank regarding it
+supporting the working capital requirements of major contracts and extended payment profiles
+by substantially funding the manufactured cost of goods.
+Operations and Engineering
+A key differentiator from some competitors is that Vianet's engineering and product development
+is all performed in house.
+At the beginning of the current year Vianet had a number of legacy evaluation units still active
+across various projects in the field. Results confirmed that Vianet's legacy technology worked
+and delivered a viable service. These original systems, which helped to validate the vending
+market's potential, were de-commissioned over the summer in order to focus on launching the
+vOpen systems.
+The hardware and software engineering of vOpen, while addressing the same target market
+and product concept, bears only a limited resemblance to Vianet's legacy systems. The new
+system is a great step forward. Cost of goods and of installation for the new product and service
+offerings have been greatly improved. The Company has reassessed its telecommunications
+supply arrangements, achieving significant cost savings with improved operational cover
+extended into most European markets. A new long-term manufacturing supply partnership has
+recently been agreed.
+Vianet's new product offerings, accessed via the Internet, are infinitely scaleable and are designed
+to delegate the management and reporting of vending applications to the users themselves. The
+systems fully integrate with corporate databases and enterprise systems thus enabling a fully
+integrated and more easily managed service at the corporate level.
+The new products and services greatly improve the vending channel performance of global
+brands and local operators alike. Services are typically available under a long-term contract
+over which period users gain a substantial economic benefit and competitive advantage. 5
+Chairman's Statement
+Strategy
+The strategic focus, manifested in May 2002 with the new vOpen product family, positioning
+Vianet as a market-facing vending services company rather than a technology based vendor,
+has been well received by the market. Vianet's strategy of seeking long-term customer
+partnerships in the European vending sector with global brands, operators, machine
+manufacturers and certain niche players remains unchanged and has recently been reinforced
+by positive market response.
+The original Vianet concept of using proprietary telemetry technology supported by a relational
+database to enhance users' management of vending assets and products remains in place.
+A uniquely significant investment across European vending recently came to a conclusion with
+the introduction of the Euro. The Euro has been the primary preoccupation for all European
+brands and vending companies. There are some 3.3 million vending machines in Continental
+Europe where the industry's investment to upgrade coin acceptors for the snacks, drinks and
+coffee market alone cost around  475 per machine. Preparation for and implementation of the
+Euro has undoubtedly deferred the European market's take up of vending telemetry. Based on
+input from across the market, the Company is confident that the vending industry is now ready
+to embrace telemetry and that Vianet's new vOpen products and services are positioned at the
+forefront of development.
+Outlook
+There is no doubt that the original Vianet concept for vending telemetry remains valid although,
+with hindsight, the Company was ambitious about timescales and failed to account for the
+demands of the Euro introduction in vending budgets. Significant and fundamental changes
+have now been made to the way in which we do business and address the expanding European
+vending market.
+The experience of the Company continues to be that the timescales for prospects to commit to
+these contracts is lengthy and, at times, frustratingly slow. However, the Company has
+benchmarked its new products against the market and believes it is increasingly seen as a
+European reference point for vending telemetry.
+The Company is commercially focused, has new leadership and a highly motivated team to
+take us forward. Positive feedback from major European brands indicates the value and timeliness
+of Vianet's new products and services. I am confident that the Company can fulfil its potential
+as a leading telemetry specialist in the European vending market and most importantly that the
+major brands now have the funding and a clearly recognised need for the new products and
+services we offer.
+John M May
+Chairman
+10 January 2003

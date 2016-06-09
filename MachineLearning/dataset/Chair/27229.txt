@@ -1,0 +1,165 @@
+ 2 BIOQUELL PLC Annual Report 2005
+Chairman's statement
+Overview
+The BIOQUELL Group comprises two divisions: Bio-decontamination
+solutions and TRAC - Testing, Regulatory and Compliance - which
+includes Cape and the new service businesses acquired last year.
+Results and finance
+The financial information for the BIOQUELL Group published in 
+this document reflects the application of the new International
+Financial Reporting Standards (IFRS) and includes reconciliations to
+UK GAAP. Information on the effects of IFRS on the Group's results
+is set out below and was also provided at the time of the 2005
+interim results which was published in September 2005.
+Turnover increased by 11% to  17.2 million (2004:  15.5 million),
+largely due to increases in bio-decontamination services, defence
+equipment and the turnover attributable to the two businesses
+acquired in October 2005. Bio-decontamination equipment saw 
+a significant increase in revenues in the second half. The overall
+consolidated gross margin remained stable at 37%.
+IFRS requires a new accounting treatment for research and
+development costs. Gross expenditure on product development 
+in the period, was  1.2 million (2004:  0.9 million). Following 
+the application of IFRS the total amount relating to research and
+development charged to the income statement was  0.4 million
+(2004:  0.4 million). The principal product development activities 
+in the year comprised work associated with hospital acquired
+infection, wound healing and additions to the Clarus range of 
+bio-decontamination equipment. The Group continues to invest 
+in technological innovation and upgrading its existing product 
+and service ranges.
+Loss before tax was  0.5 million (2004: profit of  0.1 million).
+It is notable that the financial performance of the Group improved
+in the second half of 2005 with revenues of  10.2 million 
+(2005 H1:  7.0 million), a 46% increase, and profit before tax 
+of  0.2 million (2005 H1 loss:  0.7 million).
+Net cash from operating activities improved by 42% to 
+ 1.7 million (2004:  1.2 million). Capital expenditure was 
+ 1.2 million (2004:  0.8 million), principally relating to investment
+in bio-decontamination equipment for the Group's service
+businesses and the TRAC division. During the year  0.4 million
+(2004:  0.2 million) was paid as consideration for businesses
+acquired.
+Net debt at the year end was  1.6 million (30 June 2005:  0.9 million)
+and net assets were  10.1 million (30 June 2005:  9.5 million).
+The Group has overdraft facilities of  2.2 million of which 
+ 1.2 million was used at the year end, a euro denominated loan 
+of  0.4 million and other debt finance of  0.1 million.
+Activities
+Bio-decontamination solutions
+Some three years ago, BIOQUELL pioneered the development 
+of new technology which enabled rooms or buildings to be 
+bio-decontaminated and achieve the same level of sterility as 
+that achieved using a steam steriliser. Prior to this innovation it 
+was not realistically practical or feasible for hospitals to sterilise
+rooms or wards - thereby eradicating problematic bacteria from 
+the environment. Further, BIOQUELL's technology leaves no
+problematic residues and is compatible with sensitive electronics.
+The technology has applications in the life sciences sector -
+including, for example, vaccine production or the eradication of
+avian flu. It also has significant opportunities in the healthcare
+sector worldwide to help combat hospital acquired infection, often
+referred to in the UK as superbugs .
+Last month data was presented at a leading US healthcare infection
+control conference by a US expert, in conjunction with the US
+Government's Centers for Disease Control and Prevention (CDC ),
+which showed that the use of BIOQUELL's technology reduced
+significantly the rate of patient infection with Clostridium difficile,
+a problematic superbug . (Clostridium difficile is an antibiotic
+resistant superbug  which recently mutated to produce a new,
+hyper-virulent strain which causes severe disease and sometimes
+death to patients; it is thought that this new strain is present in 
+at least 40 hospitals in the UK.) These data are extremely important 
+as they demonstrate scientifically for the first time the link between 
+a reduction in the level of bacterial contamination giving rise to a
+reduction in patient infection rates. (There is constant reintroduction
+of superbugs  back into the hospital environment from patients
+from other healthcare facilities, particularly nursing homes and/or
+long term care facilities.) Significant interest is being shown in
+BIOQUELL's technology in the US healthcare sector and the Board
+anticipates strong growth will follow in this market.
+Other opportunities exist for the use of BIOQUELL's 
+bio-decontamination technology in the defence and life sciences
+sector. Further, BIOQUELL's technology should help combat
+contamination from avian flu.
+New Wound Healing technology
+Over the last several years the Group has invested significant
+resources into the development of its novel new wound healing
+technology. The technology draws upon the Group's expertise in
+research and development, complex engineering and the application
+of peroxy chemistry. Chronic wounds - typically wounds which
+have not healed after six weeks - are a substantial and expensive
+problem for healthcare providers. For example, experts have
+estimated that some 0.2% to 1% of the total population - and
+between 1% to 3% of the elderly population - suffer from venous
+Significant interest is being shown in
+BIOQUELL's technology in the US 
+Healthcare Sector
+25513 PRE  7/4/06  3:58 pm  Page 2 leg ulcers. BIOQUELL carried out successful clinical trials last year
+with one of the UK's leading wound healing research units; a 
+further set of clinical trials will start later this year. Work is currently
+underway to secure UK regulatory approval to launch a product on
+the EU market; we expect to gain UK regulatory approval before the
+end of the year. Work is also underway to obtain appropriate data
+to fulfil the requirements of the US regulators.
+TRAC - Testing, Regulatory and Compliance - division
+Following the acquisition of two specialist testing and compliance
+businesses last year, it was decided to establish a new division:
+TRAC (Testing, Regulatory and Compliance). This division comprises
+all the Group's testing service businesses including Cape, EMC
+Projects, TRL Compliance and KTL.
+Cape, which carries out environmental testing for a range of 
+clients including the aerospace and defence sectors, had a
+satisfactory first half but started to experience reduced margins in
+the second half due, in part, to substantially higher electricity costs
+which have proven difficult to pass on to clients to date. Following
+the acquisition of the new businesses and the establishment of 
+a separate division the management structure of Cape has been
+changed to reduce its cost base. We are anticipating that there will
+be opportunities to increase Cape's revenues as a result of cross
+referrals from companies within the TRAC division.
+Following the dotcom  collapse in 2000, it is now clear that large
+parts of the telecoms sector have recovered and appear to be
+trading strongly. KTL, which focuses on telecoms testing with a
+particular focus on DSL technology, has seen strong levels of
+activity in the US and, in the UK, from multi-national groups.
+A cost reduction programme, which was planned prior to
+acquisition, has been largely completed and involved making
+approximately 20% of the employees redundant. The business is
+now profitable and growing.
+KTL Inc's newly established specialist DSL testing laboratory in
+Santa Clara, California has now been approved by the Regional Bell
+Operating Companies (RBOCs) for DSL testing and order levels are
+increasing. KTL Inc. has been deliberately located close to a number
+of the large US telecoms hardware manufacturers in California
+which is helping this business grow fast.
+TRL Compliance, which focuses principally on EMC testing, is also
+seeing strong levels of activity, particularly from the defence sector.
+TRL Compliance currently operates from six sites, and planned 
+site consolidation will improve the services which TRL Compliance
+provides to its clients. Plans are underway to ensure closer sales and
+marketing co-operation between TRL Compliance, Cape and EMC
+Projects (Cape's existing EMC testing subsidiary).
+Prospects 
+The international healthcare markets which the Group is targeting
+are substantial and the Group, in conjunction with appropriate
+partners, should benefit significantly from being the first entrant to
+these markets with new technology. As with all new technologies,
+forecasting adoption rates is difficult; however, the successful 
+trials in the US and positive market feedback mean that we are
+increasingly confident about achieving fast growth in North
+America. The opportunities relating to BIOQUELL's new wound
+healing technology also look attractive. Moreover, the significant
+expansion of the Group's testing services via the acquisitions in
+October 2005 and the establishment of the TRAC division means
+that the funding of the development of the Group's blockbuster 
+technologies will be assisted by this profitable and growing division.
+John Salkeld
+Chairman
+11 April 2006
+BIOQUELL's technology is highly effective at eradicating
+superbugs  from the hospital environment and can
+significantly reduce the patient infection rate of
+BIOQUELL PLC Annual Report 2005 3 
+25513 PRE  7/4/06  3:58 pm  Page 3
+superbug  Clostridium difficile

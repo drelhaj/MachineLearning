@@ -1,0 +1,94 @@
+ Long term debt obligations comprise borrowings (before deducting interest rate and foreign currency swaps) with an original maturity 
+of greater than one year. Purchase obligations include various long term purchase contracts entered into for the supply of certain raw
+materials, principally grapes, cans and glass bottles.The contracts are used to guarantee supply of raw materials over the long term and 
+to enable more accurate predictions of future costs. It is expected that all contractual commitments will be funded from future operating
+cash flows and no new borrowings will be required to meet these obligations. Provisions for liabilities and charges and creditors greater
+than one year do not include  32 million in respect of vacant properties (included in operating leases),  113 million for onerous contracts
+(included in purchase obligations), post employment provisions and deferred taxation.
+In addition, the group has resumed service-based contributions to the Diageo UK pension fund.The contribution is expected to be
+approximately  50 million per annum. At 30 June 2004, the group had  312 million of 9.42% cumulative guaranteed preferred securities
+which were included in non-equity minority interests on the consolidated balance sheet.The securities were redeemed at the option 
+of the company during the year ended 30 June 2005.
+Off-balance sheet arrangements
+In connection with the disposal of certain businesses, the group has given guarantees of third party debt which were necessary to
+complete the disposals on the most favourable terms.The directors are not aware of any instances of default by the borrowers at present,
+but the ability of the borrowers to continue to be in compliance with the guaranteed debt instruments, and in particular remaining current
+on payments of interest and repayments of principal, is significantly dependent on the current and future operations of those borrowers
+and their affiliates. Diageo guaranteed up to $850 million ( 475 million) of external borrowings of Burger King until December 2007.These
+loans had an original term of five years from December 2002, although Diageo and Burger King agreed to structure their arrangements 
+to encourage refinancing by Burger King on a non-guaranteed basis prior to the end of five years. On13 July 2005, Burger King refinanced
+these external borrowings on a stand-alone basis releasing Diageo of its obligations under the guarantee. See  Material contracts -
+Agreement for the sale of Burger King Corporation' for further information. In connection with the disposal of Pillsbury in October 2001,
+Diageo has guaranteed debt of International Multifoods Corporation, a wholly owned subsidiary of The JM Smucker Company as from 18
+June 2004, to the amount of $200 million ( 112 million), repayable in November 2009.
+In addition, certain of the acquired Seagram businesses had pre-existing guarantees at the date of the acquisition in relation to the
+solvency of a third party partnership.This partnership has outstanding loans of $100 million ( 56 million).Vivendi has indemnified the
+group against any losses relating to these arrangements.
+The above guarantees are unrelated to the ongoing operations of the group's business.
+The group also has unrecognised gains and losses of  145 million and  61 million, respectively, in respect of financial instruments at 
+30 June 2005. For further disclosures with regard to financial instruments, see note 18 to the consolidated financial statements.
+Save as disclosed above, neither Diageo plc nor any member of the Diageo group, has any off-balance sheet financing arrangements
+that currently have or are reasonably likely to have a material future effect on the group's financial condition, changes in financial condition,
+results of operation, liquidity, capital expenditure or capital resources.
+Risk management
+The group's funding, liquidity and exposure to interest rate and foreign exchange rate risks are managed by the group's treasury
+department.The treasury department uses a combination of derivative and conventional financial instruments to manage these
+underlying treasury risks.
+Treasury operations are conducted within a framework of board-approved policies and guidelines, which are recommended and
+subsequently monitored by the finance committee (this committee is described in the corporate governance report).These include
+benchmark exposure and/or hedge cover levels for key areas of treasury risk.The benchmarks, hedge cover and overall appropriateness 
+of Diageo's risk management policies are reviewed by the board following, for example, significant business, strategic or accounting
+changes.The framework provides for limited defined levels of flexibility in execution to allow for the optimal application of the board-
+approved strategies.Transactions giving rise to exposures away from the defined benchmark levels arising on the application of this
+flexibility are separately monitored on a daily basis using value at risk analysis.They are carried at fair value and gains or losses are 
+taken to the profit and loss account as they arise. At 30 June 2005 gains and losses on these transactions were not material.
+The finance committee receives bi-monthly reports on the activities of the treasury department, including any exposures away 
+from the defined benchmarks.The internal control environment is reviewed regularly.
+53 Operating and financial review Diageo Annual Report 2005 Currency risk The group publishes its consolidated financial statements in sterling and conducts business in many foreign currencies.
+As a result, it is subject to foreign currency exchange risk due to exchange rate movements which will affect the group's transaction costs,
+and the translation of the results and underlying net assets of its foreign subsidiaries.
+The group hedges a substantial portion of its exposure to fluctuations on the translation into sterling of its foreign currency net assets 
+by holding net borrowings in foreign currencies and by using foreign currency swaps and cross currency interest rate swaps.The group's
+policy is to seek to hedge currency exposure on its net assets before net borrowings at approximately the following percentages - 
+90% for US dollars, 90% for euros and 50% for other significant currencies where a liquid foreign exchange market exists.This policy leaves
+the remaining part of the group's net assets before net borrowings subject to currency movements. Exchange differences arising on the
+retranslation of foreign currency net borrowings and foreign exchange swaps are recognised in the statement of total recognised gains
+and losses to match exchange differences on foreign equity investments, in accordance with SSAP 20. Under IFRS, Diageo will continue 
+to hedge its net investment in foreign currency denominated assets. Net investment hedges will take the form of foreign currency
+borrowings or derivatives. From 1 July 2005, Diageo has introduced additional processes to determine, monitor and document the
+effectiveness of these hedges in the context of the underlying exposure under IAS 39.
+For currencies in which there is an active market, the group seeks to hedge between 80% and 100% of forecast transactional foreign
+exchange rate risk, for up to a maximum of 21 months forward, using forward foreign currency exchange contracts.The gain or loss on 
+the hedge is recognised at the same time as the underlying transaction. Diageo expects hedges entered into to be effective, and therefore
+does not expect the impact of ineffectiveness on the profit and loss account to be material.
+Interest rate risk The group has an exposure to interest rate risk and is most vulnerable to changes in US dollar, sterling and euro interest
+rates.To manage interest rate risk, the group manages its proportion of fixed to variable rate borrowings within limits approved by the board,
+primarily through issuing long term fixed rate bonds, medium term notes and fixed and floating rate commercial paper, and by utilising
+interest rate swaps, cross currency interest rate swaps and swaptions.The profile of fixed rate to floating rate net borrowings is maintained
+according to a duration measure that is equivalent to an approximate 50% fixed and 50% floating amortising profile.The number of years
+within the amortising profile depends on a template approved by the board.The floating element of US dollar borrowing is partly protected
+using interest rate collars although, following a policy review in 2002 interest rate collars are no longer being transacted and the existing
+collars are reducing as the individual instruments reach maturity. Remaining interest rate collars as at 30 June 2005 will take up to approximately
+one year to expire. In addition, where appropriate, the group may use forward rate agreements to manage short term interest rate exposures.
+Swaps, swaptions, forward rate agreements and collars are accounted for as hedges. Such management serves to increase the accuracy of 
+the business planning process. Following the implementation of IFRS from 1 July 2005 the majority of Diageo's existing interest rate hedges
+are designated as hedges under IAS 39. Diageo expects hedges entered into to be effective, and therefore does not expect the impact 
+of ineffectiveness on the profit and loss account to be material.
+Capital structure Diageo manages its capital structure to achieve capital efficiency, maximise flexibility and give the appropriate level 
+of access to debt markets at attractive cost levels.This is achieved by targeting a range of ratios which are currently broadly consistent 
+with an A band credit rating.
+Liquidity risk The group's policy with regard to the expected maturity profile of group financing companies' borrowings is to limit the
+proportion of such borrowings maturing within 12 months to 50% of gross borrowings less money market demand deposits and the level 
+of commercial paper to 30% of gross borrowings less money market demand deposits. In addition, it is group policy to maintain backstop
+facility terms from relationship banks to support commercial paper obligations.
+Credit risk A large number of major international financial institutions are counterparties to the financial instruments transacted by the
+group. Group policy is to enter into such transactions only with counterparties with a long term credit rating of A or better.The group
+monitors its credit exposure to its counterparties, together with their credit ratings.
+Commodity price risk The group uses commodity futures and options to hedge against price risk in certain commodities. All commodity
+futures and options contracts hedge a projected future purchase of raw material. Commodity futures or options are then either closed out 
+at the time the raw material is purchased or they are exchanged with the company manufacturing the raw material to determine the
+contract price. Commodity contracts are held in the balance sheet at fair value but any gains and losses are deferred until the contracts 
+are closed out or exchanged. Open contracts at 30 June 2005 and gains and losses realised in the year or deferred at the balance sheet date
+were not significant.
+Operating and financial review continued
+54 Operating and financial review Diageo Annual Report 2005

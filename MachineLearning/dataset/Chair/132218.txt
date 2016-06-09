@@ -1,0 +1,136 @@
+ Introduction
+I am pleased to report on the consolidated results of Mondas for the year ended 30 April 2003. During
+the second half year to 30 April 2003 Mondas PLC (the Group , the Company  or Mondas )
+achieved its best operating results to date, posting record revenues and operating profits with
+substantial cash generation. Investment in new products throughout the year has now been translated
+into sales in both Financial and Education Markets. Complex large-scale systems have been
+successfully deployed in both the Financial and Commercial Sectors. Our client list has continued to
+expand both in quality and quantity, with major elements of the Credit Suisse group adopting our
+flagship financial solution, Radica CAPS (Corporate Actions Processing System). All this was
+accomplished despite the ongoing bear market and general economic slowdown and has reinforced
+our position as a market leader in accounting solutions for the Further Education market, and in
+Corporate Actions (CA ) processing in the Banking & Securities Sector.
+Results
+Turnover for the twelve months to 30 April 2003 was  3.713 million (2002:  3.742 million). The final six
+months saw revenues grow by 12% to  2.260 million (2002:  2.012 million). This partially offset the
+turmoil in the first six months of the year that adversely affected sales, particularly in the Financial
+sector. Turnover was split approximately equally across the business units. Material licence and
+service income from the major new contracts from financial institutions and final deliveries to Blue
+Arrow Limited (Blue Arrow ) and GNI Limited (GNI ), contributed to the increased revenue in the
+second half.
+Our operating loss before goodwill amortisation and depreciation was  679,000 (2002:  416,000).
+This was after a restructuring charge of  154,000 (2002:  180,000) reflecting reductions made to
+address the continuously challenging economic environment. After allowing for this charge, the
+second half saw an operating profit before interest, tax, depreciation and amortisation of  229,000
+(2002:  84,000)
+Despite the trading environment Mondas continued to invest in new products and during the year
+increased its Research & Development investment to  616,000 (2002:  363,000). Major projects
+included the development of Resource Learning Management System (LMS ) and the new version of
+Radica CAPS.
+Cash balances as at 30 April 2003 were  977,000 (2002:  1.420 million). During the second half
+Mondas generated significant cash from operations in addition to the  350,000 net proceeds from the
+December 2002 placing. The Company placed, at 23.5p per share, 1,004,749 new ordinary shares and
+573,722 existing ordinary shares (resulting from the Reality warranty claim settlement, raising
+ 134,000. Such shares would otherwise have been cancelled and had been fully provided for at 30
+April 2002). Both new and existing institutional investors, as well as members of the Board and staff,
+participated in this placing. 
+Trade debtors represented the last 19 days of sales based on billings in April 2003 (2002: 23).
+Deferred revenues increased to  856,000 (2002:  796,000), and the order book stood at  900,000
+(2002:  1.700 million). The change in the value of the order book primarily arises from significant
+deliveries against the large order from Brewin Dolphin Securities Limited (Brewin Dolphin ) received
+in April 2002.
+Mondas PLC
+Chairman's Statement
+for the year ended 30 April 2003
+3 Operations Review
+The Company now comprises two discrete business units: one addressing the Banking and Securities
+Sector (Banking and Securities Business Unit ) and one focused on the Public and Commercial
+Sectors with Resource accounting and financial solutions (Resource Business Unit ). The Company
+has been structured to withstand the uncertainties in the market and will continue to match resources
+with market demands.
+Banking and Securities Business Unit Review
+We were delighted to announce in December 2002, that Mondas has signed an agreement with Credit
+Suisse First Boston (Europe) Limited (CSFB ), for the largest sale to date of Radica CAPS. The
+contract for the initial phase, covers licences, project and support services for their UK, European and
+possibly Asia Pacific based investment banking and securities businesses. This order is worth a
+minimum of  640,000 to the Company, with CSFB having the option of confirming an additional
+ 450,000 of professional services work.
+Following on from this, in April 2003, contracts were signed with Credit Suisse Asset Management
+(UK) Holding Limited (CSAM ) worth a minimum of  112,000 for Radica CAPS. Both these sales were
+won against strong competition from both European and U.S. vendors. 
+In the period, the Corporate Actions team has been extended to bring additional skills and more
+resources into the unit. The latest version of Radica CAPS was implemented at GNI, part of the Man
+Group plc, where they stated that the Mondas team had managed the project extremely
+professionally and proved its ability to deliver a quality, functionally rich CA solution . We believe this
+has helped to demonstrate to the market that we are a credible vendor for increasingly larger
+Corporate Actions projects.
+In addition, client demands have led to enhancements addressing the specific needs of the global
+investment banking arena which, the Directors believe, will expand the market for Radica CAPS to
+many different institutions across the Banking & Securities Sector.
+Mondas has continued to develop new solutions and deliver enhancements for its existing clients
+such as Man Securities, Close Wealth Management and leading private client broker, Brewin Dolphin.
+Mondas continues to look for new areas to deploy its technology and has now developed a complex,
+workflow-based control system to monitor and reconcile disparate applications and replicate data.
+The first deployment of this new system will be in the current reporting period and may trigger new
+opportunities in due course.
+Resource Business Unit Review
+The Mondas strategy to take its accounting and finance solution, Resource 32000, into larger
+commercial organisations was validated by the successful implementation of the Credit Management
+system for Blue Arrow, one of the UK's largest recruitment businesses. This was the largest delivery
+that the Resource Business Unit has made with over 100 users of the system in a contract worth over
+ 350,000. The Directors believe that similar contracts, despite their longer sales cycles, represent a
+significant opportunity. Mondas is therefore further investing in its ability to win and deliver these
+solutions.
+Mondas has worked with its Education sector customers to broaden its product offering. This has
+produced an integrated suite that adds learning management and continuous professional
+development applications to our existing accounting, human resources and payroll solutions. Your
+Board believes that there are few companies capable of delivering a truly integrated solution such as
+this and the investment during the year is beginning to bear fruit. In June 2003, we achieved our first
+Resource LMS sale and, indeed, first integrated solution sale combining Resource LMS with Resource
+32000 for Richmond Adult Community College in a pioneering agreement worth approximately
+ 100,000.
+Mondas PLC
+Chairman's Statement
+continued
+4 Launched in November 2002, Resource LMS manages the people and processes within an education
+environment including enrolments, examination management and, vital to colleges, the production of
+the government reports required to secure their funding. The Directors believe that many more
+colleges will be seeking to replace their systems in this area over the next few years.
+Management Changes
+In January 2003 Tom McClelland resigned from the Board of Mondas Information Technology Limited,
+the Company's only wholly-owned trading company, and announced his intention to pursue other
+ventures, leaving the Company in July 2003. Mondas would like to thank him for his contribution to
+the Company and wish him all the best for the future.
+Dividend
+The Directors are not recommending the payment of a dividend in respect of the financial year under
+review (2002: nil). 
+Future Prospects
+The strategy within the Education Sector has been to extend the range of products offered to both
+new and existing customers. The new Resource LMS product is already generating significant
+interest. A consortium of Sixth Form Colleges have been evaluating the product recently and a number
+of non-legally-binding Letters of Intent have been received which, if all the consortium convert to firm
+contracts, will represent an aggregate value of approaching  700,000 over five years.
+A recent report from US research company, Celent Communications, claims that spending on
+Corporate Actions projects is projected to total almost US$830 million between 2003-2007 as the
+securities and investment industry looks to automate one of the last remaining manual areas within
+the securities processing chain . We believe that Mondas is in an enviable position in one of the few
+markets where global institutions are still spending. Today, the Company is in exclusive contractual
+negotiations with one of the world's largest banks with retail and wholesale operations, which wishes
+to automate its CA processing with Radica CAPS. 
+Your Board believes that the opportunities facing the Company today will enable Mondas to expand
+both organically and through acquisition. In the Banking and Securities Sector, following approaches
+from US organisations, members of the management team visited sales prospects, clients and
+alliance partners to discuss US openings. The Company is actively seeking acquisition opportunities
+to help both Business Units extend their reach.
+Having earned an operating profit in the second half of the period under review, the Directors expect
+this trend to continue into the current year. I am hopeful that we will be able to announce much
+improved results when I report to you next year.
+The Board would like to thank all at Mondas for creating, through their hard work and commitment,
+the opportunity that we have now.
+D T A Simon
+Chairman
+14 July 2003
+Mondas PLC
+Chairman's Statement
+continued
+5

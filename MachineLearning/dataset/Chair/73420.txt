@@ -1,0 +1,160 @@
+ Company law requires the directors to prepare financial statements for each financial period which give a true and fair view of the
+state of affairs of the company and of the group and of the profit or loss of the group for that period. In preparing those financial
+statements, the directors are required to:
+  select suitable accounting policies and then apply them consistently
+  make judgements and estimates that are reasonable and prudent
+  state whether applicable accounting standards have been followed, subject to any material departures disclosed 
+and explained in the financial statements
+  prepare the financial statements on the going concern basis unless it is inappropriate to presume that the group 
+will continue in business
+The directors are responsible for keeping proper accounting records which disclose with reasonable accuracy at any time the financial
+position of the group and to enable them to ensure that the financial statements comply with the Companies Act 1985. They are also
+responsible for safeguarding the assets of the group and hence for taking reasonable steps for the prevention and detection of fraud
+and other irregularities.
+Statement of Directors' Responsibilities in Respect of the Financial Statements
+Fayrewood plc Report and Financial Statements for the year ended 31 December 2004
+13
+In March 2003 Paul Griffiths and Stephan Link were granted options in respect of 10,000 shares and 4,250 shares respectively 
+in ComputerLinks AG at a price of 3.51 Euros. The options are exercisable between March 2005 and March 2012.
+On 17 March 2003, Paul Griffiths was granted options under the Fayrewood Unapproved Option Scheme in respect of 325,000
+ordinary shares at a price of 33 pence. The options are exercisable between 17 March 2006 and 17 March 2010. 
+On 18 January 1999, David Gurr was granted options under the Fayrewood Unapproved Option Scheme in respect of 25,000 ordinary
+shares at a price of 59.5 pence. The options are exercisable between 18 January 2002 and 18 January 2006. On 11 January 2002,
+David Gurr was granted options under the Fayrewood Unapproved Option Scheme in respect of 100,000 ordinary shares at a price 
+of 67 pence. The options are exercisable between 11 January 2005 and 10 January 2009. On 11 February 2002, David Gurr was
+granted options under the Fayrewood Unapproved Option Scheme in respect of 75,000 ordinary shares at a price of 64 pence. The
+options are exercisable between 11 February 2005 and 10 February 2009. On 17 March 2003, David Gurr was granted options under
+the Fayrewood Unapproved Option Scheme in respect of 175,000 ordinary shares at a price of 33 pence. The options are exercisable
+between 17 March 2006 and 17 March 2010. 
+On 4 April 2003, Dick Lynch was granted options under the Fayrewood Unapproved Option Scheme in respect of 50,000 ordinary
+shares at a price of 32 pence. The options are exercisable between 4 April 2006 and 3 April 2010. 
+The average share price during the period was 123 pence.
+Major Interests in Shares
+On 3 March 2005, the following shareholders held a notifiable interest in the shares of Fayrewood plc:
+% of ordinary
+No. of shares shares held
+Hypolorba Sociedad Limitada 5,430,773 10.9%
+Barclayshare Nominees Limited 2,716,253 5.5%
+Pierce Casey 2,500,000 5.0%
+TD Warehouse Nominees (Europe) Limited 1,743,441 3.5%
+Mario Legorburu and his wife are the beneficial owners of the shares held by Hypolorba Sociedad Limitada. These shareholdings are
+reflected in the directors' interests in the share capital of the company which are set out above. 
+Auditors
+A resolution to re-appoint Ernst & Young LLP as the company's auditor will be put to the forthcoming Annual General Meeting.
+By order of the board.
+Dick Lynch
+Secretary
+9 March 2005
+12
+Directors' Report (continued)
+FRW Annual 2004 Combined  27/4/05  9:31 am  Page 12 We have audited the group's financial statements for the year ended 31 December 2004 which comprise the Group Profit and Loss
+Account, Group Statement of Total Recognised Gains and Losses, Group Balance Sheet, Company Balance Sheet, Group Statement 
+of Cash Flows, and the related notes 1 to 24. These financial statements have been prepared on the basis of the accounting policies
+set out therein.
+This report is made solely to the company's members, as a body, in accordance with Section 235 of the Companies Act 1985. Our
+audit work has been undertaken so that we might state to the company's members those matters we are required to state to them 
+in an auditors' report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility 
+to anyone other than the company and the company's members as a body, for our audit work, for this report, or for the opinions 
+we have formed.
+Respective Responsibilities of Directors and Auditors
+As described in the Statement of Directors' Responsibilities the company's directors are responsible for the preparation of the financial
+statements in accordance with applicable United Kingdom law and accounting standards.
+Our responsibility is to audit the financial statements in accordance with relevant legal and regulatory requirements and United
+Kingdom Auditing Standards.
+We report to you our opinion as to whether the financial statements give a true and fair view and are properly prepared in accordance
+with the Companies Act 1985. We also report to you if, in our opinion, the Directors' Report is not consistent with the financial statements,
+if the company has not kept proper accounting records, if we have not received all the information and explanations we require for
+our audit, or if information specified by law regarding directors' remuneration and transactions with the group is not disclosed.
+We read the Directors' Report and consider the implications for our report if we become aware of any apparent misstatements within it.
+Basis of Audit Opinion 
+We conducted our audit in accordance with United Kingdom Auditing Standards issued by the Auditing Practices Board. An audit
+includes examination, on a test basis, of evidence relevant to the amounts and disclosures in the financial statements. It also includes
+an assessment of the significant estimates and judgements made by the directors in the preparation of the financial statements, and
+of whether the accounting policies are appropriate to the group's circumstances, consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we considered necessary in order to
+provide us with sufficient evidence to give reasonable assurance that the financial statements are free from material misstatement,
+whether caused by fraud or other irregularity or error. In forming our opinion we also evaluated the overall adequacy of the
+presentation of information in the financial statements.
+Opinion
+In our opinion the financial statements give a true and fair view of the state of affairs of the company and of the group as at 31
+December 2004 and of the profit of the group for the year then ended and have been properly prepared in accordance with the
+Companies Act 1985.
+Ernst & Young LLP
+Registered Auditor
+London
+9 March 2005
+2004 2003
+Notes  000's  000s
+TURNOVER 2 506,666 434,129
+Cost of sales (451,835) (384,881)
+Gross profit 54,831 49,248
+Distribution costs 2 (6,178) (5,127)
+Administrative expenses - excluding goodwill 2 (30,888) (30,183)
+OPERATING PROFIT BEFORE GOODWILL CHARGES 17,765 13,938
+Administrative expenses - goodwill amortisation 2 (940) (941)
+OPERATING PROFIT 3 16,825 12,997
+Loss on deemed disposal of investment 12 (208) -
+Bank interest receivable 191 181
+Interest payable 6 (1,704) (1,363)
+PROFIT ON ORDINARY ACTIVITIES BEFORE TAXATION 15,104 11,815
+Taxation 7 (5,451) (5,192)
+PROFIT ON ORDINARY ACTIVITIES AFTER TAXATION 9,653 6,623
+Minority interest (equity) (1,966) (1,875)
+PROFIT ATTRIBUTABLE TO MEMBERS OF THE PARENT COMPANY 7,687 4,748
+Dividends 8 (349) (224)
+RETAINED PROFIT FOR THE YEAR 7,338 4,524
+Earnings per share - basic 9 15.51p 10.05p
+- diluted 9 14.84p 9.77p
+Adjusted earnings per share - basic 9 16.82p 11.75p
+- diluted 9 16.09p 11.42p
+A statement of the movements on reserves can be found in note 18.
+Group Profit and Loss Account for the year ended 31 December 2004
+Fayrewood plc Report and Financial Statements for the year ended 31 December 2004
+14 15
+Independent Auditors' Report to the Members of Fayrewood plc
+FRW Annual 2004 Combined  27/4/05  9:31 am  Page 14 2004 2003
+Notes  000's  000's
+Profit for the year 7,687 4,748
+Exchange gain on re-translation of 
+net assets of subsidiary undertakings 18 137 1,117
+Exchange gain/(loss) on foreign currency borrowings
+to finance investments 18 137 (206)
+TOTAL RECOGNISED GAINS AND LOSSES RELATING TO THE YEAR 7,961 5,659
+2004 2003
+Notes  000's  000's
+FIXED ASSETS
+Intangible fixed assets 10 15,862 16,633
+Tangible fixed assets 11 6,211 5,989
+Investments 12 23 3
+22,096 22,625
+CURRENT ASSETS
+Stock - finished goods held for resale 46,278 36,907
+Debtors 13 110,719 94,750
+Cash at bank and in hand 14 36,588 19,633
+193,585 151,290
+CREDITORS: amounts falling due within one year 15 (159,431) (127,940)
+NET CURRENT ASSETS 34,154 23,350
+TOTAL ASSETS LESS CURRENT LIABILITIES 56,250 45,975
+CREDITORS: amounts falling due after more than one year 16 (3,866) (3,104)
+PROVISION FOR LIABILITIES AND CHARGES
+Deferred tax 7(c) (150) -
+52,234 42,871
+CAPITAL AND RESERVES 
+Called up share capital 17 2,489 2,441
+Share premium account 18 16,945 16,389
+19,434 18,830
+Shares to be issued as contingent acquisition consideration 18 565 1,127
+Other reserves 18 6,355 6,355
+Profit and loss account 18 13,178 5,507
+Shareholders' funds: equity 18 39,532 31,819
+MINORITY INTEREST (EQUITY) 12,702 11,052
+52,234 42,871
+Paul Griffiths
+Dick Lynch
+Directors
+9 March 2005
+Group Balance Sheet at 31 December 2004
+Fayrewood plc Report and Financial Statements for the year ended 31 December 2004
+16 17
+Group Statement of Total Recognised Gains and Losses for the year ended 31 December 2004
+FRW Annual 2004 Combined  27/4/05  9:31 am  Page 16

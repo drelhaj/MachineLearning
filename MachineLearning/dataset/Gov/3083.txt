@@ -1,0 +1,199 @@
+ 38
+Advanced Computer Software Group plc 
+Annual Report 2014
+Audit Committee report
+Michael Jackson
+Audit Committee Chairman
+The following pages comprise 
+the Audit Committee report for  
+the year ended 28 February 2014.
+As noted earlier in the Chairman's governance report, the 
+Board delegates certain duties, responsibilities and powers  
+to the Audit Committee, so that these can receive suitably 
+focussed attention. However, the committee acts on behalf  
+of the full Board and the matters reviewed and managed  
+by the committee remain the responsibility of the Board  
+as a whole.
+Role of the Audit Committee
+The authorities delegated to the committee from the  
+Board are set out in the committee's terms of reference  
+and cover all the matters recommended under the UK 
+Corporate Governance Code. The terms of reference  
+can be viewed on the Company's website at  
+www.advancedcomputersoftware.com.
+The committee's primary responsibilities are to:
+ > monitor the integrity of the financial statements of the 
+Group and any formal announcement relating to its financial 
+performance, reviewing any significant financial reporting 
+issues and judgements which they contain;
+ > review the adequacy and effectiveness of the Company's 
+internal financial controls and internal control and risk 
+management systems;
+ > make recommendations to the Board, to be put to 
+shareholders for approval in general meeting, on the 
+appointment of the Company's external auditor and 
+approval of their terms of engagement and remuneration;
+ > assess annually the independence and objectivity of the 
+external auditor and the effectiveness of the audit process, 
+taking into account relevant professional and regulatory 
+requirements; and
+ > develop and implement a policy on the supply of non-audit 
+services by the external auditor, taking into account any 
+relevant ethical guidance on the matter.
+The Audit Committee reports to the Board after each  
+Audit Committee meeting, making recommendations to the 
+Board where it considers action or improvement is needed.
+Composition of the Audit Committee
+The members of the Audit Committee are Michael Jackson 
+(Chairman), Mike McGoun and Chris Hand, who joined  
+the committee following his appointment to the Board in 
+December 2013. Guy Millward was a member of the committee 
+from his appointment to the Board on 19 November 2012 until 
+7 March 2013, when he accepted the role of Chief Financial 
+Officer of the Company.
+Michael Jackson, who chairs the committee, is a chartered 
+accountant and the Board regards Michael as the member 
+possessing recent and relevant financial skills. For the past  
+30 years he has specialised in raising finance for the smaller 
+companies sector. Mike McGoun has a wealth of management 
+experience within the IT industry and Chris Hand brings 
+experience and knowledge of the healthcare sector to the mix. 
+The biographies of all Board members are set out on pages 30 
+and 31. The varied backgrounds of the committee's members 
+and their collective skills, experience and knowledge of the 
+Company enable them to fulfil the committee's remit and  
+to oversee the Company's auditors.
+Meetings
+The Audit Committee meets formally at least twice per year 
+and has an agenda linked to the Group's financial calendar. 
+During the year under review, the committee met on two 
+occasions and attendance at those meetings is shown  
+on page 36.
+The Audit Committee invites the Chief Executive, Chief Financial 
+Officer and Chief Operating Officers to attend for all or part  
+of its meetings, as and when appropriate. The Secretary  
+to the committee is Barbara Firth.
+Activities of the committee
+The committee has an annual work plan developed from  
+its terms of reference and linked to the Company's  
+corporate calendar.
+Since March 2013, the committee has:
+ > reviewed the 2013 annual report and financial statements, 
+the 2014 half year review and 2014 annual report and 
+financial statements;
+ > received reports from the external auditor on their audit  
+of the annual report and financial statements and the half 
+year review; 
+ > considered key accounting policies and judgements, the 
+going concern assumption and compliance with relevant 
+accounting standards; Strategic report Governance Financials
+Advanced Computer Software Group plc 
+Annual Report 2014
+39
+ > reviewed and agreed the scope of the audit work to be 
+undertaken by the external auditor;
+ > agreed the fees to be paid to the auditor for their audit  
+of the 2014 report and accounts and financial statements;
+ > monitored the external auditor's compliance with applicable 
+ethical guidance and, in addition, considered their 
+independence and objectivity taking into account  
+all appropriate guidelines;
+ > recommended to the Board the reappointment  
+of the external auditor; and
+ > reviewed the whistleblowing policy and the policy  
+on use of the external auditor.
+The committee received a report from management setting 
+out the main items of discussion with the external auditor in 
+relation to the 2014 audit and the key areas of judgement taken 
+by management on each. The significant judgements considered 
+by the committee in relation to the 2014 accounts were:
+ > revenue recognition 
+Revenue is recognised to the extent that it is probable that 
+economic benefits will flow to the Group. There is a key area 
+of judgement in the timing of this recognition, in particular 
+around large contracts and the percentage complete for 
+each one at a period end. The Group's revenue recognition 
+policy is as set out in note 3 to the financial statements and 
+has been followed consistently throughout the year. The 
+committee has concluded that the timing of recognition 
+continues to be in line with IFRS requirements and is 
+comfortable that the judgements made are appropriate.
+ > impairment of intangible assets 
+The carrying amounts of the Group's goodwill and 
+acquisition-related assets were reviewed to determine 
+whether there was any indication of impairment. The key 
+judgement surrounds whether the discounted future cash 
+flows of the cash generating units (CGUs) exceed the book 
+value of their intangible assets. The committee is satisfied 
+that there is considerable headroom between the values in 
+use calculated and the values of the intangible assets in the 
+books. In addition, the Group's external market 
+capitalisation - a useful comparator for the value of the 
+intangibles as the Group is largely made up of acquisitions 
+- was considered. At the year end, the market capitalisation 
+was, and continues to be, significantly in excess of the assets 
+on the balance sheet. The committee concurs with 
+management's assessment that the value in use of the CGUs 
+exceeds the carrying value of the goodwill and intangible 
+assets and consequently that no goodwill impairment is 
+required. Further information on the treatment of intangible 
+assets is set out in note 12 to the financial statements on 
+page 68.
+ > deferred tax 
+The key judgement in this area relates to recognition of 
+deferred tax assets on future tax benefits available from 
+losses and other tax deductible items brought forward from 
+prior periods, in this case acquired with acquisitions. A 
+deferred tax asset is only recognised where it is likely that tax 
+benefits can be utilised in the next three years. Tax benefits 
+are not recognised if there is any uncertainty over whether 
+the benefits can be utilised.
+ > going concern 
+In considering going concern, the committee reviewed 
+cash flow forecasts for the four years to February 2018 and 
+debt covenant forecasts for the same period. The forecasts 
+indicated that the Group should comfortably generate 
+sufficient cash to pay down and service its debts. 
+Consequently, the committee agreed that it was appropriate 
+to apply the going concern concept to the preparation of 
+the financial statements.
+ > purchase price allocation 
+When the Group makes an acquisition, it is required  
+to separately value all assets acquired. For significant 
+acquisitions, the Group uses specialist external valuers. 
+The committee considered the report from these valuers  
+for the CSH and Compass acquisitions during the year  
+and concluded that the valuations shown in the financial 
+statements were appropriate.
+External auditor
+The committee is responsible for managing the Group's 
+relationship with the external auditor, including approving  
+the terms of their engagement and monitoring their 
+independence, objectivity and compliance with ethical and 
+regulatory requirements. A formal external auditor policy, 
+which includes details of the non-audit services which the 
+external auditor is and is not allowed to provide to the Group, 
+together with a policy on the employment of former partners 
+and employees of the external auditor, is in place and is 
+reviewed annually.
+Internal audit function
+The committee considers on an annual basis the requirement 
+for an internal audit function. Due to the size and complexity  
+of the Group, the committee continues to believe that there  
+is no requirement for an internal audit function at this time. 
+Instead, the Group-level finance function will continue  
+to review the financial reporting provided by the subsidiary 
+operations. Since last year, the Group-level finance function 
+has been expanded and its skills base enhanced.
+Conclusion
+As a result of its work during the year, the Audit Committee 
+considers that it has acted in accordance with its terms of 
+reference and has ensured the independence and objectivity  
+of the external auditor.
+The Chairman of the committee will be available at the annual 
+general meeting to answer any questions about the work  
+of the committee.
+On behalf of the Audit Committee
+Michael Jackson
+Chairman
+4 June 2014

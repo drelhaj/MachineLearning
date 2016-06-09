@@ -1,0 +1,189 @@
+   - 4 -
+CORPORA PLC 
+ 
+Chairman's Statement 
+Year ended 30 June 2005 
+___________________________________________________________________ 
+Introduction  
+Corpora is a world leader in the development of text analysis software solutions that tackle 
+'information overload' and accelerate understanding of textual information. The company's 
+objective is to simplify the working life of people who have to read and understand increasing 
+volumes of text in today's information-rich world.  
+Corpora develops and sells a suite of unique natural language processing solutions that help 
+people locate, analyse and employ the knowledge within text documents. Each product has 
+at its core Corpora's patented linguistic processing engine that is able to read text and 
+extract its meaning.  
+This human-like  understanding of language is employed within a variety of solutions that 
+automate a range of typical reading tasks. The Corpora suite of products can understand the 
+underlying events and sentiment of hundreds of news stories, create accurate summaries of 
+a number of large documents, or create a complete index of the contents of one or more 
+documents. 
+The company's document reading tools enable knowledge workers to reduce the time taken 
+to read documents and extract the knowledge they need to do their jobs. By lightening the 
+heavy load of reading, the software helps to increase the speed, accuracy and productivity of 
+a modern knowledge workforce. 
+Corpora's software supports people in diverse, and geographically dispersed, information 
+rich organisations and markets including Government and Public Sector, Energy, Finance, 
+Engineering, Legal, Pharmaceutical, Healthcare, e-Publishing and Defence. 
+Corpora's products help our clients extract new value from their existing investments in 
+Information Systems such as document management systems, content management 
+systems, search engines and intranets. 
+The Corpora product suite comprises the following: 
+Jump! 
+Jump! creates an easy to use index, known as a navigation tree, of the entire contents of 
+large documents such as contracts, RFPs and reports. The index shows the terms (nouns), 
+and their various contexts (verbs) to allow users to navigate directly to the people, 
+companies, objects and events they require information about. Each sentence in the 
+navigation tree hyperlinks back to the same sentence within the source document and the 
+user can navigate multiple documents in different formats simultaneously (Microsoft Word, 
+Adobe PDF & HTML). Users can annotate their Jumped documents and share them with 
+colleagues.   
+Summarize! 
+Summarize! creates accurate summaries of long text documents at the click of a button. 
+These summaries can be of any length to meet the user's needs, and they can be skewed  
+__________________________________________________________________________    - 5 -
+CORPORA PLC 
+Chairman's Statement (continued) 
+Year ended 30 June 2005 
+_________________________________________________________________________________ 
+using key words towards a particular area of interest using Corpora's unique, patented 
+targeted summary  feature. Summarize! helps provide improved meta tagging within existing 
+Content Management systems. Summarize! cuts research times, accelerates 
+responsiveness and reduces print spend. 
+Find! 
+Find! is a more accurate, more scalable and more secure enterprise search engine. Find! 
+searches local and online files intelligently via a  learning spider' offering more accurate 
+results. Find! provides maximum security by separating document access control from 
+administration of the search engine. Find! employs a unique cellular architecture that makes 
+it a scalable solution which will work on a single PC, or in an enterprise-wide deployment.  
+Connect!  
+Connect! is a collaboration platform which integrates advanced search and expertise-location 
+solutions to lets users create communities to address business objectives and support them 
+with tools that find, store and share information and expertise. 
+Burst> 
+Burst> clusters news articles into discrete events to provide news analysts with an instant 
+overview of the key events, vastly accelerating news analysis. Burst> also provides named 
+entity extraction to show users instantly what people, places and organisations are 
+mentioned in the news. 
+Sentiment> 
+Sentiment> is a cutting edge natural language processing system that reads news articles to 
+determine if coverage is positive, negative or neutral. This provides news analysts and 
+investors with instant understanding of large volumes of news - without reading. 
+In summary, Corpora has created unique, world leading technologies that meet a proven and 
+growing demand to reduce text information overload. Gartner predicts the worldwide KM 
+tools segment to grow to $5.04bn by 2008.  
+Corpora is successfully creating a customer base for our solutions within both Europe and 
+the United States. 
+Secondary Placings 
+ 
+The Group raised  250,000 in December 2004 following a brief restructuring of its cost 
+base. 
+ 
+In March 2005 the Group secured a draw-down funding facility of US$10,000,000 in 
+anticipation of potential acquisitions and working capital requirements. This facility 
+remains available to the Group without obligation for a further two year period.  
+ 
+ 
+ 
+ 
+_______________________________________________________________________    - 6 -
+CORPORA PLC 
+Chairman's Statement (continued) 
+Year ended 30 June 2005 
+_________________________________________________________________________________ 
+ 
+In April 2005 the Group successfully placed  3,000,000 of ordinary shares with 
+institutional investors. These funds were raised in anticipation of continuing working 
+capital demands, specifically to improve and grow sales and marketing activity both in 
+Europe and in the United States. 
+Acquisitions  
+ 
+On 6
+th
+ August 2004 we acquired Brighton based Algorithmix Limited for  483,571. 
+Located at the University of Sussex Technology Centre Algorithmix is one of the UK's 
+leading developers of language interpretation software. They make advanced text 
+processing software, using artificial intelligence techniques. This technology has been 
+successfully integrated into the Corpora product suite and key personnel at Algorithmix 
+now form the core of our algorithmic development team. 
+Results  
+We are delighted to be able to announce an increase in revenues of 287% and a reduced 
+loss per share (excluding goodwill) of 6.0p (2004: 11.0p) during the period, and a basic 
+loss per share of 11.5p (2004: 16.1p). Revenues of  1,930,101, were nearly 4 times 
+prior year revenues and demonstrate a strong improvement in the groups' performance 
+as people and products have been integrated into one coherent sales-led organisation. 
+EBITDA loss of  2,421,500 (2004:  1,677,645) reflects the impact of acquisitions in 
+2004 and 2005 including the integration of previously acquired technologies into the 
+Corpora product suite. This EBITDA loss is stated after charging non-recurring acquisition 
+integration costs and abortive acquisition costs totaling  269,832, and a share scheme 
+charge of  51,464. The operating loss for the year was  4,665,855 (2004:  2,542,063). 
+Going forward the Group is well placed to increase sales and begin to generate cash. 
+Dividend  
+No dividends have been declared for the year ending 30 June 2005.  
+Board changes  
+During the year two changes were made to the Board, reflecting the continued 
+development of the company. 
+Daniel Wajzner joined the Board as Chief Technology Officer and has performed well in 
+turning the research and development department into a sales delivery and support 
+team.  
+Current trading  
+Our marketing efforts this year have paid dividends and we now have a healthy pipeline 
+of current and potential software customers. We have several significant sales confirmed 
+and further large deals approaching conclusion about which we will make further 
+announcements to shareholders in due course. 
+ 
+  
+_______________________________________________________________________    - 7 -
+CORPORA PLC 
+Chairman's Statement (continued) 
+Year ended 30 June 2005 
+_________________________________________________________________________________ 
+The future  
+We believe that we are well in line to fulfil our strategy and grow revenues. We look 
+forward to significant growth during 2005/6.  
+Annual General Meeting  
+We shall be holding our Annual General Meeting at the office of Daniel Stewart & Co PLC, 
+Becket House, 36 Old Jewry, London, EC2R 8DD at 10.30 am, on Tuesday, 17
+th
+ January 
+2006.  
+ 
+ 
+Robert Lowe,   22 December 2005 
+ 
+Corpora plc  
+Robert Lowe, Chairman 
+4 Stirling House, Stirling Road, Guildford, Surrey GU2 7RF 
+ tel. +44 (0) 1483 442 000 fax. +44 (0) 1483 443 001  
+www.corporasoftware.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+__________________________________________________________________________ 

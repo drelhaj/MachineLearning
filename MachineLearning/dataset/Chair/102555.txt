@@ -1,0 +1,330 @@
+ 3
+Overview
+I
+am pleased to present the
+results of InTechnology plc for
+the year ended 31 March 2003
+which show a strong performance
+in a challenging market for IT
+expenditure. 
+Our strategy this year has been
+twofold. First and foremost, our
+goal has been to align the
+business to manage the downturn
+across the IT industry by ensuring
+that we maintain our significant
+market share. We have continued
+to consolidate our position by
+aggressively driving volumes in
+our SSS Division and successfully
+offering managed infrastructure
+services to new customers. The
+result is a robust sales
+performance in SSS and
+continued growth in the value of
+contract wins in MDS, which now
+stands in excess of  40m (2002:
+ 22m) and will generate  10.5m
+of recurring revenue per annum
+(2002:  6.9m).
+A focus on costs has also been
+necessary during the year to
+protect margins. The closure of
+our German subsidiary and better
+expenditure control have enabled
+us to achieve a consistent cost
+level, despite our investment in
+new services.
+The second strand of our strategy
+has been to underpin the future
+success of the business through
+new developments and expansion.
+The first of these has been
+achieved through the continued
+progress with our MDS division,
+as well as exciting new
+developments such as our
+UK-wide high bandwidth network
+and our long-term data storage
+proposition. As far as expansion
+is concerned, the proposed
+acquisition of Allasso not only
+adds distribution capability across
+Europe, but also introduces a new
+and rapidly expanding service line
+to our offering.
+Trading and operating
+performance
+As noted in our interim financial
+statement, we have not
+experienced quite the same
+decline in revenues felt by much
+of the IT industry and believe that
+we have grown our market share.
+The volume of data storage
+products sold continues to
+increase but, on account of the
+significant price erosion, we have
+reported a marginal decline in
+overall revenues compared to the
+prior year. We continue to adopt a
+rigorous approach to cost control
+which has enabled us to maintain
+reasonable profit margins.
+Turnover for the year was
+ 156.9m (2002:  158.1m) and
+despite the market environment,
+gross profit increased to  23.3m
+(2002:  22.3m). Net operating
+expenses before depreciation,
+amortisation of goodwill and
+exceptional items remained
+consistent at  19.3m (2002:
+ 19.4m). Total net operating
+expenses were  29.8m (2002:
+ 104.6m). Earnings before
+interest, tax, depreciation,
+amortisation of goodwill and
+exceptional items improved to
+ 3.9m (2002:  2.8m). Total
+operating loss before interest and
+tax was  6.6m (2002:  82.7m).
+The Group reported a loss for the
+financial year of  7.0m (2002:
+ 83.2m) resulting in a loss per
+share of 5.10p (2002: 60.23p).
+InTechnology's balance sheet
+remains strong, with cash of
+ 18.2m (2002:  23.3m) and 
+net cash, after finance leases 
+and term loans, of  10.0m 
+(2002:  13.7m). 
+Executive Chairman's statement
+ ... the proposed acquisition of Allasso not only adds
+distribution capability across Europe, but also
+introduces a new and rapidly expanding service 
+line to our offering .  4
+SSS Division
+The mix of revenues within SSS
+has changed over the last year
+with growth in our HP, IBM and
+Software and Service activities
+offset by a decline in sales of Sun
+equipment. Software and Services
+revenues have continued to
+increase and we will continue to
+focus on growing these in the
+year ahead. 
+In the year, SSS has achieved
+revenues of  148.7m (2002:
+ 154.0m) but, with reduced costs,
+has reported a small decrease in
+operating margins before goodwill
+amortisation to 5.5% (2002:
+5.7%). Operating margin after
+goodwill amortisation was 4.3%
+(2002: 4.6%). The Division
+returned an operating profit
+before goodwill amortisation of
+ 8.1m (2002:  8.8m). Divisional
+operating profit before interest
+and tax was  6.4m (2002:  7.1m).
+Consultancy, maintenance and
+software revenues amounted to
+16.6% (2002: 12.8%) of the
+Division's revenue.
+MDS Division
+MDS has achieved revenues of
+ 8.2m (2002:  4.1m), with an
+operating loss before goodwill
+amortisation and exceptional
+items of  9.1m (2002:  9.7m),
+which reflects our ongoing
+investment in the division.
+Divisional operating loss before
+interest and tax was  13.0m
+(2002:  89.4m).
+The division secured a number of
+high profile customer wins,
+including Chrysalis, Harvey
+Nichols, Numis, Cheshire Police,
+The Department for Transport,
+Sitel, Scottish Enterprise and
+WS Atkins. Roll out and
+deployment of these managed
+services tends to commence some
+months after the contract is won
+so the financial impact of these
+recurring revenues tends not to be
+seen until up to six months later.
+New developments
+In February 2003, we introduced a
+high bandwidth communications
+network running through 19 of
+the UK's major cities to support
+MDS. This Wide Area LAN
+Extension Service provides
+powerful and secure connectivity
+for our enterprise clients, enabling
+them to backup large data
+volumes on a national basis rather
+than, as previously, in the London
+area alone. 
+Although only recently
+commissioned, we are already
+seeing our clients benefit from its
+performance and the expanded
+range of services we can now
+offer them. Clients who have
+adopted our managed storage
+service are now also taking
+internet access, hosting and pure
+connectivity services from us.
+This spring we launched a pilot
+programme to test our managed
+long-term storage proposition to
+address clients' needs to securely
+archive data. There is a growing
+need to archive electronic records
+in industry and the public sector
+which is driven in part by
+regulatory pressure. We continue
+to anticipate that future data
+storage solutions will incorporate
+these features. 
+Executive Chairman's statement cont.
+ ... high profile
+customer wins,
+including Chrysalis,
+Harvey Nichols, Numis,
+Cheshire Police, 
+The Department for
+Transport, Sitel,
+Scottish Enterprise
+and WS Atkins.  5
+Operational changes
+With all the indicators showing
+substantial potential for
+InTechnology's services, especially
+among blue-chip companies, we
+have undertaken two operational
+changes this year which we
+believe will position InTechnology
+more effectively to exploit the
+opportunities we see in the
+storage market.
+  We have grouped all of the
+development, support and sales of
+our Managed Services into a
+single operation, accountable for
+the entirety of its activities. While
+MDS was in its infancy, it was
+beneficial to separately manage
+the development, support and
+sales of these services. They are
+now sufficiently robust to be run
+as a single division, run by a
+newly appointed executive. 
+  In the interests of rigorous
+cost control, we closed our
+loss-making subsidiary in
+Germany in October 2002. This
+subsidiary was engaged purely in
+the provision of managed services
+where we felt that greater critical
+mass and relationships were
+required to ensure success. The
+intended acquisition of Allasso is
+expected to provide a firmer
+platform for the launch of
+managed services again as well as
+for storage product sales. 
+Allasso
+In April 2003, we announced that
+we had agreed to purchase the
+pan-European specialist security
+distributor Allasso from its parent,
+Articon-Integralis. Allasso will
+provide us with a platform of
+some 7,000 additional resellers
+across six European countries
+through which we can expand our
+storage sales. In the year ended
+31 December 2002 Allasso
+reported proforma revenues of
+ 152.0m ( 104.8m)
+1
+and EBITDA
+of  10.5m ( 7.2m)
+1
+. EBIT was
+ 8.3m ( 5.7m)
+1
+.
+The network security market,
+where Allasso is strongest, is
+an attractive growing market
+and complementary to the
+storage market as almost all new
+data storage devices are linked
+into networks and are in need
+of security.
+The acquisition is conditional
+upon Articon-Integralis
+shareholder approval at a general
+meeting on 23 June 2003 with
+anticipated completion at the end
+of July 2003. 
+Current trading
+The first two months of this
+fiscal year show no change in the
+data storage market conditions
+from the preceding half. The
+performance of our SSS Division
+in this period has started in the
+same vein as at the start of last
+year. Encouragingly, activity levels
+in our MDS Division remain high
+with a run rate of contract wins
+in line with our expectations.
+Outlook
+Data volumes continue to grow
+inexorably and organisations of all
+sizes are looking for solutions to
+the critical problems of data
+management and storage. At the
+same time, companies everywhere
+are looking for ways to contain or
+reduce IT spend. So, in close
+partnership with vendors and our
+customers, we will continue to
+explore ways to provide the value
+and services that clients need. 
+We expect our portfolio of
+managed data services (which
+includes offsite backup, data
+replication, hosting, network
+connectivity and other
+infrastructure-related services),
+to become increasingly popular
+among our partners as a means to
+enable their clients' organisations
+to outsource the network
+computing elements of their IT
+which are capital intensive and
+time-consuming for enterprises
+to manage.
+Peter Wilkinson
+Executive Chairman
+10 June 2003
+Executive Chairman's statement cont.
+ ... organisations of all
+sizes are looking for
+solutions to the
+critical problems of
+data management 
+and storage . 
+Note
+1
+An exchange rate of  1 to  1.45
+is assumed.

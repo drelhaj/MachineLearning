@@ -1,0 +1,244 @@
+ Notes to the consolidated financial statements
+7  Taxation (continued)
+ 
+Deferred Tax  
+    2006   2005
+ Recognised Un-recognised Recognised Un-recognised
+    000    000    000    000
+  Deferred tax assets 
+    Accelerated capital allowances - 1,116 - 787
+    Losses carried forward 674 10,315 - 10,270 
+    Share option recognised through 
+      Income statement 147 - - - 
+      Equity 390 - - -
+ 1,211 11,431 - 11,057 
+ 
+  Deferred tax liability 
+    Hedge asset (25) - - - 
+ 
+  Net deferred tax asset 1,186 - - -
+ 
+Subject to agreement with the Inland Revenue, the Group has United Kingdom tax losses of approximately  6,770k at 
+31 December 2006 (2005:  9,709k) available to relieve future trading profits in the United Kingdom.  Additionally, the Group has 
+overseas losses of  25,096k at 31 December 2006 (2005:  17,866k) available to relieve future overseas trading profits.
+No deferred tax asset is recognised in relation to these losses nor in relation to accelerated capital allowances due to inherent 
+uncertainty regarding their recoverability except for losses brought forward in Switzerland, where a deferred tax asset has been 
+recognised on the basis of current profits and the probability of future profits in that entity. 
+ 
+A deferred tax asset also arises on share options granted in the year. 
+ 
+A deferred tax liability has been recognised on the fair value gains in the year on cash flow hedges.
+Notes to the consolidated financial statements
+7  Taxation
+ 
+ 2006 2005
+    000    000
+  Current tax 
+    Foreign tax  - Corporation tax 12 42 
+ 
+  Total current tax 12 42 
+  Deferred tax 
+    Asset not previously recognised on available losses (674) -
+    Asset on share options (147) -
+  Total deferred tax (821) 42 
+ 
+  Total tax (credit)/charge (809) 42 
+ 
+ 
+The tax charge for the year is higher than the standard rate of corporation tax in the UK which is 30% (2005: 30%).  
+ 
+The differences are explained below:
+ 2006 2005
+    000    000
+  Tax reconciliation 
+  Loss before tax  (4,249) (4,697)
+  UK corporation tax at 30% (2005:  30%)  (1,275) (1,409)
+  Effects of 
+  Items not deductible for tax purposes  457 1,435
+  Depreciation in excess of capital allowances   23   188
+  Differences between overseas and UK tax rate  (256) (105)
+  Utilisation of tax losses brought forward  (1,056) (979)
+  Current year losses not utilised  1,285   868
+  Other  13    44
+  Total tax (credit)/charge for the year  (809)    42  
+ 
+ 
+ 
+ 
+IXEurope Annual Report 2006
+47
+IXEurope Annual Report 2006
+46 Notes to the consolidated financial statements
+9 Intangible assets
+ Positive Goodwill  Customer Contracts Total
+    000    000    000  
+  Cost  
+  Balance at 1 January 2005 3,648 - 3,648
+  Additions in the year 54 - 54
+  Effect of movements in foreign exchange (106) - (106)
+  Balance at 31 December 2005 3,596 - 3,596
+  
+  Additions in the year - 397 397
+  Effect of movements in foreign exchange (70) - (70)
+  Balance at 31 December 2006 3,526 397 3,923
+  Amortisation  
+  Balance at 1 January 2005 and 31 December 2005 - - -
+  Charge for the year - 64 64
+  Effect of movements in foreign exchange - (1) (1)
+  Balance at 31 December 2006 - 63 63
+  
+  Net book value  
+  Balance at 1 January 2005 3,648 - 3,648
+  Balance at 31 December 2005 3,596 - 3,596
+  Balance at 31 December 2006 3,526 334 3,860
+Customer contracts
+The customer contracts intangible asset arose on acquisition of contracts during the year and is amortised on a straight line basis 
+over the finite life of the contract to which it relates. In the year amortisation of  64k (2005: Nil) was included in administrative 
+expenses.
+Notes to the consolidated financial statements
+8  Loss per share
+Basic Loss Per Share
+The basic loss per share has been calculated by dividing the net loss attributable to ordinary shareholders by the weighted average 
+number of shares in issue during the year.
+ 2006 2005
+  Net loss attributable to ordinary shareholders (   000)  (3,440)  (4,697)
+  Weighted average number of ordinary shares in issue 141,107,050  46,675,232 
+  Basic and diluted loss per share  (2.4p)  (10.1p)
+                    
+Diluted Loss Per Share
+The diluted loss per share has been calculated by dividing the net loss attributable to ordinary shareholders by the weighted 
+average number of shares in issue during the year, adjusted for potentially dilutive shares that are not antidilutive. All potentially 
+dilutive shares are antidilutive.
+ 2006 2005
+  Weighted average number of ordinary shares in issue 141,107,050 46,675,232 
+  Adjustment for share options 4,897,004 293,750 
+  Adjustment for Priority Preference shares 1,212,500 4,850,000 
+  Adjustment for convertible shareholder loan 2,000,000 8,000,000 
+  Adjustment for convertible deep discount bonds 458,799 1,835,198 
+  Weighted average number of potential ordinary shares in issue 149,675,353 61,654,180 
+                    
+                   
+IXEurope Annual Report 2006
+49
+IXEurope Annual Report 2006
+48 IXEurope Annual Report 2006
+Notes to the consolidated financial statements
+42
+10  Property, plant and equipment
+Year ended 31 December 2006
+ Freehold land Short leasehold Assets in the Plant and Fixtures, Total 
+ and buildings improvements course of machinery fittings, tools   
+   construction  and equipment
+     
+    000    000    000    000    000    000
+  Cost 
+   
+  At beginning of year  4,780) 2,939) 2,367) 33,983) 6,405) 50,474)
+  Additions -) 141) 6,401) 5,737) 1,626) 13,905)
+  Disposals -) -) -) -) (2)) (2))
+  Transfers -) 15) (6,239)) 6,224) -) -)
+  Currency translation  
+  differences (93)) (10)) (56)) (478)) (124)) (761))
+  At end of year 4,687) 3,085) 2,473) 45,466) 7,905) 63,616)
+  Depreciation 
+   
+  At beginning of year 57) 1,795) 532) 16,215) 4,319) 22,918)
+  Charge for year 169) 62) -) 4,462) 1,007) 5,700)
+  Disposals -) -) -) -) (1)) (1))
+  Currency translation  
+  differences (4)) (9)) (29)) (269)) (96)) (407))
+  At end of year 222) 1,848) 503) 20,408) 5,229) 28,210)
+  Net book value 
+  At 31 December 2006 4,465) 1,237) 1,970) 25,058) 2,676) 35,406)        
+  Net book value of  
+  assets held under  
+  finance lease 
+  At 31 December 2006 -)  -) -) 1,499) 608) 2,107)
+  At 31 December 2005 -) -) -) 1,725) 1,124) 2,849)
+                   
+                  
+ All material assets are held as security against the bank loans of the Group.                 
+Notes to the consolidated financial statements
+9 Intangible assets
+Impairment Tests For Cash-Generating Units Containing Goodwill
+The following Group of units have significant goodwill:
+ 
+ 2006 2005
+    000    000
+  Group made of IXDatacentre Frankfurt1  
+  & IXDatacentre Zurich1 3,473 3,542
+  Units without significant goodwill 53 54
+ 3,526 3,596
+The recoverable amount of the Group of cash generating units Frankfurt1 & Zurich1 is based on value in use calculations. Those 
+calculations use cash flow projections based on the three year budget ending 31 December 2009 as approved by the Group Board. 
+Cash flows beyond this period have been extrapolated with no assumed growth. The discount factor has been determined as 13.6% 
+based on the Company's weighted average cost of capital.
+The key assumptions used and the approach to determining their value are:
+  Assumption How Determined
+  Operating margin This is based on detailed plans of IXDatacentre  space available and past experience  
+ of management after the period of the official budget. 
+  
+Management approved budgets are estimated based on past performance and expectations of future developments.
+IXEurope Annual Report 2006
+51
+IXEurope Annual Report 2006
+50 Notes to the consolidated financial statements
+11  Trade and other receivables
+  Current 2006 2005
+    000    000
+  Trade debtors 4,836 2,074
+  Other debtors 449 783 
+  Prepayments and accrued income 1,392 1,038
+   6,677 3,895
+ 
+  Non current 2006 2005
+    000    000
+  Other debtors - 85 
+  Hedging asset 82 -
+  Prepayments and accrued income 111 -
+  Security deposit  3,033 2,371 
+ 3,226 2,456 
+Security deposits include long-term rent deposits for facilities held under operating leases and security held under a sale and 
+leaseback facility.
+12  Cash and cash equivalents
+ 2006 2005
+    000    000
+  Bank balances 4,516 4,456
+  Cash and cash equivalents 6,456 6,501 
+  Bank overdrafts  -                (10)
+  Cash and cash equivalents in statement of cash flows 6,456 6,491  
+ 
+  Restricted cash included within cash and cash equivalents 2,078 2,045
+Restricted cash has been disclosed within cash and cash equivalents in accordance with IAS 7.
+Notes to the consolidated financial statements
+10  Property, plant and equipment (continued)
+Year ended 31 December 2005
+ Freehold land Short leasehold Assets in the Plant and Fixtures, Total 
+ and buildings improvements course of machinery fittings, tools   
+   construction  and equipment
+     
+    000    000    000    000    000    000
+  Cost 
+    
+  At beginning of year -) 2,165) 679) 28,096) 4,964) 35,904)
+  Acquisition -) 832) - 5,038) 505) 6,375)
+  Additions 4,780) - 1,712) 1,426) 1,062) 8,980)
+  Disposals -) - -) -)   (22)   (22)
+  Currency translation  
+  differences -)    (58)   (24) (577) (104) (763)
+  At end of year 4,780) 2,939) 2,367) 33,983) 6,405) 50,474)
+  Depreciation 
+    
+  At beginning of year -) 1,836) 551) 13,084) 3,066) 18,537)
+  Acquisition -) -) -) 424) 446) 870)
+  Charge for year 56) 8) -) 2,956) 867) 3,887)
+  Disposals -) -) -) -)    (3)    (3)
+  Currency translation  
+  differences 1)   (49)   (19) (249)   (57) (373)
+  At end of year 57) 1,795) 532) 16,215) 4,319) 22,918)
+  Net book value 
+  At 31 December 2005                4,723)         1,144 )              1,835              17,768                2,086              27,556
+IXEurope Annual Report 2006
+53
+IXEurope Annual Report 2006
+52

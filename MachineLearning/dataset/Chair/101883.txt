@@ -1,0 +1,241 @@
+ 03 Innovision Research & Technology plc Annual Report and Accounts 2007
+Summary
+Over the past year the Company has made 
+good progress winning and extending contracts
+and, in particular, won a major new contract 
+during the year and another since the year 
+end. There has also been significant 
+recruitment of new staff, improvements 
+to the engineering tools, investment in 
+developing our Intellectual Property (IP) 
+base and improvement in the financial 
+performance. The Company is in a good 
+position to exploit the market opportunities 
+in the near and medium term.
+Financial results
+The fi nancial results also show a marked 
+improvement from 2005/06. With the benefi t 
+of high royalty and licence revenues, turnover 
+has more than doubled to  3.5 million 
+(2006:  1.7 million). The loss has halved 
+to  1.5 million (2006:  3.0 million).
+The investment in research and 
+development increased to  1.7 million 
+(2006:  0.6 million) of which  1.4 million 
+related to the development of IP aimed 
+primarily at the Near-Field Communications 
+(NFC) market, though with general relevance 
+to a number of complementary RFID areas. 
+This is a signifi cant investment, but it has 
+already been endorsed with the signing of 
+a recent three year framework agreement 
+and it puts us in a strong position going 
+forward to capitalise on NFC market growth 
+through licence income and development 
+revenue relating to customisation for 
+specifi c customers. We intend to continue 
+to invest in this area to keep ourselves 
+at the leading edge of design and 
+design techniques.
+Development funding from customers 
+was relatively unchanged at  1.2 million 
+(2006:  1.3 million) while there was a 
+notable increase in royalty and licence 
+revenue to  1.8 million (2006:  0.3 million). 
+The Company also generated  0.4 million 
+income (2006:  nil) from product sales 
+related to wafer shipments.
+Cash reserves at year end stood at  1.8 million
+(2006:  4.1 million). The net cash movement for (2006:  4.1 million). The net cash movement for (2006:  4.1 million). The net cash movement
+the year has been negatively impacted by 
+the timing of some signifi cant payments 
+(approximately  1.1 million) on long term 
+contracts which are anticipated to reverse 
+in the fi rst half of 2007/08. 
+However we believe we need to invest 
+ahead of the predicted revenues and will 
+require additional cash resources. The Company
+will therefore announce a placing of 14.4m 
+new ordinary shares of 1 pence each 
+raising approximately  6.5 million before 
+expenses ( 6.2 million net of expenses).
+Contracts
+We have moved forward on the RFID 
+contracts in progress at the beginning of 
+the year. Three designs progressed to initial 
+prototype design and chips were delivered 
+into a novel toy application for a large US 
+company. There has also been signifi cant 
+progress within the contactless ticketing 
+activity for mass transport with the fi rst order 
+of a new multi-million unit design win 
+received in May 2007.
+During the year, the Company secured a 
+major new contract in the NFC area and 
+since the year-end we have signed a signifi cant
+three-year framework agreement for a series 
+of Integrated Circuit (IC) designs for NFC. 
+Both contracts are with major semiconductor 
+companies selling into the mobile handset 
+market, which endorses the IP , skills and 
+knowledge we have built up in NFC.
+Strategy
+The Company's strategy remains the 
+development and licensing of IC designs 
+and IP for the near-fi eld data communications 
+market and recent contract wins and current 
+opportunities support our belief that we 
+have a strong and unique offering in 
+this sector.
+Our current focus is on NFC and our 
+presence as a key player on the NFC Forum, 
+our custom IC design capability and our 
+investment in growing the IP portfolio provide 
+a solid base on which to grow as the NFC 
+market develops. We will continue to look 
+for additional opportunities to apply our 
+design skills and IP within other near-fi eld 
+data communications and RFID markets 
+both in engineering, licensing and product 
+development at chip level (such as Topaz
+ 
+and Jewel
+ 
+) and at systems level.
+The Chairman's and the Chief Executive's Report 04 Innovision Research & Technology plc Annual Report and Accounts 2007
+Strategy continued
+We are seeking to develop partnerships 
+with leading companies whose market, 
+geographic reach and capabilities complement
+our own. Through these partnerships we 
+will continue to offer standards-based 
+products and capabilities specifi cally tailored 
+to the market they serve.
+Markets
+We are seeing increasing prominence 
+given to NFC, with the mobile operators 
+in the GSM Association promoting NFC 
+through white papers, statements from 
+certain operators that NFC is part of their 
+future requirements, mobile handset 
+manufacturers identifying NFC on their 
+product roadmaps and numerous successful 
+trials underway, including use of NFC for 
+contactless payments and ticketing, both 
+of which are applications targeted by the 
+Company. The indications are that mass 
+market devices will start to be shipped 
+during 2008/09 with growth predicted 
+over the following years. 
+Our expertise in value-added RFID tags 
+has enabled us to tape-out two designs 
+in this area which we believe are market 
+leading technology. We are targeting further 
+RFID designs and expect royalties from 
+these products to begin towards the end of 
+the 2007/08 and to be material in 2008/09.
+Mass Transit remains a potentially large 
+market for our contactless ticketing chip, 
+Jewel
+ 
+. Overall uptake of contactless 
+ticketing by mass transit organisations 
+is slower than anticipated and the Jewel
+ 
+chip's market share is lower than we would 
+have liked. However, we have recently shipped 
+an initial batch to a large transport customer 
+and have received a fi rst order of a new 
+multi-million unit design win. We continue to 
+promote Jewel
+ 
+ and whilst we have scaled 
+back our expectations we are confi dent this 
+can be a solid revenue stream in the future.
+We are constantly looking to fi nd additional 
+markets to which our core skills can add 
+value. We believe that a standards-based 
+approach can be successful in a number of 
+markets, both geographic and technology 
+specifi c. Our strategy to enter new markets 
+is to work with credible partners who have 
+the appropriate knowledge, contacts and 
+existing market presence to exploit the 
+opportunities presented. We have identifi ed 
+potential partners in a number of key 
+markets and will continue these discussions 
+over the coming months.
+Operations
+The last fi nancial year saw a signifi cant 
+expansion of our IC design team and other 
+functions in Cirencester, with more than 
+20 new hires. We invested heavily in new 
+Electronic Design Automation (EDA) design 
+tools from Cadence and Mentor Graphics, 
+which enable us to more easily interface 
+with our sophisticated global semiconductor 
+customers in a world-class design environment.
+ Our investment in Intellectual Property has already been endorsed 
+with the signing of a major three-year multiple design framework 
+agreement in May 2007.  05 Innovision Research & Technology plc Annual Report and Accounts 2007
+The Company plays a strong role in the NFC 
+standards body (see www.nfc-forum.org), 
+where we continue to chair a key technical 
+committee and now a key marketing committee.
+The Company is recognised as a leader in 
+custom IC design for this marketplace and 
+our profi le within the NFC Forum and the 
+global NFC community in general, combined 
+with the IP base and design capability, puts 
+us in a strong position to exploit the new 
+opportunities as they arise.
+Our experience in custom tag and 
+reader IC design combined with strong 
+systems design skills enabled us to deliver 
+approximately eight million tag chips in the 
+fi rst half of the year. Furthermore we have 
+invested in our chip testing facility and 
+in production planning in anticipation of 
+mass-market chip and tag demand over 
+the next few years.
+The Board of Directors
+We welcomed Brian McKenzie to replace 
+Mike Wroe as Finance Director, and Trevor 
+Crotch-Harvey stepped down as Sales Director.
+We would like to thank Mike and Trevor for 
+their contributions to the company. 
+Staff
+In the year under review we have 
+signifi cantly strengthened our engineering 
+capability in Cirencester and consolidated 
+the organisational structure and now have 
+an excellent team in place. We would like 
+to thank everyone at the Company for their 
+continued hard work and commitment. 
+Outlook
+The Company is confi dent of building 
+on the achievements of the past year with 
+good prospects of further contract wins. 
+As ever, the exact timing and nature of 
+contracts is diffi cult to predict, although 
+there has been a steady increase in the 
+interest in and demand for our capabilities 
+and business offering from a steadily 
+growing prospect list. This is made up 
+primarily of top global semiconductor 
+corporations who see our IP and custom 
+development capabilities as a way to add 
+considerable value to their own products 
+whilst reducing their risk, time to market, 
+cost and deployment of precious design 
+resources to add unique NFC capability.
+Malcolm Baggott
+Chairman
+19 June 2007
+David Wollen
+Chief Executive Offi cer
+19 June 2007
+ The last fi nancial year saw a signifi cant expansion of our IC design 
+team and other functions in Cirencester, with more than 20 new 
+hires and investment in new electronic design tools from Cadence 
+and Mentor Graphics. 

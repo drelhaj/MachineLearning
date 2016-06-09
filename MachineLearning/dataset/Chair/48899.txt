@@ -1,0 +1,200 @@
+ Comeleon Plc 11
+Year ended 18 months ended
+30 September 30 September
+2002 2001
+Note    
+TURNOVER  3 4,502,696 416,499
+Cost of sales    (3 ,404,025) (718,398)   
+Gross profit/(loss)    1,098,671 (301,899)   
+Administrative expenses    (4,378,907) (3,666,725)  
+Exceptional Administrative expenses 4   - (916,619)  
+Total Administrative expenses   (4,378,907) (4,583,344)  
+Other operating income    50,000 30,000   
+OPERATING LOSS 7   (3,230,236) (4,855,243)   
+Other interest receivable and similar income    91,243 245,497  
+Interest payable and similar charges 8   (128,728) (92,244)   
+LOSS ON ORDINARY ACTIVITIES BEFORE TAXATION (3,267,721) (4,701,990)   
+Tax on loss on ordinary activities 9  24,679 -   
+LOSS ON ORDINARY ACTIVITIES AFTER TAXATION (3,243,042) (4,701,990)   
+Equity minority interest    - 68,664   
+RETAINED LOSS FOR THE FINANCIAL PERIOD 
+WITHDRAWN FROM RESERVES 21   (3,243,042) (4,633,326)   
+Basic loss per ordinary share 11 (24.32p) (63.68p)   
+Basic loss per share before costs in connection 
+with flotation 11 (24.32p) (51.08p)   
+All activities derive from continuing operations.
+The group has no recognised gains and losses other than the loss for the current and preceding financial
+periods and therefore no separate Statement of Total Recognised Gains and Losses has been presented.
+During the prior period the holding company, Comeleon plc, acquired a new subsidiary, E-Comeleon
+Limited.  The prior period profit and loss account has been prepared using merger accounting and is
+presented on a proforma basis as if the group had been in existence throughout the prior period.  Further
+information is given in note 1.
+A consolidated profit and loss account from the date of incorporation of the holding company is given in
+note 31.
+CONSOLIDATED PROFIT AND LOSS ACCOUNT
+Year ended 30 September 2002
+We have audited the financial statements of Comeleon Plc for the year ended 30 September 2002 which
+comprise the profit and loss account, the statement of total recognised gains and losses, the balance
+sheets, the cash flow statement and the related notes 1 to 32.  These financial statements have been
+prepared under the accounting policies set out therein.
+RESPECTIVE RESPONSIBILITIES OF DIRECTORS AND AUDITORS
+As described in the statement of directors' responsibilities, the company's directors are responsible for the
+preparation of the financial statements in accordance with applicable United Kingdom law and accounting
+standards.  Our responsibility is to audit the financial statements in accordance with relevant United
+Kingdom legal and regulatory requirements and auditing standards.
+We report to you our opinion as to whether the financial statements give a true and fair view and are
+properly prepared in accordance with the Companies Act 1985.  We also report, if, in our opinion, the
+directors' report is not consistent with the financial statements, if the company has not kept proper
+accounting records, if we have not received all the information and explanations we require for our audit,
+or if information specified by law regarding directors' remuneration and transactions with the company
+and other members of the group is not disclosed.
+We read the directors' report and the other information contained in the annual report for the above
+period as described in the contents section and consider the implications for our report if we become
+aware of any apparent misstatements or material inconsistencies with the financial statements.
+BASIS OF AUDIT OPINION
+We conducted our audit in accordance with United Kingdom auditing standards issued by the Auditing
+Practices Board.  An audit includes examination, on a test basis, of evidence relevant to the amounts and
+disclosures in the financial statements.  It also includes an assessment of the significant estimates and
+judgements made by the directors in the preparation of the financial statements and of whether the
+accounting policies are appropriate to the circumstances of the company and the group, consistently
+applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we
+considered necessary in order to provide us with sufficient evidence to give reasonable assurance that the
+financial statements are free from material misstatement, whether caused by fraud or other irregularity
+or error.  In forming our opinion, we also evaluated the overall adequacy of the presentation of information
+in the financial statements.
+OPINION
+In our opinion the financial statements give a true and fair view of the state of affairs of the company and
+the group as at 30 September 2002 and of the loss of the group for the year ended and have been
+properly prepared in accordance with the Companies Act 1985.
+Chartered Accountants and Registered Auditors
+Date: 3/12/02
+10 Comeleon Plc
+INDEPENDENT AUDITORS REPORT
+INDEPENDENT AUDITORS REPORT TO THE MEMBERS OF COMELEON PLC COMPANY BALANCE SHEET
+30 September 2002
+Comeleon Plc 13
+2002 2001
+Note    
+FIXED ASSETS
+Investments 14 676,543 676,443 
+CURRENT ASSETS
+Debtors 16 12,342,363 8,602,596
+Cash at bank and in hand 140,451 7,454
+12,482,814 8,610,050
+CREDITORS: 
+amounts falling due within one year 17 (32,548) (147,917)
+NET CURRENT ASSETS 12,450,266 8,462,133
+TOTAL ASSETS LESS CURRENT LIABILITIES 13,126,809 9,138,576
+CREDITORS:
+amounts falling due after more than one year 18 - -
+PROVISION FOR LIABILITIES AND CHARGES 19 - -
+13,126,809 9,138,576 
+CAPITAL AND RESERVES
+Called up share capital 20 153,021 126,613
+Shares to be issued 21 555,469 666,619
+Other reserve 21 111,150 -
+Share premium account 21 12,483,869 8,589,543
+Merger Reserve 21 614,719 614,719
+Profit and loss account 21 (791,419) (858,918)
+TOTAL EQUITY SHAREHOLDERS' FUNDS 21 13,126,809 9,138,576   
+These financial statements were approved by the Board of Directors on 3/12/02
+Signed on behalf of the Board of Directors
+Director 
+2002 2001
+Note    
+FIXED ASSETS
+Intangible assets 12   839,460 828,060
+Tangible assets 13 2,317,683 1,699,107
+3,157,143 2,527,167
+CURRENT ASSETS
+Stocks 15   455,797 189,837  
+Debtors 16   4,704,713 596,253  
+Cash at bank and in hand    2,985,734 3,847,856   
+8,146,244 4,633,946  
+CREDITORS: 
+amounts falling due within one year 17   (4,587,070) (1,251,129)   
+NET CURRENT ASSETS / (LIABILITIES) 3,559,174 3,382,817
+TOTAL ASSETS LESS CURRENT LIABILITIES 6,716,317 5,909,984   
+CREDITORS: 
+amounts falling due after more than one year 18   (716,912) (588,271)
+PROVISION FOR LIABILITIES AND CHARGES 19   - -
+5,999,405 5,321,713   
+CAPITAL AND RESERVES
+Called up share capital 20   153,021 126,613  
+Shares to be issued 21 555,469 666,619
+Other reserve 21 111,150 -  
+Share premium account 21   12,483,869 8,589,543  
+Merger Reserve 21   615,614 615,614  
+Profit and loss account 21   (7,919,718) (4,676,676)   
+TOTAL EQUITY SHAREHOLDERS' FUNDS 22   5,999,405 5,321,713
+These financial statements were approved by the Board of Directors on 3/12/02
+Signed on behalf of the Board of Directors
+Director 
+12 Comeleon Plc
+CONSOLIDATED BALANCE SHEET
+30 September 2002 NOTES TO THE ACCOUNTS
+Year ended 30 September 2002
+Comeleon Plc 15
+1. ACCOUNTING POLICIES
+The financial statements are prepared in accordance with United Kingdom applicable accounting
+standards.  The particular accounting policies adopted are described below.
+Prior Period Basis of preparation
+(i) Acquisition
+Comeleon plc was incorporated on 30 August 2000 and on 28 November 2000 acquired the entire
+share capital of E-Comeleon Limited. In accordance with the principles set out in Financial Reporting
+Standard (FRS ) 6 Acquisitions and Mergers , 93.5% of the shares acquired has been accounted
+for under merger accounting. The remaining 6.5% has been accounted for under acquisition
+accounting.  On this basis the statutory consolidated profit and loss account comprises the results
+of Comeleon plc and E-Comeleon Limited for the period from 30 August 2000 to 30 September
+2001.  This has been presented in note 31, in order to comply with section 226 of the Companies
+Act 1985.  The statutory cash flow has been prepared on the same basis and is presented in note
+32.
+(ii) Basis of proforma financial information
+The proforma consolidated profit and loss accounts have been presented as if the merger took
+place on the first day of each financial period presented.  The figures for the period of 19 August
+1999 to 31 March 2000 have been extracted from the audited E-Comeleon Limited accounts
+adjusted for the notional 1,135,900 shares issued in exchange for 93.5% of the share capital of E-
+Comeleon Limited.  The results have also been adjusted to create a minority interest to reflect the
+6.5% of share capital of E-Comeleon Limited, which has been accounted for under the acquisition
+method.  The proforma cashflow and comparative company balance sheet have been prepared on
+the same basis.
+Accounting convention
+The financial statements are prepared under the historical cost convention.
+Consolidation
+The financial statements have been consolidated so as to include the results of all subsidiary companies.
+Investments
+Investments held as fixed assets are stated at cost less provision for any impairment.
+Goodwill
+The cost of goodwill, being the net premium arising on the acquisition of subsidiary companies, is
+amortised over its estimated useful economic life of 20 years in equal annual instalments.
+Tangible fixed assets and depreciation
+Depreciation on fixed assets is calculated to write off their cost, less estimated residual value, over their
+expected useful lives at the following annual rates using the straight line method.
+Plant and machinery over 10 years
+Short leasehold  property alterations over 10 years
+Fixtures, fittings and equipment over 5 years
+On 1 April 2002, the expected useful lives of short leasehold property alterations and plant and
+machinery were revised from 5 to 10 years. As a result of the change, the depreciation charge for the
+year has been reduced by  96,295.
+Stocks
+Stocks are valued at the lower of cost and net realisable value.
+Foreign currencies
+Monetary assets and liabilities denominated in overseas currencies are translated into sterling at the rate
+of exchange ruling at the balance sheet date.  Individual transactions are translated at the rate of exchange
+ruling on the date of transaction.  All exchange differences are included in the profit and loss account.
+CONSOLIDATED CASH FLOW STATEMENT
+Year ended 30 September 2002
+18 months
+Year ended ended
+30 September 30 September 
+2002 2001
+  
+Net cash outflow from operating activities 23 (3,882,383) (3,725,825)   
+Returns on investments and servicing of finance 26 (37,485) 153,253
+Taxation 26 - -
+Capital expenditure & financial investment 26 (435,491) (1,088,058)
+Cash outflow before financing (4,355,359) (4,660,630)
+Financing 26 3,493,237 8,497,167
+Increase in cash in the period 24 (862,122) 3,836,537   
+14 Comeleon Plc

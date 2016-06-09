@@ -1,0 +1,192 @@
+ www.nccgroup.com 21 NCC GROUP ANNUAL REPORT AND ACCOUNTS 22
+Markets
+Escrow - SaaS and a safe way back
+NCC Group remains as one of the leading global providers of 
+escrow services. The Group mandates quality; offering excellent 
+value, quality and strong protection to customers, ahead of price. 
+The Group does not intend to change that philosophy. 
+The market dynamics have remained unchanged since the 
+introduction of software escrow in 1982. Both public and private 
+sector corporations and organisations still believe that they have 
+several times more cover than they actually have. 
+The purchase of escrow services is very rarely a centralised or 
+co-ordinated purchase. Although it is increasingly more common  
+for a procurement process to be involved, it rarely looks at the cover 
+that should be in place and so most organisations are unaware that 
+they are exposed, or by how much. 
+This will ultimately get worse as organisations are not sure how  
+to get escrow protection in hosted or co-located software as a 
+service (SaaS) environments as there are a number of points that 
+need to be considered when outsourcing the applications and 
+hardware to as a service  environments.
+The move to cloud computing still has not largely 
+happened for businesses' critical applications, 
+with the pace of change being slower than is 
+generally publicised. But with low up front costs, 
+rapid deployment and high scalability SaaS will 
+continue to grow in popularity.
+ 
+Eventually improvements in security, mobile and broadband Internet 
+connectivity, as well as the continued global economic climate, will  
+see some business critical applications outsourced into the cloud.  
+Whilst source code software escrow will still provide business continuity 
+and protection, the solution needs to take into consideration the 
+environment and infrastructure in which the application is operated. 
+The failure of a traditional application owner is typically not 
+accompanied by the loss of infrastructure, data, Internet 
+communications and application support, all of which can  
+be lost following the failure of a SaaS owner. 
+In order to protect customers from a SaaS owner failure or the 
+breakdown of the relationship as the service levels are not delivered,  
+a mechanism has to be put in place, cost effectively, that addresses  
+the fundamental infrastructure, data, communications and IT support 
+issues. Mechanisms to address these issues by duplicating 
+infrastructure and data are not cost effective for most SaaS customers. 
+What is needed is a mechanism to allow time for the customer  
+to transition to an alternative for the infrastructure, data and 
+communications used to run the application uninterrupted if the 
+SaaS supplier fails. Many SaaS vendors already use infrastructure 
+as a service (IaaS) for either their primary or business continuity 
+platform for the same reasons customers are turning to SaaS  
+for their applications. This provides them with low up front costs, 
+rapid deployment and high scalability.
+NCC Group's solution to this is to deliver a cost effective service  
+for customers that keeps the infrastructure and communications 
+used to run the SaaS solution, provided by a third party 
+infrastructure provider, still operational. Not having this capability  
+as part of the solution will cause an interruption of service for the 
+customer, which is an unacceptable risk where business critical 
+SaaS applications are being used.
+Infrastructures needed by SaaS vendors with large numbers of 
+concurrent users require significant numbers of virtual servers both 
+for the primary platform and consequently for the corresponding 
+business continuity platform. IaaS vendors will provide virtual servers 
+inexpensively as long as these servers are dormant. 
+ 
+For this reason the products NCC Group is developing provide 
+protection to SaaS customers regardless of whether the IaaS is 
+used for the SaaS vendors' primary or business continuity platform. 
+As an IaaS based solution, NCC Group SaaS 
+Escrow has by far the greatest potential to 
+provide SaaS customers with the protection 
+many are seeking at a price they can afford. 
+Operational and 
+Financial Review 
+www.nccgroup.com 22
+Gartner: Survey analysis: 
+buyers tell us about SaaS 
+and cloud adoption through 
+2014, November 2012. www.nccgroup.com 23 NCC GROUP ANNUAL REPORT AND ACCOUNTS 24
+Assurance - The need for change  
+in the cyber world
+Improvements in security have failed to keep up with the  
+ever-increasing pace of function led improvements in technology, 
+but with that has been an acceptance that being hacked is now  
+an everyday experience. A once traumatic event that would have 
+attracted considerable publicity today hardly warrants a footnote, 
+unless it is of a scale, magnitude or complexity that could shock 
+even a hardened security expert. 
+The sophistication of hackers is now at a level that would not 
+embarrass a government operation but more ominously governments 
+are becoming more open about the level of their operations, as they are 
+clearly becoming more engaged in complex cyber warfare - both within 
+their own country and against other perceived cyber hostile nations. 
+The frequently disclosed security breaches, 
+hacks and data losses are making it difficult  
+to judge whether the ordinary individual now  
+has a resigned reluctant acceptance that the 
+internet has become a largely lawless place  
+and that Nation State Internet eavesdropping  
+has become just one of those things . 
+Certainly the lack of backlash for revelations such as the recent  
+US PRISM scandal seems to suggest that the majority of ordinary 
+individuals do not mind if they are in fact observed by the nation that 
+they live in. However in terms of control of personal financial data 
+and individual identity, corporations and governments really need  
+to treat it more seriously. 
+Part of this remains an NCC Group theme, that there is a clear  
+and pressing need to increase standards in cyber defences from 
+large corporations to governments through to consumers. One way 
+to prompt this is by increasing transparency around security. 
+This transparency must cover the way businesses view, act and 
+respond to cyber security issues. They must also set out the 
+reporting of corporate breaches and the consequences for those 
+affected, as well as mapping out how incidents should be dealt with. 
+Until organisations are publicly held to account for security breaches, 
+there will be a lack of incentive for them to implement stringent 
+digital policies and infrastructures.
+The answer lies within enterprises themselves to strengthen 
+significantly their corporate networks, test their protections 
+vigorously and prepare a clear and comprehensive operational 
+response plan. This will happen if there is better transparency,  
+as admitting that a corporate security system failed can only serve  
+to damage reputation and weaken customer trust, which should  
+be motivation enough!
+The adoption of .secure and the policies, processes and protocols 
+that it mandates will help drive this change. By subscribing to the  
+.secure framework, the hard work of determining and driving change 
+is done within. Through a team of the most globally recognised 
+organisations, ranging from internet pioneers through to retailers  
+and the largest financial institutions, all sectors and user groups  
+are being considered. Allowing the creation of commonly accepted 
+policies that mandate best practice of internet and information 
+security is the best starting point. 
+Overlaying that in an environment where only the organisation  
+with the actual right to the domain can apply to own it and all  
+of its algorithmic derivatives and lookalikes, will aid the user  
+so that the most common spoof attacks become impossible  
+to create. Whilst it will never ensure that a site or an organisation  
+will not be hacked, it significantly blunts the hackers' armoury  
+of basic tools.
+This type of change needs to happen, acceptance 
+of being hacked and compromised should not be 
+an accepted consequence of using the Internet. 
+Operational and 
+Financial Review 
+23 NCC GROUP ANNUAL REPORT AND ACCOUNTS
+Gartner: Bring Your Own 
+Device: the facts and the 
+future, May 2013 www.nccgroup.com 25 NCC GROUP ANNUAL REPORT AND ACCOUNTS 26
+Rob Cotton
+Chief Executive
+NCC Group plc
+4 July 2013
+Current trading
+ 
+The Group's good growth track record was slowed briefly by a number 
+of unrelated issues as it consolidated the various business units to 
+exploit the scale and international reach that has now been attained.
+ 
+All of the issues have been addressed, although Intrepidus has yet 
+to be fully integrated. More importantly, a structure is now in place 
+that will allow the Group to benefit from the significant opportunities 
+that exist across Assurance's markets. 
+The whole organisation is totally focused on client risk mitigation and 
+delivering peace of mind, through a complementary range of services 
+offered to multinational clients to address their business issues. 
+Artemis continues to develop its systems, processes and policies, 
+with a view to being able to offer a service to its customers through 
+.secure or its own branded gTLD during the second half of the 
+financial year. This complex development is on time and budget.
+Integrity and credibility, alongside technical 
+capability, are the leading cultural values  
+of the Group. This ensures the Group remains  
+an independent, unbiased organisation and 
+maintains its place as the trusted provider  
+of choice in a security marketplace. 
+The start to the year sees Group Escrow renewals at  18.0m  
+up from  17.7m in the year to 31 May 2013 and a verification  
+order book of  2.3m of which  0.7m relates to Escrow Europe  
+and Escrow US. 
+The Assurance division order books have improved to  24.2m 
+(2012:  19.7m) and have  6.5m (2012:  5.8m) of monitoring 
+renewals forecast for the current financial year. 
+The outlook for NCC Group remains very good  
+in growing markets.
+Operational and 
+Financial Review 
+www.nccgroup.com 26
+Technology Strategy Board: 
+Revolution or evolution? 
+Information Security 2020, 
+June 2013

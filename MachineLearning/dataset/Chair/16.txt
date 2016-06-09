@@ -1,0 +1,142 @@
+ 1Spatial plc (formerly Avisen plc) 
+ 
+3 
+ 
+Chairman's Statement 
+ 
+The year ended 31 January 2012 has been a very progressive year and has seen much change for the Group.  With 
+the disposal of Inca in April 2011 and the acquisition of the 1Spatial Business in November 2011, there has been a lot 
+of focus on corporate transactions. However, despite this, there has still been some positive financial improvements 
+within the existing businesses of both Avisen UK and Storage Fusion.   
+ 
+The Board's decision to invest in the 1Spatial Business will strengthen the strategy for the business moving forward. 
+The 1Spatial Business has a strong customer base in some of the world's largest National Mapping Agencies 
+(NMAs ) and these relationships have been built over many years throughout the history of the company. The 
+1Spatial Business product manages data for many of the NMAs and this puts 1Spatial Business as a strategic partner 
+and provider of technology in this market. 1Spatial Business will put a continued focus on product development and 
+the innovation of its intellectual property and offerings, providing both on-premise and Cloud solutions through its 
+recently launched 1Spatial Cloud platform. 
+ 
+The common focus for all companies within the Group going forward, is to provide end users of data with both 
+assurance over its quality and insight into its significance. This is part of the  Big Data' concept. Big Data is a term 
+applied to data sets whose size is beyond the ability of commonly used software tools to capture, manage, and 
+process the data. Big data has increased the demand for information management specialists and software firms 
+specialising only in data management and analytics; this industry is several billion dollars globally and continues to 
+grow significantly each year. 
+ 
+The Board has undertaken review of the Group's operations as a result of the acquisition and believes that the full 
+benefits of this review will come into effect in the second half of the next financial year ending January 2013.  
+ 
+I was delighted to take up the role as non-executive Chairman of the Group following the acquisition of 1Spatial 
+Business, and having previously served as the Chairman of 1Spatial Business, I can bring my existing knowledge 
+and experiences to the new enlarged Board. Mark Battles, who was the previous interim non-executive Chairman, is 
+now a non-executive Director on the Board. I believe that the new Board brings the combined balance of knowledge 
+and relevant expertise required to take the new Group forward. Existing members of the Board are Marcus Hanke 
+(CEO), Claire Milverton (CFO), Marcus Yeoman and Mark Battles (Non-executives).  New members of the Board 
+from the 1Spatial Business are myself and Mike Sanderson (Director of Strategy). Nic Snape left the business in June 
+2012 and we thank him for his efforts over the last 10 years and wish him well in his new ventures.   
+ 
+Financial position 
+ 
+Revenues for the year were  5.2m, which is a 100 per cent. increase on the 2011 figure of  2.6m.  Included within 
+these revenues were two months of revenues from 1Spatial Business totalling  1.5m.   
+ 
+Both the Avisen UK and 1Spatial Business made positive adjusted EBITDA contributions to the Group of  0.3m each 
+(1Spatial Business's EBITDA for two months). The Storage Fusion business broke even for the year at an adjusted 
+EBITDA level. The overall Group's adjusted EBITDA was a loss of  0.5m, which was a significant improvement on 
+the prior year EBITDA loss of  1.5m. The overall adjusted EBITDA loss of  0.5m is due to head office costs which 
+are approximately  1.1m. The Group has made no secret of the need to scale the operations to absorb the overhead 
+costs associated with being a listed entity. With a full year's trading from 1Spatial Business and good prospects for 
+the other businesses, covering these costs going forward should be achievable.   
+ 
+The overall net loss for the year is  1.0m, which is a significant improvement on the net loss in 2011 of  7.2m.  The 
+overall loss is partly as a result of  0.5m amortisation of intangible assets,  0.5m of strategic, integration and other 
+one off items mainly resulting from the 1Spatial Business acquisition and integration process, and a profit on disposal 
+of Inca Software Ltd of  0.5m. 
+ 
+We have a strong balance sheet at the end of the year with a  2.7m cash balance (2011:  0.5m).  Whilst we received 
+ 5.2m on the disposal of Inca in the year, we have incurred certain cash outflows required to ensure adequate 
+support for the Unilever contract, the ongoing head office costs and deal transaction costs. Once all the strategic and 
+reorganisation costs associated with 1Spatial Business have been finalised, we expect the ongoing trading 
+businesses to be cash flow positive.  
+ 
+Strategy and reorganisation 
+ 
+In the last annual report, our stated strategy was to continue to grow organically and acquisitively, and to convert this 
+growth into higher profit and improved cash flow for distribution to our shareholders; we feel we have made firm 
+progress in this respect during the year. However, the Board believes that this cash is needed to support its next 
+phase of growth under the 1Spatial name and will therefore not be distributing back to shareholders at this stage. As 
+noted above, we are now under one common branding, however, we still have three trading subsidiaries, namely 
+1Spatial Business, Avisen UK and Storage Fusion. Taking each entity in turn: 
+ 
+   1Spatial plc (formerly Avisen plc) 
+ 
+4 
+ 
+1Spatial Business 
+ 
+As noted above, 1Spatial Business has a strong customer base in some of the world's largest National Mapping 
+Agencies (NMAs), and these relationships have been built over many years.  
+ 
+Building on the current strong customer base, the growth strategy for the business will be to continue our focus on the 
+NMA market along with key vertical sectors such as utilities, transport and defence. 1Spatial Business played a key 
+role in delivering Ordnance Survey GB's Geospatial Data Management System which went live in 2011. The UK now 
+co-chairs a UN committee of experts focussed on providing the UN with accurate geographic information in order to 
+monitor the Millennium Development Goals, so 1Spatial is in a strong position to capitalise on a range of 
+opportunities in the big data NMA space. In addition, the utilities are focussed on smartgrids and the installation of 
+smart meters for which spatial data is key to management and strengthens the requirement for the 1Spatial Business 
+offering. Given our recent success at United Utilities Group plc with a project focused on data quality, we have a 
+strong proof point for further development into this market. 
+ 
+In addition, the Board is encouraged by the application of the company's Patented Oracle 3D Topology developed in 
+conjunction with its government defence and military clients around the world and has sanctioned further market 
+investment in this area. 
+ 
+As part of our revised strategy we are addressing the ways in which we can achieve growth for the business in our 
+marketplace, leverage our brand and scale the business on a global basis. Key to this success will be a major focus 
+on partnerships as part of the plan, so that we may leverage our technology offerings and provide more options for 
+our customer base.  One such partnership is with Google, where we have become an Enterprise Partner and will be 
+using Google's technology and world-class platform to amplify Big Data issues for our customers and prospects. We 
+will continue to develop our already strong partnerships with Oracle, Trimble and ESRI. 
+ 
+Avisen UK 
+ 
+Avisen continues to provide profitability improvement services to its clients which include Tesco and Unilever.  There 
+continues to be significant opportunities within this part of the business. 
+ 
+Storage Fusion 
+ 
+Storage Fusion continues to develop, adding clients and partners to its unique storage resource analytical software 
+and providing insight into these organisations' complex infrastructures; the Board is confident of securing further 
+storage vendor partnerships during the remainder of this year to significantly enhance revenue and profitability. With 
+its Cloud enabled offering it provides a cost effective way to measure data storage usage and consumption, and with 
+the huge growth forecast in the SAAS marketplace the Storage Fusion product is very attractive. 
+ 
+Conclusion and outlook 
+ 
+Following the internal review, the Board believes that the Group is in a strong position to start a phase of organic 
+growth and operating cash flow generation.  
+ 
+Whilst the addition of the 1Spatial Business gives more scale to the business, management remains keen to review 
+other acquisition opportunities to accelerate the growth of the business and provide more scale and synergistic 
+opportunities.  
+ 
+I would also like to take this opportunity to thank the management team and all of our employees for their hard work 
+and dedication. This has enabled us to navigate a challenging environment and strongly position 1Spatial for the 
+future.  
+ 
+ 
+ 
+ 
+S Berry 
+Chairman 
+30 July 2012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,99 @@
+ Job: 13246Z-- Date: 08-04-05 Area: A1 Operator: PH Typesetter ID: DESIGN: ID Number: 0627 TCP No. 7 Time: 10:15 Rev: 0 Gal: 0002
+2
+CHAIRMAN'S STATEMENT
+Introduction
+2004 has been a year of transition for the Company. The Company has moved from being a software provider to a provider of
+computer services. The Company now operates two core businesses units being the Field Service Solutions Business (FSS ),
+which operates despatch, repair and warranty claim services to major retailers and manufacturers and the SERVICEPower
+Software Business which sells software directly into the automated scheduling applications market.
+In line with the shift to a service business model, the Company raised  5.9 million of new cash to invest in the FSS computer
+services business. Further to this, the Company acquired the key assets of Keyprestige Inc, a US based service and electronic
+warranty claim company. Through these actions, the Directors believe the Company has the opportunity to be the leading
+provider of services to manage the delivery, repair and warranty claim processes of retailers and manufacturers of consumer
+electrical goods and white goods in both the US and Europe. The rapid acceptance of our FSS suite of service products in the
+US and now more recently in Europe, as described below, supports this view.
+Results and Dividend
+The revenue for 2004 was  4.1 million, an increase of 56 per cent. on 2003 (2003:  2.6 million), of which  2.1 million was
+contributed by FSS during less than 9 months trading. I am particularly pleased that the contracted monthly recurring revenue
+has grown from  86k per month at the start of 2004 to over  380k now and the Company has  5.3 million total committed
+revenue for 2005, subject to current volumes continuing into the future. This is 29 per cent. more than our total 2004 revenue
+and is particularly encouraging as several recently signed contracts have yet to reach their full monthly revenue capability. The
+Directors expect the recurring revenue from existing customers to continue to increase during 2005 providing substantial
+growth alongside further revenue from new customers wins.
+The loss before and after taxation was  3.9 million (2003: loss of  1.6 million). The gross margin of the software business fell
+from 58 per cent. to 45 per cent. due to the reduced software licence revenue while the FSS gross margin was 23 per cent.
+which was in line with the Directors' expectations. The low margins delivered by FSS in its first year of operation are due to a
+number of processes initially being handled manually. As the Company begins to use its own software applications in the
+business and manual handling is reduced the gross margins will begin to rise in 2005.
+The administrative expenses are  5.3 million,  2.1 million more than in 2003 reflecting the investment in sales and marketing in
+the FSS business. During 2004 the average number of full time employees rose from 48 to 77 and the total staff based in the US
+increased by 28. The development and support of the FSS application has been outsourced to TCS Inc, one of the largest
+outsourcing and system integration companies in the world. The strategy of partnering to achieve rapid IT development is
+expected to continue and expand.
+The loss per share for the period was 5.50p (2003: loss per share of 2.67p). The Directors do not recommend the payment
+of a dividend.
+The cash position at the end of 2004 was  2.8 million, plus a  250k capital bond. Job: 13246Z-- Date: 08-04-05 Area: A1 Operator: DD Typesetter ID: DESIGN: ID Number: 0628 TCP No. 7 Time: 10:15 Rev: 0 Gal: 0003
+3
+Field Service Solutions Business
+This year the company acquired software and intellectual property rights from Keyprestige Inc, set up new offices in Kentucky,
+California and the UK. The FSS business operates despatch, repair and warranty claim services to major retailers and
+manufacturers. From a standing start the FSS business delivered  2.1 million revenue in 2004 and currently has over  3.6 million
+contracted recurring revenue for 2005. Recurring revenue for FSS has grown from zero to over  300k per month.
+The Directors have identified two different FSS business models. Firstly, our client may use FSS hosted software to process their
+own service jobs and for which the Company receives a transaction fee. Future gross margins will be in line with our software
+business, at approximately 65 per cent. as the marginal costs of processing additional transactions through the system are very
+low. The second model uses FSS infrastructure to deliver a total outsourced service to our client. In this model the margins are
+relatively low, at approximately 10 per cent. but the potential for revenue growth is significant. In both models the inclusion of
+our SERVICEPower software application gives the Company competitive advantage and creates a significant barrier to entry. In
+getting the balance right between the two models, FSS has the capacity to deliver significant profitable revenue growth.
+In addition to re-signing all 23 former Keyprestige US clients including Phillips, Denon, Hitachi, JVC; new contracts have been
+won with prestigious companies such as GE Industrial and Consumer, Whirlpool, Westinghouse, Daewoo amongst others.
+Other than GE, each contract alone is not significant, but taken together these contracts underpin profitable recurring revenue
+in excess of  2.6 million per year in the US. Shareholders will recall the Company announced in April 2004 a contract with US
+Digital Television Inc to provide installation services for USDTV digital television set-top boxes. Following early positive growth,
+the USDTV rollout stalled due to a delay obtaining secondary funding. USDTV has informed the Directors that it expects to
+secure significant new funding shortly. This should allow USDTV to settle their existing debts and the roll out will resume leading
+to a positive revenue effect for the Company.
+I am pleased to report the funded pilot with a Fortune 100 US retailer began in January at 22 stores in Portland. It has been
+favourably received and is already delivering significant productivity gains as it utilises the SERVICEPower software in the FSS
+application. The pilot will run for at least 3 months before our client takes the decision to rollout, but it is encouraging to report
+approval has been given to extend the pilot to a second city. FSS in the US has recently begun two pilots with major brand-name
+manufacturers of consumer electronics products. The Company is currently on the short-list in several outsourcing
+procurements by major organisations which gives the Directors great confidence in the further growth potential of this new
+business.
+The Company recently announced the launch of FSS into Europe using the hosted and total service models developed in the US.
+We have signed 4 new contracts and started one pilot in the first few weeks of operation which the directors expect to deliver
+ 1.0 million revenue in 2005. It is particularly pleasing to have recently been appointed the UK Service Partner by Elesco Ltd, an
+association of European-wide independent service companies. Our clients say they want to place business with someone that
+can handle service jobs on a pan-European basis. This arrangement allows FSS Europe to win UK based European contracts and
+to have business referred to FSS by our European partners on an exclusive basis. Three of our new contracts have come from
+Elesco partners and the Directors expect this arrangement will deliver many more.
+SERVICEPower Software Business
+The software business revenue fell 23 per cent. to  2.0 million in 2004 (2003  2.6 million). The trading conditions remain
+difficult with decisions for capital expenditure often being delayed. This has contributed to the software business's loss of
+ 2.5 million. The Directors have firm plans to move the software business to at least a cash neutral basis for 2005 and being on
+the shortlist in several procurements the Directors have confidence that the plans are achievable. Job: 13246Z-- Date: 08-04-05 Area: A1 Operator: MR Typesetter ID: DESIGN: ID Number: 0629 TCP No. 7 Time: 10:15 Rev: 0 Gal: 0004
+4
+In 2004 another of our pilot projects was successfully converted into an enterprise license within one of the largest insurance
+companies in the US and we have a second pilot currently running with a Fortune 100 company that the Directors expect will
+be converted into an enterprise license in 2005.
+The Directors recognise the unpredictability of the revenue stream can be addressed by increasing the volume of contracts
+through the use of resellers and partners. To this end the Company has signed distributor agreements with Pinnacle, Solarvista
+and Cognito in the UK, and implementation consultancy agreement with BearingPoint and Bat-Mann in the US. We have also set
+up ServicePower AG to sell to German-speaking countries in Europe, following our SAP certification of our integration to their
+R3 product. Our Dutch partner, Square continues to rollout out a pan-European solution for an international office equipment
+company, with Benelux and Italy now live.
+The software business has  1.7 million contracted revenue for 2005 from software licences, implementation consultancy and
+ongoing maintenance contracts.
+Outlook
+We start 2005 with contracted revenue 29 per cent. higher than the total revenue for 2004. This is a measure of the success in
+closing new FSS contracts in 2004 that deliver future recurring revenue. The Directors expect the monthly recurring revenue to
+continue to increase during 2005 as more transactions are processed for our existing clients. In addition I expect the Company
+to convert some of the FSS pilots into incremental revenue and as these are with Fortune 100 companies, the volume of
+transactions could be significant. As a consequence the Directors expect the FSS business to trade profitably and be cash positive
+as it moves into its second year. The Company is well placed to win several enterprise software licences and the Directors are
+determined the software business should be at least at break-even point in 2005 and the Board is confident for the future of the
+business.
+Barry Welck
+Chairman
+24 March 2005

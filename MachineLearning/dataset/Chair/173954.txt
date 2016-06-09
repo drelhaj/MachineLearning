@@ -1,0 +1,184 @@
+ 02 Sareum Holdings plc 
+Annual Report and Accounts 2010
+www.sareum.co.uk
+Chairman's and Chief Executive's statement
+Background
+The key value creator for Sareum's shareholders continues to 
+be the development and commercialisation of drug candidates from 
+the Company's in-house drug development pipeline. Our research 
+spend this year has been targeted on advancing our Sareum Kinase 
+Inhibitor Library (SKIL) programmes. The research emphasis on 
+Chk1 has focused on studies in models designed to build the 
+portfolio of data provided to potential licencees.
+Our plan has been to help deliver successful in-vivo efficacy 
+studies through our collaboration with the Institute of Cancer Research 
+and Cancer Research Technology Limited. We have also used third 
+party providers of models to provide corresponding data for our 
+other programmes. 
+Additionally, in the period under review, three patent applications 
+relating to Sareum programmes were published and a further patent 
+application has been filed post period-end. These patents protect 
+families of promising compounds arising from Sareum's research 
+programmes, and demonstrate the strength of our intellectual 
+property to prospective customers. 
+The Company's business model is to concentrate primarily on its 
+in-house cancer drug discovery research by outsourcing the chemistry 
+and biology components of each programme. Our in-house expertise 
+and experience is used to interpret the relationship between chemical 
+structure and biological activity associated with each of the new 
+compounds tested. The information from each study is used to assist 
+in the design of new molecules which should show more activity 
+and less toxicity. The synthesis and testing of new compounds is 
+undertaken in a worldwide network of third-party laboratories.
+A  Sareum is actively developing five drug 
+discovery programmes at the present time
+A  In May 2010, Sareum launched its SKIL  
+technology platform
+A  In April 2010, Dr Bob Jackson was 
+appointed to the Scientific Advisory Board
+A  The cash position at the period end was 
+ 0.52 million (2009:  0.27 million)
+Summary of Chairman's and Chief Executive's statement
+   The Company will continue to build value from its in-house research and 
+development by seeking to advance its cancer drug discovery programmes
+As the development programmes progress, additional data is generated 
+demonstrating the quality of the candidate molecules. Simultaneously, 
+an active campaign continues to draw these results to the attention of 
+companies seeking to licence programmes such as these. In particular, 
+the results of our research are presented at important conferences and 
+seminars that focus on cancer and cancer drugs. This serves to provide 
+an excellent shop window for our research as well as an opportunity 
+to engage with decision makers from the major pharmaceutical 
+companies that are seeking to in-licence new cancer drugs.
+Progress with drug discovery programmes
+The Company's principal asset is the intellectual property derived 
+from its cancer drug discovery programmes. Sareum is actively 
+developing five drug discovery programmes at the present time. 
+The Company has continued to make positive progress with these 
+programmes, resulting in the publication of three patents from 
+historic filings.
+Sareum's pipeline is built on the expertise of its founders in pre-clinical 
+drug discovery, particularly in the field of cancer. Sareum concentrates 
+its research on targeted small molecule therapeutics. 
+Our strategy is to focus on developing best in class cancer therapies, 
+where pre-clinical and early clinical data is available to indicate that 
+disrupting the targeted biochemical process will indeed prevent tumour 
+growth and prolong survival, without significant side-effects. We can 
+capitalise on these published results to direct our own programmes 
+and to indicate, for instance, whether or not the therapy needs to 
+be administered in combination with additional cancer therapies. 
+In May 2010, Sareum launched its SKIL  technology platform. 
+SKIL includes a patent-protected molecular core and the intellectual 
+know-how to fine-tune these molecules into inhibitors of a wide range 
+of kinase enzymes. Aberrant kinase activity is associated with many 
+cancer types, as well as other diseases including certain types of 
+auto-immune disease and diabetes. This kinase class of enzymes 
+constitutes Sareum's ongoing research efforts, primarily targeting 
+kinases associated with cancer.
+SKIL programme targets include Aurora kinase, VEGFR-3 kinase 
+and FLT3 kinase. Recently, interesting activity has been found against 
+ALK and TYK2 kinases. ALK kinase overactivity is associated with 
+certain types of lung cancer and Anaplastic Large Cell Lymphoma 
+(ALCL), a cancer of the lymphatic cells of the immune system. 
+Inhibition of TYK2 kinase activity can be used to control immune 
+disorders such as rheumatoid arthritis, psoriasis and Crohn's disease. 03 Sareum Holdings plc 
+Annual Report and Accounts 2010
+www.sareum.co.uk 
+Sareum's expertise was boosted in April 2010 by the appointment 
+of Dr Bob Jackson to the Scientific Advisory Board. Dr Jackson was 
+formerly chief scientific officer at the cancer drug discovery company, 
+Cyclacel. During his distinguished career he has led teams that have 
+brought many compounds to clinical trials, including the Aurora 
+kinase inhibitor, CYC116. This appointment comes at an important 
+stage in the development of Sareum's Aurora kinase programme 
+and Dr Jackson's expertise will be key to the development of 
+the programme. 
+Chk1 kinase
+This is Sareum's most advanced programme and is carried out 
+in conjunction with one of the world's leading cancer research 
+organisations, The Institute of Cancer Research (ICR) and Cancer 
+Research Technology Limited. Chk1 kinase inhibitors enhance the 
+effects of DNA-damaging chemotherapeutics such as Campto  
+(irinotecan) and Gemzar  (gemcitabine). During the period, Chk1 
+kinase inhibitors with the potential to be delivered via the oral route 
+(as opposed to injection) have been developed. This gives our 
+programme advantages over competitor compounds that are in 
+early clinical trials. 
+In January 2010, scientists from Sareum and the ICR published 
+key data in the peer reviewed journal Molecular Cancer Therapeutics. 
+The article describes how the programme compound SAR-020106 
+significantly enhances the anti-tumour effects of the cancer 
+chemotherapeutics Campto  (irintotecan) and Gemzar  
+(gemcitabine) in preclinical disease models. 
+The time interval between the administration of the doses of 
+DNA-damaging agent and Chk1 kinase inhibitor is an important 
+factor. To better understand this, in March 2010 we entered into 
+a collaboration with Physiomics plc to perform computer simulations 
+of the effects of different scheduling of such drugs in living systems. 
+The results obtained from this collaboration have provided valuable 
+insights into the importance of appropriate scheduling of 
+combination therapies.
+Aurora kinase
+During the period, we have been concentrating our efforts on 
+developing Aurora kinase inhibitors to treat AML, a type of leukaemia. 
+This is partly in response to the clinical results from competitors' 
+Aurora programmes, which have shown positive responses in AML 
+patients, and partly as a result of our Aurora compounds also displaying 
+potent FLT3 kinase activity. FLT3 kinase is overly active in many AML 
+variants and Sareum's Aurora/FLT3 inhibitors are potent against AML 
+cell lines. Initial results in in-vivo studies are also positive. We are now 
+seeking to optimise the properties of these compounds to allow delivery 
+via the oral route whilst maintaining or improving upon the existing 
+efficacy and safety profile.
+VEGFR-3 (FLT4) kinase
+VEGFR-3 kinase, also known as FLT4 kinase, is believed to be 
+important in the formation of lymph and blood vessels in a growing 
+tumour. These vessels provide nutrients, eliminate waste and provide 
+a route for metastasis (cancer spread). Sareum compounds have been 
+shown to inhibit the growth of lymph endothelial cells by selectively 
+inhibiting VEGFR-3. 
+Other SKIL programmes (ALK, TYK2)
+We continually screen our SKIL compounds, e.g. from our Aurora and 
+VEGFR-3 programmes, against a selection of kinase enzymes, looking 
+for interesting activity against other therapeutically relevant kinases. 
+Recently, we have discovered SKIL compounds with interesting activity 
+against ALK kinase (implicated in certain lymphomas and lung 
+cancers) and TYK2 kinase (implicated in certain auto-immune 
+diseases). Currently, we are developing joint Aurora/ALK kinase 
+inhibitors and approaching potential commercial partners, with 
+expertise in auto-immune disease, with our TYK2 inhibitors.
+Earlier-stage programmes (FLT3, FASN, PLK1, B-raf)
+These programmes are currently on hold, pending a collaborative 
+research deal with a pharmaceutical company partner or receipt of a 
+research grant. FLT3, in addition to being a potential target for certain 
+leukaemias, also has the potential to treat auto-immune diseases such 
+as multiple sclerosis and rheumatoid arthritis, which further expands 
+the commercial opportunities for this programme. 
+Financial review
+During the period, the loss after taxation decreased to 
+ 0.57 million (2009:  1.1 million). The cash position at the 
+period end was  0.52 million (2009:  0.27 million), enhanced 
+by the share placings, announced in September and October 2009 
+that raised  815,000 before expenses. The Company's cash position 
+was further improved by a share placing to raise  200,000 (before 
+expenses) in August 2010. As a result of these placings, the Directors 
+believe the Company is able to maintain its R&D spend to further 
+advance its cancer drug pipeline whilst also providing sufficient 
+working capital for the foreseeable future.
+Outlook
+The Company has an exciting opportunity to focus solely on its 
+in-house cancer drug discovery programmes to generate shareholder 
+value. The research work for the ongoing programmes is being provided 
+via third parties, enabling the Company to operate with a minimal fixed 
+cost base. 
+The Company will continue to build value from its in-house research 
+and development by seeking to advance its cancer drug discovery 
+programmes. With sufficient cash resources to fund the ongoing 
+business plan for the foreseeable future, the Company looks forward 
+to further development and commercialisation of these cancer 
+drug programmes. 
+Dr Paul Harper
+Chairman
+Dr Tim Mitchell
+Chief Executive Officer
+21 October 2010

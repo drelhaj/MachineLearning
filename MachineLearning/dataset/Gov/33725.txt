@@ -1,0 +1,189 @@
+ 38 BT GROUP PLC ANNUAL REPORT & FORM 20-F
+BUSINESS AND FINANCIAL REVIEWS FINANCIAL REVIEW
+The specific items set out below did not impact 2009, but were
+recognised in the comparative years.
+A  64m charge in 2007 incurred in respect of property
+rationalisation costs.
+Charges of  53m in 2008 and  30m in 2007, were recognised in
+relation to further estimated costs required to create Openreach
+and deliver the Undertakings agreed with Ofcom, particularly
+with regard to the introduction of equivalence of input systems.
+Charges of  74m in 2008 and  65m in 2007 were recognised as
+a result of the completion of a review of circuit inventory and
+other working capital balances.
+Profit on the sale of associates of  9m in 2008 and  22m in
+2007. In 2008, the  9m profit arose from the receipt of
+contingent consideration from the disposal of the group's
+interest in e-peopleserve. In 2007, the  22m profit arose from
+the disposal of 6% of the group's equity interest in the associate
+Tech Mahindra Limited.
+In 2008, the group agreed an outstanding tax matter relating to
+a business disposed of in 2001, the impact of which was a tax
+credit of  40m, and this closed all open items in relation to the
+settlement reached in 2007. In 2007, the group agreed the
+settlement of substantially all open UK tax matters relating to ten
+tax years up to and including 2004/05 with HM Revenue and
+Customs (HMRC). In 2007, the total impact of the settlement was
+a net credit of  1,067m, comprising a tax credit of  938m
+representing those elements of the tax charges previously
+recognised which were in excess of the final agreed liability,
+interest income of  139m and operating costs of  10m,
+representing the costs associated with reaching this agreement.
+A tax credit of  154m was also recognised in 2008 for the re-
+measurement of deferred tax balances as a result of the change
+in the UK statutory corporation tax rate from 30% to 28%,
+effective in 2009.
+Net finance expense
+2009 2008 2007
+ m  m  m
+Interest on borrowings 935 822 728
+Loss arising on derivatives 
+not in a designated 
+hedge relationship 29 41 4
+Interest on pension 
+scheme liabilities 2,308 2,028 1,872
+Total finance expense 3,272 2,891 2,604
+Income from listed
+investments - - (7)
+Other interest and 
+similar income (31) (65) (72)
+Expected return on pension 
+scheme assets (2,621) (2,448) (2,292)
+Total finance income (2,652) (2,513) (2,371)
+Analysed as:
+Net finance expense before  
+specific items and pensions 933 798 653
+Interest associated with 
+pensions (313) (420) (420)
+Net finance expense before 
+specific items 620 378 233
+Specific items - - (139)
+Net finance expense 620 378 94
+In 2009, net finance expense before specific items was  620m
+(2008:  378m, 2007:  233m). The net finance income associated
+with the group's defined benefit pension obligation of  313m was
+ 107m lower than in 2008, which in turn was at the same level as
+in 2007. The interest on pension scheme liabilities and expected
+return on pension scheme assets reflects the IAS 19 assumptions
+and valuation as at the start of the financial year. This is expected to
+be a net interest cost of about  275m in 2010 as a result of the
+significant reduction in asset values during 2009.
+Interest on borrowings was  935m in 2009 (2008:  822m,
+2007:  728m). The increase of  113m in 2009 reflects higher net
+debt mainly due to lower free cash flow being exceeded by
+dividend and share buy back payments. The increase in 2008 of
+ 94m reflects higher net debt and higher interest rates on variable
+rate borrowings. Losses arising on derivatives not in a designated
+hedge relationship was  29m in 2009 (2008:  41m, 2007:  4m).
+In 2008, losses on derivatives not in a designated hedge
+relationship of  41m included a charge of  26m on a low cost
+borrowing transaction which was marginally earnings positive after
+tax in the year. BUSINESS AND FINANCIAL REVIEWS
+39 BT GROUP PLC ANNUAL REPORT & FORM 20-F
+BUSINESS AND FINANCIAL REVIEWS FINANCIAL REVIEW
+Interest income arising from listed investments and other interest
+and similar income was  31m in 2009 compared with  65m in 2008
+reflecting lower levels of investments held by the group and lower
+average interest rates on deposits. In 2008, the reduction in
+interest income of  14m reflects the lower level of investment
+holdings following their utilisation to fund bond maturities.
+Adjusted operating profit represented 2.6 times net finance
+expense before specific items and the net finance income
+associated with the group's defined benefit pension obligation,
+which compares with interest cover of 3.6 times in 2008 and
+4.2 times in 2007. The reduction in cover was largely due to lower
+operating profits in the year and higher borrowing costs. Interest
+cover of reported operating profit represented 0.7 times net
+finance expense in 2009 (2008: 6.2 times, 2007: 27.0 times).
+Associates and joint ventures
+The results of associates and joint ventures before specific items are
+shown below:
+2009 2008 2007
+ m  m  m
+Share of post tax profit (loss) 
+of associates and 
+joint ventures 39 (11) 15
+Our share of the post tax profit (loss) from associates and joint
+ventures was a profit of  39m in 2009 (2008:  11m loss, 2007:
+ 15m profit). Our most significant associate is Tech Mahindra
+Limited, which contributed  33m of post tax profit in 2009
+(2008:  11m loss, 2007:  21m profit). The profits in 2009 reflect a
+focus on efficiency and costs. The loss in 2008 reflects Tech
+Mahindra's investment in the expansion of its global capabilities
+during the year.
+Profit before taxation
+Adjusted profit before taxation was  1,877m in 2009, compared
+with  2,506m in 2008 and  2,495m in 2007. The reduction in
+2009 is primarily due to the unacceptable performance in BT Global
+Services, partially offset by good performance in the other lines of
+business. In 2008, adjusted profit before taxation was broadly flat
+year on year, with the increase in operating profit being largely
+offset by the increase in net finance expense.
+Reported loss before taxation was  134m in 2009, compared with
+profit before taxation of  1,976m in 2008 and  2,484m in 2007.
+Taxation
+The tax credit for 2009 was  53m and comprised a tax credit of
+ 10m on the profit before taxation and specific items and a credit
+of  43m on specific items. The effective rate of the tax credit on the
+profit before taxation and specific items was (4.2)%, reflecting the
+tax credit arising on the contract and financial review charges of
+ 1.6bn (see page 10) recorded in the year.
+The net tax charge in 2008 was  238m and comprised a charge
+of  581m on profit before taxation and specific items, offset by a
+tax credit of  343m on certain specific items. The net tax credit in
+2007 was  368m and comprised a charge of  611m on profit
+before taxation and specific items, offset by a tax credit of  41m on
+certain specific items and a further specific tax credit of  938m
+arising on settlement of substantially all open UK tax matters
+relating to ten tax years up to and including the 2004/05 year. 
+Earnings per share
+Adjusted basic earnings per share were 18.4p in 2009, compared
+with 23.9p in 2008 and 22.7p in 2007, reflecting the reduced
+profitability. In 2009, the reported basic loss per share was 1.1p
+(2008: earnings per share 21.5p, 2007: earnings per share 34.4p).
+The table below reconciles adjusted to reported earnings per share.
+2009 2008 2007
+pence pence pence
+Adjusted basic earnings
+per share
+a
+18.4 23.9 22.7
+Contract and financial review
+charges and specific items (19.5) (2.4) 11.7
+Reported basic (loss)
+earnings per share (1.1) 21.5 34.4
+a
+Adjusted amounts refer to the amounts before contract and financial review charges recorded
+within BT Global Services and specific items.
+Reported diluted (loss) earnings per share were not materially
+different from reported basic (loss) earnings per share in any year
+under review.
+Dividends
+The Board recommends a final dividend of 1.1p per share (2008:
+10.4p per share, 2007: 10.0p per share) to shareholders, amounting
+to approximately  85m (2008:  805m, 2007:  825m). This will be
+paid, subject to shareholder approval, on 7 September 2009 to
+shareholders on the register on 14 August 2009. When combined
+with the 2009 interim dividend of 5.4p per share, the total dividend
+proposed for 2009 is 6.5p per share, totalling  503m (2008:
+ 1,236m, 2007:  1,247m). This compares with 15.8 pence in 2008
+and 15.1 pence in 2007, a decrease of 59% following the increase in
+2008 of 5%.
+Dividends paid in 2009 were  1,222m (2008:  1,241m, 2007:
+ 1,053m) and have been presented as a deduction to shareholders'
+equity.
+Financing
+In 2009, cash generated from operations was  4,934m (2008:
+ 5,187m, 2007:  5,245m), a reduction of 5% compared with
+2008. In 2008, cash generated from operations included pension
+deficiency payments of  320m.
+In 2009, the group paid net tax of  228m, compared with a net tax
+refund of  299m received in 2008. The net refund received in 2008
+included a receipt of  521m in relation to the settlement of open tax
+years up to and including 2004/05, together with tax paid of  222m.
+In 2007, the group paid net tax of  35m, which included the initial
+cash receipt of  376m in relation to the settlement with HMRC. In
+2009, net cash inflow from operating activities was  4,706m (2008:
+ 5,486m, 2007:  5,210m).
+6.5p
+full year proposed dividend

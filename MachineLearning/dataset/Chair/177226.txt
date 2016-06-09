@@ -1,0 +1,124 @@
+ JOINT STATEMENT OF THE CHAIRMAN
+AND CHIEF EXECUTIVE
+Introduction
+This year has been one of sustained progress, marking the successful turnaround of ServicePower. The Company's strengthened
+financial position and move into profitability means it now has a solid footing from which to capitalise on its growing market
+opportunities. Through this improved financial performance we have established the value of our technology and the strong
+pipeline of opportunities we now see highlights this.
+Market conditions for our business are positive. We provide a solution that enables services businesses to improve efficiencies
+and reduce resources, delivering a tangible return on investment. We have shortened the sales cycle for our services through
+competitive pricing at a sustainable level, achievable through the more efficient manner in which our business is now managed.
+Our ability to offer both traditional licencing models and Software as a Service (SaaS) models has been well received by our
+customers and we believe continues to be the way in which to successfully address our market.
+There is a growing momentum in our market, as our potential customers become more aware of the value of an outsourced
+service operation. We continue to invest in research and development to enhance the functionality of our product range and
+capture these wider opportunities.
+We have achieved a greater level of clarity in the marketing of the ServicePower offering which is resulting in a growing pipeline.
+In addition, we believe our breadth of offering, being able to not only manage scheduling but also the despatching of work,
+warranty claims management and installation, is a unique aspect of our business which has proved beneficial in our new business
+initiatives and may be even more so in the year ahead.
+In the coming year we will seek to increase the product development roadmap and marketing of the ServicePower brand into
+new verticals, while maintaining our focus on the US and UK.
+Financial Review
+The Company has two segments, ServiceOperations and ServiceScheduling.
+Total revenue for the year increased to  18,255,000 (2009:  18,108,000). ServiceOperations revenue increased by 11 per cent.
+to  11,480,000 (2009:  10,310,000) whilst ServiceScheduling licence and consultancy revenue decreased by 13 per cent. to
+ 6,775,000 (2009:  7,793,000).
+A breakdown of revenue from the ServiceOperations segment is as follows:
+2010 2009
+ '000  '000
+Hosting/SaaS 1,862 2,943
+Operations US 2,991 2,864
+Operations UK 6,627 4,503
+Total 11,480 10,310
+2 A breakdown of revenue from the ServiceScheduling segment is as follows:
+2010 2009
+ '000  '000
+Licences 1,544 2,405
+Implementation / Support 4,786 4,746
+Mobility 445 642
+Total 6,775 7,793
+The Company continued to invest in enhancement of functionalities across all of its product range, investing  448,000 in 2010
+(2009:  556,000).
+Gross profit for the year decreased by 19 per cent. to  5,102,000 (2009:  6,295,000) with the gross margin percentage
+decreasing from 35 per cent. to 28 per cent. due to change in product mix in revenue in the year.
+The total profit before taxation was  577,000 from a loss of  4,017,000 in 2009. This includes the following;
+2010 2009
+ '000  '000
+Release/(charging) of restructuring provisions 256 (900)
+Foreign exchange gain/(loss) 310 (1,196)
+Impairment on intangible assets   (822)
+Total one-time costs and foreign exchange gain/(loss) 566 (2,918)
+Adjusted profit/(loss) before taxation, one-off costs and foreign exchange gain/(loss) 11 (1,099)
+Basic earnings per share for the year was 0.30p (2009: loss per share of 2.2p).
+Cash balances increased to  3,665,000 at 31 December 2010 from  3,543,000 at 31 December 2009. The directors cannot
+recommend the payment of a dividend at this time. Further information on the going concern basis of preparation is included in
+note 2.
+Partnerships
+We continue to seek partnership opportunities with global businesses, integrating with their technology offerings in order to
+broaden our market reach both in terms of geographies and industry verticals. A particularly significant new partnership was
+signed with Syclo in the year, a provider of mobile computing solutions for the field service and mobile professional sectors to
+whom we have outsourced our mobile offering. This partnership gives us entry into new verticals in which Syclo has a
+particularly strong presence such as telecoms and utilities. Having replaced the incumbent provider, the commitment from both
+parties towards the success of the partnership has been evidenced through the winning of the first joint contract in May.
+Customers
+We were pleased to sign contracts with several of our existing customers in the year to provide additional services and product
+capabilities. These included the deployment of ServiceStats, our new business intelligence product at Farmers Insurers, providing
+them with an in-depth view of workforce activity against claims; the extension of ServiceScheduling licences with ADT Fire and
+Security following their recent acquisition in the US, and the implementation of a SaaS version of our ServiceScheduling software
+with Pitney Bowes in North America and Europe.
+3 We have enjoyed a good rate of new customer wins. These included a ServiceScheduling licence win with one of the world's
+largest claims management and loss adjusting organisations; a ServiceScheduling SaaS win with Keyword Advisors; and a
+ServiceOperations licence with one of the world's leader TV manufacturers, where ServicePower replaced the incumbent
+provider.
+We were also delighted to begin work on a trial service proposition for one of the UK's leading supermarkets during the year.
+This trial was carried out successfully in a small region of the UK and has subsequently been rolled out into additional regions as
+announced in February 2011. This is a multiple home trades proposition and has the potential to be of significant scale if fully
+launched later in the year.
+Post year end, we signed a significant multi-year licence and revenue share contract for our ServiceOperations software with
+Assurant Solutions, one of the world's leading speciality insurance providers. Having used our software via SaaS for over five
+years, Assurant Solutions has now expanded its use of ServiceOperations into claims and dispatch. Importantly, Assurant
+Solutions will also provide access to the ServiceOperations software to its commercial customer base, which includes some of
+the world's leading retailers and manufacturers. Assurant Solutions plans to develop the software platform in new directions
+designed to significantly improve the retail and customer experience in the extended service contract and home
+services industries.
+This contract has the potential to be a transformational development for ServicePower, providing direct access to Assurant's
+global customer base. Implementation of the service has begun and we look forward to updating shareholders on the uptake by
+Assurant Solutions' customers in due course.
+Market developments
+With the provision of In Home Services estimated to be worth $700 billion globally and installation worth $200 billion, we are
+operating in what is clearly a valuable market. In the current economic climate, retailers in particular are seeing slow growth in
+store revenues and are seeking new means of revenue generation. There is a growing recognition of the value of service
+offerings, such as installation and warranty, alongside traditional product ranges.
+Our focus will continue to be on the North American and UK services markets, where we have flagship customers and proof of
+successful installations.
+Products
+We continued to invest in enhancements to our core ServiceScheduling and ServiceOperations products in 2010, including the
+launch of ServiceScheduling on SaaS and the introduction of ServiceStats, a new business intelligence product, to Scheduling
+customers.
+The new ServiceMobility platform based on Sybase iAnywhere was expanded to support the RIM Blackberry OS and will next
+year be expanded to support the Apple iOs and Android.
+In the year ahead, progress will continue. A major new ServiceScheduling release will add support for new platforms and
+operating systems, and will enable management of staff capacity at a more granular level and improve handling of non-working
+time, such as breaks. Further server to server integration between Service GPS will be developed and the ServicePower
+Workforce Analysis Tool (SWAT) product will also be expanded to integrate with forecasting. Further integration between
+Service Scheduling and ServiceOperations will be enhanced with a common front end.
+4 Growth Strategy
+Looking to the year ahead, our focus will continue to be on our key North American and UK markets. With the securing of
+recent landmark contracts we are in a position to gradually increase our headcount in the areas of product development, project
+management and consultancy in both geographies. We will seek to expand out of our core verticals of consumer electronics and
+appliances into telecoms and utilities, both directly and via our partners, and expect to see particularly exciting developments in
+the retail market.
+Our trial contract with one of the UK's leading supermarkets has also enabled us to expand from the provision of networks of
+brown and white goods repairers into other trades, such as plumbing, home decorating and pest control. We are in a great
+position to leverage this new network for other customers.
+Outlook
+This has been an encouraging year for ServicePower, testament to the success of the re-engineering of the business begun in
+2009. ServicePower continues to be a well-managed organisation and our market leading technology enables us to provide
+valuable services to some of the world's leading businesses.
+As the market for outsourced service operations continues to grow, so does our market opportunity. We have entered the
+current financial year with a strong pipeline of new business, both in the UK and US. We will remain focused in the year ahead
+on our areas of strength and look forward to the capitalising on these opportunities.
+Lindsay Bury, Chairman Mark Duffin, CEO
+24 March 2011
+5

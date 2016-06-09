@@ -1,0 +1,177 @@
+ KCOM Group PLC 
+Annual report and accounts 2013/14
+STRATEGIC REPORT
+18
+Principal risks and uncertainties
+As with all businesses, we are affected by a number of risks and uncertainties, of which some are beyond our control. The table below shows the principal risks 
+and uncertainties which could have a material adverse effect on the Group and have been identified through the risk management framework on page 37 .
+This is not an exhaustive list and there may be risks and uncertainties of which currently we are unaware, or which are believed to be immaterial, which 
+could have an adverse effect on the business.
+In the previous year we also included risks in relation to business continuity, increasing compliance requirements from customers and competition in 
+the Hull and East Yorkshire area. We are still closely managing these risks, but these are not currently considered to be among the key risks facing the 
+business and therefore these have not been reported on specifically below.
+Change in level of risk key:
+ No change Increased risk Decreased risk
+Risk management
+Area
+Change in 
+level of risk Why is it important? What are we doing to mitigate the risk? How does this link to our Group strategy?
+Risks continuing from last year
+Security and resilience of our 
+networks and IT systems
+Our networks and IT systems are key to all that we do and are crucial 
+in delivering service to our customers. The risk in the year has 
+increased due to an increase in external security threats, including 
+larger volume of attacks intended to create a denial of service.
+As the risk has increased, so has our work to mitigate the risk. We 
+have implemented increased security and we continue to closely 
+monitor any attempted attacks and take actions where necessary to 
+ensure we have robust security in place. We have held the ISO 27001 
+Information Security Management standard since 2007 and also 
+comply with other security standards as required by our customers.
+This links directly to our processes and systems, as well as being key 
+to our customer pillar as ensuring security of our networks and IT 
+systems is a clear customer need.
+Accuracy, security and 
+confidentiality of customer data
+Security of customer data, whether it belongs to a business or 
+an individual, is of paramount importance to our customers and 
+therefore to us. The potential risk to data security has increased 
+in the year as a result of the increased volume of external attacks 
+seen across all industries. 
+We have rolled out mandatory information security training and 
+data protection training to all our people and have a clear Data 
+Governance policy in place, which contains specific handling 
+guidelines for different types of data. Any incidents, however minor, 
+are investigated and control improvements implemented where 
+necessary to ensure that we keep our customer data secure at 
+all times.
+This has a direct impact on our customers and also links to 
+our processes and systems pillar as our processes and systems play 
+a pivotal role in keeping our data accurate, secure and confidential.
+Customer service and delivery
+Delivering exceptional service to our customers is one of our key 
+strategic aims and therefore the risk of failing to do this is a key risk 
+for us to mitigate.
+We have continued to invest in our people and our systems to 
+ensure that we have the right people in the right roles and that they 
+have the right tools to provide an exceptional service. We also work 
+closely with our partners to ensure that they are aligned with us in 
+delivering the best service possible.
+This links to all aspects of our Group strategy and is key to the 
+whole of our business.
+Recruitment and retention 
+of the right people
+Recruiting and retaining the right people is crucial for the success of 
+the Group in meeting our objectives. This applies not only to being 
+able to recruit people who embody our values, but also to recruiting 
+people with specific technical skills where needed, some of which 
+may be in short supply. It also involves developing the skills in-house 
+and creating internal mobility around deploying those skills.
+Our People Strategy is focused on creating a workplace which not 
+only attracts top talent but also retains those people that are key to 
+delivering on our objectives. During the year we have focused on 
+communicating total reward packages to our people to ensure that 
+everyone understands their total reward. We have also been creating 
+a competency framework across the Group, which will enable us to 
+create more career opportunities for individuals internally and to 
+respond to our customers with greater agility.
+Recruiting and retaining the right people is part of the people pillar 
+of our Group strategy, whilst also having an impact on our customers 
+and the level of service that they receive.
+Reliance on key third party 
+partners and suppliers
+Our business model means that we are reliant on several key partners 
+to deliver service to our customers and to provide the equipment that 
+we need to deliver the right solutions; such as BT, Comms-Care, 
+ForgeRock, Cisco, Avaya, Amazon Web Services, Microsoft and IBM.
+We have dedicated teams to work alongside our key partners and we 
+monitor all of our partnerships closely so that any potential issues are 
+identified and resolved before becoming significant. We have also 
+multiple partners in key risk areas to mitigate the risk in the event 
+of failure of one partner.
+This links directly to the partners pillar of our Group strategy 
+and also impacts upon our customers. KCOM Group PLC 
+Annual report and accounts 2013/14 19
+Strategic report
+Area
+Change in 
+level of risk Why is it important? What are we doing to mitigate the risk? How does this link to our Group strategy?
+Risks continuing from last year
+Security and resilience of our 
+networks and IT systems
+Our networks and IT systems are key to all that we do and are crucial 
+in delivering service to our customers. The risk in the year has 
+increased due to an increase in external security threats, including 
+larger volume of attacks intended to create a denial of service.
+As the risk has increased, so has our work to mitigate the risk. We 
+have implemented increased security and we continue to closely 
+monitor any attempted attacks and take actions where necessary to 
+ensure we have robust security in place. We have held the ISO 27001 
+Information Security Management standard since 2007 and also 
+comply with other security standards as required by our customers.
+This links directly to our processes and systems, as well as being key 
+to our customer pillar as ensuring security of our networks and IT 
+systems is a clear customer need.
+Accuracy, security and 
+confidentiality of customer data
+Security of customer data, whether it belongs to a business or 
+an individual, is of paramount importance to our customers and 
+therefore to us. The potential risk to data security has increased 
+in the year as a result of the increased volume of external attacks 
+seen across all industries. 
+We have rolled out mandatory information security training and 
+data protection training to all our people and have a clear Data 
+Governance policy in place, which contains specific handling 
+guidelines for different types of data. Any incidents, however minor, 
+are investigated and control improvements implemented where 
+necessary to ensure that we keep our customer data secure at 
+all times.
+This has a direct impact on our customers and also links to 
+our processes and systems pillar as our processes and systems play 
+a pivotal role in keeping our data accurate, secure and confidential.
+Customer service and delivery
+Delivering exceptional service to our customers is one of our key 
+strategic aims and therefore the risk of failing to do this is a key risk 
+for us to mitigate.
+We have continued to invest in our people and our systems to 
+ensure that we have the right people in the right roles and that they 
+have the right tools to provide an exceptional service. We also work 
+closely with our partners to ensure that they are aligned with us in 
+delivering the best service possible.
+This links to all aspects of our Group strategy and is key to the 
+whole of our business.
+Recruitment and retention 
+of the right people
+Recruiting and retaining the right people is crucial for the success of 
+the Group in meeting our objectives. This applies not only to being 
+able to recruit people who embody our values, but also to recruiting 
+people with specific technical skills where needed, some of which 
+may be in short supply. It also involves developing the skills in-house 
+and creating internal mobility around deploying those skills.
+Our People Strategy is focused on creating a workplace which not 
+only attracts top talent but also retains those people that are key to 
+delivering on our objectives. During the year we have focused on 
+communicating total reward packages to our people to ensure that 
+everyone understands their total reward. We have also been creating 
+a competency framework across the Group, which will enable us to 
+create more career opportunities for individuals internally and to 
+respond to our customers with greater agility.
+Recruiting and retaining the right people is part of the people pillar 
+of our Group strategy, whilst also having an impact on our customers 
+and the level of service that they receive.
+Reliance on key third party 
+partners and suppliers
+Our business model means that we are reliant on several key partners 
+to deliver service to our customers and to provide the equipment that 
+we need to deliver the right solutions; such as BT, Comms-Care, 
+ForgeRock, Cisco, Avaya, Amazon Web Services, Microsoft and IBM.
+We have dedicated teams to work alongside our key partners and we 
+monitor all of our partnerships closely so that any potential issues are 
+identified and resolved before becoming significant. We have also 
+multiple partners in key risk areas to mitigate the risk in the event 
+of failure of one partner.
+This links directly to the partners pillar of our Group strategy 
+and also impacts upon our customers.
+Strategic pillars key:
+Customers People Partners Processes and systems

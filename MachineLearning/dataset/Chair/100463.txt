@@ -1,0 +1,157 @@
+  IndigoVision Group plc 
+Directors' report and consolidated financial statements 2010 
+ 
+ 
+2 
+ 
+Chairman's statement 
+In last year's statement, we commented that expecting an easy year in the twelve months to 31 July 2010 
+would be unrealistic.  So it proved to be. Although sales growth continued, albeit at a much lower rate 
+than we have been used to, operating profits were down on the previous year.  However, operating 
+margins proved to be robust, and cash generation positive, reflecting continued management focus on 
+the key financial metrics of IndigoVision's business. 
+Operationally, much has been achieved during the period.  Management structures have been improved 
+and are bedding in well; the product range has been further developed; substantial additional spend was 
+committed to engineering and product development, as planned; and the quality of the sales force was 
+improved.  These advances should serve your company well in the current financial year. 
+Results 
+In the year to 31 July 2010, overall sales grew 6% to a record  28.0m (2009:  26.4m).  Europe Middle 
+East and Africa grew 8% to  12.2m (2009:  11.3m), sales to Asia Pacific grew 24% to  4.6m (2009: 
+ 3.7m), and the Americas fell 4% to  10.8m (2009:  11.2m) despite a strong performance from a small 
+base in Latin America.  Royalty and support services revenue grew to  0.4m (2009:  0.2m). 
+ 
+Gross margin for the year was 60%, down from 64% the previous year, reflecting teething problems with 
+certain new products, an increase in stock provisioning and a change in the sales mix.  The overall 
+contribution from gross margin was marginally down at  16.8m (2009:  16.9m).  
+ 
+Operating costs were up less than 1% at  13.7m (2009:  13.6m).  The one third increase in spend on 
+research and product development to  3.0m (2009:  2.3m) was absorbed by a 4% reduction in selling 
+and distribution costs to  7.0m  (2009:  7.2m) and a 9% reduction in administrative costs to  3.8m (2009: 
+ 4.1m).   
+ 
+Operating profits were  3.1m, some 6% lower than the previous year, but operating margins remained 
+healthy at just under 11% (2009: 12%).  Group net cash balances at the start of the year were  3.6m.  
+During the year these increased to  4.4m and the Group had no borrowings. 
+ 
+Customer focus 
+In providing a complete solution IndigoVision gives customers a single point of accountability for 
+maximum confidence that their project will roll-out smoothly with optimum performance and stability.  The 
+strength of IndigoVision's technology comes from developing the entire solution, from compression 
+hardware through embedded storage to enterprise management software, under one roof. This allows 
+pioneering propositions such as our guarantee never to drop a frame and a unique architecture with no 
+single point of failure. IndigoVision can also provide training, accreditation, purchasing and support, as a 
+one stop shop for partners. 
+ 
+Open system for customer choice 
+Our management software integrates with market-leading manufacturers of Access Control, License 
+Plate/Automatic Numberplate Recognition, Electronic Point of Sale, Perimeter Detection and other 
+systems, giving partners flexibility and choice. Users will be able to upgrade to our ONVIF-compliant 
+management software on release of Control Center 4.2, giving them an assured migration path to an 
+open system and complete freedom to choose any camera manufacturer. 
+ 
+From niche player to camera manufacturer 
+Using cutting edge compression technology IndigoVision has built a reputation as a leading player in the 
+niche market for  hybrid' video management, connecting analogue cameras into IP management 
+systems. It was inevitable that, with the emergence of professional IP cameras, this niche would 
+eventually transition to pure IP systems.  In order to maintain our proposition as an end-to-end solution, it 
+was imperative we utilised the strength of our compression technology, moving it into the camera. 
+   IndigoVision Group plc 
+Directors' report and consolidated financial statements 2010 
+ 
+ 
+3 
+ 
+Chairman's Statement (continued) 
+ 
+The learning curve in camera technology was steep but rewarding, and we are now rapidly becoming a 
+mainstream camera manufacturer, the result of a considered and planned strategy. Our PTZ (pan-tilt-
+zoom) dome cameras have been very well received, and nothing else in the market matches our HD 
+version. Our fixed and dome cameras did experience some teething problems, however, new models that 
+we will be launching during the coming year should put us back in front of the market in this area. 
+ 
+Whilst the majority of revenues still arise from the niche  hybrid' market, for several years we have been 
+investing in product development for the mainstream digital market and are confident of completing a 
+successful transition to this much larger market over the coming years.  
+ 
+Ready for HD 
+The market is also starting to move from Standard Definition to High Definition. Obviously, identifying 
+faces and reading license plates is significantly enhanced through HD but where IndigoVision has 
+excelled is in making the technology suitable for mainstream deployment. Our compression is part of this 
+- HD only makes sense if it fits on your network and you still get 30 days recording from your storage. But 
+we also remain the only manufacturer capable of guaranteeing not to drop a frame.  This is because we 
+encode the video in custom hardware and therefore can predictably deliver the requisite processing 
+power whatever the CCTV content. Our latency is also the lowest in the industry, essential for smooth 
+operator control of PTZ domes. So it's not just about delivering  more pixels', it's about delivering every 
+frame, at low bandwidth and without delays. Our first generation HD (the 10000 range) was deployed 
+along the US-Canadian border and we believe it remains the largest HD system in the world with over 
+1,000 cameras. Our second generation HD (the 11000 range) launched in the last few months and is 
+being extremely well received. 
+ 
+It's because we control the end-to-end solution that we've been able to deliver an HD solution for 
+mainstream deployment: cost effective, network-friendly, storage-efficient and instant guaranteed-smooth 
+video.  
+ 
+Resilient distributed architecture 
+The IndigoVision architecture pushes the power and intelligence to the edge of the network, meaning we 
+don't route video through expensive servers, each of which constitutes a single-point-of-failure. Our 
+cameras and transmitters communicate peer-to-peer direct with operator workstations and recorders and, 
+in not needing a central server of any kind, we deliver an inherently resilient and  fault-tolerant' system. 
+The IndigoVision architecture is extremely simple yet powerful: no servers, no bottlenecks, cost effective 
+and reliable. In terms of competitive advantage, it's as strong as our compression. 
+ 
+Developing people  
+We now have four regional leaders, reporting to the CEO, each managing sales, support and marketing 
+in their region: North America, EMEA, APAC and Latin America. The purpose of this is to prepare us for 
+the next stage of growth by locating management of all customer-related functions as close as possible to 
+the market so we can be as responsive as possible and adapt to local business cultures. APAC and Latin 
+America have grown strongly over the last 12 months, a trend we expect to continue. Within EMEA, 
+continental Europe was restructured 12 months ago and over the last 6 months has started to grow once 
+more. We have just appointed a new leader for our North American business, who joins us from a US 
+competitor, and we anticipate growth will resume within the current year. 
+In May we appointed a new head of Product Management and separated it from Engineering in order to 
+bring more market focus to our product roadmap. At the same time we appointed an Engineering 
+Manager reporting to the Chief Executive, thus ensuring closer ownership of technology leadership at the 
+highest management level. 
+ 
+   IndigoVision Group plc 
+Directors' report and consolidated financial statements 2010 
+ 
+ 
+4 
+ 
+Chairman's Statement (continued) 
+ 
+Dividend 
+Last year, IndigoVision paid a dividend of 5.0p per share.  This year, reflecting the strong balance sheet 
+and a more encouraging start to the current year, the directors are recommending an increased dividend 
+of 7.5p per share.  At this level the dividend would be covered 3.6 times. 
+ 
+The payment of the dividend is subject to the approval of the shareholders at the Annual General 
+Meeting.  If approved, the dividend will be paid on 18 November 2010 to shareholders on the register on 
+29 October 2010. 
+ 
+Outlook 
+We have had an encouraging start to the current year, with sales for the first 8 weeks comfortably ahead 
+of the corresponding period last year.  However, performance remains mixed across the regions and the 
+business climate remains uncertain. 
+ 
+In the developed world, where our activities are predominantly focussed, the practical effects of reducing 
+both public spending and government borrowing will continue to have an impact.  Conversely, growth 
+continues apace in some developing economies.   
+ 
+More positively, the market in which we operate continues to grow, with IP replacing analogue technology 
+at an increasing rate.  We also expect benefits to start to flow from the greater investment we have made 
+in research and product development, producing products that enable access to a larger market. 
+ 
+Overall, therefore, we continue to view the long term future for IndigoVision positively.  For the current 
+year, we have a cautious sense of optimism in IndigoVision's business, underscored by the encouraging 
+start to the new financial year's trading. 
+ 
+ 
+ 
+ 
+ 
+Hamish Grossart 
+Chairman   
+28 September 2010 
+ 

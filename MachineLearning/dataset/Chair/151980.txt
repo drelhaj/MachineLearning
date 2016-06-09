@@ -1,0 +1,184 @@
+ 4 Annual Report & Accounts 2002
+This is the first annual report for the Company since it was formed
+and inherited the media software business that was demerged from
+Pilat Technologies International Limited and commenced trading
+independently on both the London Alternative Investment Market
+(AIM) and the Tel Aviv Stock Exchange in February 2002, when it
+also successfully raised  3.5m in what were difficult capital markets.
+Despite the continued difficult market conditions, 2002 was a year
+of considerable expansion of the Company's client base, leading
+to a 20% increase in revenues compared with 2001. It was also 
+a year of further organisational and product development, which
+through tight cost control and hard work of our 90-strong team,
+we have managed to deliver at significantly reduced operational
+costs. As a result we are proud to report a significant increase 
+in gross profit to  4,565,000 from  2,751,000 in 2001 and also
+earnings for the year compared to losses for prior years.
+Five new IBMS contracts were signed during the year. Four were
+reported in previous quarters - with Discovery Communications, Inc.
+(international implementation across their European, Asian and 
+Latin American regions), Flextech Television Limited (UK), National
+Geographic Channels International (USA) and Southern Cross
+Broadcasting (Australia) Limited. The fifth new contract, signed in
+the fourth quarter of the year, was with Playboy Enterprises, Inc.
+based in Los Angeles, USA. Playboy will be using IBMS for the
+management of their content and channel scheduling, replacing
+several separate legacy systems. This is Pilat Media's sixth
+contract with a North American based broadcaster. To develop
+further our business in North America we have recently opened 
+a US sales and support office, situated in Denver, Colorado, with 
+its first three employees already recruited.
+Pilat Media's client base includes over 20 broadcasters spread over
+Europe, Middle East, Australasia and the USA. These range from
+small to large and represent a different mix of functional needs
+and transmission platforms and technologies, manifesting IBMS
+breadth and depth as one of the world's most comprehensive
+and integrated solutions of its kind, now including the new
+advertising sales functionality developed in partnership with
+Network Ten, Australia over the last two years. Discovery and
+Southern Cross have followed Network Ten in adopting the 
+enhanced IBMS to handle both their programming and
+commercials. This demonstrates that IBMS is becoming a natural
+candidate for many other broadcasters seeking to integrate
+departments across their entire business to achieve operational
+efficiencies not possible with diverse legacy systems. 
+Indeed, our pipeline of potential contracts for which Pilat Media is
+being considered through formal tender processes remains healthy, 
+with a cumulative upfront value in the region of  20 million of
+licence and implementation fees. While the mix has changed
+principally through some won and lost opportunities as well as new
+tenders, the value of the pipeline remains broadly unchanged and
+we are optimistic about the future. However, it is worth re-iterating
+the note of caution we sounded in June, that whilst we hope to 
+win a fair share of these opportunities, it is a highly competitive
+environment and both the award and timing of contracts cannot be
+predicted with any certainty.
+Q4 was our highest revenue quarter to date and was significantly
+profitable. This was a result, in part, of installations at National
+Geographic and Southern Cross that were completed in the 4th
+quarter, a quick and successful installation for Playboy and the
+on-going Discovery  One Discovery' project, which is progressing
+satisfactorily and generating further revenue opportunities, and
+continues to be a major contributor to revenues. We were also able
+to benefit from the steady maintenance revenues, which grow as the
+client base grows, and the incremental high-margin licence fees
+occasionally paid when existing clients seek licence extensions to
+accommodate their growing business beyond what was originally
+contracted and paid for.
+Chairman's Statement
+34%
+54%
+12%
+Breakdown of 2002 Revenues
+Support & Maintenance
+Licences
+Implementation Annual Report & Accounts 2002 5
+Results
+Q4 revenues of  2,756,000 (Q4 2001:  1,780,000) were in line with
+management's expectations as were the cumulative figures for the
+year:  7,347,000 (2001:  6,139,000).  
+Revenues from licences recognised during the quarter include the
+licences from the implementations completed at Southern Cross,
+National Geographic and Playboy as well as a proportion of the
+Discovery licences (where contract
+accounting applies according to the
+percentage of project completion).
+In addition, one of the other existing
+customers extended its IBMS licence
+to cover additional television channels.
+Licence fees in Q4 totalled  1,239,000.
+Licence fees recognised in the year 
+were  2,456,000, representing 33.4% 
+of the total revenues, a rise of  449,000 
+(22%) in comparison to last year.
+Additional revenues of  1,244,000
+were earned during Q4 from services
+including implementation, consulting,
+customisation and system integration,
+mostly derived from the newer clients Flextech, Discovery and SBS,
+and the already live clients five and Network Ten. This component of
+the revenues for the whole year was  3,983,000 representing 54.2%
+of the 2002 annual revenues. The balance of revenues comes from
+recurring support and maintenance fees, which totalled  908,000
+(12.4% of 2002 revenues) from clients already live, post
+implementation. Recurring maintenance and support fees in Q4
+from existing clients totalled  273,000.
+The Company generates the majority of its revenues from new IBMS
+implementations each year and therefore only a longer-term (i.e.
+annual) view of revenues can provide a reliable basis for
+analysis and comparison. Prior year quarterly comparisons could
+prove misleading as in most cases the timing of recognition of
+licence fees depends upon the date of clients' formal acceptance of
+the system. 
+Gross profit in Q4 rose to  1,955,000 (Q4 2001:  1,283,000), which
+represents a margin of 71% compared to 72% in Q4 2001. Gross
+profit in this quarter benefited from the licence fees mentioned
+above which were recognised in the quarter.
+The Company continued to invest in enhancing the IBMS software
+in response to requests from its existing customers and market
+demands. The Company spent  177,000 on research and
+I am pleased to report that the Company has
+achieved a considerable 20% growth in
+revenues for 2002 and generated earnings. 
+This has been achieved against a background of difficult
+markets in general, in particular in the broadcast industry, and
+we are happy with the substantial progress we have made. 
+Michael Rosenberg, Chairman
+0
+7,000
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+  000
+1999 2000 2001 2002
+Other Revenue
+Australasia
+United States of America 
+Rest of Europe
+UK
+Turnover  000 6 Annual Report & Accounts 2002
+development in Q4 (Q4 2001:  777,000), which is less than in
+previous quarters as the initial development of the new advertising
+sales modules is drawing to an end and is being replaced with
+chargeable client-specific work.
+Selling and marketing costs in the three months to and year ended 
+31 December 2002 show an increase over the previous year as 
+the Company has continued to devote greater efforts in this area.
+General and administrative costs were similar to previous quarters
+but were higher than last year as the Company created the
+infrastructure required as a separate public company. 
+The profit before tax for Q4 was  1,018,000, being in line with
+management's expectations, compared with a loss of  211,000 for
+the equivalent period last year. There is a loss for the year before tax
+of  236,000 (2001: a loss of  2,235,000), however the Company has
+made a claim under the Inland Revenue's Research and Development
+tax credit scheme for the years 2000 and 2001 and has received a
+payment of  303,000 after 31 December 2002. This has resulted in
+a profit after tax of  37,000 (2001:  1,978,000 loss).
+Balance sheet
+The Company's current assets substantially increased as a result of
+the fund-raising and sales activity ( 4.8 million in December 2002,
+compared to  2.5m in December 2001). The cash position at the
+end of the year is  1.5 million. Current liabilities decreased from
+ 6.0 million in December 2001 to  2.4 million in December 2002,
+principally because of the assignment of loans to PMG from Pilat
+Technologies International Limited totalling  3.1 million as part of
+the demerger process. Following the fundraising in February 2002
+and current trading, the Directors are confident that PMG has
+sufficient funds to carry out its operations for the foreseeable future.
+Current trading and prospects
+It is very gratifying to be able to report annual results which are
+close to breakeven in the first year of independent operation,
+despite the difficult market conditions and whilst the investments in
+the product and the organisation remain substantial. This reflects
+both the quality of our software as well as the dedication and skill of
+our employees. We have demonstrated again our ability to reach
+and satisfy different clients around the world and, with a healthy
+pipeline of prospects, we remain optimistic about 2003.
+Michael Rosenberg,
+Chairman
+Avi Engel,
+CEO

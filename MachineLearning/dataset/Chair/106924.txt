@@ -1,0 +1,118 @@
+ CHAIRMAN'S STATEMENT
+I am pleased to report the first set of annual results for the year ended 30 April 2005 since ITM's admission to
+AIM in June 2004. On behalf of the Board, I thank the pre-IPO shareholders for their support and welcome the
+new shareholders resulting from the placing and ITM's public listing.
+World Energy Overview
+It is increasingly becoming accepted that the current resilient price of oil is a reflection of an approaching
+historic peak in global oil production that is unable to meet the rapidly increasing demand for energy from
+China and India. The work of the Association for the Study of Peak Oil has drawn attention to the serious
+energy crisis that could occur unless new reliable energy sources are developed.
+In February the Kyoto Treaty became legally binding. Some 141 countries, accounting for 55% of greenhouse
+gas emissions, have ratified the treaty, which pledges to cut these emissions by 5.2% by 2012.
+In order to sustain economic growth the world needs to develop new energy sources that can supplement our
+current energy system and do not produce harmful emissions. This is driving further interest into expanding
+nuclear power production and renewable energy sources.
+The conversion of renewable low value intermittent energy into high value reliable energy is at the heart of
+ITM's strategy and can be achieved by the development of low cost and durable electrolysers. The electrolyser
+has the potential to transform the economics of renewable energy.
+Results
+When reporting the interim results for the half year we stated that we were operating well within budget, and
+this has continued to be the case in the second half. The operating loss for the year was  1.61 million, and the
+loss before tax was  1.26 million. Cash balances including interest receivable totals  8 million, which is a
+strong financial position from which to continue our technical development programmes. The policy of
+maintaining tight control over cash expenditure will continue ensuring that resources available for ITM's
+technical programmes are maximised.
+In line with prospectus statements the directors are not recommending payment of a dividend.
+Review
+ITM's research and development activities, which provide the platform for eventual revenues from licensees,
+have been expanded during the year. The technical team has been increased significantly and laboratory R&D
+facilities enhanced following the move in November to new premises in Sheffield. ITM's intellectual property
+in fuel cell and electrolyser technology, affordable materials and efficient production processes mean that the
+company is well placed to benefit from the greatly increased worldwide interest in a sustainable non-polluting
+hydrogen economy.
+Significant technical developments have been achieved in the year under review:
+Independent costings of the Mk III electrolyser showed significant cost reduction compared with Mk II, plus a
+doubling of power input. The Generics Group, an independent scientific consultancy, has estimated that in
+mass production it would be possible to achieve a cost level below $300 per kW. This represented an
+important step forward in ITM's development plan. Electrolysers will play a pivotal role in maximising the
+potential of transient renewable power generation systems such as a wind turbine.
+ITM has formulated and produced a range of hydrophilic alkaline solid polymer electrolyte materials, which
+have now been operated in fuel cell mode. Alkaline electrochemistry opens the route to new lower cost
+catalysts, which promise further cost reduction potential.
+With the support of the Department of Trade and Industry, the company successfully tested fuel cells that
+operate using liquid (specifically alcohol) fuels introduced directly into the cell. This has significance for
+small portable electronic devices and opens a large field of potential licensees not included in our original
+revenue model.
+In April, the BOC Foundation, an independent organisation, established in 1990 by the BOC Group plc,
+awarded ITM a grant to further develop low cost electrolysers. As a part of the agreement, a high-level
+expert research committee was formed to consider electrolyser development. This committee will be hosted
+by ITM and will include participants from the BOC Foundation, the BOC Group plc and Professor Marcus
+Newborough (Scottish Power:- Royal Academy of Engineering, Professor in Energy & Environmental
+Engineering at Heriot Watt University). The committee reviews areas of mutual interest arising from ITM's
+3 research into the manufacture and use of low cost electrolysers for hydrogen production from renewable
+resources. ITM will own all intellectual property (IP rights) to any new discoveries made during the research
+carried out under the agreement.
+ITM announced in March 2005 that it had successfully demonstrated an alkaline solid polymer fuel cell. ITM's
+unique alkaline membrane technology has been demonstrated operating using two liquids: a liquid fuel and a
+liquid oxidant. The device was built to demonstrate the application of ITM's technology to a micro-fuel cell, a
+size that could be compatible with use, for example, in a hand held telecommunication or other portable
+electronic devices. It has the potential to be operated at high energy density at room temperature using a
+safe fuel/oxidant combination: sodium boro-hydride (non-flammable, as it is used as a solution in water)
+and hydrogen peroxide (a similar dilution to an antiseptic that can be bought at a high street chemist).
+Using two liquids enables the device to operate at high altitudes, such as in an aircraft; in polluted
+environments (including the presence of carbon monoxide in atmospheric air), as well as underwater.
+The demonstration device was an additional strong indication of the diversity and commercial potential of
+ITM's core materials and processes and further broadens the potential addressable markets for future
+licensing deals.
+Intellectual Property
+In August 2004, the company filed three UK provisional patent applications covering:
+. Photoelectric devices
+. Novel materials for use in fuel cells and electrolysers
+. Key technological elements important to the application of ITM's proprietary 'in-situ' manufacturing
+process for membrane electrode assembly ('MEAs') and cell stacks.
+Additionally, ITM developed and filed a UK patent on a new early warning system, which indicates when the
+liquid fuelled fuel cell, demonstrated in March 2005, is in need of refuelling. The system consists of a colour
+indicator that allows the colour of the fuel (or the oxidant) to change as the material is exhausted, giving an
+early warning of the need to re-charge the device. Previously, a rapid drop in performance was the only means
+of detecting that the fuel needed re-charging. UK patent applications have been made to include: the early
+warning refuelling colour indicator and a sealed refuelling cassette designed specifically to enable the rapid
+and convenient refuelling of fuel cells operating using one (or two) liquids. It is central to ITM's approach
+that the technology it develops should be actually useable, and it must therefore be robust and easy to
+refuel using non-hazardous materials. This new system offers a route to a rapid, safe and convenient
+refuelling process without which such fuel cells will not become commercially successful.
+In total the granted or pending patent portfolio has grown and now consists of 12 separate applications, a
+significant increase during the year.
+Board, Management and Staff
+At the end of June 2004, I was pleased to welcome The Right Hon. Lord Walker to the Board as a non-
+executive director of the company. Lord Walker was a member of all Conservative Cabinets between 1970
+and 1990, holding several posts including Secretary of State for Trade and Industry (including Energy),
+Secretary of State for the Environment and Secretary of State for Energy. He is Chairman of Allianz Cornhill
+Insurance plc and a non-executive Director of The London International Financial Futures and Options
+Exchange. After retiring from the Cabinet, Lord Walker became Chairman of international investment bank,
+Kleinwort Benson Group plc and is now Vice Chairman of Dresdner Kleinwort Wasserstein.
+Lord Walker was not the only new arrival at ITM during the year; we further strengthened our team by
+recruiting five experienced scientists, top-level graduates and postgraduates.
+John Wreford, who is currently Finance Director, has indicated that he will retire from the Board at the end of
+the year to pursue other interests. We will make an appropriate announcement as soon as we have found a
+replacement.
+I would like to thank John for his significant contribution to the company which he jointly founded in 2000
+and wish him every success in the future.
+Gervas Steele has retired as a non-executive director with effect from 24 August 2005. We are very grateful
+to Gervas for the major contribution he has made to the development of ITM, and on behalf of the Board I
+would like to wish him well in the future.
+4 I would like to take this opportunity to welcome the new recruits to ITM and to thank all staff for their hard
+work and commitment during the year.
+Outlook
+We look to remain on track to achieve further key milestones over the next 12 months, including a 250 watt
+electrolyser and a 250 watt rigid fuel cell. We will also be announcing results on longevity testing on both fuel
+cells and electrolysers over the next year. ITM believes that the development of its low cost durable modular
+electrolysers will be the key contributor to realising the hydrogen economy. If the test results are successful,
+ITM's innovations will open the door to the replacement of fossil fuels. However, I would like to emphasize
+that we are currently at an important stage of development and substantial laboratory work still needs to be
+concluded successfully before any product can be brought to market. This will enable us to generate the
+additional IP necessary to protect our core technology and negotiate favourable terms for the company.
+I believe that ITM is in a good position to meet its ongoing objectives and look forward to updating
+shareholders on progress at the Annual General Meeting in September.
+Stephen Massey
+Chairman
+5

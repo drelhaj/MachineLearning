@@ -1,0 +1,106 @@
+ Psion 2002 / 04 chairman's statement
+CHAIRMAN'S STATEMENT:
+David Potter, Chairman
+In a difficult business environment, the Group has
+re-established a stable base with a positive cash flow
+during the year and a small operating profit before
+exceptional items and goodwill amortisation.
+Our associate company, Symbian, which represents
+a major investment by the Group, has made
+substantial progress in the developing smartphone
+market.The company is seeing the growth of major
+volumes in licensee shipments based on the Symbian
+OS. Psion Teklogix has performed satisfactorily in
+the prevailing business conditions. Psion Digital
+operations ceased during the year. Progress has
+been made in the development of a new business
+providing middleware software connecting the
+internet to the new generation of smartphones. Chairman's Statement
+Psion 2002 / 05 chairman's statement
+Results
+Sales for the year were  137.9m (2001 -  181.1m). Sales from continuing operations were  128.6m (2001 -
+ 129.0m). Operating profits before exceptional items and goodwill amortisation were  3.5m (2001 - loss of
+ 5.5m). Goodwill amortisation of  16.0m (2001 -  23.7m) was charged for the year and the Group's share of losses
+in joint ventures and associates, principally Symbian, amounted to  10.2m (2001 -  12.8m). In addition, exceptional
+items of  8.1m, primarily for the closure of discontinued operations and write-downs in trade investments, were
+charged giving rise to losses on ordinary activities before interest of  30.8m (2001 -  150.4m).After interest
+received of  0.6m and a tax credit of  1.0m the retained loss was  29.2m (2001 -  150.1m). No dividend will be
+paid for the year.
+After negative cash flow in 2000 and 2001, the Group moved back into positive cash flow during the year, both
+at an operating level and after all investment activities including the funding of our share of Symbian investment. Net
+cash flow from operating activities amounted to  10.0m (2001 -  2.6m outflow).After providing for Psion's share
+of Symbian's rights issue at the beginning of the year of  5.8m together with other investments, Psion's net cash flow
+for the year was positive at  2.6m (2001 -  11.0m outflow).
+Working capital performance has improved.The balance sheet of the Group is sound with shareholders' funds
+of  169.7m (2001 -  193.6m) and net cash and short-term deposits of  30.1m (2001 -  28.4m) before loans
+of  5.7m (2001 -  5.9m).
+Psion Teklogix
+Psion Teklogix supplies and services mobile enterprise solutions for larger corporations.The company addresses a
+number of niche markets globally and is a leader in logistics applications for factories, warehouses, ports and hubs.
+Following the worldwide downturn in 2001, business investment in the company's major markets of North America and
+Europe continued to be very weak.This has been particularly true for corporate investment in information technology.
+The performance of Psion Teklogix was good in this tough environment. Sales declined modestly to  123.5m
+(2001 -  127.2m), though in constant currency terms, sales were the same as last year. Overall, we believe that this
+represents a better performance than our major competitors. Sales in the Americas were  53.4m (2001 -  56.9m);
+sales in Europe were  64.8m (2001 -  60.2m); and sales to the rest of the world were  5.3m (2001 -  10.0m).The
+company generated operating profits of  7.5m (2001 -  9.6m) after additional costs arising from the launch of new
+products and depreciation on the roll out of business software systems. Management delivered key improvements in
+working capital including a substantial reduction in inventory and work in progress.
+During the period under review and while depressed economic conditions have applied, management imposed
+tight control on the company. In such a climate, the business has the advantage of a high level of repeat activity and
+service. Major new clients have been established and there was particular growth in implementations with SAP
+enterprise software.
+The company is being oriented towards the sale of complete solutions rather than the provision of specialised
+hardware.This reflects the continued good performance of our Integration Services Group, which provides solutions
+to customers using mobile systems. Psion 2002 / 06 chairman's statement
+Chairman's Statement (continued)
+Symbian
+Symbian made considerable progress during the year, commercially, in its licensing program and in management.
+The year saw the beginning of a ramp-up in volume of Symbian-enabled smartphone products that include PDA
+functionality, cameras, multi-media messaging, packet-based data, polyphonic sound and colour screens.These
+products represent the start of a new generation of phones. During the second half of the year, the first volume
+smartphone products began to ship including the Nokia 7650 and the Sony Ericsson P800. Both have been well
+received in reviews and in their acceptance by users.There were many announcements of Symbian OS based
+products.Among the major handset suppliers, products were announced from Nokia, Siemens and Fujitsu.
+Approximately 2.1 million units were shipped in 2002 (2001 - 0.5 million).
+In 2002, Symbian's revenues increased substantially to  29.5m (2001 -  17.7m).This included royalties of
+ 7.7m (2001 -  3.2m). Other revenues of  21.8m (2001 -  14.5m) were predominately charges for consultancy
+services related to the implementation of future licensee products.Total gross profit amounted to  12.9m (2001 -
+ 6.2m).With the large ongoing expenditure in development, Symbian's net overheads were  52.8m leaving a loss
+after tax of  37.2m (2001 -  42.1m). Symbian employed 695 staff directly at the end of 2002 (2001 - 625) in
+addition to external contractors. Psion's share of Symbian's pre-tax losses of  10.0m has been charged to the
+Group's profits.
+In market terms, Symbian has a leading share of the evolving smartphone market. Its licensees account for some
+75% of world-wide cellphone shipments. Following a substantial four and a half year development, the company is
+moving into a new phase of volume shipment and growth.
+Symbian ended the year with  21.8m in cash and capital due and on February 17th, 2003, it announced the
+accession of Samsung as a 5% shareholder for a cash consideration of  17m. Samsung is a large and growing supplier
+in the cellphone industry and their presence as a shareholder adds further to Symbian's strength in the industry.
+Subject to unforeseen circumstances, it is expected that Symbian is largely funded. No further investment by Psion
+is planned in the current year and any subsequent requirements will be modest.
+Board and Management
+As reported previously, Ian McElroy will be retiring as Chief Executive of the Group in July. It is our intention
+to announce the appointment of a new Chief Executive by that time. Mr. Norbert Dawalibi has been appointed
+President of Psion Teklogix and now leads the development of that company. Norbert joined the Group last year after
+a long career in IBM and in the telecoms industry.We shall be tabling his election at the AGM to join the Board of
+the Group. I am pleased to report that Ian McElroy has agreed to remain on the Board following his retirement as
+Chief Executive in a non-executive capacity.
+After many years with Psion and having played a central role from the earliest days in the development of the
+Group, Dr. Charles Davies will be stepping down to join Symbian as Chief Technical Officer. Charles has played a key
+role in the technology development of the Group and has been the leading architect of much of that development.
+He remains closely connected with Psion and on behalf of the Board and its shareholders over many years, I would
+like to express my gratitude and admiration for all that he has achieved. After eight years of service to Psion initially as Financial Controller and later as Group Finance Director, Marina
+Wyatt left the Company in October.The Board is grateful for all that Marina contributed and we wish her well in
+her future career. Mr. Bill Jessup, who has wide experience in public companies, was appointed as interim Finance
+Director.A permanent appointment will be made once the new Chief Executive is in place.
+I am pleased to announce the appointment of Stephen Hill as non-executive director of Psion. Stephen's
+experience stems from the media world and most recently he was Chief Executive of the Financial Times Group.
+His breadth and experience in business, in media and in electronic content will serve the Group well.
+Outlook
+The economic environment continues to be constrained.We shall maintain a policy of tight control and cautious
+development until corporate investment in information technology begins to expand again.The prospect for the
+current year is for a modestly improving performance. It is likely that Symbian will experience substantial growth
+and our expectation is to see Symbian established as a successful and leading company in its field.
+David Potter
+Chairman
+Psion 2002 / 07 chairman's statement

@@ -1,0 +1,308 @@
+ Chairman's and Chief Executive's Statement
+Our immediate focus is upon delivering the open bids 
+we have identified, all of which are with prospective
+purchasers practicing renal medicine. We have won 
+two contracts in the first two months of the current 
+year and look to maintain this rate throughout the year.
+We are pleased to present our
+report for the year ended 
+31 December 2003.
+At the time of the publication of our
+half-year results, five customers were
+using Clinical Vision 4 (CV4 ). We now
+have seven customers using CV4 with
+a further three customers currently
+implementing CV4. All 10 customers
+have acquired CV4 to enhance their
+renal dialysis patient care. These
+customers are primarily large teaching
+hospitals or for-profit dialysis clinics
+that require a robust clinical information
+system. The Group developed CV4 as
+a generic clinical information system
+based on its cumulative expertise
+serving the clinical healthcare markets
+in the USA and UK. CV4 provides the
+Group with the opportunity to move into
+other clinical modalities, leveraging its
+leadership position in renal medicine
+and transplantation.
+During the year under review we
+experienced significant delays in
+purchasing decisions by target
+customers for CV4 in our primary
+geographic markets of the USA and
+UK. In the UK, the deferral of
+purchasing decisions arose from
+uncertainty over the government's
+National Programme for IT (NPfIT ),
+which has redefined the IT procurement
+process within the English National
+Health Service (NHS ). The NHS is
+now divided into five clusters, each
+served by a Local Service Provider
+(LSP ) for the purpose of
+implementing and integrating IT
+solutions. Each of the five clusters
+now has a designated LSP , and we
+anticipate that spending on clinical
+information systems will increase
+relative to recent years. Initially, much
+of the investment under the NPfIT 
+is expected to go to improving
+infrastructure within the NHS, but
+your directors believe that clinically
+focused products like CV4 will be
+needed to deliver the UK government's
+goal of utilising technology to improve
+the healthcare system's overall
+effectiveness. In the US market, some
+of the funding for renal medicine comes
+from either the federal or state
+governments. During the second half
+of 2003, target customers in the US
+encountered a slow down in their
+expected cash flow from government
+reimbursement programmes, and this
+resulted in the postponement of
+capital acquisitions. We anticipate
+that these funding constraints will not
+continue through 2004. During this
+calendar year, we have already
+finalised two new contracts for CV4
+from US customers one of which was
+delayed from 2003 because of
+funding constraints.
+During the second half of 2003, the
+Company also pursued open bids
+outside its core market of renal
+medicine. This process highlighted the
+uniqueness of these non-renal  acute
+care modalities and through tailoring
+CV4 over time your directors maintain
+their belief that the Company is
+positioned to exploit the opportunities
+in these markets.
+2 Clinical Computing Plc Placing and open offer
+During the year under review, the
+Company completed a placing and
+open offer at 40p issuing 6,430,051
+ordinary 5p shares and raising
+ 2,163,713, net of expenses and
+increasing the Company's allotted
+share capital by 26 per cent. The
+directors subscribed for 11 per cent
+of the placing and open offer, which
+diluted their overall ownership of the
+Company from 36 per cent to 31 
+per cent. The net proceeds of this
+fundraising have enabled the
+Company to secure recent contracts
+on more favourable terms, provided
+working capital to fund operations,
+and provided our current prospects
+with confidence that the Company will
+be able to honour long-term contract
+commitments.
+At the time of the placing and open offer
+we were pursuing 15 open bids, where
+we believed that we were one of two
+final vendors competing for the contract.
+To date, of the 15 bids, three have
+been won, and one was lost. We
+continue active dialogue with these
+prospects and are in on-going contract
+negotiations with several at this time. 
+Trading results
+As a result of delays in purchasing
+decisions by our identified target
+customers in the second half of 2003,
+results for the year reflect a lower
+volume of contracts won than
+expected. Turnover for the year of
+ 1,858,828 (2002:  2,391,565)
+produced an operating loss of
+ 1,138,501 (2002: loss  858,610).
+After net interest and taxes the loss
+for the year was  1,236,892 (2002:
+loss  955,488). The loss per share
+was 4.5p (2002: loss per share 3.8p). 
+Operating review
+The Group's turnover continues to be
+derived from the provision of software
+and services in the area of clinical
+information solutions for healthcare
+organisations, primarily those that
+specialise in renal medicine. For the
+year ended 31 December 2003 the
+Group saw a reduction in turnover of
+22 per cent when compared to the
+same period in the previous year. 
+The Group derived 75.6 per cent
+(2002: 81.0 per cent) of its turnover
+from the USA and the weakening of
+the dollar in the second half of 2003
+reduced our overall turnover on a
+comparative basis by six per cent.
+The remaining 16 per cent decrease
+was the result of less licence and
+service work due to the delays in
+securing contracts noted above.
+The Group's main source of revenue
+continues to be from maintenance
+contracts for its software products:
+PROTON, di-PROTON, RENLStar
+and Clinical Vision (versions 3 and 4).
+Turnover from maintenance and
+support contracts decreased eight per
+cent when compared to the prior year
+and accounted for 63.8 per cent of
+total turnover (2002: 54.1 per cent).
+This decrease is principally attributable
+to the weakening of the US dollar.
+The Group had 102 customers under
+maintenance contracts at the end of
+2003 (2002: 106).
+During the year under review operating
+costs were eight per cent lower than
+in 2002. The majority of this reduction
+(five per cent) was the result of
+translation gains resulting from a weaker
+US dollar against Sterling than the
+prior year. The balance of the savings
+(three per cent) is attributable to moving
+our UK headquarters on more favourable
+lease terms and reducing our average
+staff count by four people.
+Cash flows
+During the year under review the
+Group continued its investment in
+CV4 and the majority of total
+development costs of  854,601 went
+into this product (2002:  912,038).
+The Group started the year with cash
+resources of  488,089 and in
+September added the net proceeds
+from the placing and open offer of
+ 2,163,716. During the year
+operations required cash of  994,236
+(2002:  1,044,142). The Group's
+ending cash balance (including short
+term deposits) at 31 December 2003
+was  1,749,977.
+Physicians Dialysis selected
+Clinical Vision after an
+extensive evaluation of the
+competitive landscape. In
+making our final decision,
+Physicians Dialysis
+considered several critical
+factors: Clinical Vision's
+superior function and
+flexibility and Clinical
+Computing's solid reputation
+for delivering excellent
+service and support. We
+believe that the Clinical
+Vision program will give
+Physicians Dialysis a
+competitive advantage in the
+market and more importantly,
+provide an essential resource
+in our continuing effort to
+enhance the quality of our
+patients' lives 
+Keith Jones, 
+VP and Chief Financial Officer,
+Physicians Dialysis Inc.
+Case Study
+Physicians 
+Dialysis 
+Superior function
+and flexibility 
+Report & Accounts 03 3 Board changes
+Mike Gordon and Conrad Venn, two
+of the Company's founding directors,
+have decided to step down from the
+Board effective 5 March 2004. Mike
+previously served as Chairman from
+1997 to 2002. Mike, together with
+Conrad, our technical director, led the
+product direction that has become
+CV4 and we thank them both for 
+their contributions. We are currently
+seeking a new non-executive director.
+Market opportunity
+In all of our selected geographic markets
+- the UK, US and Australasia - we
+experienced growing interest in clinical
+information systems from clinicians and
+administrators who are required to
+balance increasing patient expectations
+and regulatory requirements with
+delivering cost effective treatments.
+Likewise, healthcare organisations 
+as well as governmental bodies are
+increasingly interested in seeing
+efficiency gains from the use of
+management software in medicine.
+Today CV4 serves a niche market by
+providing renal healthcare workers
+with a robust tool to manage their
+patients' records. Your directors
+believe that the investment made in
+recent years has positioned the Group
+well to take advantage of opportunities
+in the renal healthcare market, as well
+as other acute care specialties.
+Industry analysts are predicting that
+the compound annual spending growth
+on IT from the hospital sector will be
+significant in our chosen geographic
+markets. The Group's focus is to
+capitalise on these market trends,
+producing growth from its core
+strength of renal medicine in the short
+term while looking to exploit the CV4
+technology in other medical areas
+over time.
+Outlook
+Our immediate focus is upon
+delivering the open bids we have
+identified, all of which are with
+prospective purchasers practising
+renal medicine.
+In addition to ongoing maintenance
+revenue, the Group currently has
+three CV4 contracts to deliver and a
+total order backlog in excess of
+ 400,000. While in prior years
+maintenance revenues have been a
+large percentage of total revenue our
+focus throughout 2004 will be on
+securing new customers and
+increasing our non-maintenance
+revenue. We have won two contracts
+in the first two months of the current
+year and look to maintain this rate
+throughout the year.
+With reference sites in both the US
+and UK, your directors believe that
+the Group is in a position to win more
+new business with CV4. For the
+current year we continue to see our
+revenue growth being generated from
+the US renal dialysis market, where
+we currently have the majority of our
+reference sites and open bids.
+Chairman's and Chief Executive's Statement (continued)
+For the current year we continue to see 
+our revenue growth being generated 
+from the US renal dialysis market where 
+we currently have the majority of our 
+reference sites and open bids.
+4 Clinical Computing Plc
+H Kitchner /Chairman
+05.03.04 
+J Richardson /Chief Executive
+05.03.04 

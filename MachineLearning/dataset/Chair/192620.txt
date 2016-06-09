@@ -1,0 +1,215 @@
+ Chairman's Statement
+2
+Tadpole Technology plc Annual Report and Financial Statements 2003
+Introduction
+During the financial year 2003, fundamental changes
+took place in the scope of the Group's activities and in
+its senior management. The sale of the hardware
+division in December 2002 completed the
+transformation of the Group's business activities from
+hardware to software.
+The trading results for the year ended 30 September
+2003, together with comparatives for the prior year,
+disclose separately the performance of the continuing
+operations  (Cartesia and Endeavors) and the
+discontinued operations  (Tadpole Hardware). In
+Note 2 to the Financial Statements we have also
+presented a segmental analysis of the continuing
+operations to give shareholders a better understanding
+of the structure of the Group's activities and the
+performance of its two software businesses.
+Continuing operations 
+Turnover in the software businesses doubled from
+ 1.8 million in 2002 to  3.6 million in 2003 and the
+operating loss more than halved from  6.9 million to
+ 3.3 million. The second half results showed a
+particularly strong improvement due to substantial
+revenue growth and a move into profitability by
+Cartesia, and to cost reductions by Endeavors. The
+operating loss in the second half of 2003 was
+ 0.7 million compared with a loss of  4.3 million in the
+same period last year. 
+Endeavors
+In the Interim Statement we indicated that the focus for
+the second half would be to develop sales traction for
+Endeavors' products and to keep cash burn tightly
+under control. 
+Endeavors recorded an operating loss for the year of
+ 3.3 million compared with  4.8 million in 2002. The
+second half benefited from a tightened control over
+costs and the operating loss in the second half was
+reduced to  1.4 million from  2.5 million in the same
+period last year. 
+Endeavors' AppExpress product is now positioned for
+broad customer deployment from 2004 onwards.
+AppExpress securely streams Windows-based
+applications from central servers to desktops and
+provides enterprises with an effective solution to
+manage and audit their licensing agreements with
+software vendors. It eliminates software piracy, and
+enables fully functional evaluation trialware to be
+streamed to prospective customers via the Internet. 
+We believe that this product offers growth
+opportunities for the future and Endeavors' marketing
+strategy has been focused accordingly. This focus led to
+Endeavors being certified for Windows Server 2003 and
+obtaining Microsoft Gold Partner status, the only
+streaming technology company to receive this accolade.
+Endeavors' business strategy is to focus AppExpress on
+two key markets, as a web-based delivery mechanism
+for software vendors' trialware programs, and as a new
+business solution for enterprises to stream and manage
+software applications across their networks.
+In the trialware market, Endeavors achieved early
+success in 2003 in streaming Autodesk's AutoCAD
+2004 trialware to prospects. The returns generated for
+Autodesk prompted Microsoft and Intel to publish case
+studies on the AppExpress solution. Since the year-end,
+Autodesk has extended the use of AppExpress to two
+other products. We are confident that Autodesk's use of
+AppExpress will be extended to other software lines
+during the coming year and that other independent
+software vendors will follow Autodesk's new software
+delivery business model.
+In the enterprise market, Endeavors' business strategy
+leverages both direct and indirect sales channels. Early
+in 2003, Endeavors entered into a UK distribution
+agreement with Centia. During the first half of the
+current financial year, we expect to announce further
+distribution agreements covering more territories and
+to close our first sales contracts through both channels. 
+Cartesia
+In the Interim Statement we indicated that Cartesia
+would achieve a substantial increase in revenues during
+the second half of the financial year compared with the
+first half and that the division would be profitable.
+2. Front [c88885]  23/12/03  11:12  Page 2 3
+Turnover almost doubled from  1.8 million in 2002 to
+ 3.5 million in 2003 and the division recorded an
+operating profit of  0.7 million compared with a loss of
+ 0.8 million in 2002. The second half performance was
+particularly strong with a turnover of  2.5 million
+(2002:  0.8 million) and an operating profit of
+ 1.0 million (2002: Loss  0.3 million). 
+Last year we commenced a strategic investment
+programme, which continued through 2003, to develop
+a range of products based on ESRI technology,
+leveraging our experience in mobile GIS. The results of
+this investment began to be realised during the year
+with the launch of the GO!Sync  products and other
+ESRI-based modules and performance tools, which
+were sold to a number of clients. 
+Of particular note is the contract with Ordnance Survey
+to supply its next generation of field-based software.
+Cartesia successfully delivered the first phase of this
+project during the year and anticipates providing
+further services to Ordnance Survey during the coming
+twelve months. Cartesia will also deliver to Ordnance
+Survey Northern Ireland in conjunction with ESRI
+(UK). 
+We continued to develop and deploy our traditional
+Cartesia and ConicGIS products. Contract extensions
+were delivered to a number of clients including Three
+Valleys Water, United Utilities, Scottish Power and
+Bournemouth and West Hampshire Water.
+Market conditions generally have been sluggish, with
+companies deferring IT investment decisions. However,
+we are heartened by the growing number of clients in
+the USA that are adopting our ESRI-based products
+including City of Burbank Water and Power, County of
+Glynn and King County. We also completed the
+delivery to Consumer's Energy, believed to be one of the
+largest deployments of ArcPad technology in the world
+to date. Business partnerships were forged with a
+number of companies including Leica Geosystems,
+Miner and Miner, Power Engineers and Azteca.
+We enter Financial Year 2004 with a healthy sales order
+book and ready to exploit further the investments made
+in our ESRI-based products. We see signs of an
+improvement in the business climate during the coming
+year and anticipate sales growth, particularly in the
+USA, both in our established Utility sector and in other
+key target markets, particularly State and Local
+Government. 
+Discontinued operations
+The operating results of the hardware division cover the
+period from 1 October 2002 to the date of its disposal
+on 23 December 2002. During this period the division
+incurred an operating loss of  0.9 million. The disposal
+of the hardware division resulted in a loss of
+ 5.4 million, which includes the early settlement of
+promissory notes as described below and the write back
+of goodwill previously written off to reserves in 1998
+on the acquisition of RDI Inc.
+Assets and financing
+Part of the consideration for the sale of the hardware
+business was the issue by the purchaser, Tadpole
+Computer, Inc. (an unrelated third party), of two
+subordinated promissory notes totalling $8.5 million,
+which were due for payment in December 2007.
+Under the terms of a supplemental agreement signed on
+25 June 2003, the Company received an immediate
+cash payment of $2.0 million in part settlement of the
+notes. In addition, the agreement provides for a further
+$0.75 million cash to be paid in three equal instalments
+of $0.25 million in June 2005, 2006 and 2007, subject
+to Tadpole Computer, Inc. achieving a defined level of
+profitability at these milestone dates. The agreement
+resulted in the need to make a provision of  4.1 million
+($6.5 million) against the book value of the promissory
+notes. The Company has taken no recognition of the
+$0.75 million due under the earn outs.
+In view of the current stage of the Group's development
+and the potential returns from continued investment in
+this critical stage of Endeavors' growth, we concluded
+that it would be in shareholders' best interests to receive
+value for the Notes this year instead of when they
+become due in four and a half years' time. In reaching
+this decision, we took into account the state of the
+market in UNIX products worldwide, which is facing
+increasing competition, and the fact that the receipt of
+$2.0 million cash would reduce the amount of further
+Chairman's Statement (continued)
+2. Front [c88885]  23/12/03  11:12  Page 3 Chairman's Statement (continued)
+4
+Tadpole Technology plc Annual Report and Financial Statements 2003
+draw downs against the GEM equity credit line of
+ 10 million, which expires in January 2004.
+In the Interim Statement we advised shareholders that
+further use of the GEM facility could not be ruled out.
+This month, December 2003, we issued shares for
+ 0.7 million, bringing the total draw downs against this
+facility to  5.7 million. 
+Board changes
+Graham Brown, who served as president of the
+hardware division, resigned as a director in January
+2003 following the disposal of this division. In March
+2003, Bernard Hulme resigned as a director and group
+chief executive. 
+Outlook
+We are encouraged by a growth in customer prospects
+compared with last year during which potential
+customers in our target markets showed little appetite
+for investment in information technology. We are
+engaged with a number of prospects that should, over
+the coming year, give us the opportunity to deliver
+increasing sales revenues for the Group.
+Endeavors is beginning to show evidence of market
+traction and our confidence in the longer term
+prospects for this business is increasing. The challenge
+for Endeavors is to develop sustainable revenue growth
+from its existing and targeted business partnerships.
+Cartesia is expected to deliver a further increase in
+revenues during 2004, in part underpinned by the
+contract with Ordnance Survey. The challenge for
+Cartesia is to develop business in its other target
+vertical markets in order to sustain sales and profit
+growth beyond 2004. Successful exploitation of these
+target markets will, however, require an increased
+investment in sales and marketing. 
+We expect a further improvement in the Group's
+trading performance during 2004.
+David Lee
+Chairman
+16 December 2003
+2. Front [c88885]  23/12/03  11:12  Page 4
