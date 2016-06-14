@@ -1,0 +1,1720 @@
+ Remuneration Report at a Glance
+page
+1 Remuneration Committee
+1 . 1 Role 45
+1 .2 Membership and meetings 45
+1 .3 Advisors 45
+2 Remuneration Policy 45
+3 Remuneration Structure 45
+3. 1 Fixed remuneration 45
+3.2 At risk remuneration 46
+3.2. 1 Group Incentive Scheme and Long Term 
+Incentive Plan 46
+3.3 Performance of BHP Billiton 47
+4 Executive Directors 48
+4. 1 Mr Charles Goodyear 48
+4. 1 . 1 Summary of remuneration arrangements 48
+4. 1 .2 Service contract 48
+4. 1 .3 Remuneration 49
+4. 1 .4 Share and Option plans 49
+4. 1 .5 Retirement benefits 50
+4.2 Mr Miklos (Mike) Salamon 50
+4.2. 1 Summary of remuneration arrangements 50
+4.2.2 Service contract 50
+4.2.3 Remuneration 51
+4.2.4 Share and Option plans 51
+4.2.5 Retirement benefits 52
+5 Specified Executives and Highest Paid Officers 
+(other than Directors) 52
+5. 1 Service contracts 52
+5.2 Remuneration 53
+5.3 Group Incentive Scheme 53
+5.4 Share and Option plans 54
+5.5 Retirement benefits 54
+6 Non-executive Directors 55
+6. 1 Remuneration policy 55
+6.2 Remuneration paid 55
+6.3 Retirement benefits 56
+7 Aggregate Directors' Remuneration 56
+8 Appendices 56
+8. 1 Summary of long-term incentive plans 57
+8.2 Notes to the remuneration tables for the 
+executive Directors and Specified Executives 58
+Only the information contained in sections 2 to 8 of this
+Report (other than section 3.3) has been subject to audit.
+Glossary of Terms
+Key abbreviations used throughout this Report are set out below.
+Board The Boards of Directors of BHP Billiton Limited and
+BHP Billiton Plc
+CIP 2001 Co-Investment Plan 2001
+Committee The Remuneration Committee of BHP Billiton
+Limited and BHP Billiton Plc
+Deferred A nil-priced option or a conditional right to 
+Share acquire a Share issued under the rules of the GIS 
+EBIT Earnings Before Interest and T ax
+EPS Earnings Per Share - one of the Performance
+Hurdles for long-term incentives
+ESP 1999 Employee Share Plan 1 999 and 2000
+and 2000
+Group BHP Billiton Limited, BHP Billiton Plc and their
+subsidiaries
+GIS Group Incentive Scheme
+KPI Key performance indicator used to measure the
+performance of the Group, individual businesses
+and executives in any one year
+LTIP Long Term Incentive Plan
+MTI 2001 Medium Term Incentive Plan 2001
+Option A right to acquire a Share on payment of an
+exercise price issued under the rules of the GIS 
+Performance A specified target against which the Group's 
+Hurdle performance is measured to determine the extent
+to which long-term incentives might vest
+Performance A nil-priced option or a conditional right to 
+Share acquire a Share, subject to Performance Hurdles
+issued under the rules of the GIS or the LTIP 
+PSP 2000 Performance Share Plan 2000 and 2001
+and 2001
+RSS 2001 Restricted Share Scheme 2001
+Share Fully paid Ordinary Share in the capital of 
+BHP Billiton Limited or BHP Billiton Plc 
+Specified Those executives (other than executive Directors 
+Executives and numbering at least five) who have the
+greatest authority for managing the BHP Billiton
+Group. The Specified Executives of the Group are:
+Philip Aiken, Group President Energy; John Fast,
+Chief Legal Counsel; Robert Kirkby, President
+Carbon Steel Materials; Marius Kloppers, 
+Chief Commercial Officer; and Christopher Lynch,
+Chief Financial Officer
+TSR T otal Shareholder Return - one of the Performance
+Hurdles for long-term incentives. It is the change
+in share price plus dividends reinvested
+Remuneration Report
+44 BHP BILLITON PLC ANNUAL REPORT 2005
+> 1. Remuneration Committee
+1. 1 Role
+The Remuneration Committee, operating under delegated
+authority from the Board, focuses on:
+  remuneration policy
+  adoption of incentive plans
+  determination of levels of reward to the CEO and approval 
+of rewards to those reporting to the CEO
+  guidance on evaluating the performance of the CEO, and
+  communication to shareholders on the Committee's work 
+on behalf of the Board.
+The Committee is committed to the principles of accountability,
+transparency and to ensuring that remuneration arrangements
+demonstrate a clear link between reward and performance. 
+Its activities are governed by terms of reference, available 
+on the BHP Billiton website at www.bhpbilliton.com/aboutus/
+governance.
+An independent assessment of the effectiveness of the
+Committee has commenced and is due to be completed 
+in the 2005 calendar year . The objectives of the review 
+are to investigate and assess whether the Committee is:
+  appropriately constituted and supported
+  performing optimally
+  operating as an integral contributor to the overall
+performance of the Board
+  capable of dealing with the complex issues surrounding
+remuneration, and
+  able to handle the level of complexity involved in setting
+remuneration policy in a global environment.
+A review of the Committee's terms of reference will also take
+place as part of this process.
+1.2 Membership and meetings
+Independent non-executive Directors Dr John Buchanan
+(Chairman), Dr David Jenkins, Lord Renwick of Clifton and 
+Dr John Schubert were members of the Committee throughout
+the year .
+The Committee met seven times during the year and attendance
+at those meetings is set out in the Corporate Governance
+Statement on page 36.
+The Group Chairman, the CEO and the Group Vice President
+Human Resources attended Committee meetings by invitation
+and assisted the Committee in its deliberations during the year,
+except where matters associated with their own remuneration
+were considered.
+1.3 Advisors
+The Committee appointed Kepler Associates, an independent
+consultant, to advise on executive remuneration matters during
+the year. The Board appointed Oppeus Pty Limited to conduct 
+an independent review of all Committees, including the
+Remuneration Committee. The Committee draws on data from a
+range of external sources including publications by remuneration
+consultants such as Hay Group, T owers Perrin and Hewitt Bacon
+& Woodrow. A full list of these consultants, the type of data
+sourced from them and whether they provide services elsewhere
+in the Group is available on the BHP Billiton website at
+www.bhpbilliton.com/aboutus/governance. 
+2. Remuneration Policy
+The Committee recognises that the Group operates in a global
+environment and that its performance depends on the quality of
+its people.
+The key principles of the Group's remuneration policy are to:
+  provide competitive rewards to attract, motivate and retain
+highly skilled executives willing to work around the world
+  apply demanding key performance indicators (KPIs) including
+financial and non-financial measures of performance
+  link rewards to the creation of value to shareholders
+  ensure remuneration arrangements are equitable and facilitate
+the deployment of human resources around the Group, and
+  limit severance payments on termination to pre-established
+contractual arrangements that do not commit the Group to
+making unjustified payments in the event of non-performance.
+3. Remuneration Structure
+It is the Group's policy that service contracts for senior
+management, including the CEO, have no fixed term but be
+capable of termination on a maximum of 12 months' notice, 
+and that the Group retains the right to terminate the contract
+immediately, by making a payment equal to no more than 
+12 months' pay in lieu of notice.
+Some executives (but not the CEO) have pre-existing service
+contracts that contain notice periods that exceed 12 months. 
+The Committee has determined that it will limit notice periods 
+to 12 months in all future contracts for executives.
+Remuneration is divided into two components: fixed and at risk.
+BHP Billiton's remuneration policy is to pay at the median level 
+of remuneration for target performance and to provide the
+opportunity for upper decile rewards for distinctive (upper
+decile) performance. Remuneration levels are reviewed each year
+to take account of cost of living changes, any change in the
+scope of the role performed by the executive and any changes
+required to meet the principles of the remuneration policy.
+Details of the remuneration received by the executives for 
+whom remuneration is reported are set out in sections 4 and 5 
+of this Report.
+3. 1 Fixed remuneration
+Fixed remuneration is generally made up of base salary and
+benefits. Base salaries are set by reference to the scope and
+nature of the individual's role, and their performance and
+experience. Market data is used to benchmark salary levels 
+on a global scale, adjusted for local conditions. Consideration 
+is given to competitive global remuneration levels. In addition,
+some executives receive benefits that might include retirement
+benefits, health insurance, relocation costs, life assurance, car
+allowances and tax advisory services.
+Some retirement benefits are delivered under defined benefit
+plans. The Committee considers that these types of plans can
+place an unreasonable financial burden on the Group and has
+therefore resolved that no new members will be admitted to the
+remaining defined benefit plans.
+45
+>
+BHP BILLITON PLC ANNUAL REPORT 2005 3.2 At risk remuneration
+At risk remuneration is delivered as short and long-term
+incentives under the Group Incentive Scheme (GIS) and Long
+Term Incentive Plan (LTIP) to senior executives. The amount of 
+at risk remuneration, if any, that is earned by an executive is
+wholly dependent on that executive' s and the Group' s performance
+against pre-determined KPIs and Performance Hurdles.
+The GIS rewards executives for meeting or exceeding KPIs 
+that are set each year and aligned to BHP Billiton's strategic
+framework. The LTIP is designed to drive sustainable
+performance in the longer term. Both schemes reflect the
+Group's commitment to meeting pre-determined targets and to
+align incentives to shareholder value creation. Participation in
+the GIS and LTIP is approved by the Committee. Executives are
+required to hold a minimum number of BHP Billiton Shares
+throughout the period of their participation in the plans.
+A summary of all incentive plans under which awards to
+executive Directors are still to vest or be exercised appears in
+section 8. 1 below. Entitlements held by Specified Executives
+under incentive plans are summarised in section 5.4 below 
+and detailed in note 31 to the financial statements.
+3.2. 1 Group Incentive Scheme and Long Term Incentive Plan
+The rules of the GIS and LTIP are available on the BHP Billiton
+website at www.bhpbilliton.com/aboutus/annualreports/
+plc/downloads/GISrules.pdf, www.bhpbilliton.com/aboutus/
+annualreports/plc/downloads/LTIPrules.pdf, www.bhpbilliton.com/
+aboutus/annualreports/ltd/downloads/GISrules.pdf and
+www.bhpbilliton.com/aboutus/annualreports/ltd/downloads/
+LTIPrules.pdf.
+At the beginning of the year, Performance Shares were granted
+to participants under the LTIP . The Committee determines the
+number of Shares granted to each participant but, in any 
+one financial year, a participant cannot be granted Performance
+Shares having an expected value that exceeds two times their
+annual base salary. The value is determined using a Monte Carlo
+or similar valuation model. The Performance Shares are subject
+to a Performance Hurdle, based on T otal Shareholder Return
+(TSR) during the performance period (1 July 2004 to 
+30 June 2009), to be measured as at 30 June 2009.
+The Performance Hurdle requires the Group's TSR to exceed a
+median TSR benchmark over the performance period which will
+be the weighted average TSR of a group of peer companies
+(shown below), weighted 75 per cent to mining companies and
+25 per cent to oil and gas companies.
+The amount by which the Group's TSR exceeds the median 
+will determine the number of Performance Shares that will 
+vest. If the Group's TSR exceeds the median by a specified
+percentage then 1 00 per cent of Performance Shares will vest.
+The Committee will decide each year what that percentage 
+will be for the year . For the 2005 financial year that percentage
+was 5.5 per cent per annum. This is a cumulative amount and
+equates to exceeding the median over the five-year performance
+period by 30 per cent. This would be regarded by the Committee,
+and the Board, as outperformance. 
+The Performance Shares will be treated as though they would
+have earned dividends from the date they were granted. Once the
+underlying shares are issued or transferred to a participant, the
+participant will receive a payment in lieu of those dividends. 
+The entitlement of participants to Performance Shares is
+summarised below:
+Remuneration Report continued
+46 BHP BILLITON PLC ANNUAL REPORT 2005
+>
+Summary of the operation of the Group Incentive Scheme (GIS) and Long Term Incentive Plan (LTIP)
+STEP
+1
+KPIs are set for
+each Executive
+STEP
+2
+Performance
+assessed 
+against KPIs 
+and bonus 
+amount 
+calculated
+STEP
+3
+Half of bonus
+paid in cash
+STEP
+4
+Half of bonus
+converted to
+Deferred Shares 
+or Options 
+STEP
+1
+Grant of
+Performance
+Shares which 
+are subject to
+performance
+hurdles
+STEP
+5
+Deferred Shares
+and Options 
+must be held 
+for 2 years 
+before release
+STEP
+2
+TSR performance 
+is assessed 5 
+years from grant 
+and Performance
+Shares vest 
+according to level 
+of performance
+>
+>
+>>
+>
+FY05 FY06 FY07 FY08 FY09 FY10 FY1 1
+Group Incentive Scheme Long Term Incentive Plan
+TSR of the Group
+Percentage of Performance
+Shares that will vest
+Below or equal to the weighted
+average TSR (median)
+0
+Exceeds median TSR by a
+specified percentage per annum
+on a cumulative basis
+(outperformance)
+100
+Between median TSR
+performance and
+outperformance
+Pro-rata between 0 and 100
+depending on position of
+performance between median
+TSR performance and
+outperformance The Committee retains the overall discretion to decide that the
+Performance Shares should lapse, although it is intended that it
+will only exercise this discretion where it forms the view that the
+Group TSR does not properly reflect the financial performance of
+the Group over the Performance Period.
+The peer group of companies against which the Group's TSR
+performance is measured comprises:
+  Alcan   Marathon Oil Company
+  Alcoa   Newmont Mining
+  Alumina   Noranda
+  Anglo American   Norilsk
+  BG Group   Phelps Dodge
+  BP   Rio Tinto
+  Companhia Vale do Rio Doce   Shell
+  Conoco Phillips   T otal
+  Exxon Mobil   Unocal
+  Freeport-McMoRan   Woodside Petroleum
+  Impala   Xstrata
+  Inco
+These Performance Hurdles were chosen to encourage
+participants to focus on the long-term performance of the Group.
+3.3 Performance of BHP Billiton
+The KPIs for the year 1 July 2004 to 30 June 2005 were based 
+on Group, individual business and personal measures. There 
+are three levels of performance against each of the KPIs:
+threshold (the minimum necessary to qualify for any reward);
+target (where the performance requirements have been met);
+and stretch (where performance is exceeded).
+The Group KPIs measure performance in delivering against
+specific health, safety and environment targets and achieving
+specified levels of performance against financial targets.
+The levels of performance achieved in relation to each of the
+primary group measures were as follows:
+The TSR performance of the Group relative to the markets in
+which it operates, over the past five years, is illustrated by the
+two graphs below. The first compares BHP Billiton's TSR
+performance to the ASX 1 00 and the FTSE 1 00. The second
+illustrates performance against the LTIP comparator group, set
+out above. The earnings performance of the Group over the last
+five years is illustrated by the graph of attributable profit on
+page 1 of this Annual Report.
+47
+>
+BHP BILLITON PLC ANNUAL REPORT 2005
+Group KPIs
+Level of performance achieved 
+as determined by the Committee
+Health, safety and environment
+(includes the measures CIFR,
+HSEC standards, company 
+HSEC targets and behavioural-
+based systems)
+Between threshold and target
+(based on the average of the 
+four measures)
+Shareholder Value Added Stretch
+Net Present Value Added Between threshold and target
+June 00 June 01 June 02
+Financial year end
+TSR rebased to 01/07/2000
+June 03 June 04 June 05
+50
+150
+250
+350
+450
+June 00 June 01 June 02
+Financial year end
+TSR rebased to 01/07/2000
+June 03 June 04 June 05
+50
+150
+250
+350
+450
+Five-year TSR performance of 
+BHP Billiton measured against the 
+ASX 100 and FTSE 100 - rebased in US$
+BHP Billiton Plc
+BHP Billiton Limited
+ASX 100
+FTSE 100
+Five-year TSR performance of 
+BHP Billiton measured against the LTIP
+comparator group - rebased in US$
+BHP Billiton Plc
+BHP Billiton Limited
+Median of the comparator group For the period 1 July 2004 to 30 June 2005, the total return to
+BHP Billiton Limited shareholders (as measured by the change 
+in share price plus dividends paid) was 55 per cent. Over the
+same period the return to BHP Billiton Plc shareholders was 
+51 per cent.
+The TSR performance for BHP Billiton Limited is inclusive of 
+the Bonus Share awards and is adjusted for the demerger of
+OneSteel Limited, and for both BHP Billiton Limited and 
+BHP Billiton Plc is adjusted for the demerger of BHP Steel 
+Limited (now known as BlueScope Steel Limited).
+Market price of Shares
+4. Executive Directors
+During the year and at the date of this Report there were two
+executive Directors in office, Mr Charles Goodyear and Mr Miklos
+(Mike) Salamon. The following sections detail their remuneration
+arrangements.
+The tables that appear in sections 4. 1 .3, 4. 1 .4, 4.2.3 and 4.2.4
+have been prepared in accordance with the law and Accounting
+Standards in Australia and the UK. The tables contain the
+amounts paid to the executive Directors during the year and a
+value of the at risk component of their remuneration. The at risk
+component is made up of Performance Shares, Deferred Shares
+and/or Options and is an estimate only because the amount
+cannot be finally determined until (i) shareholders have
+approved the issue of the Shares or Options, and (ii) the
+performance period has expired and the performance has been
+assessed against the Performance Hurdles. Summaries of
+remuneration for Messrs Goodyear and Salamon for the year
+appear in sections 4. 1 . 1 and 4.2. 1 respectively.
+4. 1 Mr Charles Goodyear
+4. 1. 1 Summary of remuneration arrangements
+Mr Goodyear's fixed remuneration is made up of base salary,
+retirement benefits and other benefits, and equals 45 per cent 
+of total remuneration when calculated at the target level of
+performance. The at risk remuneration, made up of short and 
+long-term incentives, equals 55 per cent of total remuneration
+when calculated at the target level of performance.
+The Committee has assessed Mr Goodyear's performance for 
+the year and has concluded that it was above target (see section
+3.3 of this Report for the assessment in relation to Group KPIs).
+Accordingly, the value of at risk remuneration, and therefore 
+the percentage of the total that is attributable to at risk
+remuneration, will be greater than the target percentage.
+Summary of fixed and at risk remuneration 
+for the year ended 30 June 2005
+4. 1.2 Service contract
+Mr Goodyear has a single service contract with BHP Billiton
+Limited and BHP Billiton Plc dated 21 August 2003. It does not
+contain a fixed term and can be terminated by the Group on 
+12 months' notice or by Mr Goodyear on three months' notice.
+The Group has the right to immediately terminate the contract
+by paying Mr Goodyear 12 months' base salary and the
+superannuation (or pension) contribution, in lieu of notice.
+The rules of the GIS and LTIP cover any entitlements 
+Mr Goodyear might have in relation to short and long-term
+incentives, including entitlements that have not vested at the
+date of termination. The rules of those schemes outline the
+circumstances in which Mr Goodyear (and any other participant)
+would be entitled to receive any Deferred Shares, Options or
+Performance Shares that had been granted but which had not
+vested at the date of termination. The rules of the GIS also
+outline the circumstances in which Mr Goodyear would be
+entitled to a cash bonus payment for the performance year in
+which he leaves the Group. Those circumstances depend on the
+reason for his departure.
+The Committee has discretion in relation to the entitlements of
+an employee on termination in some circumstances. This will
+include situations where the employee and the Group reach a
+mutual decision to part. T o provide the Group, its shareholders
+and Mr Goodyear with as much certainty as possible in relation
+to the exercise of that discretion, the Committee has determined
+what Mr Goodyear's entitlements might be if a mutual decision
+to part was reached. The Committee has resolved that, providing
+Mr Goodyear has served as CEO for a minimum of three years,
+he would be entitled to:
+  any Deferred Shares or Options that had been granted but
+were not exercisable at the date of departure. The Committee
+believes that as the performance measures for the grant of
+these Deferred Shares or Options have already been met, save
+for the requirement that they be held for two years from the
+date of grant it is appropriate that they be awarded
+Remuneration Report continued
+48 BHP BILLITON PLC ANNUAL REPORT 2005
+>
+BHP Billiton Plc BHP Billiton Limited
+At 30 June 2005  7.12 A$18.15
+Highest price in 
+the year ended 
+30 June 2005
+ 7.77 
+(28 February 2005)
+A$19.29 
+(7 March 2005)
+Lowest price in 
+the year ended 
+30 June 2005
+ 4.75 
+(23 July 2004)
+A$12.48 
+(5 July 2004)
+Component
+Amount 
+(US$)
+Further
+information
+Fixed remuneration
+(Comprising base salary and
+benefits (including retirement
+benefits))
+2 003 301 see section 4.1.3
+At risk remuneration
+Cash bonus 1240313 see section 4.1.3
+Dividend Equivalent Payment
+value
+291 201 see section 4.1.3
+Estimated fair value of the
+Deferred Shares
+1 060 302 see section 4.1.3
+Notional value of the
+Performance Shares
+558 141 see section 4.1.4
+Estimated total remuneration 
+for financial year 2005
+5 153 258   a cash bonus for the year in which the parting takes place,
+calculated according to Mr Goodyear's performance measured
+against his KPIs and pro-rated to reflect the actual period of
+service, and
+  a right to retain entitlements to Performance Shares that have
+been granted but that are not yet exercisable, pending
+satisfaction of Performance Hurdles. The number of
+entitlements will be pro-rated to reflect Mr Goodyear's period
+of service from the date the awards were granted and will
+only become exercisable if and when the Performance Hurdles
+are met.
+These entitlements would not arise if Mr Goodyear's contract
+was terminated for cause or if he resigned. Details of how the
+GIS and LTIP would operate in those circumstances are set out 
+in the rules, available on the website at www.bhpbilliton.com/
+aboutus/annualreports/plc/downloads/GISrules.pdf,
+www.bhpbilliton.com/aboutus/annualreports/plc/downloads/
+LTIPrules.pdf, www.bhpbilliton.com/aboutus/annualreports/
+ltd/downloads/GISrules.pdf and www.bhpbilliton.com/aboutus/
+annualreports/ltd/downloads/LTIPrules.pdf.
+Where the Committee retains discretion in relation to the award
+of any long or short-term incentives, the rules of the GIS require
+the Committee to exercise that discretion in good faith and
+acting reasonably.
+Mr Goodyear would be entitled to any accrued entitlement that
+he may have under the rules of the Retirement Savings Plan at
+the date of termination as set out in section 4. 1 .5 below.
+4. 1.3 Remuneration
+Mr Goodyear's target cash bonus amount, set by the Committee
+at the beginning of the year, was 70 per cent of adjusted salary.
+Group KPIs represented an 80 per cent weighting and personal
+KPIs 20 per cent. The Committee has assessed the Group's 
+and Mr Goodyear's performance for the year and awarded 
+94.5 per cent of salary as a cash bonus. The Committee has set 
+Mr Goodyear's KPIs for the year ended 30 June 2006 and has
+again set a target cash bonus amount of 70 per cent of salary.
+Group KPIs for the year will represent a 70 per cent weighting.
+Personal KPIs include business growth, project performance,
+business excellence, corporate strategic issues and senior
+executive succession planning.
+49
+>
+BHP BILLITON PLC ANNUAL REPORT 2005
+Remuneration for the year ended 30 June 2005
+4. 1.4 Share and Option plans
+All Shares under award and Options issued form part of Mr Goodyear's at risk remuneration. The extent to which Shares (save for
+Deferred Shares and Options) will vest is wholly dependent on the extent to which the Performance Hurdles are met. No Options held
+are vested but not exercisable, except where stated.
+Summary of interests in incentive plans including the number of Shares and Options awarded in the financial year 
+ended 30 June 2005
+US dollars
+Base salary
+Other benefits
+Retirement
+benefits
+Annual cash
+bonus
+Dividend
+equivalent
+payment value
+Value of
+Deferred Shares
+Subtotal 
+UK GAAP
+Share-based
+compensation
+long-term
+Adjustment for
+Australian GAAP 
+Total
+Australian GAAP
+FIXED FIXED FIXED AT RISK AT RISK AT RISK AT RISK AT RISK
+2005 1 312 500 60 801 630 000 1240313 291 201 1 060 302 4 595 1 17 552 71 1 (212 304) 4 935 524
+2004 1 250 000 321 071 600 000 1 070 125 - 934 444 4 175 640 332 087 (370 329) 4 137 398
+The notes to this table appear in section 8.2 below.
+Scheme
+BHP Billiton Limited Ordinary Shares under option
+Exercise
+price
+(4)
+(A$)
+First exercise
+date Expiry date At 1 July 2004 Granted
+(3)
+Exercised Lapsed At 30 June 2005
+GIS 2004 Options - 180 613 - - 180 613 15.39 August 2006 August 2009
+GIS 2003 Options 320 725 - - - 320 725 11 . 1 1 August 2005 August 2008
+ESP 2000
+(1)
+722 785 - - - 722 785 7.60 3 April 2003 2 April 2010
+ESP 1999
+(1)
+351 065 - - - 351 065 6.92 23 April 2002 22 April 2009 Summary of interests in incentive plans including the number of Shares and Options awarded in the financial year 
+ended 30 June 2005 continued
+Remuneration Report continued
+50 BHP BILLITON PLC ANNUAL REPORT 2005
+>
+Scheme
+BHP Billiton Limited Ordinary Shares under award
+Vesting date At 1 July 2004 Granted
+(3)
+Vested Lapsed At 30 June 2005
+LTIP 2004 Performance - 500 000 - - 500 000 August 2009
+GIS 2004 Deferred - 44 601 - - 44 601 August 2006
+GIS 2003 Deferred 28 093 - - - 28 093 August 2005
+GIS 2003 Performance 112 375 - - - 112 375 August 2006
+GIS 2002 Performance 180 154 - - - 180 154 August 2005
+PSP 2001
+(2)
+136 573 - 122 916 13 657 - 1 October 2004
+Total 457 195 544 601 122 916 13 657 865 223
+Notes:
+(1)
+All of the award is exercisable.
+(2)
+90 per cent of the Shares vested in October 2004, following the end of the performance period, and the BHP Billiton Limited market price was A$14.82. 
+The remaining 1 0 per cent lapsed. Mr Goodyear exercised 53 600 of the vested Shares on 5 May 2005 when the market price was A$16.50 and 53 600 on 
+6 May 2005 when the market price was A$16.52. The aggregate gain was A$884 400 and A$885 472 respectively. As at 30 June 2005, Mr Goodyear had 
+not yet exercised the remaining 15 716 vested shares.
+(3)
+The market price of BHP Billiton Limited Shares on date of grant (3 December 2004) was A$15.28. The fair value per Option, Performance Share and Deferred
+Share was A$3.80, A$6.85 and A$1 3.34 respectively. Fair value per Option, Performance Share and Deferred Share was estimated using a Black-Scholes model,
+a Monte Carlo model and a Net Present Value model respectively. The fair value of Options granted was A$686 329.
+(4)
+Represents the exercise price payable on Options.
+4. 1.5 Retirement benefits
+Mr Goodyear's remuneration includes a payment in lieu of a
+contribution by the Group to a superannuation or pension 
+fund fixed at an annual rate of 48 per cent of base salary. 
+Mr Goodyear may elect to have this paid into a superannuation
+or pension fund or instead, to defer receipt, subject to the rules
+of a Retirement Savings Plan established for this purpose. For
+the year ending 30 June 2005, Mr Goodyear elected to defer
+receipt into a Retirement Savings Plan which is an unfunded
+defined contribution plan. The Plan allows him to accumulate
+these annual payments and to defer receipt until after he retires
+from the Group. The Plan allows Mr Goodyear to establish
+retirement savings arrangements that best meet his needs.
+If Mr Goodyear dies while still employed, a benefit of four times
+base salary will be payable to his estate. A spouse's pension
+equal to two-thirds of one-thirtieth of Mr Goodyear's
+pensionable salary at date of death, for each year of service
+from 1 January 2003 to his normal retirement date (age 60), will
+be payable for the duration of his spouse's lifetime. Periods of
+service where Mr Goodyear received his retirement benefit in 
+the form of the cash gratuity will be disregarded for the purpose
+of calculating any pension amount.
+If Mr Goodyear leaves due to incapacity, the pension
+arrangements are the same as for the Specified Executives 
+(see section 5.5 below) save that his ill-health pension will be
+one-thirtieth for each year of service from 1 January 2003 to 
+his normal retirement date.
+4.2 Mr Miklos (Mike) Salamon
+4.2. 1 Summary of remuneration arrangements
+Mr Salamon's fixed remuneration is made up of base salary,
+retirement benefits and other benefits and equals 50 per cent 
+of total remuneration when calculated at the target level of
+performance. The at risk remuneration, made up of short and
+long-term incentives, equals 50 per cent of total remuneration
+when calculated at the target level of performance.
+The Committee has assessed Mr Salamon's performance for the
+year and has concluded that it was above target (see section 3.3
+of this Report for the assessment in relation to the Group KPIs).
+Accordingly, the value of at risk remuneration, and therefore 
+the percentage of the total that is attributable to at risk
+remuneration, will be greater than the target percentage.
+Summary of fixed and at risk remuneration 
+for the year ended 30 June 2005
+4.2.2 Service contract
+Mr Salamon has contracts of employment with BHP Billiton Plc
+and BHP Billiton Services Jersey Limited, a wholly-owned
+subsidiary of BHP Billiton Plc, both dated 1 September 2003.
+Mr Salamon's employment agreements automatically terminate
+on his 60th birthday. At any time prior to his 60th birthday each
+service contract can be terminated by either the Group or Mr
+Salamon providing 12 months' notice. The Company may make a
+Component
+Amount 
+(US$)
+Further
+information
+Fixed remuneration
+(Comprising base salary and
+benefits (including retirement
+benefits)) 2 178 992 see section 4.2.3
+At risk remuneration
+Cash bonus
+Dividend Equivalent Payment
+value
+Estimated fair value of the
+Deferred Shares
+Notional value of the
+Performance Shares
+1207 599
+150 956
+1 044 71 1
+543 419
+see section 4.2.3
+see section 4.2.3
+see section 4.2.3
+see section 4.2.4
+Estimated total remuneration 
+for financial year 2005 5 125 677 payment in lieu of notice of 12 months, equal to 150 per cent of
+base salary. This payment reflects the market practice at the time
+the terms were agreed.
+The Committee has not considered the circumstances in which it
+would exercise its discretion to allow Mr Salamon to maintain
+any ongoing participation in relation to the long-term incentive
+schemes in which he participates in the event of his departure.
+Those entitlements, if any, will be governed by the rules of the
+schemes at the date of departure.
+4.2.3 Remuneration
+Mr Salamon's target cash bonus amount, set by the Committee
+at the beginning of the year, was 70 per cent of adjusted salary.
+Group KPIs represented 30 per cent of the total performance
+measures. Forty per cent of the weighting applied to KPIs in
+relation to the operating business and the remaining 30 per cent
+was attributable to personal KPIs. The Committee has assessed
+the Group's and Mr Salamon's performance for the year and
+awarded 90.8 per cent of salary as a cash bonus. The Committee
+has set Mr Salamon's KPIs for the year ended 30 June 2006 and
+has again set a target cash bonus amount of 70 per cent of
+salary. Group KPIs for the year will represent 35 per cent of the
+total performance measures. Thirty-five per cent of the
+weighting will apply to KPIs in relation to the operating business.
+The remaining 30 per cent is attributable to personal KPIs that
+include successful integration of WMC Resources Ltd, NPV added
+value, alignment of business planning with business excellence
+principles, operating committee performance, operating
+discipline, performance of key projects and alignment of
+operating businesses' strategy to corporate strategy.
+51
+>
+BHP BILLITON PLC ANNUAL REPORT 2005
+Remuneration for the year ended 30 June 2005
+4.2.4 Share and Option plans
+All Shares under award form part of Mr Salamon's at risk remuneration. The extent to which Shares (save for Deferred Shares) will vest
+is wholly dependent on the extent to which the Performance Hurdles are met.
+Summary of interests in incentive plans including the number of Shares awarded in the financial year ended 30 June 2005
+US dollars
+Base salary
+Other benefits 
+Annual cash
+bonus
+Dividend
+equivalent
+payment value
+Value of
+Deferred Shares 
+Subtotal
+UK GAAP
+Retirement
+benefits 
+Share-based
+compensation
+long-term 
+Adjustment for
+Australian GAAP
+Total 
+Australian GAAP
+FIXED FIXED AT RISK AT RISK AT RISK FIXED AT RISK AT RISK
+2005 1 329 998 148 751 1 207 599 150 956 1 044 71 1 3 882 015 700 243 439 554 (282 732) 4 739 080
+2004 1 197 666 42 581 852 089 - 765 602 2 857 938 655 123 398 360 (317 672) 3 593 749
+The notes to this table appear in section 8.2 below.
+Scheme
+BHP Billiton Plc Ordinary Shares under award
+Vesting date At 1 July 2004 Granted 
+(3)
+Vested Lapsed At 30 June 2005
+LTIP 2004 Performance - 300 000 - - 300 000 August 2009
+GIS 2004 Deferred - 80 151 - - 80 151 August 2006
+GIS 2003 Deferred 89 056 - - - 89 056 August 2005
+GIS 2003 Performance 89 056 - - - 89 056 August 2006
+GIS 2002 Performance 193 706 - - - 193 706 August 2005
+CIP 2001 95 295
+(2)
+- - - 95 295 1 October 2005
+RSS 2001
+(1)
+198 163 - 178 347 19 816 - 8 October 2004
+Total 665 276 380 151 178 347 19 816 847 264
+Notes:
+(1)
+90 per cent of the Shares vested in October 2004, following the end of the performance period, and the BHP Billiton Plc market price was  6.21 . The remaining
+1 0 per cent lapsed. The Shares were transferred to Mr Salamon on vesting. The aggregate gain was  1 1 07 535.
+(2)
+Includes 26 471 Committed Shares invested by Mr Salamon.
+(3)
+The market price of BHP Billiton Plc Shares on date of grant (3 December 2004) was  5.91 . The fair value per Performance Share and Deferred Share was 
+ 2.63 and  5.31 respectively. Fair value per Performance Share and Deferred Share was estimated using a Monte Carlo model and a Net Present Value model
+respectively. 4.2.5 Retirement benefits
+Defined Benefit Pension (US dollars)
+Remuneration Report continued
+52 BHP BILLITON PLC ANNUAL REPORT 2005
+>
+Amount by which the annual
+pension entitlement has
+increased during the year 
+ended 30 June 2005
+(1)
+Total annual pension
+entitlement as at 
+30 June 2005 
+Estimated capital value
+(transfer value) of the
+increase in annual
+pension entitlement
+(1)
+Estimated capital value (transfer value) 
+of total accrued pension
+at 30 June 2005 at 30 June 2004
+66 072 886 665 987 915 9392 019 7 870 626
+Notes:
+(1)
+The increase in accrued pension is the difference between the accrued pension at the end of the previous year and the accrued pension at the end of the year
+without any allowance for inflation. The increase in transfer value of total accrued pension is the difference between the transfer value at the end of the year
+and the transfer value at the beginning of the year less the contributions made to the scheme by the Director also without any allowance for inflation.
+The increase in accrued pension after making an allowance for inflation of 2.9 per cent (2004: 3 per cent) was US$42 275 (2004: US$58 026) and the transfer
+value of that increase less the contributions made to the scheme by the Director was US$447 798 (2004: US$594 275).
+Mr Salamon completed 20 years of service with the Group (and
+its predecessor companies) on 1 April 2005 and consequently 
+no further pension benefits will accrue other than to reflect
+changes in his pensionable salary. He will be entitled to a
+pension at normal retirement date (age 60), equal to two-thirds
+of pensionable salary under non-contributory defined benefit
+pension arrangements set up by BHP Billiton Plc and BHP Billiton
+Services Jersey Limited. Only base salary is pensionable. At the
+date of this Report Mr Salamon was 50 years of age.
+For service after 1 July 1 997 and until 1 April 2005, Mr Salamon
+has had the right to determine whether his pension provision for
+that year's salary under each service contract with BHP Billiton
+Plc and BHP Billiton Services Jersey Limited is made under a
+defined benefit or defined contribution arrangement. He has
+always chosen to take his benefits under a defined benefit
+arrangement.
+If Mr Salamon retires before age 60, his accrued defined benefit
+pension entitlement will normally be reduced for early payment
+at the rate of 4 per cent per annum. In terms of the rules of the
+scheme all pensions in payment will be indexed in line with the
+retail price index.
+If Mr Salamon dies while he is still employed, a lump sum benefit
+of four times base salary and a spouse's pension of two-thirds of
+the prospective pension will be payable to his estate.
+In the event of death while in retirement, a surviving spouse's
+pension of two-thirds of the pension in payment, before the
+effect of commutation, will be payable.
+If Mr Salamon leaves due to incapacity, an ill-health pension of
+two-thirds base salary will be payable. In the event of his death
+during ill-health retirement, a spouse's pension of two-thirds of
+the ill-health pension will be payable for the duration of his
+spouse's lifetime.
+5. Specified Executives and Highest Paid Officers 
+(other than Directors)
+The Specified Executives of the Group are those executives,
+other than executive Directors and numbering at least five, who
+have the greatest authority for managing the Group. They are
+also the five highest paid executives in the Group. This section
+contains information relating to the Group's Specified Executives
+whose full names and titles appear in the Glossary of Terms at
+the beginning of this Report.
+5. 1 Service contracts
+As outlined in section 3, it is the Group's policy that service
+contracts for senior executives have no fixed term but be
+capable of termination on 12 months' notice and that the Group
+retains the right to terminate the contract immediately, by
+making a payment equal to no more than 12 months' pay in lieu
+of notice. Where contracts contain notice periods in excess of 
+12 months, those contracts reflect market practice at the time
+the terms were agreed. The service contracts typically outline the
+components of remuneration paid to the executive but do not
+prescribe how remuneration levels are to be modified from year
+to year .
+Summary of termination provisions in the service contracts with the Specified Executives
+Name 
+Employing 
+company
+Notice period 
+- company
+Notice period 
+- employee Termination provisions
+(1)
+P Aiken
+R Kirkby
+M Kloppers
+C Lynch
+BHP Billiton Limited 
+BHP Billiton Limited
+BHP Billiton Plc
+BHP Billiton Limited
+12 months
+12 months
+12 months
+12 months
+6 months
+6 months
+6 months
+6 months
+On termination the Company may make a payment in lieu 
+of notice equal to 12 months' base salary plus the
+superannuation and retirement benefit contributions for 
+that period
+J Fast BHP Billiton Limited 3 months 3 months On termination the Company may make a payment in lieu 
+of notice equal to 3 months' base salary plus a termination
+payment of 21 months' base salary
+Notes
+(1)
+The Committee has not considered the circumstances in which it would exercise its discretion to allow the executives to maintain any ongoing participation in
+relation to the long-term incentive schemes in which they participate in the event of their departures. Those entitlements, if any, will be governed by the rules
+of the schemes at the date of departure. 5.2 Remuneration
+As noted in section 3 above, senior executives' total remuneration is divided into two components - fixed and at risk. The at risk
+component is derived only in circumstances where the individual has met challenging KPIs and Performance Hurdles which contribute to
+the Group's overall profitability and performance.
+Remuneration of the Specified Executives for the year ended 30 June 2005
+5.3 Group Incentive Scheme
+All Specified Executives exceeded their specified target bonus. 
+Details of the level of participation by the Specified Executives in the GIS in the 2005 financial year are set out on page 54.
+53
+>
+BHP BILLITON PLC ANNUAL REPORT 2005
+US dollars
+Base salary
+Other benefits
+Annual cash
+bonus
+Dividend
+equivalent
+payment value
+Value of
+Deferred Shares
+Subtotal
+UK GAAP
+Retirement
+benefits 
+Share-based
+compensation -
+long-term 
+Adjustment for
+Australian GAAP
+Total 
+Australian
+GAAP
+FIXED FIXED AT RISK AT RISK AT RISK FIXED AT RISK AT RISK
+P Aiken
+  2005 1 012 656 920 606 731 330 110 279 625 190 3 400 061 365 569 328 088 (96 682) 3 997 036
+  2004 882 427 519 032 642 716 - 561 226 2 605 401 318 556 291 887 (217 196) 2 998 648
+J Fast
+  2005 707 053 - 651 832 101 530 557 230 2 017 645 253 832 259 287 (103 939) 2 426 825
+  2004 638 944 - 591 726 - 516 701 1 747 371 229 381 235 198 (221 309) 1 990 641
+R Kirkby
+  2005 828 823 1 296 781 497 108 201 668 076 2 387 893 303 349 281 608 (154 121) 2 818 729
+  2004 696 801 1 272 630 430 - 550 498 1 879 001 255 029 201 030 (236 536) 2 098 524
+M Kloppers
+  2005 864 532 157 585 815 409 114 036 705 422 2 656 984 357 244 294 075 (182 713) 3 125 590
+  2004 719 262 158 398 647 228 - 581 534 2 106 422 320 817 21 1 639 (267 845) 2 371 033
+C Lynch
+  2005 792 855 24 268 719 278 105 297 614 887 2 256 585 275 121 291 075 (1 15 137) 2 707 644
+  2004 716 480 27 272 613 680 - 535 871 1 893 303 248 619 234 895 (220 089) 2 156 728
+The notes to this table appear in section 8.2 below.
+Year ended 30 June 2005 Year commencing 1 July 2006
+Total remuneration at risk
+at the target level of performance
+Group measures (weighting of 
+total performance measures)
+Group measures (weighting of 
+total performance measures)
+P Aiken 42% 25% 35%
+J Fast 57%  45% 45% 
+R Kirkby 56% 30% 35% 
+M Kloppers 52% 45% 45%
+C Lynch 56% 45% 42% 5.4 Share and Option plans
+All of the Shares under award form part of the executives' at risk remuneration. There are no Specified Executives with Options. 
+The extent to which Shares under award (save for Deferred Shares under award) vest will be wholly dependent on the extent to which
+the Performance Hurdles are met.
+Summary of the Specified Executives' interests in incentive plans including the number of Shares awarded in the 
+financial year ended 30 June 2005
+(1)
+Remuneration Report continued
+54 BHP BILLITON PLC ANNUAL REPORT 2005
+>
+At 1 July 2004 Granted Exercised Vested Lapsed At 30 June 2005
+P Aiken
+(2)
+  Shares under award 507 008 283 553 - 196 074 13 186 581 301
+J Fast
+(2)
+  Shares under award 368 733 228 908 - 96 384 10 709 490 548
+R Kirkby
+(2)
+  Shares under award
+  Partly Paid Shares
+331 380
+362 588
+282 450 
+-
+-
+182 054
+74 097
+-
+8 233
+-
+531 500
+180 534
+M Kloppers
+(3)
+  Shares under award 409 718 285 548 - 75 764 8 418 61 1 084
+C Lynch
+(2)
+  Shares under award 410 980 280 908 - 160 887 10 956 520 045
+Notes:
+(1)
+Detailed information on the Specified Executives' interests in incentive plans is set out in note 31 to the financial statements.
+(2)
+BHP Billiton Limited Ordinary Shares under award.
+(3)
+BHP Billiton Plc Ordinary Shares under award.
+5.5 Retirement benefits
+For service following 1 January 2003, retirement, death and
+disability benefits were aligned, where possible, for the 
+Specified Executives as follows:
+Retirement benefits: a defined contribution rate was calculated
+to target a pension accrual of 2.2 per cent of base salary for
+each year of service from 1 January 2003 to age 60. Allowance
+for a two-thirds spouse's pension in retirement plus inflation
+indexation in payment was also incorporated into the
+calculations. T o deliver the retirement promise, the executive 
+is given a choice of funding vehicles including the executive's
+current retirement arrangement, an unfunded Retirement
+Savings Plan, an International Retirement Plan or a cash gratuity
+in lieu. The aggregate cost to the Group of exercising these
+funding choices will not exceed the calculated contribution rate
+for each executive.
+Death-in-service and ill-health benefits: a lump sum of four
+times base salary and a spouse's pension of two-thirds of 
+2.2 per cent of basic salary at death for each year of service 
+from 1 January 2003 to age 60 will be payable. In addition,
+dependants benefits are payable. If the executive leaves due to
+incapacity, an ill-health pension of 2.2 per cent for each year of
+service from 1 January 2003 to age 60 will be payable for the
+duration of the executive's life. In both cases, periods of service
+where the executive elects a cash gratuity are excluded.
+In the event of death during ill-health retirement, a spouse's
+pension of two-thirds of the ill-health pension will be payable 
+for the duration of the spouse's lifetime. Additionally, a children's 
+pension equal to 20 per cent of the ill-health pension will be
+payable for the first child or 33 per cent if there are two or 
+more children, with the resultant pension amounts to be shared
+equally between the children, until the first child ceases being in 
+full-time education or the age of 23, whichever occurs first.
+Benefits accrued by the executive in retirement arrangements
+before 1 January 2003 will be payable in addition to those
+described above.
+These arrangements apply to each of the Specified Executives
+except for Marius Kloppers who retained his previous pension
+promise of one-thirtieth of base salary for each year of service. 6. Non-executive Directors
+6. 1 Remuneration policy
+The whole of the Board assumes responsibility for establishing
+the remuneration policy for non-executive Directors. The
+Remuneration Committee sets the remuneration for the
+Chairman. The shareholders fix the aggregate sum that can be
+applied to non-executive Director remuneration including the
+remuneration of the Chairman. The aggregate sum available to
+remunerate non-executive Directors is currently A$3 million.
+The remuneration rates reflect the size and complexity of the
+Group, the multi-jurisdictional environment arising from the 
+Dual Listed Companies structure, the multiple stock exchange
+listings, the extent of the geographic regions in which the 
+Group operates and the enhanced responsibilities associated
+with membership of Board Committees. They also reflect the
+considerable travel burden imposed on members of the Board.
+The Board is conscious that just as the Group must set
+remuneration levels to attract and retain talented executives, 
+so it must also ensure that remuneration rates for non-executive
+Directors are set at a level that will attract the calibre of Director
+necessary to effectively contribute to a high-performing Board.
+Fees are denominated in US dollars and are reviewed annually.
+Non-executive Directors are not eligible to participate in any of
+the Group's incentive arrangements.
+A standard letter of engagement has been developed for 
+non-executive Directors and is available on the website at
+www.bhpbilliton.com/aboutus/governance. Dates of appointment
+appear on pages 31 to 33 of this Annual Report.
+Each non-executive Director is appointed subject to periodic 
+re-election by the shareholders (see page 36 of this Annual
+Report for an explanation of the re-appointment process). 
+There are no provisions in any of the non-executive Director's
+appointment arrangements for compensation payable on early
+termination of their directorship.
+Remuneration for non-executive Directors is reviewed on an
+annual basis. Following the review of remuneration for 2005 
+the elements of remuneration, effective 1 September 2005, 
+are as follows:
+Non-executive Directors' remuneration
+Chairman's remuneration
+55
+>
+BHP BILLITON PLC ANNUAL REPORT 2005
+US dollars
+At 1 September
+2005
+At 1 July
+2004
+Base fee 100 000 85 000
+Plus additional fees for:
+Senior Independent 
+Director of BHP Billiton Plc 20 000 20 000
+Committee Chairmanship:
+  Audit
+  Sustainability and
+Remuneration
+  Nomination
+40 000
+25 000
+No additional fees
+40 000
+25 000
+No additional fees
+Committee membership:
+  Audit
+  Sustainability and
+Remuneration
+  Nomination
+20 000
+15 000
+No additional fees
+20 000
+15 000
+No additional fees 
+Travel allowance:
+  Greater than three hours 
+but less than 12
+  Greater than 12 hours
+3 000
+7 500
+2 000
+5 000
+US dollars 
+At 1 September
+2005
+At 1 July
+2004
+Fees 700 000 450 000
+Subtotal UK GAAP Total Australian GAAP
+US dollars
+Fees 
+Committee
+Chair fees
+Committee
+membership
+fees 
+Travel
+allowances
+Other
+benefits
+2005 
+2004 
+Retirement
+benefits
+(3)
+2005 
+2004
+Don Argus 450 000 - - 15 000 1 847 466 847 244 500 23 388 490 235 257 160
+David Brink 85 000 25 000 20 000 29 000 3 924 162 924 100 1 19 - 162 924 100 1 19
+John Buchanan 105 000 25 000 - 22 000 4 547 156 547 108 500 - 156 547 108 500
+Michael Chaney 
+(1)
+85 000 - - 18 000 87 103 087 80 826 4 421 107 508 83 991
+Carlos Cordeiro 
+(2)
+14 369 - - 7 000 - 21 369 - - 21 369 -
+David Crawford 85 000 40 000 - 15 000 3 769 143 769 101 000 6 497 150 266 104 561
+David Jenkins 85 000 - 35 000 22 000 - 142 000 1 10 000 - 142 000 1 10 000
+Lord Renwick 85 000 - 15 000 7 000 - 107 000 73 000 - 107 000 73 000
+John Schubert 85 000 - 15 000 15 000 1 651 116 651 80 500 5 199 121 850 83 665
+Notes:
+(1)
+Fees payable to Michael Chaney were paid to his employer Wesfarmers Limited until 12 July 2005, when he retired from that company.
+(2)
+Appointed 3 February 2005. Mr Cordeiro vacated his office on 3 April and was re-appointed by the Board on 26 August. This unusual situation arose because 
+Mr Cordeiro was not able to satisfy the minimum shareholding requirement of Directors as provided for in the Articles of Association of BHP Billiton Plc and 
+the Constitution of BHP Billiton Limited because, like all other Directors and senior executives, he was in possession of unpublished, price sensitive information
+relating to the acquisition by BHP Billiton of WMC Resources Ltd for the whole of the period that was available to him to comply. During the period for which 
+Mr Cordeiro did not hold office as a Director he attended meetings by invitation. In addition to the fees disclosed in the table, Mr Cordeiro was paid US$27 542
+during the period in which he was not a member of the Board.
+(3)
+BHP Billiton Limited contributions of 9 per cent of fees paid in accordance with Australian superannuation legislation.
+6.2 Remuneration paid
+Remuneration for the year ended 30 June 2005 6.3 Retirement benefits
+The following table sets out the accrued retirement benefits
+under the now closed Retirement Plan of BHP Billiton Limited,
+together with any entitlements obtained by the compulsory
+Group contributions to the BHP Billiton Superannuation Fund.
+The Retirement Plan was closed on 24 October 2003 and
+entitlements that had accumulated in respect of each of the
+participants were frozen. These will be paid on retirement. An
+earnings rate equal to the five-year Australian Government Bond
+Rate is being applied to the frozen entitlements from that date.
+US dollars
+7 . Aggregate Directors' Remuneration
+Aggregate remuneration of executive and non-executive
+Directors of BHP Billiton in accordance with UK Generally
+Accepted Accounting Principles
+This Report was approved by the Board on 8 September 2005
+and signed on its behalf by:
+John Buchanan
+Chairman, Remuneration Committee
+8 September 2005
+Remuneration Report continued
+56 BHP BILLITON PLC ANNUAL REPORT 2005
+>
+Name
+Completed years 
+of service at 
+30 June 2005
+Increase in lump 
+sum entitlement 
+during the year
+(1)
+Lump sum 
+entitlement at
+30 June 
+2005
+30 June 
+2004
+Don Argus 8 206 991 1 286 761 1 079 770
+Michael Chaney 10 54 606 339 742 285 135
+David Crawford 11 59 453 361 232 301 779
+David Jenkins 5 31 080 21 9 675 188 595
+John Schubert 5 29 685 1 73 426 143 741
+(1)
+On closure of the Retirement Plan, no further entitlements have
+accrued. The increase reflects the accrual to the date of closure,
+together with application of the earnings rate and foreign exchange
+impact.
+US dollars (million) 2005 2004
+Emoluments 10 8
+Termination payments 0 0
+Awards vesting under long-term incentive plans 4 1
+Gains on exercise of options 0 1
+Total 14 10
+Employee Share
+Plan 2000 
+(ESP 2000)
+(1)
+Performance Share
+Plan 2001 (PSP
+2001) & Restricted
+Share Scheme 2001
+(RSS 2001)
+(1)
+Medium Term
+Incentive Plan 2001
+(MTI 2001) & 
+Co-Investment Plan
+2001 (CIP 2001)
+Group Incentive
+Scheme (GIS) 
+2002 Performance
+Shares (Transition
+Year)
+Group Incentive
+Scheme (GIS) 
+2003 Performance
+Shares 
+Long Term
+Incentive Plan
+(LTIP) 2004
+Performance
+Shares
+Performance
+measurement 
+From
+To
+3 April 2000
+2 April 2003
+1 October 2001
+30 September 2004
+1 October 2001
+30 September 2005
+(2)
+1 July 2002
+30 June 2005
+1 July 2003
+30 June 2006
+1 July 2004
+30 June 2009
+Retesting available
+(i.e. a further
+opportunity to test
+performance after 
+the first performance 
+period has ended)
+Yes, monthly until 
+2 April 2010
+No No No No No
+TSR performance
+condition
+BHP Billiton Limited
+TSR compared to
+ASX 100 and global
+comparator group
+BHP Billiton TSR
+compared to global
+comparator group
+BHP Billiton TSR
+compared to global
+comparator group
+BHP Billiton TSR
+compared to global
+comparator group
+BHP Billiton TSR
+compared to global
+comparator group
+BHP Billiton TSR
+compared to global
+comparator group
+Inflationary
+performance
+condition
+No Yes
+(3)
+Yes
+(3)
+Yes
+(4)
+Yes
+(4)
+No
+Vesting schedule
+(upper and lower
+range)
+< 41st percentile 
+- 0%
+> 60th percentile 
+- 100% 
+< 10th position 
+- 0%
+> 4th position 
+- 100%
+(5)
+< 10th position 
+- 0% 
+> 4th position 
+- 125%
+(6)
+< 50th percentile 
+- 0%
+85th-100th
+percentile - 100%
+< 50th percentile 
+- 0%
+85th-100th
+percentile - 100%
+< = median TSR 
+- 0%
+Exceeds median TSR
+(outperformance) -
+100%
+Between median and
+outperformance -
+pro-rated between 
+0% and 1 00%
+8. Appendices
+8. 1 Summary of long-term incentive plans
+The long-term incentive plans in which the executive Directors have unvested or unexercised awards at the date of this Report are
+summarised in the table below. 57
+>
+BHP BILLITON PLC ANNUAL REPORT 2005
+Employee Share
+Plan 2000 
+(ESP 2000)
+(1)
+Performance Share
+Plan 2001 (PSP
+2001) & Restricted
+Share Scheme 2001
+(RSS 2001)
+(1)
+Medium Term
+Incentive Plan 2001
+(MTI 2001) & 
+Co-Investment Plan
+2001 (CIP 2001)
+Group Incentive
+Scheme (GIS) 
+2002 Performance
+Shares (Transition
+Year)
+Group Incentive
+Scheme (GIS) 
+2003 Performance
+Shares 
+Long Term
+Incentive Plan
+(LTIP) 2004
+Performance
+Shares
+Plan status Legacy plan. 
+Awards have 
+met Performance
+Hurdles and are
+capable of being
+exercised
+Legacy plan. 
+Awards have 
+met Performance
+Hurdles and are
+capable of being
+exercised
+Legacy plan.
+Performance period
+not yet concluded
+Performance period
+concluded on 
+30 June 2005 and
+will vest in August
+2005 
+Performance period
+not yet concluded
+Performance period
+not yet concluded
+Expiry date if
+exercisable
+April 2010
+(7)
+September 201 1
+(7)
+April 2006
+(7)
+August 2008 August 2009 August 2014
+Comparator Group:
+(8)
+ASX 100
+Alcan
+Alcoa
+Alumina
+Anglo American
+Arcelor
+Barrick Gold
+BG Group
+BP
+Compania Vale 
+do Rio Doce
+Conoco Phillips
+Corus Group
+Exxon Mobil
+Freeport-McMoRan
+Impala
+Inco
+LTV
+Marathon Oil
+Newmont Mining
+Noranda
+Norilsk
+Nucor
+Phelps Dodge
+Placer Dome
+Rio Tinto
+Shell
+Total Fina Elf
+Unocal
+US Steel
+Woodside Petroleum
+Xstrata
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+8. 1 Summary of long-term incentive plans continued
+Further details of all incentive plans, including the number of participants in those plans, are contained in note 23 to the financial
+statements.
+Notes:
+(1)
+Although the awards under this plan have vested, the executive Directors have not yet exercised their awards and still retain an interest in the plan.
+(2)
+The first performance period ended 30 September 2003. At that time, participants had the option to remain with the plan and enter a second performance
+period or leave the plan. The second performance period is a further two years ending on 30 September 2005.
+(3)
+The TSR growth targets will be satisfied if the compound TSR growth for the Group during the performance period is at least equal to the greater of the
+increase in the Australian Consumer Price Index or the increase in the UK Retail Price Index, plus 2 per cent per annum, over the performance period.
+(4)
+The EPS growth targets will be satisfied if the compound EPS growth for the Group during the performance period is at least equal to the greater of the increase
+in the Australian Consumer Price Index and the increase in the UK Retail Price Index, plus 2 per cent per annum, over the performance period.
+(5)
+The percentage of performance rights that vest under the PSP 2001 will not be greater than the percentage of the Share award that vests under the RSS 2001
+and vice versa.
+(6)
+The first performance period ended on 30 September 2003 when 60 per cent (out of a maximum of 80 per cent) Shares vested. At that time, participants had
+the option to remain with the plan and enter a second performance period or leave the plan. In respect of the second performance period >4th position will
+mean 125 per cent of those Shares vest. The percentage of performance rights that vest under the MTI 2001 will not be greater than the percentage of the
+Share award that vests under the CIP 2001 and vice versa.
+(7)
+Expiry date will be earlier if employment ceases.
+(8)
+From publicly available data. Remuneration Report continued
+58 BHP BILLITON PLC ANNUAL REPORT 2005
+>
+Dividend Equivalent Payment
+Awards of 2004 GIS Deferred Shares and Options (under the amended
+scheme), 2005 GIS Deferred Shares, Options and 2004 LTIP Performance
+Shares are entitled to a payment in lieu of dividends. This Dividend
+Equivalent Payment is equal to the amount that would have been earned
+over the performance or retention period and will be made on transfer of
+shares to the participant. 
+Other benefits
+Includes medical insurance, professional fees, payout of unused leave
+entitlements, life assurance-related benefits, car allowance and
+relocation allowance and expenses where applicable.
+Retirement benefits
+Mr Goodyear is entitled to receive 48 per cent of his salary in the form of
+retirement benefits. He has elected to defer receipt and participate in the
+Group's Retirement Savings Plan.
+The estimated benefit in respect of pensions includes contributions
+payable in respect of defined benefit and defined contribution
+arrangements and actual/notional contributions (for Mr Salamon and the
+Specified Executives) that would have been required to secure the defined
+benefit promises earned in the year . Details of the defined benefit pension
+entitlements earned by Mr Salamon are set out on page 52. Mr Salamon's
+benefits are fully accrued by 1 April 2005 and therefore the 2005 cost
+reflects only nine months' accrual. A new funding valuation has been
+carried out since the last Report and the 2005 monthly cost of accrual
+reflects the increased contribution rate based on the revised assumptions
+adopted.
+Deferred Shares
+This represents the estimated fair value of Deferred Shares earned in the
+year . The fair value of Deferred Shares is estimated at grant date by
+discounting the total value of the Shares that will be issued in the future
+using the risk-free interest rate for the term of the vesting period. 
+The actual Deferred Shares will be awarded to Messrs Goodyear and
+Salamon subject to approval by shareholders at the annual general
+meetings in 2005. Participants can elect to receive Options instead of
+Deferred Shares or a combination of both. In the case of Deferred
+Shares, the only vesting condition is for participants to remain in the
+employment of the Group for two further years. Accordingly, the number
+of Shares (if any) that will ultimately vest cannot be determined until the
+service period has been completed. The value of the Shares forms part of
+the at risk remuneration appearing throughout the Report, which are
+therefore estimates.
+Share-based compensation long term
+The amount in respect of long-term Share-based compensation
+represents the estimated value of awards granted under the GIS and LTIP .
+The estimated value has been calculated using a Monte Carlo simulation
+methodology taking account of Performance Hurdles. Details of the
+outstanding awards and awards vesting in the year are set out in the
+tables on pages 49, 50, 51 and 54. The estimated value of the award
+made in any year is allocated in equal amounts to each of the years
+during the performance period.
+Adjustment for Australian GAAP
+In accordance with UK GAAP , 1 00 per cent of the estimated Dividend
+Equivalent Payments receivable over the vesting period related to the
+2004 and 2005 GIS Deferred Shares are included in the remuneration 
+in the column headed  Dividend equivalent payment value'. Dividend
+Equivalent Payments related to the 2004 LTIP performance shares will 
+be recognised in remuneration when the cash payment is received.
+Under Australian GAAP , total estimated Dividend Equivalent Payments
+receivable are included over the vesting period. 
+The column headed  Adjustment for Australian GAAP' represents the
+difference between the measurement methods. Hence the addition of
+the columns headed  Value of Deferred Shares',  Dividend equivalent
+payment value' and  Adjustment for Australian GAAP' represents the
+remuneration associated with Deferred Shares and Dividend Equivalent
+payments under Australian GAAP .
+2004 equity compensation
+Amounts in respect of the estimated value of 2004 equity compensation
+have been restated and have been calculated on a comparable basis to
+the valuations performed at 30 June 2005. This restatement is largely
+due to the application of AASB 1 046A which has resulted in the
+estimated value of awards granted under long-term incentive schemes
+now being calculated using a Monte Carlo simulation methodology
+which takes account of Performance Hurdles. 
+8.2 Notes to the remuneration tables for the executive Directors and Specified Executives (Sections 4. 1.3, 4.2.3 and 5.2 above)

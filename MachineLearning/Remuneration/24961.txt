@@ -1,0 +1,316 @@
+ Notes to the Accounts
+54-55
+21 Share capital
+2002 2001
+ 000  000
+Authorised:
+40,000,000 Ordinary shares of 10p each 4,000 3,356
+Allotted, called up and fully paid:
+26,785,889 Ordinary shares of 10p each 2,679 2,655 
+During the year 32,000 ordinary shares of 10p each were issued as a result of the exercise of options under the Bespak Executive and
+Company Share Option Schemes for a total consideration of  138,000. The Company also allotted 200,000 ordinary shares to Bespak
+QUEST Limited for a consideration of  1,090,000.
+Bespak QUEST Limited was established in March 1999 as a qualifying share ownership trust (QUEST) to acquire ordinary shares of 
+the Company for supply to employees exercising options under the Bespak plc Savings Related Share Option scheme. Shares acquired
+by the QUEST are recorded under  investments' as detailed in Note 13 on page 00 of these accounts in accordance with Abstract 
+13  Accounting for ESOP Trusts' from the Urgent Issues Task Force. During the year Bespak QUEST Limited received  320,000 as 
+contributions to the employee trust from Group companies. The balance of the consideration for the 200,000 shares acquired in 
+the Company during the year was funded by a loan from Bespak plc. The difference between the cost of the shares acquired by the 
+QUEST and the option price to employees is shown as a movement in reserves in Note 22 on page ??.
+In the year Bespak QUEST Limited transferred 5,390 ordinary shares to employees for a total consideration of  21,000 to satisfy 
+entitlements under the Company Savings Related Share Option Scheme.
+Share options
+The Company's directors, employees and certain former employees hold options over shares in the Company under a number of 
+share option schemes. The movement on those schemes was as follows:
+Share option Savings related Total
+schemes share options
+Number Number Number
+At 28 April 2001 498,000 483,250 981,250 
+Options granted 280,000 - 280,000 
+Options exercised (32,000) (4,676) (36,676)
+Options lapsed (58,000) (26,261) (84,261)
+At 3 May 2002 688,000 452,313 1,140,313 
+Contingent rights to the allotment of ordinary shares in the Company exist under the terms of the Company's Savings Related, Company
+and Executive Share Option Schemes. Under the Savings Related Scheme options are normally exercisable between 3 and 3 1/2 years,
+under the 1986 Executive Share Option Scheme and the 1996 Company Share Option Scheme between 3 and 10 years and under the
+1996 Executive Share Option Scheme between 3 and 7 years from the date of grant of the options (3 and 10 years in the case of options
+granted on or after 6 April 1997).
+There were outstanding at 3 May 2002 options, granted to directors and employees within the Group under the Bespak Executive Share
+Option Scheme and the 1996 Bespak Company and Executive Share Option Schemes, to subscribe for a total of 688,000 ordinary shares
+at prices between 314p and 795p. The weighted average subscription price is 533p. These options are normally capable of being 
+exercised over varying periods to July 2010.
+There were also outstanding at 3 May 2002 options granted to directors and employees within the Group under the Bespak Savings
+Related Share Option Scheme to subscribe for 452,313 ordinary shares at a weighted average price of 385p not normally exercisable
+earlier than June 2003 nor later than December 2003.
+22 Reserves
+Share Profit & Total
+premium loss
+account account
+(restated) (restated)
+Group  000  000  000
+At 28 April 2001 as previously reported 21,784 43,069 64,853 
+Prior year adjustment - (4,498) (4,498)
+At 28 April 2001 restated 21,784 38,571 60,355 
+Premium on shares issued during the year 1,204 - 1,204 
+Exchange movements on foreign currency net investments - (110) (110)
+Movement relating to QUEST (see note 21) - (320) (320)
+Retained profit for the year - 5,895 5,895 
+At 3 May 2002 22,988 44,036 67,024
+Company
+At 28 April 2001 21,784 38,766 60,550 
+Premium on shares issued during the year 1,204 - 1,204 
+Retained profit for the year - 2,626 2,626
+At 3 May 2002 22,988 41,392 64,380
+Cumulative goodwill written-off against reserves amounts to  2,297,000 (2001 -  2,297,000).
+Profit for financial year
+As permitted by section 230 of the Companies Act 1985, the holding company's profit and loss account has not been included in these
+financial statements. The profit on ordinary activities after taxation for the financial year dealt with in the accounts of the holding 
+company was  7.694 million.
+Prior year adjustment
+The prior year adjustment relates to the implementation of FRS19 on accounting for deferred taxation (see note1). Notes to the Accounts
+56-57
+23 Cash flow from operating activities
+2002 2001
+Reconciliation of operating profit to net cash inflow from continuing operating activities  000  000
+Operating profit 13,709 13,414
+Depreciation 6,491 6,260
+Amortisation 51 37 
+(Profit)/loss on sale of tangible fixed assets (41) 52 
+Profit on sale of fixed asset investment - (3)
+Decrease/(increase) in stocks 87 (160)
+Decrease in debtors 1,750 1,729
+Increase/(decrease) in creditors 5,690 (883)
+Increase/(decrease) in provisions 12 (310)
+Net cash inflow from operating activities 27,749 20,136 
+24 Reconciliation of net cash flow to movement in net funds
+The table below provides an analysis of net funds and a reconciliation of net cash flow to movement in net funds.
+At 28 April Cash Exchange At 3 May
+2001 flow movements 2002
+ 000  000  000  000
+Cash at bank and in hand 190 2,716 (14) 2,892
+Overdrafts & short-term loans (5,374) (188) 100 (5,462)
+Net overdrafts & short-term loans (5,184) 2,528 86 (2,570)
+Loans and leasing obligations (6,398) 2,183 80 (4,135)
+Short-term investments 19,840 11,633 - 31,473 
+Net funds 8,258 16,344 166 24,768 
+Financing items included in cash flow movements
+Payment for shares (158)
+Net cash inflow before management of liquid resources and financing 16,186 
+25 Commitments and contingent liabilities
+Group Company
+2002 2001 2002 2001
+ 000  000  000  000
+(i) Capital expenditure contracted for but not provided in the accounts 8,037 1,110 - -
+(ii) Annual commitments under operating leases 
+Land and buildings:
+- Expiring within 1 year 1 6 - - 
+- Expiring between 2 and 5 years inclusive 54 94 26 26 
+55 100 26 26 
+Other:
+- Expiring within 1 year 11 189 - -
+- Expiring between 2 and 5 years inclusive 240 202 - - 
+251 391 - -
+(iii) Legal proceedings
+In January 2002 the European Patent Office Opposition Board ruled against the Group, upholding the patent rights of a competitor 
+in the field of metered dose inhaler valves. It is likely that an appeal will be made against the decision and the eventual outcome 
+of the dispute is uncertain. The directors do not expect that a material loss will result from the proceedings and as a result no 
+provision has been made. 58-59
+Notes to the Accounts
+26 Pension Commitments
+The Group operates a number of pension
+schemes in the UK and USA, the assets of
+which are held in trustee administered funds
+separate from the finances of the Group.
+The main UK retirement benefits plan is a
+defined benefit scheme. The last full actuarial
+valuation of this scheme was carried out by a
+qualified independent actuary as at 1 May 1999
+and updated on an approximate basis as at 3
+May 2002 to determine the scheme assets and
+liabilities under FRS17. The valuation of this
+scheme is assessed using the projected unit
+method on the basis of triennial valuations.  
+The valuation at 1 May 1999 showed that the
+market value of the assets of the scheme was
+ 14,066,097 and that the actuarial value of
+those assets represented 84% of the benefits
+that had accrued to members, after allowing
+for investment growth and anticipated future
+increases in earnings. The most significant
+financial assumptions affecting the results of
+the valuation were that future price inflation
+would average 2.8% per annum whilst the rate
+of return on investments would average 5.95%
+per annum, future wages and salaries would
+increase by 3.8% per annum, and post-April
+1988 guaranteed minimum pensions would
+increase by an average of 2.85% per annum. 
+Following consultation between the Company
+and the trustees, the Company's contribution
+rates have been increased in order to
+eliminate the deficit over the remaining
+service lives of the current members
+(estimated to be 20 years). At 1 May 2000 the
+scheme was 99% funded on the Minimum
+Funding Requirement (MFR) basis and the
+current contribution rates are above those
+required under the MFR Regulations to meet
+the target of 100% MFR by April 2007. The
+agreed contribution rates to the pension
+scheme vary from 8.1% to 17.7% of
+pensionable salary, according to eligibility of
+benefit. The contributions made by the Group
+to the scheme during the year amounted to
+ 1,633,000 (2001  2,080,000). Accrued pension
+costs included in creditors at the year end
+amounted to  168,000 (2001  153,000).  
+During the year, the Board approved the
+closure of the Group's defined benefit scheme
+to new entrants with effect from 1 January
+2003. Under this plan, existing members will
+be required to fund any increase required 
+in contributions if they wish to remain in 
+the scheme. The pension costs to the Group
+of the defined benefit scheme should not
+increase significantly in the future.
+Contributions will be made to a defined
+contribution scheme for employees leaving 
+the defined benefit scheme.
+The Company is committed to the payment 
+of a pension to a former director which is
+increased in line with the Retail Prices Index. 
+FRS 17 disclosures
+The Group continues to account for pension
+arrangements in accordance with SSAP 24
+ Accounting for pension costs'. Under the
+transitional provisions of FRS 17,  Retirement
+benefits' certain disclosures are required on
+the basis of the valuation methodology
+adopted by FRS 17.  
+The financial assumptions used to calculate
+scheme liabilities under FRS17 are:
+The assets and liabilities in the scheme and
+the expected rate of return were:
+The assets and liabilities of the scheme,
+shown above, both exclude the accumulated
+value of Additional Voluntary Contributions
+paid by members. These total approximately
+ 0.5 million.
+If the above amounts had been recognised 
+in the financial statements, the Group's net
+assets and profit and loss reserve at 3 May
+2002 would be as follows:
+The Group also made payments into defined
+contribution schemes on behalf of a number 
+of employees. Pension costs charged in the 
+year relating to this scheme amounted to
+ 139,000 (2001  82,000), which was paid 
+in full during the year.
+In the USA, the Company operates savings 
+and investment plans qualified under Section
+401(K) of the Internal Revenue Code. Pension
+costs charged in the year relating to these 
+plans amounted to  99,000 (2001  100,000),
+which was paid in full during the year.
+Long-term  Value at
+rate of return 3 May 2002
+expected at
+3 May 2002
+ m
+Equities 7.7% 16.7
+Cash 4.0% 0.1
+Total market value of assets 16.8
+Present value of scheme liabilities 24.5
+Deficit in scheme (7.7)
+Deferred tax asset 2.3
+Net pension deficit (5.4)
+ m
+Net assets
+Net assets excluding net pension deficit 69.7
+Net pension deficit (5.4)
+Net assets including net pension deficit 64.3
+Reserves
+Profit and loss reserve excluding 
+net pension deficit 44.0
+Net pension deficit (5.4)
+Profit and loss reserve 38.6
+Rates of increase of future earnings 3.8%
+Rate of increase in pensions 
+in payment 2.7 to 3.0%
+Discount rate 6.0%
+Inflation assumption 2.8%
+Five year summary
+2002 2001 2000 1999 1998
+ 000  000  000  000  000
+Turnover 91,005 78,695 83,016 81,870 86,067
+Operating expenses (77,296) (65,281) (68,279) (68,699) (72,662)
+Exceptional items - - (583) 1,225 - 
+Group operating profit 13,709 13,414 14,154 14,396 13,405 
+Share of net operating profits of joint ventures and associates 225 240 229 159 36 
+Loss on sale of business - - (29,739) - - 
+Profit/(loss) before  interest and taxation 13,934 13,654 (15,356) 14,555 13,441 
+Net interest receivable/(payable) 1,097 462 (129) 182 379 
+Profit/(loss) before taxation 15,031 14,116 (15,485) 14,737 13,820
+Taxation (4,068) (3,953) (5,067) (3,768) (3,802)
+Profit/(loss) for the financial year 10,963 10,163 (20,552) 10,969 10,018
+Dividends (5,068) (4,770) (4,430) (3,902) (3,497)
+Retained profit/(loss) for the year 5,895 5,393 (24,982) 7,067 6,521 
+Earnings per share (pre-exceptional) 41.3p 38.4p 37.2p 38.8p 39.4p 
+Earnings/(loss) per share (post-exceptional) 41.3p 38.4p (78.9p) 42.8p 39.4p 
+Diluted earnings per share (pre-exceptional) 41.0p 38.1p 36.8p 37.7p 38.3p 
+Diluted earnings/(loss) per share (post-exceptional) 41.0p 38.1p (78.0p) 41.6p 38.3p 
+The financial information has been extracted from the audited accounts for 1998 to 2002 inclusive. 
+Adjustments have been made to the figures originally published to reflect the changes in accounting policy in respect of goodwill 
+and intangible assets and deferred taxation. 
+2001/2002 2002/2003
+Year end 3 May 2002 Year end 2 May 2003
+Ex-dividend date 19 June 2002 Announcement of half year results December 2002 
+Record date 28 June 2002 Interim Report January 2003
+Annual General Meeting 20 September 2002 Payment of interim dividend February 2003
+Payment of final dividend 8 October 2002
+Financial Calendar Board of directors and principal advisers
+Board of Directors
+Sir David Cooksey (Non-Executive Chairman)
+Mark C Throdahl (USA) (Chief Executive)
+Robert J Preece (Group Finance Director)
+Paul D Taylor (Chief Technology Officer)
+(resigned 31 July 2002)
+Sir John Chisholm (Non-Executive)
+George Meredith (USA) (Non-Executive)
+Secretary
+A Louise Scott
+Registered office
+Blackhill Drive
+Featherstone Road
+Wolverton Mill South
+Milton Keynes
+Bucks MK12 5TS
+United Kingdom
+Telephone +44 (0)1908 552600
+Facsimile +44 (0)1908 552613
+E-mail  Bespakplc@Bespak.co.uk
+Registered number
+406711 England
+Auditors
+PricewaterhouseCoopers 
+Principal bankers 
+UK Barclays Bank PLC
+National Westminster Bank Plc
+USA Branch Banking & Trust Company 
+Merchant bankers
+Schroder Salomon Smith Barney
+Stockbrokers
+Credit Suisse First Boston
+(Europe) Limited
+Solicitors
+Herbert Smith
+Eversheds
+Registrars 
+Capita IRG Plc
+Bourne House
+34 Beckenham Road
+Beckenham
+Kent BR3 4TU
+Telephone +44 (0)20 8639 2406
+Facsimile +44 (0)20 8639 2423
+Designed & produced by Tatham Pearce Ltd.  Product photography Richard Foster. Machinery photography Charlie Fawell. Board photography Noorie Parvez. Printed in England by Royle Corporate Print.

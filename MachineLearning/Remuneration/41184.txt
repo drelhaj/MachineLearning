@@ -1,0 +1,505 @@
+ NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS (CONTINUED)
+  31 December 2011 31 December 2010
+  12 months 6 months
+  US$'000 US$'000
+   
+(a) Tax expense  
+Current tax  - -
+Current tax expense in respect of the current year   - -
+Adjustments recognised in the current year in relation to the current tax in prior period  - -
+  
+Deferred tax  
+Deferred tax expense relating to the origination and reversal of temporary differences  222 750
+Tax losses and temporary differences not recognised  (222) (750)
+Total tax expense  - -
+   
+The tax expense for the year can be reconciled to the profit per the income statement as follows:  
+  31 December 2011 31 December 2010
+  12 months 6 months
+  US$'000 US$'000
+Profit before income tax  181,945 32,042
+Tax expense calculated at 30% (2010: 30%) of profit before tax  54,584 9,613
+  
+Tax effect of amounts which are not deductible/taxable in calculating taxable income:  
+Non-deductible expenses  48,703 17,038
+Tax effect of income not taxable in determining taxable profit  (103,595) (26,651)
+Tax Losses and temporary differences not recognised  308 -
+Tax expense for the year  - -
+7. TAX
+Tax recognised in profit is summarised as follows:
+Tax consolidation
+Relevance of tax consolidation to the consolidated entity
+The Company and its wholly-owned Australian resident entities formed a tax-consolidated Group with effect from 1 July 
+2003. The head entity within the tax-consolidated Group is Centamin Egypt Limited. The members of the tax-consolidated 
+Group are identified at Note 21.
+Nature of tax funding arrangements and tax sharing agreements
+Entities within the tax-consolidated Group have entered into a tax funding arrangement and a tax-sharing agreement with 
+the head entity. Under the terms of the tax funding agreement, Centamin Egypt Limited and each of the entities in the tax-
+consolidated Group has agreed to pay a tax equivalent payment to or from the head entity, based on the current tax liability 
+or current tax asset of the entity. Such amounts are reflected in amounts receivable from or payable to other entities in the 
+tax-consolidated Group.
+The tax sharing agreement entered into between members of the tax-consolidated Group provides for the determination of 
+the allocation of income tax liabilities between the entities should the head entity default on its tax payment obligations. No 
+amounts have been recognised in the financial statements in respect of this agreement as payment of any amounts under 
+the tax sharing agreement is considered remote.
+8. SEGMENT REPORTING
+The Group is engaged in the business of exploration and mining of precious and base metals only, which represents a 
+single operating segment. The Board is the Group's chief operating decision maker within the meaning of IFRS 8. 
+9. TRADE AND OTHER RECEIVABLES
+  31 December 2011 31 December 2010
+  12 months 6 months
+  US$'000 US$'000
+Current tax liabilities  
+Current tax payable   444 444
+  31 December 31 December
+  2011 2010
+  US$'000 US$'000
+Gold sales debtors  29,976 -
+Other receivables  22 128
+  29,998 128
+  31 December 31 December
+  2011 2010
+  US$'000 US$'000
+Mining stockpiles and ore in circuit  10,493 10,539
+Stores   59,257 27,478
+  69,750 38,017
+During the year US$295,000 (2010: US$ nil) of inventory has been written off to other operating costs. 
+The tax rate used in the above reconciliation is the corporate tax rate of 30% payable by Australian corporate entities on 
+taxable profits under the Australian tax law. There has been no change in the corporate tax rate when compared to the 
+previous financial period.
+Trade and other receivables are classified as loans and receivables and are therefore measured at amortised cost. The 
+average age of the receivables is 32 days (2010: 1 day). No interest is charged on the receivables. There are no trade 
+receivables past due and impaired at the reporting date, and thus no allowance for doubtful debts has been recognised. 
+Of the trade receivables balance, the gold sales debtor is all receivable from Johnson Matthey of Canada. The amount due 
+has been received subsequent to year-end and was considered to be fully recoverable. 
+The directors consider that the carrying amount of trade and other receivables is approximately equal to their fair value.
+10. INVENTORIES
+CENTAMIN ANNUAL REPORT & ACCOUNTS 2011 85 84 CENTAMIN ANNUAL REPORT & ACCOUNTS 2011
+FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS (CONTINUED)
+  31 December 2011 31 December 2010
+  12 months 6 months
+  US$'000 US$'000
+   
+Prepayments  1,576 460
+11. PREPAYMENTS
+13. EXPLORATION AND EVALUATION
+12. PROPERTY , PLANT AND EQUIPMENT
+  31 December 31 December
+  2011 Restated 2010
+  US$'000 US$'000
+Balance at the beginning of the period  3,752 38,714
+Acquisition of Sheba Exploration (UK) plc - exploration rights  10,413 -
+Expenditure for the period  16,948 6,398
+Transfer to PPE - development assets  - (41,360)
+Balance at the end of the period  31,113 3,752
+ Office Land and Plant and Motor Mine Development Capital Work Total
+ equipment buildings equipment vehicles properties in progress Restated
+Consolidated US$'000 US$'000 US$'000 US$'000 US$'000 US$'000 US$'000
+Cost       
+Balance at 31 December 2010 2,243 14 241,140 56,338 145,976 40,275 485,986
+Additions 9 - - - 20,392 122,502 142,903
+Transfers 475 - 32,800 20,736 -  (54,011) -
+Balance at 31 December 2011 2,727 14 273,940 77,074 166,368 108,766 628,889
+       
+Accumulated depreciation       
+Balance at 31 December 2010 (1,417) (8) (6,242) (12,073) (22,109) - (41,849)
+Depreciation and amortisation (510) (1) (8,641) (7,437) (37,724) - (54,314)
+Balance at 31 December 2011 (1,928) (9) (14,883) (19,510) (59,833) - (96,162)
+       
+Cost       
+Balance at 30 June 2010 2,145 14 237,192 56,320 91,179 16,821 403,671
+Additions 2 - - - 13,437 27,516 40,955
+Transfers 96 - 3,948 18 - (4,062) -
+Transfer from exploration and 
+evaluation assets - - - 41,360 - - 41,360
+Balance at 31 December 2010 2,243 14 241,140 56,338 145,976 40,275 485,986
+       
+Accumulated depreciation       
+Balance at 30 June 2010 (1,142) (7) (2,476) (8,974) (8,189) - (20,788)
+Depreciation and amortisation (275) (1) (3,766) (3,099) (13,920) - (21,061)
+Balance at 31 December 2010 (1,417) (8) (6,242) (12,073) (22,109) - (41,849)
+       
+Net book value       
+As at 31 December 2010 826 6 234,898 44,265 123,867 40,275 444,137
+As at 31 December 2011 799 5 259,057 57,564 106,536 108,766 532,727
+In the prior year the commencement of the commercial production of the open pit mine has resulted in US$41,360,000 of 
+exploration and evaluation assets being transferred to mine development properties. The costs transferred were incurred 
+before commercial production commenced and were capitalised to exploration and evaluation assets in note 13.
+The available for sale financial asset at year-end relates to a 14% equity interest in Nyota Minerals Limited (NYO ), a listed 
+public company. Management are not planning on divesting from this investment in the foreseeable future. Subsequent to 
+year end the Group announced that it had subscribed for 67,000,000 new ordinary shares for a consideration of US$4.0 
+million in the conditional placing announced by Nyota Minerals Limited (Nyota ) on 6 February 2012. 
+During 2011 the Group acquired shares in Auryx Gold Corporation (AYX ) a listed public company for US$11,408,000 and 
+the investment was sold for US$11,191,490 during the year. A profit on disposal of US$92,754 and a foreign exchange loss 
+of US$207,000 were realised.
+14.2 Interests in associates
+The interest in associate relate to the Group's 33% equity interest in Sahar Minerals Limited which was acquired in July 
+2011. The interest in associate is held at the cost of US$3,296,000 at year-end and no movement in the investment has 
+been recorded as there is no financial information available for the associate since the acquisition. The associate holds 
+exploration rights and continues to explore. 
+The exploration and evaluation asset relates to the drilling, geological exploration and sampling of potential ore reserves. 
+During the year the Group acquired the exploration rights in Sheba Exploration (UK) plc of US$10.2 million for the licences 
+of Werie Lehe and Saharti Licences, granted until 29 November 2013, and the Una Deriam Licence, granted until 19 March 
+2013. Both licences are renewable for a period of two years.
+The transfer to PPE - development assets relate to the commencement of the commercial production of the Sukari Gold 
+Mine in 2010. Capitalised exploration and evaluation costs of US$ 41,360,000 incurred before commercial production were 
+transferred to mine development properties in PPE in note 12.
+14. AVAILABLE-FOR- SALE FINANCIAL ASSETS AND INTERESTS IN 
+ASSOCIATES
+14.1 Available-for-sale financial assets
+  31 December 31 December
+  2011 2010
+  US$'000 US$'000
+Balance at the beginning of the period  - -
+Acquisitions  17,403 -
+Disposals  (11,408) -
+Loss on foreign exchange movement  (207) -
+Loss on fair value of investment - other comprehensive income  (3,957) -
+Balance at the end of the period  1,831 -
+CENTAMIN ANNUAL REPORT & ACCOUNTS 2011 87 86 CENTAMIN ANNUAL REPORT & ACCOUNTS 2011
+FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS (CONTINUED)
+During 2011 the Company have re-domiciled to Jersey and the presentation below is line with the requirements of the 
+Jersey Companies Act.
+  31 December 31 December
+  2011 Restated 2010
+  US$'000 US$'000
+Option reserve  - 1,857
+Asset realisation reserve  - 438
+Other reserves - sub-total  - 2,295
+Share option reserve  2,006 1,050
+  2,006 3,345
+Option reserve  
+Balance at beginning of the period  1,857 1,857
+Movements during the period  (1,857) -
+Balance at the end of the period   - 1,857
+ 31 December 2011  31 December 2010 Restated 
+ Number $'000 Number $'000
+Fully paid ordinary shares    
+Balance at beginning of the period 1,081,946,250 600,500 1,028,818,333 465,096
+Issue of shares upon exercise of options 11,312,500 4,058 1,625,000 3,288
+    
+Other placements (net of share issue costs) 3,038,631 4,038 51,502,917 132,116
+Balance at end of the period  1,096,297,381 608,596 1,081,946,250 600,500
+(i)  Employee benefits relate to annual, sick and long service leave entitlements. The current provision for employee benefits as at 31 December 2011 includes 
+US$707,780 (31 December 2010: US$375,000) of annual leave entitlements.
+(ii)  The provision for restoration and rehabilitation represents the present value of the directors' best estimate of the future outflow of economic benefits 
+that will be required to remove the facilities and restore the affected areas at the Group's sites.  This estimate has been made on the basis of benchmark 
+assessments of restoration works required following mine closure and after taking into account the projected area to be disturbed over the life of the mine.
+17. ISSUED CAPITAL  
+  31 December 31 December
+  2011 2010
+  US$'000 US$'000
+Trade payables  12,909 17,881
+Other creditors and accruals  11,600 121
+  24,509 18,002
+15. TRADE AND OTHER PAYABLES
+Trade payables principally comprise the amounts outstanding for trade purchases and ongoing costs. The average credit 
+period taken for trade purchases is 45 days (2010: 119 days). Trade payables are interest free for periods ranging from 30 
+to 180 days. Thereafter interest is charged at commercial rates. The Group has financial risk management policies in place 
+to ensure that all payables are paid within the credit timeframe.
+The directors consider that the carrying amount of trade payables approximate their fair value.
+16. PROVISIONS
+  31 December 31 December
+  2011 2010
+  US$'000 US$'000
+Current  
+Employee benefits (i)  717 666
+Non-current  
+Employee benefits  - 83
+Restoration and rehabilitation (ii)  2,630 2,541
+  2,630 2,624
+Movement in restoration and rehabilitation provision  
+Balance at beginning of the period  2,541 2,451
+Additional provision recognised  89 67
+Interest expense - unwinding of discount   - 23
+Balance at end of the period  2,630 2,541
+  31 December 31 December
+  2011 2010
+  US$'000 US$'000
+Balance at beginning of the period  600,500 465,096
+Issue of shares upon exercise of options and warrants  3,606 2,382
+Transfer from share options reserve  452 906
+Other placements  4,152 136,549
+Share issue costs  (114) (4,433)
+Balance at end of the period  608,596 600,500
+The share option reserve arises on the grant of share options to employees under the employee share option plan and on 
+grant of broker warrants. Amounts are transferred out of the reserve and into issued capital when the options and warrants 
+are exercised.
+Fully paid ordinary shares carry one vote per share and carry the right to dividends. See Note 27 for more details of the 
+share options.
+18. RESERVES
+  31 December 31 December
+  2011 Restated 2010
+  US$'000 US$'000
+Share option reserve  
+Balance at beginning of the period  1,050 1,942
+Cost of share-based payments  1,496 14
+Transfer to issued capital  (452) (906)
+Transfer to retained earnings  (88) -
+Balance at the end of the period  2,006 1,050
+The option reserve and share option reserve have been created from the issuing of options for a consideration greater than 
+their then nominal or par value.
+The asset realisation reserve has been created from the realisation of particular assets.
+The capital reserve was created from the cancellation of shares in the Company held by Pharaoh Gold Mines NL.
+CENTAMIN ANNUAL REPORT & ACCOUNTS 2011 89 88 CENTAMIN ANNUAL REPORT & ACCOUNTS 2011
+FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS (CONTINUED)
+  31 December 31 December
+  2011 2010
+  US$'000 US$'000
+(a) Capital expenditure commitments  
+Plant and equipment  
+Not longer than 1 year  40,026 13,607
+Longer than 1 year and not longer than 5 years  - -
+Longer than 5 years  - -
+  40,026 13,607
+(b) Operating lease commitments  
+Office premises  
+Not longer than 1 year  56 62
+Longer than 1 year and not longer than 5 years  - -
+Longer than 5 years  - -
+  56 62
+19. COMMITMENTS FOR EXPENDITURE
+                   Ownership interest
+  31 December 31 December
+  2011 2010
+Country of incorporation  % %
+Centamin Egypt Limited Australia 100 -
+Viking Resources Limited Australia 100 100
+North African Resources NL Australia 100 100
+Pharaoh Gold Mines NL Australia 100 100
+Egyptian Pharaoh Investments Egypt 100 100
+Sukari Gold Mining Co Egypt   50   50
+Centamin UK Limited United Kingdom 100 -
+Sheba Exploration (UK) plc United Kingdom 100 -
+Sheba Exploration Limited Ethiopia 100 -
+Centamin Limited Bermuda 100 100
+For the period ended 31 December 2010, Centamin Egypt Limited was the parent entity and as a result of the re-domicile 
+occurring on 30 December 2011, Centamin plc became the parent entity. 
+Operating lease commitments are limited to office premises in London.
+20. CONTINGENT LIABILITIES AND CONTINGENT ASSETS
+At year-end the Company has provided a guarantee to Mantrac Free Zone of US$10 million and to no other party (31 
+December 2010: nil). There were no contingent assets at year-end (31 December 2010: nil).
+21. SUBSIDIARIES
+The parent entity of the Group is Centamin plc, incorporated in Jersey, and the details of its subsidiaries are as follows:
+22. AUDITOR'S REMUNERATION
+  31 December 31 December
+  2011 2010
+  US$'000 US$'000
+Audit fees  
+Statutory audit            231 179
+Non audit fees:  
+Tax advisory services for  tax implications of the re-domicile  247 -
+IPO and related services  308 -
+Preparation of  tax returns  90 49
+  876 228
+  31 December 31 December
+  2011 Restated 2010
+  US$'000 US$'000
+Statement of financial position
+Current assets  
+Cash   32,100 11,069
+Trade and other receivables  29,976 -
+Inventories  69,750 27,894
+Prepayments   247 309
+  132,073 39,272
+Non-current assets  
+Exploration, evaluation and development  18,699 52,212
+  18,699 52,212
+Current liabilities  
+Trade and other payables  21,639 16,340
+  21,639 16,340
+The auditor of the Centamin plc Group of companies is Deloitte LLP in 2011. During 2011 Deloitte performed tax advisory 
+services for the various tax implications and considerations for the re-domicile, and for the IPO and related services. In the 
+prior financial period, other non-audit services included the provision of advice and due diligence activities in relation to the 
+main board listing on the London Stock Exchange.
+Deloitte obtained pre-approval from the Audit Committee for performing these services and have used separate teams for 
+the tax advisory services and the IPO and related services, than the team performing the audit.
+The Audit Committee and the external auditor have safeguards in place to avoid the possibility that the auditor's objectivity 
+and independence could be compromised. These safeguards include the implementation of a policy on the use of the 
+external auditor for non-audit related services. 
+Where it is deemed that the work to be undertaken is of a nature that is generally considered reasonable to be completed 
+by the auditor of the Company for sound commercial and practical reasons, the conduct of such work will be permissible 
+provided that it has been pre-approved. All these services are also subject to a predefined fee limit. Any work performed in 
+excess of this limit must be approved by the Audit Committee.
+23. JOINTL Y CONTROLLED ENTITIES
+The consolidated entity has material interests in the following ventures:
+Name of joint venture Principal activities Percentage Interest
+  31 December 2011 31 December 2010
+  % %
+Egyptian Pharaoh Investments Exploration 50 50
+Sukari Gold Mines Exploration and Production 50 50
+The Group's interest as a joint venture partner, in the above jointly 
+controlled entities, is detailed below. The amounts are included in the 
+consolidated financial statements of the Group using the line-by-line 
+reporting format.
+CENTAMIN ANNUAL REPORT & ACCOUNTS 2011 91 90 CENTAMIN ANNUAL REPORT & ACCOUNTS 2011
+FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS (CONTINUED)
+  31 December 31 December
+  2011 Restated 2010
+  US$'000 US$'000
+Statement of comprehensive income
+Revenue  340,479 87,203
+Cost of sales  (140,250) (50,501)
+Gross profit  200,229 36,702
+Other operating income   700 39
+Other operating costs  (1,631) -
+Profit before income tax  199,298 36,741
+Tax expenses  - -
+Net profit for the year  199,298 36,741
+23. JOINTL Y CONTROLLED ENTITIES 
+(CONTINUED)
+Capital commitments arising from the Group's interests in joint ventures are disclosed in Note 19.
+Through its wholly owned subsidiary, PGM, the Company entered into the Concession Agreement with EMRA and the 
+Arab Republic of Egypt granting PGM and EMRA the right to explore, develop, mine and sell gold and associated minerals 
+in specific concession areas located in the Eastern Desert of Egypt. The Concession Agreement came into effect under 
+Egyptian law on 13 June 1995. 
+In 2001 PGM, together with EMRA, were granted an Exploitation Lease over 160 square kilometers surrounding the Sukari 
+Project site. The Exploitation Lease was signed by PGM, EMRA and the Egyptian Minister of Petroleum and gives tenure 
+for a period of 30 years, commencing 24 May 2005 and extendable by PGM for an additional 30 years upon PGM providing 
+reasonable commercial justification. 
+In 2006 SGM, was incorporated under the laws of Egypt. SGM was formed to conduct exploration, development, 
+exploitation and marketing operations in accordance with the Concession Agreement. Responsibility for the day-to-day 
+management of the Project rests with the General Manger, who is appointed by PGM. 
+The fiscal terms of the Concession Agreement require that PGM solely funds the SGM. PGM is however entitled to recover 
+from sales revenue recoverable costs, as defined in the Concession Agreement. EMRA is entitled to a share of SGM's 
+net production surplus (defined as revenue less payment of the fixed royalty to ARE and recoverable costs). As at 31 
+December 2011, PGMs has not recovered its cost and accordingly, no EMRA entitlement has been recognized to date, It 
+is anticipated that the first payment to EMRA will become payable during 2012, Any payment made to EMRA pursuant to 
+these provisions of the Concession Agreement will be recognised as a variable royalty charge to the income statement. 
+The Concession Agreement grants certain tax exemptions, including the following: 
+   From 1 April 2010, being the date of Commercial Production, the Sukari Project is entitled to a 15 year exemption from 
+any taxes imposed by the Egyptian government on the revenues generated from the Sukari Project. PGM and EMRA 
+intend that SGM will in due course file an application to extend the tax-free period for a further 15 years. The extension 
+of the tax-free period requires that there has been no tax problems or disputes in the initial period and that certain 
+activities in new remote areas have been planned and agreed by all parties; 
+   PGM and SGM are exempt from custom taxes and duties with respect to the importation of machinery, equipment and 
+consumable items required for the purpose of exploration and mining activities at the Sukari Project. The exemption 
+shall only apply if there is no local substitution with the same of similar quality to the imported machinery, equipment or 
+consumables. Such exemption will also be granted if the local substitution is more than 10% more expensive than the 
+imported machinery, equipment or consumables after the additional of the insurance and transportation costs; 
+   PGM, EMRA and SGM and their respective buyers will be exempt from any duties or taxes on the export of gold and 
+associated minerals produced from the Sukari Project; 
+   PGM at all times is free to transfer in US dollars or other freely convertible foreign currency any cash of PGM 
+representing its share of net proceeds and recovery of costs, without any Egyptian government limitation, tax or duty; 
+and 
+   PGM's contractors and sub-contractors are entitled to import machinery. Equipment and consumable items under the 
+Temporary Release System  which provided exemption from Egyptian customs duty. 
+No potential ordinary shares were excluded from the calculation of weighted average number of ordinary shares for the 
+purpose of diluted earnings per share.
+24. EARNINGS PER SHARE
+  31 December 31 December
+  2011 2010
+  12 months 6 months
+  Cents per share Cents per share
+Basic earnings per share  16.68 3.10
+Diluted earnings per share  16.66 3.09
+  31 December 31 December
+  2011 2010
+  12 months 6 months
+  US$'000 US$'000
+Earnings used in the calculation of basic EPS  181,945 32,042
+Consolidated
+Consolidated
+Basic earnings per share
+The earnings and weighted average number of ordinary shares used in the calculation of basic earnings per share are as 
+follows:
+  31 December 31 December
+  2011 2010
+  12 months 6 months
+  No. No.
+Weighted average number of ordinary shares for the purpose of basic EPS  1,090,834,599 1,034,672,993
+Consolidated
+Diluted earnings per share
+The earnings and weighted average number of ordinary shares used in the calculation of diluted earnings per share are as 
+follows:
+  31 December 31 December
+  2011 2010
+  12 months 6 months
+  US$'000 US$'000
+Earnings used in the calculation of diluted EPS  181,945 32,042
+Consolidated
+  31 December 31 December
+  2011 2010
+  12 months 6 months
+  US$'000 US$'000
+Weighted average number of ordinary shares for the purpose of diluted EPS  1,092,336,900 1,035,850,664
+  
+Weighted average number of ordinary shares for the purpose of basic EPS  1,090,834,599 1,034,672,993
+Shares deemed to be issued for no consideration in respect of employee options   1,502,301 1,177,671
+Weighted average number of ordinary shares used in the calculation of diluted EPS  1,092,336,900 1,035,850,664
+Consolidated
+CENTAMIN ANNUAL REPORT & ACCOUNTS 2011 93 92 CENTAMIN ANNUAL REPORT & ACCOUNTS 2011
+FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED 
+FINANCIAL STATEMENTS (CONTINUED)
+  31 December 2011 31 December 2010
+  12 months  6 months
+  US$'000 US$'000
+Cash and cash equivalents  164,231 154,338
+25. NOTES TO THE STATEMENTS OF CASH FLOWS
+(a)  Reconciliation of cash and cash equivalents
+For the purpose of the statement of cash flows, cash and cash  
+equivalents includes cash on hand and at bank and deposits.
+(c) Non-cash financing and investing activities
+During the year 3,038,631 ordinary shares valued at US$4.2 million and cash of US$6.2 million totalling US$10,413,000 
+as per note 13 and were issued/paid to the owners of Sheba Exploration (UK) plc as consideration for the acquisition of 
+interests in four exploration licences in Ethiopia. 
+26. FINANCIAL INSTRUMENTS
+(a) Group risk management
+The Group manages its capital to ensure that entities within the Group will be able to continue as a going concern while 
+maximising the return to stakeholders through the optimisation of the cash and equity balance. The Group's overall strategy 
+remains unchanged from the previous financial period.
+The group has no debt and thus not geared at year-end or in the prior year. The capital structure consists of cash and cash 
+equivalents and equity attributable to equity holders of the parent, comprising issued capital and reserves as disclosed in 
+Notes 17 and 18. The Group operates in Australia and Egypt. None of the Group's entities are subject to externally imposed 
+capital requirements.
+The Group utilises inflows of funds toward the ongoing exploration and development of the Sukari Gold Project in Egypt.
+  31 December 2011 31 December 2010
+  12 months  6 months
+  US$'000 US$'000
+Profit for the year  181,945 32,042
+Add/(less) non-cash items:  
+Depreciation/ amortisation of property, plant and equipment  54,314 21,061
+Stock write-off  295 -
+Increase in provisions  171 112
+Foreign exchange rate gain, net   (584) (1,593)
+Listed shares- unrealized gain  (93) -
+Share based payments  1,496 14
+Changes in working capital during the period :   ` 
+(Increase) in trade and other receivables  (29,870) 3,188
+Increase in inventories  (31,733) (16,156)
+Increase in prepayments   (1,116) (192)
+Increase/(decrease) in trade and other payables   6,507 (4,202)
+Cash flows generated from operating activities  181,332 34,274
+(b) Reconciliation of profit for the year to cash flows from operating activities 31 December
+(b) Financial risk management and objectives
+The Group's overall risk management program focuses on the unpredictability of financial markets and seeks to minimise 
+potential risk adverse effects and ensure that net cash flows are sufficient to support the delivery of the Group's financial 
+targets whilst protecting future financial security. The Group continually monitors and tests its forecast financial position 
+against these objectives.
+The Group's activities expose it to a variety of financial risks: market; commodity; credit; liquidity; foreign exchange; 
+and interest rate. These risks are managed under Board approved directives through the Audit Committee. The Group's 
+principal financial instruments comprise interest bearing cash and cash equivalents. Other financial instruments include 
+trade receivables and trade payables, which arise directly from operations.
+It is, and has been throughout the period under review, Group policy that no speculative trading in financial instruments be 
+undertaken.
+(a) Group risk management (continued)
+Categories of financial assets and liabilities:
+  31 December 31 December
+  2011  2010
+  US$'000 US$'000
+Financial assets  
+Available for sale assets  1,831 -
+Cash and cash equivalents  164,231 154,338
+Trade and other receivables  29,998 128
+  196,060 154,466
+Financial liabilities  
+Other financial liabilities  
+Trade and other payables  24,509 18,002
+  24,509 18,002
+CENTAMIN ANNUAL REPORT & ACCOUNTS 2011 95 94 CENTAMIN ANNUAL REPORT & ACCOUNTS 2011
+FINANCIAL STATEMENTS

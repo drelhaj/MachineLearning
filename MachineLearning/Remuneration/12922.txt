@@ -1,0 +1,154 @@
+ Consolidated statement of changes in equity
+for the year ended 31 December 2008
+The notes on pages 20 to 34 form part of these financial statements.
+Consolidated income statement
+for the year ended 31 December 2008
+2008 
+ '000
+2007
+ '000
+Note
+Revenue 7 339 771
+Cost of Sales (7) (26)
+Gross Profit 332 745
+Operating expenses (3,128) (4,680)
+Loss from operations before impairment (2,796) (3,935)
+ Impairment charge (6,986) -
+Loss from operations 8 (9,782) (3,935)
+Finance (expense) / income 11 - (29)
+Loss before tax (9,782) (3,964)
+ Taxation 12 - (109)
+Loss for the year (9,782) (4,073)
+Loss per share
+ Basic and diluted (pence) 13 (14.3p) (8.5p)
+16 | Consolidated income statement Consolidated statement of changes in equity | 17
+Share  
+Capital
+Share  
+Premium
+Unlisted 
+Warrent 
+Reserve
+Capital  
+Reserve
+Foreign 
+Exchange 
+Reserve
+Warrant 
+Reserve
+Retained 
+Losses
+Total  
+Equity
+ '000  '000  '000  '000  '000  '000  '000  '000
+Balance at 01 January 2007 8,728 25,360 - 2,587 (38) 361 (35,013) 1,985
+Adjustment to foreign exchange - - - 114 - - 114
+Net income recognised  
+directly in equity
+- - - 114 - - 114
+Loss for the year - - - - - - (4,073) (4,073)
+Total recognised income  
+and expense for the year 
+- - - - 114 - (4,073) (3,959)
+Increase in share capital 1,858 4,582 - - - - 6,440
+Share issue costs - (484) - - - - (484)
+Movement on exchange of warrants - - - - 9 - 9
+Share based payment - - - - - 222 222
+Balance at 31 December 2007 10,586 29,458 2,587 76 370 (38,864) 4,213
+Adjustment to foreign exchange - - - 44 - - 44
+Net income recognised  
+in equity
+- - - 44 - - 44
+Loss for the year - - - - - - (9,782) (9,782)
+Total recognised income  
+and expense for the year
+- - - - 44 - (9,782) (9,738)
+Increase in share capital 6,839 2,843 - - - - 9,682
+Unlisted warrants movements (715) 715
+Share issue costs - (1,307) - - - - (1,307)
+Share based payment - - - - - 218 218
+Balance at 31 December 2008 17,425 30,279 715 2,587 120 370 (48,428) 3,068
+All amounts are attributable to equity holders of the parent.
+The notes on pages 20 to 34 form part of these financial statements. Consolidated cash flow statement
+for the year ended 31 December 2008
+Consolidated cash flow statement | 19 18 | Consolidated balance sheet
+The financial statements on pages 16 to 34 were approved by the Board of Directors and authorised for issue on 25 March 2009 
+and were signed on its behalf by:
+J E Haag  M Motabar
+Director   Director
+The notes on pages 20 to 34 form part of these financial statements.
+Consolidated balance sheet
+at 31 December 2008
+Note
+2008
+ '000
+2007
+ '000
+ASSETS
+Non-current assets
+Property, plant and equipment (PPE) 14 315 509
+Intangible assets 15 872 4,524
+Total non-current assets 1,187 5,033
+Current assets
+Inventories 17 - 35
+Trade and other receivables 18 103 659
+Prepayments 2,928 765
+Cash and short term deposits 500 98
+Total current assets 3,531 1,557
+Total assets 4,718 6,590
+LIABILITIES AND EQUITY
+Current liabilities
+Trade and other payables 19 1,650 2,377
+Total current liabilities 1,650 2,377
+Equity attributable to equity holders of the parent company
+Share capital 23 17,425 10,586
+Share premium reserve 30,279 29,458
+Capital reserve 2,587 2,587
+Foreign exchange reserve 120 76
+Warrant reserve 370 370
+Unlisted warrants reserve 715 -
+Retained losses (48,428) (38,864)
+Total equity 3,068 4,213
+Total liabilities and equity   4,718 6,590
+2008
+ '000
+2008
+ '000
+2007
+ '000
+2007
+ '000
+Operating activities
+  Loss before tax  (9,782)  (3,964)
+Adjustments for:
+Depreciation 179 110
+Amortisation 71 43
+Loss on disposal of tangible assets 145 60
+Impairment of intangible assets 6,986 -
+Share based payments - stock options 138 222
+Share based payments - non cash payments 26 19
+Adjustments for non cash movements 7,545 454
+Exchange movements 56 33
+Other - 29
+56 62
+Cash outflow from operations before changes in  
+working capital and provisions
+(2,181) (3,448)
+Decrease/(increase) in trade and other receivables 1,220 (536)
+Decrease/(increase) in inventories 35 (35)
+(Decrease)/increase in trade and other payables (673) 1,535
+582 964
+Cash outflow from operating activities carried forward (1,599) (2,484)
+Investing activities
+Payments to acquire PPE (129) (417)
+Proceeds on sale of PPE -  123
+Payments to acquire intangible assets (70)  (41)
+Capitalisation of development costs (3,123) (2,259)
+(3,322) (2,594)
+Financing activities
+Proceeds from issue of ordinary shares 5,323 4,950
+ 5,323 4,950
+Increase/(Decrease) in cash or cash equivalents 402 (128)
+Cash and cash equivalents at the beginning of the period 98 226
+Cash and cash equivalents at the end of the period 500 98
+The notes on pages 20 to 34 form part of these financial statements.

@@ -2,16 +2,10 @@ package classifier;
 
 /**
  * A Java class that implements a simple text classifier, based on WEKA.
- * To be used with MyFilteredLearner.java.
- * WEKA is available at: http://www.cs.waikato.ac.nz/ml/weka/
- * Copyright (C) 2013 Jose Maria Gomez Hidalgo - http://www.esp.uem.es/jmgomez
- *
- * This program is free software: you can redistribute it and/or modify
- * it for any purpose.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ * Modified from the original examples for the purpose of UCREL Summer School in Corpus Based NLP
+ * at Lancaster University
+ * http://ucrel.lancs.ac.uk/summerschool/nlp.php
+ * Modified by Mahmoud El-Haj
  */
  
 import weka.core.*;
@@ -24,11 +18,14 @@ import java.io.*;
  * This class implements a simple text classifier in Java using WEKA.
  * It loads a file with the text to classify, and the model that has been
  * learnt with MyFilteredLearner.java.
- * @author Jose Maria Gomez Hidalgo - http://www.esp.uem.es/jmgomez
- * @see MyFilteredLearner
  */
  public class MyFilteredClassifier {
 
+	/**
+	 * String for classifier type.
+	 */
+	static String classifierName; 
+		
 	/**
 	 * String that stores the text to classify
 	 */
@@ -72,6 +69,7 @@ import java.io.*;
 			ObjectInputStream in = new ObjectInputStream(new FileInputStream(fileName));
             Object tmp = in.readObject();
 			classifier = (FilteredClassifier) tmp;
+			//System.out.println(tmp);
             in.close();
  			//System.out.println("===== Loaded model: " + fileName + " =====");
        } 
@@ -87,8 +85,10 @@ import java.io.*;
 	public void makeInstance() {
 		// Create the attributes, class and text
 		ArrayList<String> atts = new ArrayList<String>(2);
-		atts.add("Chair");
-		atts.add("Gov");
+		atts.add("Chairman");
+		atts.add("Governance");
+		//atts.add("Remuneration");
+
 		Attribute attribute1 = new Attribute("class", atts);
 		Attribute attribute2 = new Attribute("text",(List<String>) null);
 		// Create list of instances with one element
@@ -119,7 +119,7 @@ import java.io.*;
 			System.out.println("Class predicted: " + instances.classAttribute().value((int) pred));
 		}
 		catch (Exception e) {
-			System.out.println("Problem found when classifying the text");
+			System.out.println("Problem found when classifying the text" + e);
 		}		
 	}
 	
@@ -129,12 +129,15 @@ import java.io.*;
 	 */
 	public static void main (String[] args) {
 	
+		classifierName = "SMO";//SMO
+		
 		MyFilteredClassifier classifier;
-			
-		for(int i=1 ; i<9; i++){
+		String testFile = "Gov";//Chair, Gov
+		String model = "TwoClassesSMO";
+		for(int i=1 ; i<7; i++){
 		classifier = new MyFilteredClassifier();
-			classifier.load("test/Gov_"+i+".txt");
-			classifier.loadModel("model/myModel.dat");
+			classifier.load("test/"+testFile+"_"+i+".txt");
+			classifier.loadModel("model/"+model+".dat");
 			classifier.makeInstance();
 			classifier.classify();
 		}

@@ -15,7 +15,7 @@ import org.apache.commons.io.FileUtils;
  * each sub directory is a class name (e.g. Positive) containing .txt files. It
  * is flexible to accept as many classes as needed.
  * 
- * @author elhaj
+ * @author Mahmoud El-Haj @ Lancaster University
  *
  */
 public class ARFFCreator {
@@ -28,7 +28,7 @@ public class ARFFCreator {
 		String datasetDirectory = "dataset";//where your dataset is (should contain sub-directories for each class (label or attribute).
 		String[] classes = getClassNames(datasetDirectory);//get the classes (@attribute) names by simply reading the sub-directory names.
 		System.out.println(Arrays.toString(classes));
-		createArffHeader(arffDirectory+"/myArff.arff", Arrays.toString(classes).trim(),"text String");//method to create the ARFF file, the third argument is the datatype you may need to change this manually at some point (e.g. "String, String, Int, Int")
+		createArffHeader(arffDirectory+"/TwoClasses.arff", Arrays.toString(classes).trim(),"text String");//method to create the ARFF file, the third argument is the datatype you may need to change this manually at some point (e.g. "String, String, Int, Int")
 
 		for (int x = 0; x < classes.length; x++) {
 			System.out.println(classes[x]);
@@ -116,7 +116,7 @@ public class ARFFCreator {
 
 			if (file.isFile() && file.getName().endsWith(".txt")) {
 				String content = FileUtils.readFileToString(file);
-				lines[i] = className + "," + "'" + content.replaceAll("\n", "").replaceAll("\r", "").replaceAll(",", " ").replaceAll("'", " ").trim() + "'";
+				lines[i] = className + "," + "'" + content.replaceAll("\n", "").replaceAll("\r", "").replaceAll(",", " ").replaceAll("'", " ").replace("_", " ").replace("-", " ").replace("&", " ").replace("%", " ").replaceAll(" +", " ").trim() + "'";
 				// System.out.println(lines[i]);
 			}
 		}

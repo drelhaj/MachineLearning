@@ -1,0 +1,485 @@
+ Notes to the accounts
+16.  Trade and other payables
+     The Group The Company
+     2005  004 2005  004
+      '000  '000  '000  '000
+Amounts falling due within one year:    
+Trade payables     5,437 5,786 2,626  , 45
+Amounts owed to group undertakings    - - 798  9
+Taxation and social security     757  622  7
+Other payables     1,425  , 9 771  , 5
+Accruals and deferred income    36,355  5, 8 32,664  ,887
+     43,974  ,6 8 37,481  7,79 Trade payables principally comprise amounts outstanding for trade purchases and ongoing costs.  The average credit period taken for 
+purchases by the Group is  5 days ( 004, 4 days). 
+17. Borrowings
+     The Group The Company
+     2005  004 2005  004
+      '000  '000  '000  '000
+Amounts falling due within one year:
+Bank loan     - 6 - -
+Guaranteed loan notes  005    -  8 -  8     - 445 -  8 Included within the guaranteed loan notes  005 is  nil ( 004,   8 ,000) issued to former shareholders in A&C Black Plc who elected for 
+loan notes to be issued instead of cash or shares in Bloomsbury Publishing Plc.  The loan notes were guaranteed by The Royal Bank of 
+Scotland Plc against cash raised at the date of acquisition of A&C Black.  They were redeemable in full at  December  005 but could be 
+redeemed at the option of the loan note holders on any interest payment date between  00 and  005.  Interest was payable at  % 
+below the base rate.  The balance of these loan notes was fully redeemed during the year.
+The bank loan of  6 ,000 was in Walker Publishing Company, Inc., the subsidiary company acquired on  December  004. The loan was 
+secured on the inventories and receivables of Walker Publishing Company, Inc. and interest was payable at  % above the bank's base 
+rate.  The loan was repaid in full on  January  005.
+14. Equity share capital (continued)
+As at  December  005,  ,9 ,465 options had been granted and were still outstanding in respect of Ordinary Shares under the 
+following Approved and Unapproved Share Option Schemes:
+    Number of  Subscription  Exercisable
+    shares  price  
+ 994 Approved Executive Share Option Scheme   7, 54   7 .75p   00 -  0 0
+ 994 Approved Executive Share Option Scheme  98,79   0. 5p   00 -  0 0
+ 994 Approved Executive Share Option Scheme  50, 6   75.50p   004 -  0  994 Approved Executive Share Option Scheme  75, 76   79.75p   004 -  0  994 Approved Executive Share Option Scheme  45,584   4 .50p   005 -  0  994 Approved Executive Share Option Scheme   07,8 6   78.75p   006 -  0  994 Approved Executive Share Option Scheme   4,000   46.00p   006 -  0  994 Approved Executive Share Option Scheme  60,000   49.50p   007 -  0 4
+ 994 Unapproved Executive Share Option Scheme   0,000  66. 5p   00 -  006
+ 994 Unapproved Executive Share Option Scheme   54,0 0   7 .75p   00 -  007
+ 994 Unapproved Executive Share Option Scheme  5 4, 75   0. 5p   00 -  007
+ 994 Unapproved Executive Share Option Scheme   0 ,808   75.50p   004 -  008
+ 994 Unapproved Executive Share Option Scheme   6,6 4   79.75p   004 -  008
+ 994 Unapproved Executive Share Option Scheme   4,4 6   4 .50p   005 -  009
+ 994 Unapproved Executive Share Option Scheme   6, 64   78.75p   006 -  0 0
+ 994 Unapproved Executive Share Option Scheme  80,000   46.00p   006 -  0 0
+ 994 Unapproved Executive Share Option Scheme  75,000   49.50p   007 -  0 At  December  005, 5 8,608 shares were awarded and were still outstanding under the Group's  005 Performance Share Plan.  Subject 
+to the satisfaction of the performance criteria set by the Remuneration Committee, the awards will vest in whole or in part  years after 
+the award.
+    No. of  Strike price  Date of
+    shares  at award  award
+ 005 Performance Share Plan   5 8,608   7.90p 4 November  005
+15. Non-current liabilities
+The employee benefits liability represents the deficit on the defined benefit pension scheme of a subsidiary company. Further details of 
+the scheme are shown in note 4.
+There is no unprovided liability for deferred taxation as at  December  005 ( 004,  nil).
+Bloomsbury Publishing Plc 64 65 Notes to the accounts
+19. Share-based payments
+The Company operates four equity-settled share-based payment arrangements, namely the two executive share option schemes, the 
+performance share plan and the sharesave scheme. For the year ended  December  005 the Group recognised total expenses related 
+to equity settled share based payment transactions since 7 November  00 of   6,000 ( 004,   5 ,000).
+The 1994 Approved and Unapproved Executive Share Option Schemes ( the Schemes')
+Under the rules of the Schemes the exercise price on the date of grant of options shall not be less than the higher of nominal value of an 
+Ordinary Share and the average middle market quotation of an Ordinary Share for the three dealing days immediately preceding the 
+offer of options under the Schemes. The vesting period is generally three years and is subject to the achievement of Earnings Per Share 
+performance conditions set by the Remuneration Committee. If an option remains unexercised after a period of ten years (Approved) or 
+seven years (Unapproved) from the date of grant, the options will expire. Furthermore, except in certain circumstances, options lapse if 
+the employee leaves the Group. No options have been granted under the Schemes since  004.
+  Options  Weighted  Options  Weighted
+  2005  average  2004  average
+    exercise price    exercise price
+    2005    2004 
+  Number  Pence  Number  Pence
+Outstanding at  January    , 0 ,597   76.0  8, 9,484   76.88
+Granted during the year  -  -  649,000   49.50
+Forfeited during the year  -  -  (4, 95,67 )   07. Exercised during the year  ( ,096, )   56. 4  ( ,4 5, 6)   6.89
+Expired during the year  (96,000)   97.  (64,000)   69. 4
+Outstanding at 31 December 1,911,465  186.26  3,103,597  176.03
+Exercisable at 31 December  1,348,465  177.13  2,284,597  170.37
+The weighted average share price at the date of exercise for share options exercised during the year was  9.84 The options outstanding 
+at  December  005 had a weighted average contractual life of three years and three months.
+The inputs into the Black-Scholes model used by our remuneration consultants, New Bridge Street Consultants, are as follows:
+Date of grant    7 April 2003 (1)  24 September 2003  26 March 2004
+Expected life (years)    6  6  6
+Share price      .7875    .5 00    .5 50
+Exercise price      .7875    .4600    .4950
+Expected volatility     4.9%   5.6%   4.9%
+Expected dividend yield     .0%  0.7%  0.8%
+Risk free interest rate    4. %  4.4%  4.6%
+Fair value charge per award     0.67    .00   0.99
+(1) In June  00 the shares were subdivided on a 4: basis - the share and option prices have been adjusted accordingly.
+A period of six years was assumed for the expected life, being approximately the midpoint of the exercise window, and the average term 
+as demonstrated in extensive exercise modelling conducted by New Bridge Street Consultants for their clients. The expected volatility 
+was based on Bloomsbury's volatility over the period prior to grant equal in length to the expected 6 year life.
+18. Lease obligations
+The Group as a lessee:
+      2005   004
+       '000   '000
+Minimum lease payments under operating leases recognised as expense for the period  1,746   , 04
+At  December  005 the Group had outstanding commitments under non-cancellable operating leases, which fall due as follows: 
+      2005   004
+       '000   '000
+Within one year      1,328  984
+Between one and five years      3,424   ,097
+After more than five years      145  74      4,897  4,8 The operating leases represent rentals payable by the Group for certain of its office properties, vehicles and equipment.  The lease 
+terms over properties are for an average of five years.  The operating leases over vehicles are in respect of company cars driven by 
+certain employees.  The lease terms are for an average of three years.  The operating leases over equipment are in respect of office 
+equipment.  The lease terms are for an average of three years.
+The Group as a lessor:
+Property rental income earned during the year was   65,000 ( 004,  66,000). 
+At  December  005 the Group had contracts with tenants for the following future minimum lease payments receivable: 
+      2005   004
+       '000   '000
+Within one year      136   8
+Between one and five years      76   04
+      212   Bloomsbury Publishing Plc 66 67 Notes to the accounts
+20.  Commitments and contingent liabilities
+The Group is committed to paying royalty advances to authors under publishing contracts during subsequent financial years.  At  
+December  005 this commitment amounted to   ,57 ,000 ( 004,   , 46,000).
+21. Post balance sheet events
+The directors have proposed a final dividend of  .0 pence per share ( 004,  .478 pence per share), which will be paid on 6 July  006 to 
+Ordinary Shareholders on the register at close of business on  6 May  006.  Based on the number of shares currently in issue, the final 
+dividend will be   , 89,000 ( 004,   ,77 ,000). 
+22. Significant non-cash transactions
+ 9,9 Ordinary Shares of  . 5p each were issued in January  005 as part of the deferred consideration in relation to the acquisition of 
+Berlin Verlag in  00 .  The value of these shares at the date of issue was  66 ,000.
+23. Financial instruments and risk summary
+The Group has financed its operations from equity share issues and reinvestment of trading profits.  The Group has net cash funds.
+The main risk arising from the Group's financial instruments is interest rate risk.  The Board reviews and agrees policies for managing risks, 
+which are summarised below:
+(i) Interest rate risk
+As noted above, the Group has financed its operations through equity share issues and reinvestment of trading profits.  Surplus cash 
+funds are invested on short-term deposit.  The directors continually review the Group's portfolio of short-term deposits to ensure that 
+best rates of return are being achieved, based on the amount of deposited funds and the period for which they are invested, whilst 
+minimising the risks involved by placing funds with reputable third-party banking organisations.  The terms under which the Group 
+invests surplus cash funds permit immediate access to these funds if required.
+The Group has financial assets of  5 ,5 ,000 at  December  005 ( 004,   9, 0,000) comprising cash and short-term deposits.  
+The average rate of interest on cash deposits during the year ended  December  005 was 4.56% ( 004, 4.4 %).
+The Group's financial liabilities at  December  005 and  December  004, all of which were at floating interest rates, were as follows:
+      2005   004
+       '000   '000
+Guaranteed loan notes  005 - Sterling     -   8 Bank loan - US Dollars      -  6 Total      -  445
+Details of the rates of interest payable on the Group's financial liabilities are shown in note  7.
+All of the financial liabilities arose as a result of acquisitions and have now been repaid.  It is not part of the Group's general policy to fund 
+its operations through such instruments.
+(ii) Liquidity risk
+The directors do not consider that the Group currently has a liquidity risk.
+The Bloomsbury Performance Share Plan 2005 (the PSP Plan )
+Under the rules of the PSP Plan, awards of fully paid Ordinary Shares are granted for nil consideration by the Remuneration Committee. 
+For the purposes of determining the number of Ordinary Shares comprised in an award, the value of a share shall be equal to the 
+average middle market price of the Ordinary Share for the five dealing days immediately preceding the award date. The vesting period  
+is generally three years and the level of vesting is subject to the achievement of Earnings Per Share ( EPS') and Total Shareholder Return 
+( TSR') performance conditions set by the Remuneration Committee. Except in certain circumstances, awards lapse if the employee 
+leaves the Group.
+No awards were made under the PSP Plan prior to 4 November  005.
+        Awards 2005  
+        Number
+Outstanding at  January  005       -
+Granted during the year        5 8,608
+Lapsed during the year        -
+Exercised during the year        -
+Expired during the year        -
+Outstanding at 31 December 2005       528,608
+Exercisable at 31 December 2005       -
+The inputs into the Monte-Carlo style stochastic model used by our remuneration consultants, New Bridge Street Consultants, are as 
+follows:
+Date of grant     4 November 2005 4 November 2005
+Performance condition     Increase in EPS over RPI  Total Shareholder Return 
+Share price       .4   .4 Volatility      0. %  0. %
+Performance condition discount    n/a 4 .9%
+Risk Free Interest Rate     4.4% 4.4%
+Fair Value charge per award       .4   .9 As vesting is on the third anniversary of grant, a three year expected life has been assumed. The expected volatility was based on 
+Bloomsbury's volatility over the period prior to grant equal in length to the expected three year life. Half of any award is subject to an 
+EPS performance condition (which is not factored into the valuation) and the other half is subject to a Total Shareholder Return 
+condition whereby performance is compared to the FTSE Mid  50 companies (excluding Investment Trusts) over a three year period 
+from the date of grant, with  5% of shares subject to this performance condition vesting for a median ranking rising to  00% for an 
+upper quartile ranking. The discount for this TSR condition is calculated at the date of grant using the  Monte-Carlo' model.
+Bloomsbury Sharesave Plan 2005
+The Company operates an HM Revenue and Customs approved savings related share option scheme under which employees are 
+granted options to purchase Ordinary Shares in the Company in three, five or seven years' time, dependent upon their entering into a 
+contract to make monthly contributions to a savings account over the period of the savings term. Open to employees based in the UK, 
+no shares were granted under this scheme during  005. A total of  5,67 options were granted on 5 May  006 at an exercise price of 
+  .75 per share.
+The Bloomsbury Employee Benefit Trust 2005 (the EBT )
+Set up in  005, the EBT is a discretionary trust of which all employees of the Group are potential beneficiaries. The trustee is independent 
+of the Company. Its main purpose is to operate with the Company's share schemes, in particular with the PSP Plan. While the trustee has 
+power to subscribe for Ordinary Shares and acquire Ordinary Shares in the market or from treasury, it is not permitted to hold more than 
+five per cent of the Company's issued share capital without prior approval of the shareholders. At  December  005 the trust held   00, 
+representing the initial investment into the EBT.  
+Bloomsbury Publishing Plc 68 69 This is the first year that the Company has presented its financial statements under IFRS.  The following disclosures are required in the 
+year of transition.  The last financial statements under UK GAAP were for the year ended  December  004 and the date of transition 
+to IFRS was therefore  January  004.
+Full reconciliations of the results for the year ended  December  004 and the equity at this date and at  January  004 between UK 
+GAAP and IFRS are set out on pages 7 and 74.  The main changes are explained below.
+IFRS 3 - Business combinations
+IFRS  requires that goodwill on acquisitions should be capitalised at cost and subject to impairment reviews at each reporting date.  
+Amortisation of goodwill is not permitted.
+Bloomsbury has taken advantage of the option to apply IFRS  prospectively from the date of transition to IFRS ( January  004), rather 
+than restate earlier business combinations.  Goodwill has therefore been frozen at net book value at  January  004 and goodwill 
+which was amortised in  004 under UK GAAP has been written back.
+In respect of the acquisition of Walker Publishing Company, Inc. on  December  004, the goodwill arising on the acquisition has 
+been reassessed and other identifiable intangible assets, included within goodwill under UK GAAP , have been separated out in 
+accordance with the principles of IFRS  and IAS  8.  These intangible assets, which comprise only publishing relationships with a fair 
+value of   54,000 at the date of acquisition, will be subject to systematic amortisation charges in accordance with IAS  8, with the 
+unallocable balance, representing the goodwill on the acquisition, being subject to periodic impairment reviews. As the acquisition of 
+Walker Publishing Company, Inc. took place on  December  004, no amortisation was charged in the UK GAAP accounts in  004 and 
+there is therefore no effect on the reported profit for that year.
+The effect on operating profit for the year ended  December  004 of the adoption of IFRS  is an increase of  675,000, representing 
+the elimination of the goodwill amortisation charge.  There is no goodwill impairment charge for  004. As the amortisation charge  
+in  004 was in respect of goodwill not eligible for tax relief, the writing back of the amortisation does not result in any change to the 
+tax charge.
+IFRS 2 - Share-based payment
+The IFRS income statement includes a charge under IFRS  for employee share options granted after 7 November  00 . The fair value 
+has been calculated using the Black-Scholes model with the resulting charge spread over the vesting period. The charge for the year 
+ended  December  004 is   5 ,000 and the cumulative charge to that date is   7,000.
+Corporation tax relief is given at the time that options are exercised on the difference between the exercise price and the market value 
+of the shares at that date.  Consequently the share based payment charge gives rise to a temporary difference, in respect of which a 
+deferred tax asset has been recognised.
+IAS 19 - Employee benefits
+Under UK GAAP , the Group had been making disclosures in its financial statements for a number of years under the transitional 
+provisions of Financial Reporting Standard  7, but had not yet applied FRS  7 in full at  December  004.  IAS  9 is broadly similar to 
+FRS  7, in that it requires surpluses or deficits on defined benefit pension schemes to be recognised on the balance sheet.
+IAS  9 permits a number of options for the recognition of actuarial gains and losses.  Bloomsbury has decided to recognise any 
+variations in full in the income statement.  
+The impact on the Group balance sheet at  December  004 is to recognise a gross pensions deficit of   0 ,000 and a related 
+deferred tax asset of   ,000.  The profit before taxation for the year ended  December  004 is reduced by   0,000 and there is a 
+deferred tax credit of  4,000 for the year.
+Effect of the introduction of International Financial Reporting Standards
+on the financial statements for the year ended 31 December 2004
+Notes to the accounts
+23. Financial instruments and risk summary (continued)
+(iii) Currency risk
+The Company believes, in its current circumstances, that hedging for exchange rate risk is not appropriate, as a significant proportion of 
+revenues can be matched against expenditure in local currency.
+Of the total monetary net assets of  55, 90,000 ( 004,  45,7 ,000),  9, 0,000 is denominated in US dollars ( 004,  7, 7 ,000) and 
+  ,76 ,000 is denominated in euro ( 004,   ,7 ,000).  No material monetary net assets are denominated in currencies other than 
+sterling, US dollars and euro.
+(iv) Credit risk
+The Group's credit risk is primarily attributable to its trade receivables.  The amounts presented in the balance sheet are net of 
+allowances for doubtful receivables, estimated by the Group's management based on the trading experience and the current 
+economic environment.
+The credit risk on liquid funds is limited because the counterparties are banks with high credit ratings assigned by international credit-
+rating agencies.  The Group has no significant concentration of credit risk, with exposure spread over a large number of counterparties 
+and customers.
+Fair value of financial instruments
+There is no material difference between the fair value and book value of financial assets and liabilities.
+24.  Related party transactions
+Trading transactions
+During the year the Company entered into the following transactions with its subsidiaries:
+      2005   004
+       '000   '000
+Purchases of goods in the year     199  -
+Commission payable      594  -
+Interest receivable      485   69
+Amounts owed by subsidiaries at year end     14,539  5, 6
+Amounts owed to subsidiaries at year end     798   9
+Purchases of goods and commission payable were based on the Group's usual list prices.  The amounts outstanding are unsecured and 
+will be settled in cash.  No guarantees have been given or received.  No provisions have been made for doubtful debts in respect of the 
+amounts owed by subsidiaries.
+Remuneration of key management personnel
+The remuneration of the key management personnel of the Group is set out below in aggregate for each of the categories specified in 
+IAS  4 Related Party Disclosures. Further information about the remuneration of individual directors is provided in the auditable part of 
+the Directors' Remuneration Report on pages  9 to  .
+      2005   004
+       '000   '000
+Short-term employee benefits     3,100   ,470
+Post-employment benefits      157   0
+Share options exercised      1,223   ,544
+      4,480  4, 44
+Bloomsbury Publishing Plc 70 7 Reconciliations to UK GAAP financial statements
+Income Statement Reconciliation
+Year ended 31 December 2004
+    UK GAAP  Adjustments  IFRS
+      to comply
+      with IFRS
+     '000   '000   '000
+     
+Revenue    84,449  -  84,449
+Cost of sales     (4 , 70)  -  (4 , 70)
+Gross profit    4 , 79  -  4 , 79
+Marketing and distribution costs   ( , 77)  -  ( , 77)
+Administrative expenses    ( 5,70 )  ( 5 ) (i)  ( 5,854)
+Goodwill amortisation    (675)  675 (ii)  -
+Profit before exceptional items and investment income   4,4 5  5   4,948
+Profit on sale of fixed assets in continuing operations   ,076  -   ,076
+Loss on sale of publishing assets   (77)  -  (77)
+Reorganisation costs in continuing operations  (58 )  -  (58 )
+Profit before investment income    4,84  5   5, 65
+Investment income     ,669   4 (iii)   ,68 Finance costs    ( 7)  ( 4) (iii)  ( 5 )
+Profit before taxation     6, 84  5   6,697
+Income tax expense    (4,005)  49 (iv)  ( ,956)
+Profit for the year    12,179  562  12,741
+Basic earnings per share    17.19p  0.79p  17.98p
+Diluted earnings per share    16.88p  0.78p  17.66p
+(i) Adjustment to comply with IFRS  (ii) Adjustment to comply with IFRS  (iii) Adjustment to comply with IAS  9
+(iv) Deferred tax asset in respect of adjustments (i) and (iii)
+Effect of the introduction of International Financial Reporting Standards
+on the financial statements for the year ended 31 December 2004
+IAS 2 - The effects of changes in foreign exchange rates
+Under UK GAAP , Bloomsbury chose to fix acquired overseas goodwill in sterling at the exchange rate ruling on the dates of the relevant 
+acquisitions.  Under IAS  , goodwill must be denominated in local currencies and retranslated into sterling at each reporting date at 
+closing exchange rates. The effect of this change is to increase the carrying value of goodwill in the Group balance sheet at  
+December  004 by  4,000.
+Under IAS  , translation differences in respect of the Company's investment in overseas subsidiary companies are included as a 
+separate reserve within shareholders' equity.  In accordance with the exemption in paragraph  of IFRS  , the Company has deemed 
+the opening balance on the translation reserve at  January  004 to be zero.
+IAS 10 - Events after the balance sheet date
+Under IAS  0 only dividends approved before the balance sheet date may be included in the financial statements as a liability.  As the 
+final dividend for  004 was approved at the Annual General Meeting on  0 June  005, this has been removed from the financial 
+statements at  December  004, increasing net assets by   ,77 ,000.
+IAS 7 - Cash flow statements
+The format of the cash flow statement is different under IAS 7 from its UK GAAP equivalent, FRS  . Cash flows are now shown under the 
+three broad headings of Operating, Investing and Financing Activities and some cash flows have been reclassified as a result.
+Conclusion
+Adoption of IFRS has not had a significant effect on Bloomsbury's reported results and has had no effect on its cash flows for the year 
+ended  December  004. There has also been no significant effect on shareholders' equity at that date.
+Bloomsbury Publishing Plc 7 7 Directors, secretary and advisers
+Directors J N Newton (Chairman)
+ C R Adams ACA
+ E N Calder
+ C A A Black (Senior Non-executive and Vice Chairman)
+ M J Mayer (Non-executive)
+ J J O'B Wilson (Non-executive)
+Secretary R Cordeschi ACIS
+Registered Office  6 Soho Square, London W D  QY
+ Tel 0 0 7494  Registered Number  984 6
+Auditors Baker Tilly
+  Bloomsbury Street, London WC B  ST
+Bankers The Royal Bank of Scotland Plc
+  80 Bishopsgate, London EC M 4RB
+Joint Stockbrokers Investec Investment Banking
+and Financial Advisers  Gresham Street, London EC V 7QP
+ Dresdner Kleinwort Wasserstein Securities Limited
+ PO Box 5 7 5,  0 Gresham Street, London EC P  XY
+Merchant Bankers Investec Investment Banking
+  Gresham Street, London EC V 7QP
+ Dresdner Kleinwort Wasserstein Securities Limited
+ PO Box 5 7 5,  0 Gresham Street, London EC P  XY
+Solicitors Dechert LLP
+  60 Queen Victoria Street, London EC4V 4QQ
+Registrars Capita Registrars Limited
+ Northern House, Woodsome Park, Fenay Bridge, Huddersfield HD8 0LA
+Reconciliations to UK GAAP financial statements
+Equity Reconciliations
+  Share Share Capital Share-based Translation Retained  Total
+  capital premium redemption payment reserve earnings
+    reserve reserve 
+   '000  '000  '000  '000  '000  '000  '000
+1. At 1 January 2004
+Previously reported under UK GAAP 876  ,967  0 - -  ,958 58,8 Change in accounting policy to 
+comply with IAS  0 (Dividends) - - - - -  , 75  , 75
+Change in accounting policy to 
+comply with IFRS  (Share options) - - - 65 - (65) -
+Deferred tax asset in respect of 
+share-based payment charge (IAS  ) - - - - -  0  0
+Change in accounting policy to 
+comply with IAS  9 (Employee benefits) - - - - - (65) (65)
+Restated under IFRS  876 33,967 20 65 - 25,023 59,951
+2. At 31 December 2004
+Previously reported under UK GAAP 894  5,76  0 - -  ,979 70,656
+Reallocation of translation differences 
+on equity of overseas subsidiaries to 
+translation reserve (IAS  )  - - - - ( )  -
+Change in accounting policy to 
+comply with IAS  0 (Dividends) - - - - -  ,77  ,77 Change in accounting policy to 
+comply with IFRS  (Share options) - - -  7 - ( 7) -
+Deferred tax asset in respect of 
+share-based payment charge (IAS  ) - - - - - 65 65
+Change in accounting policy to 
+comply with IFRS  (Goodwill) - - - - - 675 675
+Change in accounting policy to 
+comply with IAS  9 (Employee benefits) - - - - - (7 ) (7 )
+Change in accounting policy to 
+comply with IAS  (Goodwill on 
+acquisition of overseas subsidiaries) - - - - 4 - 4
+Restated under IFRS  894 35,763 20 217 2 36,206 73,102
+Bloomsbury Publishing Plc 74 75 Analysis of registered shareholdings at 22 May 2006
+Size of shareholding     Number Percentage Number Percentage
+     of of total of of
+     shareholders number of Ordinary Ordinary
+      shareholders Shares Shares
+5,000,00 +     0.08 5, 80,000 7. 
+  ,000,00 - 5,000,000      7  .  5,45 ,868 48.58
+ 500,00 -  ,000,000      8  .4  ,768,45  8.87 
+  00,00 - 500,000     58 4.5  ,697, 7  7.40 
+ 50,00 -  00,000     4  .88  ,6 4,47  . 
+  0,00 - 50,000     556 4 .47  ,897,6 5. 4 
+  -  0,000    605 47. 0  7 ,45 0. 7
+      1,279 100.00 72,983,182 100.00
+Analysis by number of registered shareholders at 22 May 2006
+Shareholder     Number Percentage Number Percentage
+     of of total of of
+     shareholders number of Ordinary Ordinary
+      shareholders Shares Shares
+Institutional shareholders / nominee companies   447  4.95 67,9 4, 49 9 .05
+Directors     5 0. 9  ,980,887 4.09
+Employees       .0 409,85 0.56
+Private shareholders     8 4 6 .64  ,678,094  . 0
+     1,279 100.00 72,983,182 100.00
+Shareholder information
+Annual General Meeting   9 June  006
+Results
+Announcement of half year results to  0 June  006 September  006
+Announcement of annual results to  December  006 March  007
+  
+Dividend 
+Final dividend -  005 6 July  006
+Interim dividend -  006 November  006
+Final dividend -  006 July  007
+Share Price and Investor Information
+Bloomsbury's share price is quoted in the Financial Times, the Times, the Daily Telegraph and the Evening Standard, and is also available 
+on the Financial Times Cityline telephone service (0906 84 4444) charged at premium call rates. Investor information is also available 
+on the web at www.bloomsbury-ir.co.uk.
+Financial calendar
+Bloomsbury Publishing Plc 76 77 Notice of Annual General Meeting
+Bloomsbury Publishing Plc
+10.  That the Company is authorised, pursuant to section  66 of the Act, to make market purchases (as defined in section  6 of the 
+Act) of any of its Ordinary Shares of  . 5p each (Ordinary Shares ) in such manner and on such terms as the directors may from 
+time to time determine provided that:
+(a). the maximum number of Ordinary Shares authorised to be purchased is  ,649, 59; 
+(b).  the maximum price (exclusive of expenses) which may be paid for each Ordinary Share is an amount equal to  05 per cent of the 
+average of the middle market quotations for an Ordinary Share taken from the London Stock Exchange Daily Official List for the five 
+business days immediately preceding the date on which such share is contracted to be purchased and the minimum price 
+(exclusive of expenses) which may be paid for each Ordinary Share is  . 5 pence; 
+(c).  the authority hereby conferred shall, unless previously varied, revoked or renewed, expire at the conclusion of the next Annual 
+General Meeting of the Company to be held in  007 or  5 months from the date of passing of this resolution, whichever shall be 
+the earlier; and
+(d).  the Company shall be entitled under such authority to make at any time before its expiry or termination any contract to purchase 
+its own shares which will or might be concluded wholly or partly after the expiry or termination of such authority and may 
+purchase its own shares pursuant to such contract. 
+By order of the board Dated  4 May  006
+ Registered Office:
+  6 Soho Square
+ London 
+ W D  QY
+Richard Cordeschi ACIS 
+Company Secretary
+Notice is hereby given that the Annual General Meeting of the Company will be held at  7 Soho Square, London, W D  HB on  9 
+June  006 at  .00 noon for the following purposes:-
+Routine Business
+1. To receive the report of the directors and the audited accounts for the year ended  December  005.
+2. To approve the Directors' Remuneration Report for the year ended  December  005.
+3. To declare a final dividend for the financial year ended  December  005.
+4. To re-elect Mr C R Adams as a director of the Company.
+5. To re-elect Mr M J Mayer as a director of the Company.
+6. To re-elect Mr J J O'B Wilson as a director of the Company.
+7. To reappoint Baker Tilly as auditors and to authorise the directors to fix their remuneration.
+Special Business
+To consider and, if thought fit, to pass the following resolutions of which resolution 8 will be proposed as an ordinary resolution and 
+resolutions 9 and  0 will be proposed as special resolutions.
+8. That:
+(a).  the directors be generally and unconditionally authorised pursuant to section 80 of the Companies Act  985 (the Act ) to allot, to 
+such persons and on such terms as they think proper, any relevant securities (as defined in section 80( ) of the Act) of the Company 
+up to a maximum aggregate nominal amount of   7,7 0 provided that: 
+ 
+(i). this authority shall expire at the conclusion of the next Annual General Meeting of the Company after the passing of this 
+resolution unless previously varied, revoked or renewed by the Company in general meeting; and 
+ 
+(ii). the Company shall be entitled to make, before the expiry of such authority, any offer or agreement which would or might 
+require relevant securities to be allotted after the expiry of such authority and the directors may allot any relevant securities 
+pursuant to such offer or agreement as if such authority had not expired; and
+(b).  all prior authorities to allot relevant securities given to the directors by resolution of the Company be revoked but without 
+prejudice to the allotment of any relevant securities already made or to be made pursuant to such authorities.
+9. That, subject to the passing of resolution 8 above:
+(a).  the directors be granted power pursuant to section 95 of the Act to allot equity securities (within the meaning of section 94 of the 
+Act) wholly for cash pursuant to the authority conferred on them by resolution 8 above as if section 89( ) of the Act did not apply 
+to any such allotment provided that this power shall be limited to: 
+ 
+(i). the allotment of equity securities, in connection with a rights issue, open offer or otherwise, in favour of holders of Ordinary 
+Shares in the Company (Ordinary Shares ) where the equity securities respectively attributable to the interests of all such holders 
+of Ordinary Shares are proportionate (as nearly as may be) to the respective numbers of and/or rights attaching to Ordinary Shares 
+held by them, subject to such exceptions, exclusions or other arrangements as the directors may deem necessary or expedient to 
+deal with fractional entitlements or legal or practical problems under the laws of any territory or the requirements of any regulatory 
+body or any stock exchange or otherwise in any territory; 
+ 
+(ii). the allotment of equity securities pursuant to the terms of the Company's existing employees' share or share option schemes or 
+any other employees' share scheme approved by the members of the Company in general meeting; 
+ 
+(iii). the allotment (otherwise than pursuant to paragraphs (i) or (ii) above) of equity securities having a nominal value not 
+exceeding in aggregate  45,6 4; 
+ 
+and shall expire at the conclusion of the next Annual General Meeting of the Company or, if earlier,  5 months from the date of 
+passing of this resolution unless previously varied, revoked or renewed by the Company in general meeting, and provided that the 
+Company may, before such expiry, make any offer or agreement which would or might require equity securities to be allotted after 
+such expiry and the directors may allot equity securities pursuant to any such offer or agreement as if the power hereby conferred 
+had not expired; and
+(b).  all prior powers granted under section 95 of the Act be revoked provided that such revocation shall not have retrospective effect.
+Bloomsbury Publishing Plc 78 79

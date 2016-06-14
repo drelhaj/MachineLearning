@@ -1,0 +1,312 @@
+ Andor Technology plc Annual report 2012 Andor Technology plc Annual report 2012
+66 67
+Our review 01-25 Governance 26-40 Financial statements 41-70
+Notes to the consolidated financial statements continued
+for the year ended 30 September 2012
+   Accelerated     Deferred Deferred 
+   capital  Share-based   income tax income tax 
+   allowances payments Intangibles Other assets total liabilities total 
+Company    '000  '000  '000  '000  '000  '000
+At 1 October 2010   (564) 2,170 (857) (35) 2,310 (1,596)
+Income statement (charge)/credit  (18) 69 (345) 54 (71) (169)
+Tax credited directly to equity     1,095     1,095  
+At 30 September 2011   (582) 3,334 (1,202) 19 3,334 (1,765)
+Income statement credit/(charge)  (6) 17 (33) (5) 17 (72)
+Tax charged directly to equity     (1,652)     (1,652)  
+At 30 September 2012   (588) 1,699 (1,235) 14 1,699 (1,837)
+The deferred income tax asset above included  139,000 (2011:  19,000), which is estimated will reverse within twelve months. 
+23 Government grants and deferred income
+      Government Deferred   
+      grant income Total 
+Group        '000  '000  '000
+At 1 October 2011      1,348 1,090 2,438
+Capital grant received in the year       106    106
+Extended warranty/maintenance revenue deferred during the year       1,562 1,562
+Amortisation in the year        (120) (1,178) (1,298)
+Exchange adjustments        (19) (19)
+At 30 September 2012      1,334 1,455 2,789
+The current portion of government grants and deferred income was  895,000 (2011:  414,000) and the non-current portion is  1,894,000 
+(2011:  2,024,000).
+       Government Deferred   
+      grant income Total 
+Company        '000  '000  '000
+At 1 October 2011      1,348 484 1,832
+Capital grant received in the year     106   106
+Extended warranty/maintenance revenue deferred during the year     470 470
+Amortisation in the year      (120) (204) (324)
+At 30 September 2012      1,334 750 2,084
+The current portion of government grants and deferred income was  389,000 (2011:  485,000) and the non-current portion is  1,695,000 
+(2011:  1,347,000).
+      Government Deferred   
+      grant income Total 
+Group       '000  '000  '000
+At 1 October 2010      1,452 903 2,355
+Extended warranty/maintenance revenue deferred during the year     1,243 1,243
+Amortisation in the year      (104) (1,143) (1,247)
+Exchange adjustments        87 87
+At 30 September 2011      1,348 1,090 2,438
+      Government Deferred   
+      grant income Total 
+Company        '000  '000  '000
+At 1 October 2010      1,452 329 1,781
+Warranty revenue deferred during the year       297 297
+Amortisation in the year      (104) (142) (246)
+At 30 September 2011      1,348 484 1,832
+Grants were receivable from government departments in respect of the purchase of buildings and machinery, and the development 
+of software. 
+19 Cash and cash equivalents
+ Group Company
+      
+     2012 2011 2012 2011 
+      '000  '000  '000  '000
+Cash at bank and in hand     5,913 2,512 5,043 2,123
+Short-term bank deposits     12,473 11,759 8,900 8,452
+Cash and cash equivalents    18,386 14,271 13,943 10,575
+20 Borrowings
+ Group Company
+      
+     2012 2011 2012 2011 
+      '000  '000  '000  '000
+Non-current    
+Bank borrowings     1,003 1,332 1,003 1,332
+Current    
+Bank borrowings     264 264 264 264
+Total borrowings     1,267 1,596 1,267 1,596
+The group's borrowings are denominated in Sterling and are repayable in instalments at the Bank of England base rate plus 0.9% 
+(2011: base rate plus 0.9%). The borrowings are secured by fixed and floating charges over the assets of the company. 
+The fair value of the group's borrowings is not materially different to the carrying value, as interest is charged at a variable rate. The maturity 
+of the group and company's bank borrowings are as follows:
+  Less than One to Two to  Three to Four to More than  
+  one year two years three years four years  five years five years Total 
+   '000  '000  '000  '000  '000  '000  '000
+30 September 2012  264 264 264 264 211   1,267
+30 September 2011  264 264 264 264 264 276 1,596
+The facilities available, but undrawn, at 30 September 2012 in respect of which all conditions precedent had been met totalled  2,100,000 
+(2011:  1,800,000).
+21 Trade and other payables
+ Group Company
+      
+     2012 2011 2012 2011 
+      '000  '000  '000  '000
+Trade payables     3,446 3,599 3,402 3,623
+Social security and other taxes     317 343 325 322
+     3,763 3,942 3,727 3,945
+22 Deferred income tax
+The movement in deferred income tax assets and liabilities during the year is as follows:
+   Accelerated     Deferred Deferred 
+   capital  Share-based   income tax income tax 
+   allowances payments Intangibles Other assets total liabilities total 
+Group    '000  '000  '000  '000  '000  '000
+At 1 October 2010   (570) 2,170 (2,295) (272) 2,310 (3,277)
+Income statement (charge)/credit  (23) 69 (173) 17 (71) (39)
+Exchange differences   3   (149) (22)   (168)
+Tax credited directly to equity     1,095     1,095  
+At 30 September 2011   (590) 3,334 (2,617) (277) 3,334 (3,484)
+Income statement (charge)/credit  (6) 17 130 (60) 17 64
+Exchange differences   (1)   101 (4)   96
+Tax charged directly to equity     (1,652)     (1,652)  
+At 30 September 2012   (597) 1,699 (2,386) (341) 1,699 3,324
+The deferred income tax liability above included  302,000 (2011:  184,000), which is estimated will reverse within twelve months.  Andor Technology plc Annual report 2012 Andor Technology plc Annual report 2012
+68 69
+Our review 01-25 Governance 26-40 Financial statements 41-70
+Notes to the consolidated financial statements continued
+for the year ended 30 September 2012
+26 Cash generated from operations
+ Group Company
+      
+     2012 2011 2012 2011 
+Group      '000  '000  '000  '000
+Profit before interest income and income tax    8,667 8,586 8,073 8,796
+Adjustments for:    
+Depreciation      972 658 959 628
+Amortisation of intangible fixed assets    2,178 1,588 1,402 788
+Amortisation of capital grant and deferred income   319 52 252 52
+Changes in working capital (excluding the effects of acquisition  
+and exchange differences on consolidation) 
+Movement in inventories     (1,323) 807 (1,323) 852
+Movement in trade and other receivables    (1,443) (2,146) (1,267) (2,800)
+Movement in trade and other payables    (1,076) 1,443 (1,055) (664)
+Adjustment in respect of employee share option schemes   69 264 69 264
+Cash generated from operations     8,363 11,252 7,110 7,916
+27 Commitments
+As at 30 September 2012 the group and company had capital commitments in respect of contracted expenditure of  nil (2011:  520,000).
+The group leases various properties and equipment under non-cancellable operating lease arrangements. The future aggregate minimum 
+lease payments under non-cancellable operating leases are as follows:
+ Land and buildings Equipment
+      
+     2012 2011 2012 2011 
+Group      '000  '000  '000  '000
+No later than one year     275 290 5 6
+Later than one year and no later than five years   476 571 17 18
+Later than five years           5 5
+     751 861 27 29
+ Land and buildings Equipment
+      
+     2012 2011 2012 2011 
+Company      '000  '000  '000  '000
+No later than one year     161 160 5 6
+Later than one year and no later than five years   192 115 17 18
+Later than five years          5 5
+     353 275 27 29
+28 Business combinations
+Photonic Instruments
+Following the acquisition of Photonic Instruments and Imaginative Optics Inc (together Photonic ) on 14 April 2010 the group paid 
+ 120,323 in cash, and issued 8,945 ordinary shares at  0.02 each in respect of the contingent consideration on 2 December 2011.
+There are no further payments due in respect of this acquisition.
+24 Called up share capital
+Group and company       Number  '000
+Allotted, called up and fully paid (ordinary shares of  0.02 each)  
+At 1 October 2011       30,693,960 614
+Issued during the year       399,045 8
+At 30 September 2012       31,093,005 622
+Group and company       Number  '000
+Allotted, called up and fully paid (ordinary shares of  0.02 each)  
+At 1 October 2010       30,067,773 601
+Issued during the year       626,187 13
+At 30 September 2011       30,693,960 614
+All ordinary shares of  0.02 each have equal rights in respect of voting, receipt of dividends and repayment of capital.
+During the year the company issued an additional 399,045 ordinary shares with a value of  0.02 each. The premium on issue amounted 
+to  236,174.
+25 Share-based payments
+The group and company operate three share option schemes that grant options over its ordinary shares on a discretionary basis to its 
+directors and employees:
+(a)  the Inland Revenue Approved Company Share Option Plan may grant options to employees other than directors. The total number of options 
+in issue under the scheme may not exceed 20% of the issued ordinary share capital of the company, the options are exercisable at any time 
+between three and ten years from the date of their grant and the exercise price is the market value of an ordinary share on the date of grant;
+(b) the Enterprise Management Incentive Scheme may grant options to both employees and directors. The total number of options granted, 
+taken together with the options granted in the preceding ten years under this and other employee option schemes, may not exceed 10% 
+of the company's ordinary share capital. The options are exercisable between two and ten years from the date of their grant and the 
+exercise price shall not be less than the market value of an ordinary share. Whilst the exercise of an option may be conditional upon the 
+satisfaction of performance conditions, to date no conditions have been attached; and
+(c)  the Long Term Incentive Plan Scheme may grant options to both employees and directors. The total number of options granted, taken 
+together with the options granted in the preceding ten years under this and other employee option schemes, may not exceed 10% of the 
+company's ordinary share capital. The options are exercisable between three and ten years from the date of their grant. The exercise of 
+an option is conditional upon the satisfaction of performance conditions. For each period where cumulative profit is equal to or exceeds 
+the cumulative profit target, the performance target is achieved in full for the cumulative proportion of the option capable of vesting for 
+that year with 80% vesting at 80% profit target, and straight-line vesting between 80% profit target and the cumulative profit target.
+Details of the movements in the year in share options granted by the group and company are set out below:
+  1 October    30 September  Exercise Exercise 
+  2011 Granted Lapsed Exercised 2012 price ( ) Period
+Approved Company  
+Share Option Plan
+  80,500     (65,500) 15,000  0.464 2004 to 2012
+  24,500       24,500  0.480 2007 to 2014
+Enterprise Management  
+Incentive Scheme      
+  200,000     (200,000)    0.464 2004 to 2012
+  195,000     (59,700) 135,300  0.480 2006 to 2014
+  233,600     (44,900) 188,700  0.975 2009 to 2016
+  1,000,000       1,000,000  0.925 2010 to 2016
+  5,000       5,000  1.115 2010 to 2017
+Long Term Incentive Plan
+  700,000     (20,000) 680,000  0.02 2012 to 2020
+Total  2,438,600     (390,100) 2,048,500  
+Out of the 2,438,600 outstanding options at the beginning of the year (2011: 3,008,250 options), 2,438,600 options (2011: 2,308,250) 
+were exercisable. Options exercised in 2012 resulted in 390,100 shares (2011: 554,650) being issued at a weighted average price of  0.59 
+each (2011:  0.25 each). The related weighted average share price at the time of exercise was  5.31 (2011:  5.35) per share. 
+There were no share options granted during the current year or previous period. Andor Technology plc Annual report 2012
+70
+Notes to the consolidated financial statements continued
+for the year ended 30 September 2012
+29 Subsidiaries
+The subsidiaries of the group and company are:
+ Proportion of ordinary  
+ shares held by
+Subsidiaries  Country of incorporation or registration Nature of business Parent Group
+Bitplane AG   Switzerland Image analysis software 100%  
+Bitplane Inc   United States of America Image analysis software   100%
+All subsidiaries are included in the consolidation. The company's voting rights in its subsidiaries are the same as its effective interest in 
+its subsidiaries.
+30 Related party transactions and ultimate controlling party
+The directors do not consider there to be one ultimate controlling party. The shareholdings of the directors are shown in the directors' report.
+The only transactions with related parties in the year relate to directors' shareholdings and these have been disclosed in the directors' report.
+31 Reconciliation of adjusted results
+The review of the business, which can be found in the directors' report on pages 30 to 32, the Chairman's statement on pages 2 and 3, 
+the Chief Executive Officer's review on pages 4 to 6, the financial review on pages 22 to 25 and the corporate governance report on pages 
+38 to 40, contains reference to adjusted measures of performance. A reconciliation of reported performance measures to those adjusted 
+measures is given below:
+      Operating  Profit Profit 
+      profit before tax after tax 
+       '000  '000  '000
+As reported at 30 September 2012     8,667 8,932 7,565
+Add back:   
+Amortisation of acquired intangible assets     1,092 1,092 929
+Adjusted results at 30 September 2012     9,759 10,024 8,494
+      Operating  Profit Profit 
+      profit before tax after tax 
+       '000  '000  '000
+As reported at 30 September 2011     8,586 8,742 6,538
+Add back:   
+Amortisation of acquired intangible assets     1,119 1,119 884
+Exchange differences on revaluation of acquired intangible assets   (119) (119) (95)
+Adjusted results at 30 September 2011     9,586 9,742 7,327
+   
+Who we are Contents
+Andor Technology plc is a global 
+leader in the development and 
+manufacture of high performance 
+scientific digital cameras for 
+academic, industrial and  
+government applications.  
+ 
+Through continuous dialogue  
+with our customers and strong 
+teamwork we continue to  
+innovate ground breaking 
+products that improve the 
+world in which we live.
+Our review
+01 Financial highlights 
+How we are building for the future
+02 Chairman's statement
+04 CEO's review 
+07 Building for the future
+08 Continued innovation
+10 Extending our global presence
+12 People and community
+14 What we do
+16 Research
+18 Microscopy Systems
+20 OEM
+22 Financial review
+Financial statements
+41 Independent auditors' report
+42 Consolidated income statement
+42 Consolidated statement of 
+comprehensive income
+43  Consolidated statement of 
+financial position
+44  Consolidated statement of changes 
+in equity
+45  Company statement of changes in equity
+46  Consolidated cash flow statement
+47  Notes to the consolidated financial 
+statements
+Governance
+26 Board of directors
+28 Leadership team
+29 Advisors
+30 Directors' report
+33 Statement of directors' responsibilities 
+34 Report of the remuneration committee
+38 Corporate governance report
+visit us online...
+www.andorplc.com
+This report has been printed on paper made from ECF pulp from FSC certified forests which ensures that all virgin pulp is derived from 
+well-managed forests. It is elemental chlorine-free bleached. This report was printed by Nicholson & Bass (accredited with the Forestry 
+Stewardship Council (FSC) and Programme for the Endorsement of Forest Certification (PEFC) Schemes). Both the printer and the 
+paper mill are registered to ISO 14001.
+Designed and produced by  
+www.lyonsbennett.com
+Photography by Ayo Banton and Paul Talbot. building for  
+the future
+Andor Technology plc Annual report 2012
+visit us online  
+andorplc.com
+Andor Technology plc  
+7 Millennium Way
+Springvale Business Park
+Belfast
+BT12 7AL
+Northern Ireland
+Andor Technology plc Annual report 2012

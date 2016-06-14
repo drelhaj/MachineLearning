@@ -1,0 +1,621 @@
+ 67 Notes to the Financial Statements This is marketing
+01 Financial Overview
+02 A Year of Success
+03 Financial Highlights 
+04 Review of Operations 
+26 Directors and Biographies 
+28 Directors' Report 
+30 Corporate Governance Statement 
+34 Directors' Remuneration Report 
+42 Independent Auditors' Report
+44 Financial Statements 
+48 Notes to the Financial Statements
+73 Five Year Summary
+74 Notice of Annual General Meeting 2007 
+Alterian Annual Report 07 66 Notes to the Financial Statements
+NOTES TO THE 
+FINANCIAL
+STATEMENTS
+24. Combined Reconciliation of Movements in Shareholders' Funds and 
+Statement of Movements on Reserves
+Share Capital Other Own Retained
+capital reserves reserves shares earnings 2007 2006
+The Group  000  000  000  000  000  000  000
+At the beginning
+of the period 10,164 26,714 521 (209) (20,644) 16,546 14,385
+Issue of new 
+shares 398 1,172 - - - 1,570 773
+Profit attributable
+to members of 
+the Group - - - - 2,417 2,417 1,369
+Movement in 
+the year - - (53) (348) - (401) (57)
+Foreign exchange
+translation differences - - (423) - - (423) 76
+At the end of
+the year 10,562 27,886 45 (557) (18,227) 19,709 16,546
+Capital reserves comprise the share premium account  31,633,000 (2006:  31,372,000) and
+merger reserve  (3,747,000) (2006:  (4,658,000))
+Other reserves comprise adjustments for share options made in accordance with IFRS 2  Share
+Based Payments'  428,000 (2006:  481,000), and exchange reserves arising on translation of
+Alterian Inc.  (383,000) (2006:  40,000).
+Own shares (see note 23) represents the cost of shares in the Company held by the trustees of the
+Company's Employee Benefit Trust and Share Incentive Plan for the benefit of the employees.
+Share Capital Other Own Retained
+capital reserves reserves shares earnings 2007 2006
+The Company  000  000  000  000  000  000  000
+At the beginning 
+of the period 
+as previously
+reported 10,164 31,470 (79) (36) 3,414 44,933 44,031
+Restatement 
+(see note 2) - - 564 - - 564 412
+As restated 10,164 31,470 485 (36) 3,414 45,497 44,443
+Issue of new 
+shares 398 1,172 - - - 1,570 773
+Movement in 
+the year - - (57) (285) - (342) 37
+Profit attributable 
+to members of 
+the Company ---- 63 63 244
+At the end of
+the year 10,562 32,642 428 (321) 3,477 46,788 45,497
+Other reserves represent the costs to the Company of satisfying share options exercised by
+employees during the year. Balances have been restated to reflect the updated accounting policy 
+for group share transactions, as described in note 2.
+Own shares represents the cost of unallocated shares in the Company held by the trustees of the
+Company's Employment Benefit Trust.
+25. Acquisition of Subsidiaries
+Dynamics Direct Inc
+On 25 May 2006 the Group acquired 100% of the issued share capital of Dynamics Direct Inc ( DDI'). The total cost of acquisition was approximately
+ 3.3m and has been accounted for by the purchase method of accounting. As part of the consideration 1,257,042 shares, with a fair value of  1.23m,
+were issued. The fair value was calculated as the market value of the shares as at the date of acquisition.
+The carrying amounts of each class of DDI's assets and liabilities before the combination are set out below:
+Fair Carrying
+value value prior to
+acquisition
+Description  000  000
+Intangible assets 344 0
+Property, plant and equipment 11
+Trade and other receivables 132 143
+Cash and cash equivalents (bank accounts) 51 51
+Trade and other payables (excluding bank accounts) (184) (60)
+Net assets acquired 344 135
+Goodwill 2,911
+Cost 3,255
+Satisfied by
+Cash consideration 972
+Costs of acquisition 528
+Deferred consideration 529
+Issue of shares 1,226
+3,255
+The initial consideration paid by Alterian on completion was  2.73m satisfied by the payment of  1.5m in cash (including costs), and the issue of
+1,257,042 new shares in Alterian. The cash element of the initial consideration was satisfied out of Alterian's existing cash resources. An additional
+consideration of up to  0.53m subject to the achievement of certain revenue targets by DDI for the period from completion to 31 March 2007, will be
+payable in cash on achievement of those targets.
+Goodwill amounts to approximately  2.9m a value supported by the estimated cashflows arising from future sales of DDI's product. The value attributed
+to other intangible assets is  344k reflecting the value placed upon the intellectual property element of the consideration at the date of acquisition.
+The full amount of the profit or loss of DDI since the acquisition has not been identified as the business has been partially absorbed into other group
+activities so certain overheads cannot be reliably allocated to DDI. 
+The original consideration of $5.5m was translated into sterling at the rate ruling at the date of the transaction. This amount then increased by the costs
+associated with the acquisition to give the total cost shown above of  3.3m. 69 Notes to the Financial Statements This is marketing
+01 Financial Overview
+02 A Year of Success
+03 Financial Highlights 
+04 Review of Operations 
+26 Directors and Biographies 
+28 Directors' Report 
+30 Corporate Governance Statement 
+34 Directors' Remuneration Report 
+42 Independent Auditors' Report
+44 Financial Statements 
+48 Notes to the Financial Statements
+73 Five Year Summary
+74 Notice of Annual General Meeting 2007 
+Alterian Annual Report 07 68 Notes to the Financial Statements
+NOTES TO THE 
+FINANCIAL
+STATEMENTS
+25. Acquisition of Subsidiaries (continued) 
+Nvigorate Limited
+On 11 September 2006 the Group acquired 100% of the issued 
+share capital of Nvigorate Limited. The total cost of acquisition was
+approximately  1.47m comprising consideration of  467k and net
+liabilities assumed of  1m. This transaction has been accounted for 
+by the purchase method of accounting.
+The carrying amounts of each class of Nvigorate's assets and liabilities
+before the combination are set out below:
+Fair Carrying
+value value prior to
+acquisition
+Description  000  000
+Property, plant and equipment 44
+Trade and other receivables 92 98
+Trade and other payables 
+(excluding bank overdrafts) (897) (681)
+Cash and cash equivalents 
+(bank overdrafts) (57) (57)
+Trade and other payables 
+due after one year (144) (144)
+Net liabilities acquired (1,002) (780)
+Goodwill 1,469
+Cost 467
+Satisfied by
+Costs of acquisition 167
+Deferred consideration 300
+467
+The initial consideration paid by Alterian on completion was  167k
+satisfied by the payment of cash. In addition there was an immediate
+working capital outflow of  1,133k representing the settlement of
+overdue creditors and loans.
+Deferred consideration of up to  300k in cash will be payable subject 
+to the achievement of certain performance targets for the period to 30
+September 2007 on achievement of those targets.
+Goodwill amounts to approximately  1.47m, a value supported by the
+estimated cashflows of the future business. The value attributed to 
+other intangible assets is nil reflecting the net cash flows of the 
+legacy business.
+The amount of the profit or loss of Nvigorate since the acquisition date
+has not been identified as the business was immediately combined with
+other group activities so the impact cannot be determined.
+Because both businesses have been absorbed into other group activities 
+it is impracticable to disclose the revenue and profits of the combined
+entities for the period as though the acquisition date for all business
+combinations in the period had been at the beginning of the period.
+26. Notes to the Cash Flow Statement 
+The Group
+Reconciliation of operating profit to net cash from/(used in) operating activities:
+2007 2006
+ 000  000
+Operating profit 1,693 451
+Adjustments for:
+Depreciation of property, plant and equipment 237 190
+Amortisation of intangible assets 220 164
+Amortisation of development costs 202 -
+Profit on sale of property, plant and equipment (43) (1)
+Employee benefit charges 37 31
+IFRS 2 share based payment charge 163 154
+Payments on exercise of options (229) -
+Operating cash flows before movements in working capital 2,280 989
+Increase in receivables (954) (2,195)
+Increase in payables 659 540
+Cash from/(used by) operations 1,985 (666)
+Tax credit received 164 257
+Tax paid (45) (7)
+Net cash from/(used in) operating activities before acquisition items 2,104 (416)
+Acquisition items (1,133) -
+Net cash from/(used in) operating activities 971 (416)
+Cash and cash equivalents (which are presented as a single class of assets on the face of the balance sheet) comprise cash in hand, deposits held at call
+with banks and other short term highly liquid investments with an original maturity of three months or less. 
+As anticipated in agreeing the transaction, following the acquisition of Nvigorate there was an immediate working capital outflow of  1,133k
+representing the settlement of overdue creditors and loans. This outflow is included as acquisition items in the statement above. 
+The Company
+Reconciliation of operating loss to net cash used in operating activities:
+2007 2006
+ 000  000
+Operating loss (232) (560)
+Operating cash flows before movements in working capital (232) (560)
+Increase in receivables (2,957) (1,887)
+(Decrease)/increase in payables (764) 770
+Net cash used in operating activities (3,953) (1,667) 71 Notes to the Financial Statements This is marketing
+01 Financial Overview
+02 A Year of Success
+03 Financial Highlights 
+04 Review of Operations 
+26 Directors and Biographies 
+28 Directors' Report 
+30 Corporate Governance Statement 
+34 Directors' Remuneration Report 
+42 Independent Auditors' Report
+44 Financial Statements 
+48 Notes to the Financial Statements
+73 Five Year Summary
+74 Notice of Annual General Meeting 2007 
+Alterian Annual Report 07 70 Notes to the Financial Statements
+27. Operating Lease Arrangements
+The Group as lessee
+At 31 March 2007 the Group had outstanding commitments for future
+minimum lease payments under non cancellable operating leases, which
+fall due as follows:
+2007 2006
+ 000  000
+Within one year 245 99
+Between two and five years 74 156
+Over five years 128 -
+447 255
+The Company has no operating lease arrangements.
+28. Share-Based Payments
+Equity-settled share option plan
+The Group plans provide for a grant price equal to the average quoted
+price of the Group shares for the 3 days before date of grant. The 
+vesting period is generally 3 to 5 years. If the options remain unexercised
+after a period of 10 years from the date of grant, the options expire.
+Furthermore, options are forfeited if the employee leaves the Group 
+before the options vest.
+Details of the share options outstanding under IFRS 2 during the year and
+prior year are as follows:
+2007 2006
+Weighted Weighted
+average average
+exercise price exercise price
+Options (in pence) Options (in pence)
+Outstanding at 
+beginning 
+of period 2,137,457 63p 2,971,400 51p
+Granted 
+during 
+the year 1,258,770 97p 261,890 104p
+Forfeited 
+during the 
+year (102,000) 72p (101,000) 63p
+Exercised 
+during the 
+period (399,000) 52p (994,833) 37p
+Outstanding 
+at the end of 
+the period 2,895,227 79p 2,137,457 63p
+Exercisable
+at the end of 
+the period 1,376,567 58p 606,278 42p
+The weighted average share price at the date of exercise for share options
+exercised during the period was 91 pence. The options outstanding at 
+31 March 2007 had a weighted average exercise price of 79 pence, and 
+a weighted average remaining contractual life of 8.4 years.
+Details of the range of exercise prices are provided within the Directors'
+Remuneration Report.
+NOTES TO THE 
+FINANCIAL
+STATEMENTS
+During the year to 31 March 2007, options were granted on 25 July 2006, 19 September 2006, 14 February 2007 and 22 March 2007. The aggregate
+of the estimated fair values of the options granted on those dates which are still outstanding at 31 March 2007 is  388,947. In the year to 31 March
+2006, options were granted on 22 April 2005, 28 July 2005, 3 November 2005 and 1 February 2006. The aggregate of the estimated fair values of
+the options granted on those dates which are still outstanding at 31 March 2006 is  101,730.
+The inputs into the Black-Scholes model are as follows for options granted and still outstanding at each year end:
+2007 2006
+Weighted average share price 97p 104p
+Weighted average exercise price 97p 104p
+Expected volatility 26% 34%
+Expected life 5 years 5 years
+Risk free rate 4.5% 4.5%
+Expected dividends N/A N/A
+Expected volatility was determined by calculating the historical volatility of the Group's share price over the previous 3 years prior to each date of grant.
+The Group recognised total expenses of  163,000 and  154,000 related to equity-settled share-based payment transactions in 2007 and 
+2006 respectively.
+There is no share based payment in the Company.
+29. Retirement Benefit Scheme
+The Group operates a defined contribution pension scheme covering its permanent UK employees. Scheme funds are administered by trustees and are
+independent of the Group's finances. Where there are employees who leave the scheme prior to vesting fully in the contributions, the contributions
+payable by the Group are reduced by the amount of the forfeited contributions.
+The Group has contributed 5.5% of members' gross salaries to the scheme since 1 October 2001. The pension cost charge represents contributions
+payable by the Group to the fund and amounted to  119,000 (2006:  89,000).
+Some UK employees receive an enhancement to salary of between 5% and 10% of gross pay in lieu of Company contributions. This amounted to
+ 85,000 (2006:  90,000).
+US employees contribute to a 401k scheme. They receive an additional 25% of their contribution. This amounted to  34,000 (2006:  24,000). 73 Five Year Summary This is marketing
+Five Year Summary Year Ended 31 March
+2007 2006 2005 2004 2003
+ 000  000  000  000  000
+Results
+Revenue 14,037 10,629 7,806 5,668 4,784
+Profit/(loss) 
+from operations 1,693 451 (1,194) (3,639) (6,733)
+Profit/(loss) before tax 2,006 889 (649) (3,232) (5,966)
+Profit/(loss) 
+attributable to 
+equity holders
+of Alterian plc 2,417 1,369 (162) (2,744) (5,666)
+Assets employed
+Non-current assets 8,564 2,402 594 853 1,869
+Current assets 16,298 17,342 15,831 15,723 17,587
+Current liabilities (5,153) (3,198) (2,040) (2,221) (2,175)
+Net assets 19,709 16,546 14,385 14,355 17,281
+Financed by
+Equity 19,709 16,546 14,385 14,355 17,281
+Key statistics
+Earnings per share 5.8p 3.4p (0.4)p (7.1)p (14.6)p
+Diluted earnings 
+per share 5.5p 3.2p (0.4)p (7.1)p (14.6)p
+This table summarises the performance and financial position of the Group for the last five 
+financial years.
+The amounts disclosed for 2004 and earlier periods are stated on the basis of UK GAAP because it
+is not practicable to restate amounts for periods prior to the date of transition to IFRS. 
+01 Financial Overview
+02 A Year of Success
+03 Financial Highlights 
+04 Review of Operations 
+26 Directors and Biographies 
+28 Directors' Report 
+30 Corporate Governance Statement 
+34 Directors' Remuneration Report 
+42 Independent Auditors' Report
+44 Financial Statements 
+48 Notes to the Financial Statements
+73 Five Year Summary
+74 Notice of Annual General Meeting 2007 
+Alterian Annual Report 07 72 Notes to the Financial Statements
+NOTES TO THE 
+FINANCIAL
+STATEMENTS
+Five YEar
+SUMMARY
+30. Related Party Transactions
+The Group
+Transactions between the Company and its subsidiaries, which are related
+parties, have been eliminated on consolidation.
+The Company
+Amounts owed by Amounts owed to 
+related parties related parties
+2007 2006 2007 2006
+restated restated
+ 000  000  000  000
+Alterian 
+Technology 
+Limited - - 897 332
+Alterian Inc - 7,935 - -
+- 7,935 897 332
+Balances have been restated to reflect the updated accounting policy for
+group share transactions, as described in note 2.
+Remuneration of key management personnel
+The Group and the Company
+The remuneration of the Directors, who are the key management
+personnel of the Group, is set out below in aggregate for each of the
+categories specified in IAS 24  Related Party Disclosures'. Further
+information about the remuneration of individual Directors is provided in
+the audited part of the Directors' Remuneration Report on pages 39 to 41.
+2007 2006
+ 000  000
+Short-term employee benefits 1,220 912
+Share-based payment 
+(gains on exercise of share options) - 489
+1,220 1,401
+31. Principal Subsidiary Undertakings
+The principal subsidiary undertakings at 31 March 2007 are shown below.
+All subsidiary undertakings are wholly owned and prepare accounts to 31
+March each year.
+Subsidiary Activity Country of Portion of ordinary
+Incorporation, shares and voting 
+registration, rights held
+and operation
+Alterian
+Technology Database Analysis 
+Ltd* Software Supplier England 100%
+Alterian 
+Holdings Ltd Holding Company England 100%
+MarkIT 
+Information 
+Services Ltd* Dormant Company England 100%
+Nvigorate 
+Ltd* Dormant Company England 100%
+Alterian Database Analysis
+Inc* Software Supplier USA 100%
+Alterian Database Analysis 
+LLC* Software Supplier USA 100%
+All subsidiaries are included within the consolidated financial statements.
+*subsidiaries marked are not directly owned by Alterian plc 75 Notes This is marketing Alterian Annual Report 07 74 Notice of Annual General Meeting 2007
+Notice is hereby given that an Annual General Meeting of Alterian plc will
+be held at Century Place, Bond Street, Bristol, BS2 9AG on 25 July 2007
+at 10.00 a.m. for the purposes of considering and, if thought fit, passing
+the following resolutions of which resolutions 1 - 7 will be proposed as
+Ordinary Resolutions and resolutions 8 - 11 will be proposed as Special
+Resolutions for the following purposes:
+1 To receive and consider the financial statements for the year 
+ended 31 March 2007 and the Reports of the Directors and 
+Auditors thereon.
+2 To approve the Directors' Remuneration Report for the year ended 
+31 March 2007.
+3 To re-elect Mr D Eldridge as a Director.
+4 To re-elect Mr D Cutler as a Director.
+5 To re-elect Mr I Johnston as a Director.
+6 To re-appoint Deloitte and Touche LLP as Auditors of the Company
+and resolve that their remuneration be agreed by the Directors.
+As special business, to consider and, if thought fit, pass the following
+Resolutions which paragraph 7 will be proposed as an Ordinary Resolution
+and paragraphs 8 to 11 proposed as Special Resolutions.
+7 That the Directors be and are hereby generally and unconditionally 
+authorised for the purposes of Section 80, Companies Act 1985 to
+allot, or to grant any right to subscribe for, or convert any security into,
+Ordinary shares in the Company up to an aggregate nominal value of
+up to  3,512,376, at any time or times during the period from the
+date of the passing of this resolution up to and including the day
+preceding the next Annual General Meeting of the Company or 15
+months from the date of passing of this resolution whichever comes
+first, on which date this authority shall expire and this authority shall
+allow the Company to make an offer or agreement before the expiry of
+the authority which would or might require shares to be allotted, or
+rights to subscribe for, or convert any security into shares to be
+granted, after the expiry of the authority.
+8 That the Directors be and are hereby empowered, pursuant to Section
+95 of the Companies Act 1985,to allot equity securities (within the
+meaning of Section 94 of the said Act) for cash as if sub-section (1) of
+Section 89 did not apply to any such allotment, provided that this
+power shall be limited:
+(a) to the allotment of equity securities in connection with a rights
+issue, open offer or any other pre-emptive offer in favour of
+shareholders where the equity securities respectively attributable
+to the interests of all such shareholders are proportionate (as
+nearly as may be) to the respective number of shares held by them
+but subject to such exclusions or other arrangements as the
+Directors may deem necessary or expedient to deal with any legal
+or practical problems under the laws of any international work
+territory or the requirements of any regulatory body or any stock
+exchange in any territory or in relation to fractional entitlements;
+and
+(b) to the allotment (otherwise than pursuant to sub-paragraph (a)
+above) of equity securities having an aggregate nominal value 
+of  526,856 (being approximately five per cent of the nominal
+value of the Ordinary Share Capital of the Company in issue
+immediately following the date of this resolution) and shall expire
+on the day preceding the next Annual General Meeting of the
+Company or 15 months from the date of passing of this resolution
+whichever comes first, save that the Company may, before such
+expiry, make an offer or agreement which would or might require
+equity securities to be allotted after such expiry and the Directors
+may allot equity securities in pursuance of such offer or
+agreement as if the power conferred hereby had not expired. 
+9 That in accordance with the Articles of Association of the Company
+and Section 166 of the Companies Act 1985, the Company be and is
+hereby granted general and unconditional authority to make market
+purchases (as defined in Section 163 of the Companies Act 1985) of
+Notice of Annual 
+General Meeting 2007
+any of its own shares on such terms and in such manner as the 
+Board of Directors of the Company may from time to time determine
+provided that the authority conferred by this resolution shall:
+(a) be limited to the number of Ordinary shares having an aggregate
+nominal value of  526,856;
+(b) not permit the payment per share of more than five per cent 
+above the average middle market quotation of an Ordinary share
+of the Company on the London Stock Exchange as derived from
+the Daily Official List on the five dealing days immediately prior 
+to the date of purchase or less than 25p (in each case exclusive 
+of expenses); and
+(c) expire on the date falling 15 months after the passing of this
+resolution or the date of the next Annual General Meeting of the
+Company, whichever is the earlier, except in relation to purchases
+of shares the contract for which was concluded before the
+expiration of the said period and which may be executed wholly 
+or partly after such date.
+10 That the Articles of Association of the Company be amended 
+as follows:
+(a) the first paragraph of Article 40.1 shall be amended to read 
+as follows:
+The Board may in its absolute discretion refuse to register 
+any transfer of a certificated unless: 
+and sub-paragraphs (a) to (f) of paragraph 40.1 shall 
+remain unchanged.
+(b) the first sentence of Article 41 shall be amended to read 
+as follows:
+If the Board refuses to register a transfer of a share it shall,
+within 2 months after the date on which the transfer was lodged
+with the Company, send notice of the refusal to the transferee,
+such notice containing the Board's reasons for the refusal. 
+and the remainder of Article 41 shall remain unchanged.
+11 That the Articles of Association of the Company be amended 
+as follows:
+(a) the first sentence of Article 152 shall be amended to read 
+as follows:
+Any notice in writing to be given by or to any person pursuant 
+to these Articles shall be in writing (which shall, for the avoidance
+of doubt, include electronic communication by e-mail or web site)
+except that a notice convening a Board meeting need not be 
+in writing.  
+(b) there shall be added as an additional sentence at the end of
+Article 153.1 the following words:
+The Company may send or supply notices, documents or
+information to members by making them available on a website,
+or by other electronic means. ; and
+(c) there shall be added as an additional paragraph at the end of
+Article 155.2 the following words:
+If a notice, document or information is sent by electronic mail, 
+it is treated as being delivered at the time it was sent. If a notice,
+document or information is sent by a website, it is treated as
+being delivered when the material was first made available on the
+website, or if later, when the recipient received (or is deemed to
+have received) notice of the fact that the material was available 
+on the website. 
+By Order of the Board 
+D R Cutler
+Company Secretary
+4 June 2007
+Registered Office
+Century Place, Bond Street 
+Bristol, BS2 9AG
+Notes
+1 The register of the Directors' interests in the Share Capital of the
+Company maintained under Section 325 of the Companies Act 1985
+will be available for reference at the place of meeting from 8.30 a.m.
+on the date of the meeting until its conclusion.
+2 Copies of the Directors' service agreements will be available for
+inspection at the Registered Office of the Company during normal
+business hours on each business day from the date of this notice 
+until the date of the meeting, and at the place of the meeting from
+8.30 a.m. on the date of the meeting until its conclusion.
+3 Any member entitled to attend and vote at this meeting may appoint 
+a proxy or proxies to attend and, on a poll, vote instead of him. A 
+proxy need not be a member of the Company. Forms of proxy, to be
+valid, must be received by the Company's Registrars, Computershare
+Investor Services PLC, PO Box 82, The Pavilions, Bridgwater Road,
+Bristol, BS99 7NH, not less than 48 hours before the time appointed
+for the holding of the meeting or any adjournment thereof.
+4 The Company, pursuant to regulation 41 of the Uncertificated
+Securities Regulations 2001, specifies that only those members
+registered in the Register of Members of the Company as at 6.00pm
+on 23 July 2007 shall be entitled to attend and/or vote at the meeting
+in respect of the number of shares registered in their name at that
+time. Changes to entries on the Register of Members after 6.00 p.m.
+on 23 July 2007 shall be disregarded in determining the rights of any
+person to attend or vote at the meeting.
+Explanatory notes
+Resolution 1 - Report and Accounts 2007
+The Directors will present the Directors' Report and the audited 
+financial statements of the Company for the year ended 31 March 2007
+to shareholders.
+Resolution 2 - Approval of Directors' Remuneration Report 2007
+The Directors will seek approval for the Directors' Remuneration Report
+for the year ended 31 March 2007. Please refer to pages 34 to 41 of the
+Annual Report for the full text.
+Resolutions 3 to 5 - Re-election of Directors retiring by rotation
+One-third of the Directors must retire each year, though they may offer
+themselves for re-election. This year David Eldridge, David Cutler and 
+Iain Johnston are retiring and seeking re-election. Please refer to page 
+26 of the Annual Report for biographical details. David Eldridge is the
+Chief Executive Officer, David Cutler is the Group Finance Director and
+Iain Johnston is a Non-executive Director. 
+Resolution 6 - Re-appointment of Auditors
+The Directors will seek approval for the re-appointment of Deloitte and
+Touche LLP as the Company's Auditors.
+Resolution 7 - Authority to allot shares
+An Ordinary Resolution will be proposed to give the Directors authority 
+to allot part of the unissued Ordinary Share Capital of the Company. In
+accordance with Institutional Shareholders' Committee guidelines, any
+such authority should be limited by reference to the issued Ordinary Share
+Capital of the Company. In broad terms, such authority should be limited
+in amount equal to one third of the existing issued Ordinary Share Capital
+of the Company.
+Resolution 8 - Disapplication of pre-emption rights
+A Special Resolution will be proposed to empower Directors to allot
+securities of the Company up to a specified amount in connection with
+rights issues without having to obtain prior approval from shareholders on
+each occasion and also to allot a small number of these for cash without
+first being required to offer such shares to existing shareholders. In
+accordance with Institutional Shareholders' Committee guidelines, the
+number of Ordinary shares which may be issued for cash under the latter
+authority should not exceed five per cent of the Ordinary Share Capital of
+the Company in issue immediately following the date of the resolution.
+Resolution 9 - Market purchase of shares
+Under the Company's Articles of Association and Section 162 of the
+Companies Act 1985, the Company is empowered to purchase its own
+shares. Resolution 9 is proposed as a Special Resolution to enable the
+Company to purchase, for cancellation and/or for holding in treasury,
+Ordinary shares in the market for the period until the conclusion of the
+Company's Annual General Meeting to be held in 2008, upon the terms
+set out in the resolution up to a maximum number of 2,107,426 Ordinary
+shares (representing approximately five per cent of the issued Ordinary
+Share Capital of the Company).
+Resolution 10 - Refusal to register share transfer
+Under the provisions of section 771 of the Companies Act 2006, from 
+1 April 2008, in the event that the Directors of the Company refuse to
+register a transfer of shares they must provide the transferee with their
+reasons for that refusal. The proposed amendment to Articles 40.1 and 
+41 of the Articles of Association ensures that the Company's Articles of
+Association reflect the requirements of the Companies Act 2006.
+Resolution 11 - Electronic Communications
+Under the provisions of the Companies Act 2006, the Company is
+permitted to supply documents and information to its members by way 
+of electronic communication - particularly by means of e-mail and web
+site communication. The principal change to the previous law is that the
+Company can supply documents and information to its members by
+publishing those documents on its web-site, provided that each member
+has been asked individually by the Company to agree to such method of
+communication, and the Company has not received a negative response
+within 28 days of that request.
+The proposed amendments to Articles 152, 153 and 155 of the
+Company's Articles of Association permit the Company to communicate
+through electronic means, and set out the deemed delivery provisions in
+circumstances where electronic communications are used. It is intended
+that this should give the Company the flexibility to communicate with its
+members by electronic means should it choose to do so. In the event that
+the Company chooses in the future to send documents and information 
+to members via its web site, the members will be contacted and their
+consent sought on an individual basis. Even in these circumstances,
+members will remain entitled to receive documents in hard copy if they 
+so request. Notes

@@ -2,29 +2,21 @@ package classifier;
 
 /**
  * A Java class that implements a simple text learner, based on WEKA.
- * To be used with MyFilteredClassifier.java.
- * WEKA is available at: http://www.cs.waikato.ac.nz/ml/weka/
- * Copyright (C) 2013 Jose Maria Gomez Hidalgo - http://www.esp.uem.es/jmgomez
- *
- * This program is free software: you can redistribute it and/or modify
- * it for any purpose.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ * Modified from the original examples for the purpose of UCREL Summer School in Corpus Based NLP
+ * at Lancaster University
+ * http://ucrel.lancs.ac.uk/summerschool/nlp.php
+ * Modified by Mahmoud El-Haj
  */
 
 import weka.core.Instances;
+import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.StringToWordVector;
 import weka.classifiers.Evaluation;
-import java.util.Comparator;
-import java.util.Map;
 import java.util.Random;
-import java.util.SortedSet;
-import java.util.TreeSet;
 import weka.classifiers.bayes.NaiveBayes;
 import weka.classifiers.functions.SMO;
 import weka.classifiers.meta.FilteredClassifier;
+import weka.core.converters.ArffSaver;
 import weka.core.converters.ArffLoader.ArffReader;
 import java.io.*;
 
@@ -32,11 +24,14 @@ import java.io.*;
  * This class implements a simple text learner in Java using WEKA.
  * It loads a text dataset written in ARFF format, evaluates a classifier on it,
  * and saves the learnt model for further use.
- * @author Jose Maria Gomez Hidalgo - http://www.esp.uem.es/jmgomez
- * @see MyFilteredClassifier
  */
 public class MyFilteredLearner {
 
+	/**
+	 * String for classifier type.
+	 */
+	static String classifierName; 
+	
 	/**
 	 * Object that stores training data.
 	 */
@@ -81,7 +76,10 @@ public class MyFilteredLearner {
 			filter.setAttributeIndices("last");
 			classifier = new FilteredClassifier();
 			classifier.setFilter(filter);
-			classifier.setClassifier(new SMO());//SMO
+			if(classifierName.equals("NaiveBayse"))
+			classifier.setClassifier(new NaiveBayes());//
+			if(classifierName.equals("SMO"))
+			classifier.setClassifier(new SMO());
 			Evaluation eval = new Evaluation(trainData);
 			eval.crossValidateModel(classifier, trainData, 4, new Random(1));
 			System.out.println(eval.toSummaryString());
@@ -105,8 +103,16 @@ public class MyFilteredLearner {
 			filter.setAttributeIndices("last");
 			classifier = new FilteredClassifier();
 			classifier.setFilter(filter);
+			if(classifierName.equals("NaiveBayse"))
+			classifier.setClassifier(new NaiveBayes());//
+			if(classifierName.equals("SMO"))
 			classifier.setClassifier(new SMO());
 			classifier.buildClassifier(trainData);
+			Instances trainingDataFiltered = Filter.useFilter(trainData, filter); // filter training data
+			ArffSaver saver = new ArffSaver();
+			saver.setInstances(trainingDataFiltered);
+			saver.setFile(new File("arff/MyFilteredLearner"+classifierName+".arff"));
+			saver.writeBatch();
 			// Uncomment to see the classifier
 			//System.out.println("--------->  "+classifier);
 			System.out.println("===== Training on filtered (training) dataset done =====");
@@ -137,49 +143,22 @@ public class MyFilteredLearner {
 	
 	/**
 	 * Main method. It is an example of the usage of this class.
-	 * @param args Command-line arguments: fileData and fileModel.
 	 * @throws Exception 
 	 */
 	public static void main (String[] args) throws Exception {
+		//classifier name (either NaiveBayes or SMO for this summer school experiment)
+		classifierName = "SMO";//SMO
+		
 		System.out.println("Present Project Directory : "+ System.getProperty("user.dir"));
 		MyFilteredLearner learner;
 			learner = new MyFilteredLearner();
-			learner.loadDataset("arff/myArff.arff");
+			learner.loadDataset("arff/TwoClasses.arff");
 			// Evaluation must be done before training
-			// More info in: http://weka.wikispaces.com/Use+WEKA+in+your+Java+code
 			learner.evaluate();
-			//learner.attributeRank();
 			learner.learn();
-			learner.saveModel("model/myModel.dat");
+			learner.saveModel("model/TwoClasses"+classifierName+".dat");
 		
 	}
-	
-	
-	/**
-	  * Provides a {@code SortedSet} of {@code Map.Entry} objects. The sorting is in ascending order if {@param order} > 0
-	  * and descending order if {@param order} <= 0.
-	  * @param map   The map to be sorted.
-	  * @param order The sorting order (positive means ascending, non-positive means descending).
-	  * @param <K>   Keys.
-	  * @param <V>   Values need to be {@code Comparable}.
-	  * @return      A sorted set of {@code Map.Entry} objects.
-	  */
-	 static <K,V extends Comparable<? super V>> SortedSet<Map.Entry<K,V>>
-	 entriesSortedByValues(Map<K,V> map, final int order) {
-	     SortedSet<Map.Entry<K,V>> sortedEntries = new TreeSet<>(
-	         new Comparator<Map.Entry<K,V>>() {
-	             public int compare(Map.Entry<K,V> e1, Map.Entry<K,V> e2) {
-	                 return (order > 0) ? compareToRetainDuplicates(e1.getValue(), e2.getValue()) : compareToRetainDuplicates(e2.getValue(), e1.getValue());
-	         }
-	     }
-	    );
-	    sortedEntries.addAll(map.entrySet());
-	    return sortedEntries;
-	}
-	 
-	 private static <V extends Comparable<? super V>> int compareToRetainDuplicates(V v1, V v2) {
-		    return (v1.compareTo(v2) == -1) ? -1 : 1;
-		}
 	 
 	 
 }

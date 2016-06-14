@@ -1,0 +1,1492 @@
+ OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+71
+Share Incentive Plan
+During the year to 30 September 2013 Mr Slabbert and Mr Lewis each purchased 374 shares pursuant to the Share Incentive Plan.
+As at 30 September 2013, the market price of Avon Rubber p.l.c. shares was  5.50 (2012:  3.12). During the year the highest and lowest 
+market prices were  5.50 and  2.98 respectively.
+Payments to past Directors and payments for loss of office
+There have been no payments to past Executive Directors or payments for loss of office.
+Statement of implementation of remuneration policy in the following year
+Information required under this new disclosure is contained in the table on pages 56 to 57 and associated commentary.
+Details of the advisors to the Remuneration Committee and their fees
+During the year to 30 September 2013 the Company incurred costs of  3,750 (2012:  15,500) in respect of fees for advisors to the 
+Remuneration Committee. 
+ 
+Statement of shareholder voting on the Remuneration Report 
+The advisory shareholder vote on the Remuneration Report for the year ended 30 September 2012 at the AGM which took place on 7 
+February 2013 was as follows:
+The Remuneration Report has been approved by the Board of Directors and signed on its behalf by:
+Resolution text Votes for % for Votes against % against Total votes cast Votes withheld
+Approval of the renumeration report 18,923,638 99.39 115,608 0.61 19,039,246 248,886
+Richard Wood  
+Chairman of the Remuneration Committee
+20 November 2013   2013 2012 
+ Note  '000  '000
+Revenue 1 124,851 106,636 
+Cost of sales  (91,140) (75,803)
+Gross profit  33,711 30,833 
+Distribution costs  (5,433) (5,013) 
+Administrative expenses  (14,855) (14,199)
+Operating profit 1 13,423 11,621 
+ 
+ 
+Operating profit is analysed as:    
+Before depreciation, amortisation and exceptional items  20,023 16,358 
+Depreciation and amortisation of development costs and software 11,12 (5,800) (4,737)
+Operating profit before amortisation of acquired intangibles and exceptional items  14,223 11,621 
+Amortisation of acquired intangibles 3 (417)  - 
+Exceptional items 3 (383)  -
+Operating profit  13,423  11,621 
+ 
+ 
+Finance income 4 1 7 
+Finance costs 4 (348) (249) 
+Other finance income/(expense) 4 118 (374)
+Profit before taxation 5 13,194 11,005 
+Taxation 6 (3,566) (3,176)
+Profit for the year  9,628 7,829 
+ 
+ 
+Other comprehensive expense  
+Items that are not subsequently reclassified to the income statement  
+Actuarial loss recognised in retirement benefit scheme 10 (9,971) (3,098) 
+Items that may be subsequently reclassified to the income statement  
+Net exchange differences offset in reserves  (74) (917) 
+ 
+Other comprehensive expense for the year, net of taxation  (10,045) (4,015)
+Total comprehensive (expense)/income for the year  (417) 3,814 
+ 
+Earnings per share 8   
+Basic  32.7p 26.9p 
+Diluted  31.4p 25.4p
+ 
+Adjusted earnings per share 8   
+Basic  35.4p 26.9p 
+Diluted  34.0p 25.4p
+Consolidated Statement of Comprehensive Income
+for the year ended 30 September 2013
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+72   2013 2012 
+ Note  '000  '000
+Assets    
+Non-current assets  
+Intangible assets 11 16,541 13,281 
+Property, plant and equipment 12 20,387 17,878
+  36,928 31,159
+Current assets  
+Inventories 13 13,374 15,449 
+Trade and other receivables 14 20,677 14,616 
+Derivative financial instruments 19 214 121 
+Cash and cash equivalents 15 184 176
+  34,449 30,362
+Liabilities    
+Current liabilities    
+Trade and other payables 16 16,680 15,748 
+Provisions for liabilities and charges 18 616 616 
+Current tax liabilities  6,073 5,160
+  23,369 21,524 
+Net current assets  11,080 8,838
+ 
+Non-current liabilities    
+Borrowings 17 11,059 8,901 
+Deferred tax liabilities 6 2,977 2,584 
+Retirement benefit obligations 10 11,279 2,238 
+Provisions for liabilities and charges 18 1,997 2,377
+  27,312 16,100 
+Net assets  20,696 23,897
+Shareholders' equity    
+Ordinary shares 20 30,723 30,723 
+Share premium account 20 34,708 34,708 
+Capital redemption reserve  500 500 
+Translation reserve  (626) (552) 
+Accumulated losses  (44,609) (41,482)
+Total equity  20,696 23,897
+These financial statements on pages 72 to 110 were approved by the Board of Directors on 20 November 2013 and signed on its behalf by:
+Peter Slabbert                                                                              Andrew Lewis
+Consolidated Balance Sheet
+at 30 September 2013
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+73 Consolidated Cash Flow Statement
+for the year ended 30 September 2013
+  2013 2012 
+ Note  '000  '000
+Cash flows from operating activities 
+Cash generated from operations 21 15,300 14,726 
+Finance income received  1 7 
+Finance costs paid  (365) (300) 
+Retirement benefit deficit recovery contributions  (592) (625) 
+Tax paid  (2,229) (262)
+Net cash generated from operating activities  12,115 13,546
+Cash flows from investing activities 
+Proceeds from sale of property, plant and equipment  2 4 
+Purchase of property, plant and equipment  (6,339) (4,815) 
+Capitalised development costs and software  (4,715) (4,697) 
+Acquisition of VR Technology Holdings 26 (439) -
+Net cash used in investing activities   (11,491) (9,508)
+Cash flows from financing activities 
+Net movements in loans 22 2,281 (2,808) 
+Dividends paid to shareholders 7 (1,132) (941) 
+Purchase of own shares 20 (1,765) (279)
+Net cash used in financing activities  (616) (4,028) 
+     
+Net increase in cash, cash equivalents and bank overdrafts  8 10 
+Cash, cash equivalents and bank overdrafts at beginning of the year  176 167 
+Effects of exchange rate changes  - (1)
+Cash, cash equivalents and bank overdrafts at end of the year 22 184 176
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+74 Consolidated Statement of Changes in Equity
+for the year ended 30 September 2013
+         
+   Share Share Other Accumulated Total  
+   capital premium reserves losses equity 
+  Note  '000  '000  '000  '000  '000
+At 1 October 2011   30,723 34,708 865 (45,124) 21,172 
+Profit for the year   - - - 7,829 7,829 
+Unrealised exchange differences on  
+overseas investments   - - (917) - (917) 
+Actuarial loss recognised in retirement  
+benefit scheme  10 - - - (3,098) (3,098) 
+Total comprehensive income for the year   - - (917) 4,731 3,814 
+Dividends paid  7 - - - (941) (941) 
+Purchase of shares by the employee benefit trust  20 - - - (279) (279) 
+Movement in respect of employee share schemes  24 - - - 131 131 
+At 30 September 2012   30,723 34,708 (52) (41,482) 23,897 
+Profit for the year   - - - 9,628 9,628  
+Unrealised exchange differences on  
+overseas investments   - - (74) - (74)  
+Actuarial loss recognised in retirement 
+benefit scheme  10 - - - (9,971) (9,971) 
+Total comprehensive expense for the year   - - (74) (343) (417)  
+Dividends paid  7 - - - (1,132) (1,132)  
+Purchase of shares by the employee benefit trust   20 - - - (1,765) (1,765)  
+Movement in respect of employee share schemes  24 - - - 113 113 
+At 30 September 2013   30,723 34,708 (126) (44,609) 20,696 
+Other reserves consist of the capital redemption reserve of  500,000 (2012:  500,000) and the translation reserve of  626,000 (2012:  552,000).
+All movement in other reserves relates to the translation reserve.
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+75 Accounting Policies and Critical Accounting Judgements
+for the year ended 30 September 2013
+Accounting policies
+The principal accounting policies adopted in the preparation 
+of these financial statements are set out below. These policies 
+have been consistently applied to all the years presented, unless 
+otherwise stated.
+Basis of preparation
+These financial statements have been prepared in accordance with 
+EU Endorsed International Financial Reporting Standards (IFRSs) 
+and IFRIC interpretations and the Companies Act 2006 applicable 
+to companies reporting under IFRS. The financial statements 
+have been prepared under the historical cost convention except 
+for financial assets and financial liabilities (including derivative 
+instruments) held at fair value through profit or loss. 
+The preparation of financial statements in conformity with IFRSs 
+requires the use of certain critical accounting estimates. It also 
+requires management to exercise its judgement in the process of 
+applying the Group's accounting policies. The areas involving a  
+higher degree of judgement or complexity, or areas where 
+assumptions and estimates are significant to the financial 
+statements are disclosed below.
+Recent accounting developments
+The following standards, amendments and interpretations have 
+been issued by the International Accounting Standards Board 
+(IASB) or by the International Financial Reporting Interpretations 
+Committee (IFRIC) but have not yet been adopted. Subject to 
+endorsement by the European Union, these will be adopted in 
+future periods. The Group's approach to these is as follows:
+ a) Standards, amendments and interpretations effective  
+  in 2013
+The following amendment has been adopted for the year ended 30 
+September 2013:
+ - Amendment to IAS 1,  Presentation of Items of Other  
+  Comprehensive Income'
+The adoption of this amendment has not had a material impact on 
+the financial information as it only requires additional disclosure in 
+the consolidated statement of other comprehensive income.
+ b) Standards, amendments and interpretations to existing  
+  standards issued but not yet effective in 2013 and not  
+  early adopted
+The following new standards, amendments to standards and 
+interpretations have been issued, but are not effective for the 
+financial year beginning 1 October 2012 and have not been 
+adopted early:
+ - IFRS 9,  Financial instruments'
+ - IFRS 10,  Consolidated financial statements'
+ - IFRS 11,  Joint arrangements'
+ - IFRS 12,  Disclosure of interests in other entities'
+ - IFRS 13,  Fair value measurement'
+ - IAS 27 (revised),  Separate financial statements'
+ - IAS 28 (revised),  Associates and joint ventures'
+ - Amendment to IAS 12,  Income taxes'
+ - Amendment to IAS 19,  Employee benefits'
+The amendment to IAS 19,  Employee Benefits' is effective for the 
+financial year beginning 1 October 2013. The main changes affecting 
+the Group are as follows:
+  	 Interest income or expense will now be calculated by applying  
+ the discount rate to the net defined benefit liability or asset.  
+ Previously interest cost was calculated on the defined benefit  
+ obligation and expected return calculated on plan assets.  
+  	 Costs associated with investment management are deducted  
+ from the return on plan assets, (which is unchanged from  
+ the existing standard). Other expenses are recognised as  
+ incurred in the consolidated statement of comprehensive income.
+This is expected to lead to an increase in the costs charged to  
+the income statement of  0.8m for the year ending 30 September  
+2014 over the cost under the existing standard and a 2.6p reduction  
+in earnings per share, with a similar impact on the comparative  
+figures for the year ended 30 September 2013. 
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+76
+ Existing  Revised Existing  Revised 
+ standard Adjustment standard standard  Adjustment standard 
+  '000  '000  '000  '000  '000  '000
+Expected 
+return 
+on assets (12,974) 12,974 - (13,540) 13,540 -
+Interest on 
+liabilities 12,636 (12,603) 33 13,192 (13,180) 12
+Administration 
+expenses - 421 421 - 430 430
+Total 
+pension 
+costs (338) 792 454 (348) 790 442
+2013 2014 Basis of consolidation
+The consolidated financial statements incorporate the financial results 
+and position of the Group and its subsidiaries.
+Subsidiaries are all entities over which the Group has the power to 
+govern the financial and operating policies generally accompanying a 
+shareholding of more than one half of the voting rights.
+Subsidiaries are fully consolidated from the date on which control is 
+transferred to the Group. They are de-consolidated from the date that 
+control ceases. 
+The purchase method of accounting is used to account for the 
+acquisition of subsidiaries by the Group. The cost of an acquisition 
+is measured as the fair value of the assets given, equity instruments 
+issued and liabilities incurred or assumed at the date of exchange. 
+Acquisition costs are expensed as incurred. Identifiable assets 
+acquired and liabilities and contingent liabilities assumed in a 
+business combination are measured initially at their fair values at the 
+acquisition date, irrespective of the extent of any non-controlling 
+interest.  Intra-group transactions, balances and unrealised gains on 
+transactions between Group companies are eliminated; unrealised 
+losses are also eliminated unless costs cannot be recovered. Where 
+necessary, accounting policies of subsidiaries have been changed to 
+ensure consistency with the policies adopted by the Group. 
+Foreign currencies
+The Group's presentation currency is sterling. The results and financial 
+position of all subsidiaries and associates that have a functional 
+currency different from sterling are translated into sterling as follows: 
+ -    assets and liabilities are translated at the closing rate at the  
+  balance sheet date; and
+  -    income and expenses are translated at average rates.
+All resulting exchange differences are recognised as a separate 
+component of equity.
+On consolidation, exchange differences arising from the translation 
+of the net investment in foreign entities, and of borrowings and other 
+currency instruments designated as hedges of such investments, are 
+taken to shareholders' equity. When a foreign operation is sold, the 
+cumulative amount of such exchange difference is recognised in the 
+consolidated statement of comprehensive income as part of the gain 
+or loss on sale.
+Foreign currency transactions are initially recorded at the exchange 
+rate ruling at the date of the transaction. Foreign exchange gains 
+and losses resulting from settlement of such transactions and from 
+the translation to exchange rates ruling at the balance sheet date of 
+monetary assets or liabilities denominated in foreign currencies are 
+recognised in the consolidated statement of comprehensive income, 
+except when deferred in equity as qualifying hedges.
+ 
+Revenue
+Revenue comprises the fair value of the consideration received for 
+the sale of goods and services, net of trade discounts and sales-
+related taxes. Revenue is recognised when the risks and rewards 
+of the underlying sale have been transferred to the customer, and 
+when collectability of the related receivables is reasonably assured, 
+which is usually when title passes or a separately identifiable phase 
+of a development contract has been completed and accepted by  
+the customer.
+Segment reporting
+Segments are identified based on management information 
+provided to the chief operating decision-maker. The chief operating 
+decision-maker, who is responsible for allocating resources and 
+assessing performance of the operating segments, has been 
+identified as the Group Executive team. A business segment is a 
+group of assets and operations engaged in providing products 
+or services that are subject to risks and returns that are different 
+from those of other business segments. A geographical segment 
+is engaged in providing products or services within a particular 
+economic environment that are subject to risks and returns that 
+are different from those of segments operating in other economic 
+environments. The chief operating decision-maker assesses the 
+performance of the operating segments based on the measures of 
+revenue, EBIT and EBITDA. Central overheads, finance income and 
+expense and taxation are not allocated to the business segments.
+Exceptional items
+Transactions are classified as exceptional where they relate to an 
+event that falls outside of the ordinary activities of the business and 
+where individually or in aggregate they have a material impact on 
+the financial statements.
+Employee benefits
+Pension obligations and post-retirement benefits
+The Group has both defined benefit and defined contribution plans.
+The defined benefit plan's asset or liability as recognised in the 
+balance sheet is the present value of the defined benefit obligation 
+at the balance sheet date less the fair value of plan assets.
+The defined benefit obligation is calculated annually by 
+independent actuaries using the projected unit credit method. 
+The present value of the defined benefit obligation is determined 
+by discounting the estimated cash outflows using interest rates of 
+high-quality corporate bonds that are denominated in the currency 
+in which the benefits will be paid, and that have terms to maturity 
+approximating to the terms of the related pension liability. Actuarial 
+gains and losses arising from experience adjustments and changes 
+in actuarial assumptions are recognised in full in the period in which 
+they occur, as part of other comprehensive income.  
+ 
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+77 For the defined contribution plans, the Group pays contributions 
+to publicly or privately administered pension insurance plans on a 
+mandatory, contractual or voluntary basis. Contributions are expensed 
+as incurred. 
+Share based compensation
+The Group operates a number of equity-settled, share-based 
+compensation plans, under which the entity receives service from 
+employees as consideration for equity instruments (options) of the 
+Group. The fair value of the employee service received in exchange 
+for the grant of the options is recognised as an expense. The total 
+amount to be expensed is determined by reference to the fair value of 
+the options granted: 
+ - including any market performance conditions;
+ - excluding the impact of any service and non-market  
+  performance vesting conditions (for example, profitability,  
+  sales growth targets and remaining an employee of the entity  
+  over a specified time period); and
+ - including the impact of any non-vesting conditions  
+  (for example, the requirement for employees to save).
+Non-market vesting conditions are included in assumptions about 
+the number of options that are expected to vest. The total expense 
+is recognised over the vesting period, which is the period over which 
+all of the specified vesting conditions are to be satisfied. At the end of 
+each reporting period, the entity revises its estimates of the number 
+of options that are expected to vest based on the non-market 
+vesting conditions. It recognises the impact of the revision to original 
+estimates, if any, in the consolidated statement of comprehensive 
+income, with a corresponding adjustment to equity.  
+The proceeds received net of any directly attributable transaction 
+costs are credited to share capital (nominal value) and share premium 
+when the options are exercised.
+Intangible assets
+Goodwill
+Goodwill represents the excess of the cost of an acquisition over the 
+fair value of the Group's share of the identifiable net assets of the 
+acquired subsidiary at the date of acquisition. Identifiable net assets 
+include intangible assets other than goodwill. Any such intangible 
+assets are amortised over their expected future lives unless they 
+are regarded as having an indefinite life, in which case they are not 
+amortised, but subjected to annual impairment testing in a similar 
+manner to goodwill.
+Since the transition to IFRS, goodwill arising from acquisitions of 
+subsidiaries after 3 October 1998 is included in intangible assets, is not 
+amortised but is tested annually for impairment and carried at cost 
+less accumulated impairment losses. Gains and losses on the disposal 
+of an entity include the carrying amount of goodwill relating to the 
+entity sold.
+Goodwill arising from acquisitions of subsidiaries before 3 October 
+1998, which was set against reserves in the year of acquisition under 
+UK GAAP , has not been reinstated and is not included in determining 
+any subsequent profit or loss on disposal of the related entity.
+Goodwill is tested for impairment at least annually or whenever 
+there is an indication that the asset may be impaired. Goodwill is 
+allocated to cash-generating units for the purpose of impairment 
+testing. The allocation is made to those cash-generating units 
+or groups of cash-generating units that are expected to benefit 
+from the business combination in which the goodwill arose. Any 
+impairment is recognised immediately in the consolidated statement 
+of comprehensive income. Subsequent reversals of impairment losses 
+for goodwill are not recognised.
+Development Expenditure
+Expenditure in respect of the development of new products where 
+the outcome is assessed as being reasonably certain as regards 
+viability and technical feasibility is capitalised and amortised over 
+the expected useful life of the development. Expenditure that does 
+not meet these criteria is expensed as incurred. The capitalised 
+costs are amortised over the estimated period of sale for each 
+product, commencing in the year sales of the product are first 
+made. Development costs capitalised are tested for impairment 
+at least annually or whenever there is an indication that the asset 
+may be impaired. Any impairment is recognised immediately in the 
+consolidated statement of comprehensive income. Subsequent 
+reversals of impairment losses for research and development are not 
+recognised.
+Computer Software
+Computer software is included in intangible assets at cost and 
+amortised over its estimated life. 
+Property plant and equipment
+Property, plant and equipment is stated at historical cost or deemed 
+cost where IFRS 1 exemptions have been applied, less accumulated 
+depreciation and any recognised impairment losses.
+Costs include the original purchase price of the asset and the costs 
+attributable to bringing the asset to its working condition for its 
+intended use including any qualifying finance expenses.
+Land is not depreciated. Depreciation is provided on other assets 
+estimated to write off the depreciable amount of relevant assets by 
+equal annual instalments over their estimated useful lives.
+In general, the rates used are:
+    Freehold - 2.5%  
+   Short leasehold property - over the period of the lease
+   Plant and machinery - 6% to 50%.
+ 
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+78
+Accounting Policies and Critical Accounting Judgements continued
+for the year ended 30 September 2013 The residual values and useful lives of the assets are reviewed, and 
+adjusted if appropriate, at each balance sheet date.
+An asset's carrying amount is written down immediately to its 
+recoverable amount if its carrying amount is greater than its 
+estimated net realisable value. Gains and losses on disposal are 
+determined by comparing proceeds with carrying amounts. These 
+are included in the consolidated statement of comprehensive 
+income.
+Leases
+Leases in which a significant portion of the risks and rewards of 
+ownership are retained by the lessor are classified as operating 
+leases. Payments made under operating leases are charged to the 
+consolidated statement of comprehensive income on a straight-line 
+basis over the period of the lease.  
+The sale and lease back of property, where the sale price is at fair 
+value and substantially all the risks and rewards of ownership are 
+transferred to the purchaser, is treated as an operating lease. The 
+profit or loss on the transaction is recognised immediately and lease 
+payments charged to the consolidated statement of comprehensive 
+income on a straight-line basis over the lease term.
+Inventories
+Inventories are stated at the lower of cost and net realisable value.  
+Cost is determined using the first-in, first-out (FIFO) method. The 
+cost of finished goods and work in progress comprises raw materials, 
+direct labour, other direct costs and related production overheads 
+(based on normal operating capacity). It excludes borrowing costs. 
+Net realisable value is the estimated selling price in the ordinary 
+course of business, less applicable incremental selling expenses. 
+Trade and other receivables
+Trade and other receivables are initially recognised at fair value and 
+subsequently held at amortised cost after deducting provisions for 
+impairment of receivables.
+Cash and cash equivalents
+Cash and cash equivalents include cash at bank and in hand, highly 
+liquid interest-bearing securities with maturities of three months 
+or less, and bank overdrafts. Bank overdrafts are shown within 
+borrowings in current liabilities on the balance sheet.
+Trade payables
+Trade payables are obligations to pay for goods or services that have 
+been acquired in the ordinary course of business from suppliers. 
+Accounts payable are classified as current liabilities if payment is 
+due within one year or less (or in the normal operating cycle of 
+the business if longer). If not, they are presented as non-current 
+liabilities. They are initially recognised at fair value and subsequently 
+held at amortised cost.
+Provisions
+Provisions are recognised when:
+ - the Group has a legal or constructive obligation as a result  
+  of a past event;
+ - it is probable that an outflow of resources will be  
+  required to settle the obligation and the amount has  
+  been reliably estimated.
+Where there are a number of similar obligations, for example 
+where a warranty has been given, the likelihood that an outflow 
+will be required in settlement is determined by considering the 
+class of obligations as a whole. A provision is recognised even if the 
+likelihood of an outflow with respect to any one item included in 
+the same class of obligation may be small.
+Provisions are measured at the present value of the expenditures 
+expected to be required to settle the obligation. 
+Where a leasehold property, or part thereof, is vacant or sub-let 
+under terms such that the rental income is insufficient to meet all 
+outgoings, provision is made for the anticipated future shortfall up 
+to termination of the lease, or the termination payment, if smaller.
+Borrowings
+Borrowings are recognised initially at fair value, net of transaction 
+costs incurred and subsequently stated at amortised cost. Borrowing 
+costs are expensed using the effective interest method.
+Taxation
+Income tax on the profit or loss for the year comprises current and 
+deferred tax.
+Current tax is the expected tax payable on the taxable income for 
+the year, using tax rates substantively enacted at the balance sheet 
+date, and any adjustments to tax payable in respect of prior years.
+Deferred income tax is provided in full, using the liability method, on 
+temporary differences arising between the tax bases of assets and 
+liabilities and their carrying amounts in the consolidated financial 
+statements. However the deferred income tax is not accounted 
+for if it arises from initial recognition of an asset or liability in a 
+transaction other than a business combination that at the time of 
+the transaction affects neither accounting nor taxable profit or loss. 
+Deferred income tax is determined using tax rates (and laws) that 
+have been enacted or substantively enacted by the balance sheet 
+date and are expected to apply when the related deferred income 
+tax asset is realised or the deferred income tax liability is settled.
+Deferred income tax assets are recognised to the extent that is 
+probable that future taxable profit will be available against which 
+the temporary differences can be utilised.  
+Deferred income tax is provided on temporary differences arising on 
+investments in subsidiaries and associates, except where the timing 
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+79 of the reversal of the temporary difference is controlled by the Group 
+and it is probable that the temporary difference will not reverse in 
+the foreseeable future.
+Income tax is charged or credited in the consolidated statement of 
+comprehensive income, except where it relates to items recognised 
+in equity, in which case it is dealt with in equity.
+Deferred income tax assets and liabilities are offset when there is a 
+legally enforceable right to offset current tax assets against current 
+tax liabilities and when the deferred income taxes assets and 
+liabilities relate to income taxes levied by the same taxation authority 
+on either the same taxable entity or different taxable entities where 
+there is an intention to settle the balances on a net basis. 
+ 
+Dividends
+Final dividends are recognised as a liability in the Group's financial 
+statements in the period in which the dividends are approved by 
+shareholders, while interim dividends are recognised in the period in 
+which the dividends are paid. 
+ 
+Share capital
+Ordinary shares are classified as equity.
+Incremental costs directly attributable to the issue of new shares  
+or options are shown in equity as a deduction, net of tax, from  
+the proceeds.
+Where any Group company purchases the Company's equity share 
+capital (treasury shares), the consideration paid, including any directly 
+attributable incremental costs (net of income taxes), is deducted 
+from equity attributable to the Company's equity holders until the 
+shares are cancelled, reissued or disposed of. Where such shares 
+are subsequently sold or reissued, any consideration received, net 
+of any directly attributable incremental transaction costs and the 
+related income tax effects, is included in equity attributable to the 
+Company's equity holders. 
+ 
+Critical accounting judgements
+The Group's principal accounting policies are set out above. 
+Management is required to exercise significant judgement and make 
+use of estimates and assumptions in the application of these policies.
+Areas which management believes require the most critical 
+accounting judgements are:
+Retirement benefit obligations
+The Group operates a defined benefit scheme. Actuarial valuations 
+of the schemes are carried out as determined by the trustees at 
+intervals of not more than three years.
+The pension cost under IAS 19 is assessed in accordance with the 
+advice of an independent qualified actuary based on the latest 
+actuarial valuation and assumptions determined by the actuary.   
+The assumptions are based on information supplied to the actuary 
+by the Group, supplemented by discussions between the actuary 
+and management. The assumptions and sensitivities are disclosed in 
+note 10 of the financial statements.
+Inventory provisions
+At each balance sheet date, each subsidiary evaluates the 
+recoverability of inventories and records provision against these 
+based on an assessment of net realisable values. The actual net 
+realisable value of inventory may differ from the estimated realisable 
+values, which could impact on operating results positively or 
+negatively.
+Impairment of intangible assets
+The Group records all assets and liabilities acquired in business 
+acquisitions, including goodwill, at fair value. Intangible assets which 
+have an indefinite useful life, principally goodwill, are assessed 
+annually for impairment.
+The Group is engaged in the development of new products and 
+processes. The costs of which are capitalised as intangible assets or 
+property, plant and equipment if, in the opinion of management, 
+there is a reasonable expectation of economic benefits being 
+achieved. The factors considered in making these judgements 
+include the likelihood of future orders and the anticipated volumes, 
+margins and duration associated with these.
+Impairment charges are made if there is significant doubt as to the 
+sufficiency of future economic benefits to justify the carrying values 
+of the assets based upon discounted cash flow projections using an 
+appropriate risk weighted discount factor. Rates used were between 
+10% and 15%.
+Provisions
+Provisions are made in respect of receivables/accrued income, 
+claims, onerous contractual obligations and warranties based on the 
+judgement of management taking into account the nature of the 
+claim/contractual obligation, the range of possible outcomes and 
+the defences open to the Group.
+Taxation
+Management periodically evaluates positions taken in tax returns 
+where the applicable tax regulation is subject to interpretation. The 
+Group establishes provisions on the basis of amounts expected to 
+be paid to tax authorities only where it is considered more likely 
+than not that an amount will be paid or received. The Group applies 
+this test to each individual uncertain position. The Group measures 
+the uncertain positions based on the single most likely outcome.
+When determining whether to recognise deferred tax assets 
+management considers the likely availability of future taxable profits 
+in the relevant jurisdiction.
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+80
+Accounting Policies and Critical Accounting Judgements continued
+for the year ended 30 September 2013 Business segments
+year ended 30 September 2013
+1 SEGMENT INFORMATION
+Operating segments are reported in a manner consistent with the internal reporting provided to the chief operating decision-maker. The 
+chief operating decision-maker, who is responsible for allocating resources and assessing performance of the operating segments, has been 
+identified as the Group Executive team.
+The Group has two clearly defined business segments, Protection & Defence and Dairy, and operates out of the UK and the US.
+ Protection &    
+ Defence Dairy Unallocated Group 
+  '000  '000  '000  '000
+Revenue 93,137 31,714  124,851
+Segment result before depreciation, amortisation and exceptional items 16,136 5,835 (1,948) 20,023 
+Depreciation of property, plant and equipment (3,221) (623) (52) (3,896) 
+Amortisation of development costs and software (1,868) (32) (4) (1,904)
+Segment result before amortisation of acquired intangibles and exceptional items 11,047 5,180 (2,004) 14,223 
+Amortisation of acquired intangibles (417)   (417) 
+Exceptional items (383)   (383)
+Segment result 10,247 5,180 (2,004) 13,423 
+Finance income   1 1 
+Finance costs   (348) (348) 
+Other finance income   118 118
+Profit before taxation 10,247 5,180 (2,233) 13,194 
+Taxation    (3,566) (3,566)
+Profit for the year 10,247 5,180 (5,799) 9,628
+Segment assets 57,556 11,748 2,073 71,377
+Segment liabilities 10,691 3,371 36,619 50,681
+Other segment items     
+Capital expenditure     
+  -  intangible assets 3,474 304 809 4,587 
+  -  property, plant and equipment 4,665 1,419 91 6,175 
+ 
+ 
+The Protection & Defence segment includes  51.9m (2012:  45.9m) of revenues from the US DOD, the only customer which individually 
+contributes more than 10% to Group revenues.
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+81
+Notes to the Group Financial Statements
+for the year ended 30 September 2013 year ended 30 September 2012
+ Protection &    
+ Defence Dairy Unallocated Group 
+  '000  '000  '000  '000
+Revenue 74,586 32,050  106,636
+Segment result before depreciation and amortisation 11,613 6,506 (1,761) 16,358 
+Depreciation of property, plant and equipment (2,594) (468) (102) (3,164) 
+Amortisation of development costs and software (1,516) (55) (2) (1,573)
+Segment result 7,503 5,983 (1,865) 11,621 
+Finance income   7 7 
+Finance costs   (249) (249) 
+Other finance expense   (374) (374)
+Profit before taxation 7,503 5,983 (2,481) 11,005 
+Taxation    (3,176) (3,176)
+Profit for the year 7,503 5,983 (5,657) 7,829
+Segment assets 49,191 9,760 2,570 61,521
+Segment liabilities 9,781 2,681 25,162 37,624
+Other segment items     
+Capital expenditure     
+  -  intangible assets 3,877 225 595 4,697 
+  -  property, plant and equipment 3,519 1,198 72 4,789 
+1 SEGMENT INFORMATION (CONTINUED)
+Geographical segments by origin
+year ended 30 September 2013
+year ended 30 September 2012
+  UK US Group  
+   '000  '000  '000 
+Revenue  24,028 100,823 124,851  
+Non-current assets  4,897 32,031 36,928 
+  UK US Group 
+   '000  '000  '000
+Revenue  16,318 90,318 106,636 
+Non-current assets  3,710 27,449 31,159
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+82
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 2 EXPENSES BY NATURE
+  2013 2012 
+   '000  '000
+Changes in inventories of finished goods and work in progress  1,828 (740) 
+Raw materials and consumables used  49,954 45,389 
+Employee benefit expense (note 9)  33,314 30,261 
+Depreciation and amortisation charges (notes 11 and 12)  6,217 4,737 
+Transportation expenses  2,173 1,650 
+Operating lease payments  1,705 1,641 
+Travelling costs  2,465 2,072 
+Legal and professional fees  2,185  1,557 
+Other expenses  11,187 7,998
+Total cost of sales, distribution costs and administrative expenses  111,028 94,565
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+83 3 AMORTISATION OF ACQUIRED INTANGIBLES AND EXCEPTIONAL ITEMS
+4 FINANCE INCOME AND COSTS
+  2013 2012 
+   '000  '000
+Amortisation of acquired intangible assets (note 11)  417  -
+Exceptional items  
+  2013 2012 
+   '000  '000
+Relocation of AEF facility  304  - 
+Acquisition costs  79 -
+  383 -
+  2013 2012 
+   '000  '000
+Interest payable on bank loans and overdrafts  (348)  (249) 
+Finance income  1 7
+  (347) (242)
+Other finance income/(expense) 
+  2013 2012 
+   '000  '000
+Interest cost: UK defined benefit pension scheme (note 10)  (12,636) (13,602) 
+Expected return on plan assets: UK defined benefit pension scheme (note 10)  12,974 13,557 
+Provisions: Unwinding of discount (note 18)  (220) (329)
+  118 (374)
+In the consolidated statement of comprehensive income the exceptional items are included within administrative expenses.
+The acquisition costs relate to the purchase of VR Technology Holdings and other potential acquisitions investigated during the year.
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+84
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 5 PROFIT BEFORE TAXATION
+  2013 2012 
+   '000  '000
+Profit before taxation is shown after crediting:    
+Gain on foreign exchange  230 - 
+and after charging:    
+Loss on foreign exchange  - 191 
+Loss on disposal of property, plant and equipment  24 57 
+Depreciation on property, plant and equipment  3,896 3,164 
+Repairs and maintenance of property, plant and equipment  848 674 
+Amortisation of development costs and software  1,904 1,573 
+Amortisation of acquired intangibles  417 - 
+Research and development  2,780 2,291 
+Impairment of inventories  438 241 
+Impairment of trade receivables  5 113 
+Operating leases  1,705 1,641 
+ 
+Services provided to the Group (including its overseas subsidiaries) by the Company's auditors:    
+Audit fees in respect of the audit of the accounts of the Parent Company and consolidation   30 30 
+Audit fees in respect of the audit of the accounts of subsidiaries of the Company  80 82
+  110 112 
+Other services relating to taxation  - 111 
+Compensation received regarding taxation services  (128) - 
+Other business advisory services  - 28
+Total fees  (18) 251 
+ 
+During 2013  128,000 was received from the Group's auditors in relation to a claim for compensation regarding taxation services provided in the 
+US for previous years.
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+85 6 TAXATION
+  2013 2012 
+   '000  '000
+    
+Overseas current tax  3,313 3,366 
+Overseas adjustment in respect of previous periods  (139) 172
+Total current tax  3,174 3,538
+Deferred tax - current year  253 (190) 
+Deferred tax - adjustment in respect of previous periods  139 (172)
+Total deferred tax  392 (362)
+Total tax charge  3,566 3,176
+  2013 2012 
+   '000  '000
+Profit before taxation  13,194 11,005
+Profit before taxation at the average standard rate of 23.5% (2012: 25%)  3,101 2,751 
+Permanent differences  (238) (1,101) 
+Losses for which no deferred taxation asset was recognised  69 1,111 
+Differences in overseas tax rates  634 415
+Tax charge   3,566 3,176
+The tax on the Group's profit before taxation differs from the theoretical amount that would arise using the standard UK tax rate applicable to 
+profits of the consolidated entities as follows:
+The income tax charged directly to equity during the year was  nil (2012:  nil).
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+86
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 6 TAXATION (CONTINUED)
+Deferred tax liabilities  Accelerated Other  
+  capital temporary  
+  allowances differences Total 
+   '000  '000  '000
+At 1 October 2011  2,831 154 2,985 
+(Credited to)/charged against profit for the year  746 (1,108) (362) 
+Exchange differences  (39) - (39)
+At 30 September 2012  3,538 (954) 2,584 
+Charged against/(credited to) profit for the year  (415) 807 392 
+Exchange differences  4 (3) 1
+At 30 September 2013  3,127 (150) 2,977
+Deferred tax assets have been recognised in respect of temporary differences giving rise to deferred tax assets where it is probable that these 
+assets will be recovered.
+The standard rate of corporation tax in the UK changed from 24% to 23% with effect from 1 April 2013. Accordingly the average standard rate for 
+the year is 23.5%.
+A number of changes to the UK corporation tax system were announced in the March 2013 Budget Statement. The Finance Bill 2012, which was 
+substantively enacted on 2 July 2013, includes legislation reducing the main rate of corporation tax to 21% from 1 April 2014.
+The change in rate had no material impact on the Group's deferred tax assets and liabilities as the Group's deferred tax liabilities are held in  
+the US.
+The Group has not recognised deferred tax assets in respect of the following matters in the UK, as it is uncertain when the criteria for 
+recognition of these assets will be met.
+  2013 2012 
+   '000  '000
+Losses  (2,753)  (3,837) 
+Accelerated capital allowances   (966) (1,676) 
+Retirement benefit obligations  (2,256)  (515) 
+Other   (1,555)  (1,230)
+  (7,530)  (7,258)
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+87 7 DIVIDENDS
+8 EARNINGS PER SHARE 
+  2013 2012
+Weighted average number of ordinary shares in issue used in basic calculations (thousands)  29,451 29,151 
+Potentially dilutive shares (weighted average) (thousands)  1,231 1,706
+Fully diluted number of ordinary shares (weighted average) (thousands)  30,682 30,857
+On 2 February 2013, the shareholders approved a final dividend of 2.4p per qualifying ordinary share in respect of the year ended 30 September 
+2012. This was paid on 15 March 2013 absorbing  708,000 of shareholders' funds. 
+On 22 April 2013 the Board of Directors declared an interim dividend of 1.44p (2012: 1.2p) per qualifying ordinary share in respect of the year 
+ended 30 September 2013. This was paid on 6 September 2013 absorbing  424,000 (2012:  353,000) of shareholders' funds. 
+After the balance sheet date the Board of Directors proposed a final dividend of 2.88p per qualifying ordinary share in respect of the year ended 
+30 September 2013, which will absorb an estimated  862,000 of shareholders' funds. Subject to shareholder approval, the dividend will be paid 
+on 21 March 2014 to shareholders on the register at the close of business on 21 February 2014. In accordance with accounting standards this 
+dividend has not been provided for and there are no corporation tax consequences. 
+Basic earnings per share is calculated by dividing the earnings attributable to ordinary shareholders by the weighted average number of 
+ordinary shares in issue during the year, excluding those held in the employee share ownership trust. The company has dilutive potential 
+ordinary shares in respect of the Performance Share Plan (see page 68). Adjusted earnings per share removes the effect of the amortisation of 
+acquired intangible assets and exceptional items. 
+Reconciliations of the earnings and weighted average number of shares used in the calculations are set out below.
+ 2013 2013 2013 2012 2012 2012 
+  Basic Diluted  Basic Diluted 
+  eps eps  eps eps 
+  '000 pence pence  '000 pence pence
+Profit attributable to equity shareholders of the Company  9,628 32.7 31.4 7,829 26.9 25.4
+Amortisation of acquired intangible assets and exceptional items 800 2.7 2.6   
+Profit excluding amortisation of acquired intangibles and exceptional items 10,428 35.4 34.0 7,829 26.9 25.4 
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+88
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 9 EMPLOYEES
+  2013 2012 
+   '000  '000
+Wages and salaries  27,181 23,765 
+Social security costs  2,563 2,378 
+Other pension costs  822 817 
+US healthcare costs  2,635 3,170 
+Share based payments (note 24)  113 131
+  33,314 30,261
+  2013 2012 
+  Number Number
+By business segment    
+Protection & Defence  533 531 
+Dairy  200 176 
+Other  9 11
+  742 718
+  2013 2012 
+Key management compensation   '000  '000
+Salaries and other employee benefits  1,641 1,330 
+Post employment benefits  101 99 
+Share based payments  70 83
+  1,812 1,512
+At the end of the financial year the total number of employees in the Group was 747 (2012: 746).
+The key management compensation above includes the Directors plus three (2012: three) others who were members of the Group Executive 
+during the year.
+Detailed disclosures of Directors' remuneration and share options are given on pages 65 to 71.
+The average monthly number of employees (including Executive Directors) during the year was:
+The total remuneration and associated costs during the year were:
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+89 10 PENSIONS AND OTHER RETIREMENT BENEFITS
+Full disclosures are provided in respect of the UK defined benefit pension scheme below.
+The Group operated a contributory defined benefits plan to provide pension and death benefits for the employees of Avon Rubber p.l.c. and its 
+Group undertakings in the UK employed prior to 31 January 2003. The scheme was closed to future accrual of benefit on 1 October 2009. The 
+assets of the plan are held in separate trustee administered funds and are invested by professional investment managers. The trustee is Avon 
+Rubber Pension Trust Limited, the Directors of which are members of the plan. Four of the Directors are appointed by the Company and two are 
+elected by the members.
+Pension costs are assessed on the advice of an independent consulting actuary using the projected unit method. The funding of the plan is 
+based on regular actuarial valuations. The most recent finalised actuarial valuation of the plan was carried out at 31 March 2011 when the market 
+value of the plan's assets was  269.3m. The actuarial value of those assets represented 98.4% of the value of the benefits which had accrued to 
+members, after allowing for future increases in pensions.
+During the year the Company made payments to the fund of  592,000 (2012:  625,000) in respect of scheme expenses and deficit recovery plan 
+payments. In accordance with the deficit recovery plan agreed following the 31 March 2011 actuarial valuation, the Company will make deficit 
+recovery payments in 2014 of  300,000 in addition to  175,000 towards scheme expenses.
+An updated actuarial valuation for IAS 19 purposes was carried out by an independent actuary at 30 September 2013 using the projected  
+unit method.
+The main financial assumptions used by the independent qualified actuary to calculate the liabilities under IAS 19 are set out below:
+Retirement benefit assets and liabilities can be analysed as follows:
+   2013 2012 
+    '000  '000
+Pension liability   (11,279) (2,238) 
+  2013 2012 
+  % p.a. % p.a.
+Inflation (RPI)  3.10 2.50 
+Inflation (CPI)  2.10 1.50 
+Pension increases post August 2005  2.10 1.90 
+Pension increases pre August 2005  3.00 2.50 
+Discount rate for scheme liabilities  4.50 4.55
+The scheme actuary estimates a 0.1% change in the discount rate would change the value of scheme liabilities by approximately 1.6% (2012: 1.5%).
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+90
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 10 PENSIONS AND OTHER RETIREMENT BENEFITS (CONTINUED)
+Mortality rate 
+Assumptions regarding future mortality experience are set based on advice, published statistics and experience. The average life expectancy in 
+years of a pensioner retiring at age 65 on the balance sheet date is as follows:
+  2013 2012
+Male  22.0 22.1 
+Female  24.2 24.2
+The average life expectancy in years of a pensioner retiring at age 65, 20 years after the balance sheet 
+date is as follows:
+  2013 2012
+Male  23.4 23.6 
+Female  25.7 25.8
+The Liability Driven Investment ('LDI') comprises a series of LIBOR-earning cash deposits which are combined with contracts to hedge interest 
+rate and inflation rate risk over the expected life of the scheme's liabilities.
+*Avon Rubber employs a building block approach in determining the long-term rate of return on pension plan assets. Historical markets are 
+studied and assets with higher volatility are assumed to generate higher returns consistent with widely accepted capital market principles. 
+The assumed long-term rate of return on assets is then derived by aggregating the expected return for each asset class over the actual asset 
+allocation for the plan as at 30 September 2013.
+The assets in the scheme and the expected rate of return were:
+ Long-term rate of  Long-term rate of  
+ return expected Value at return expected Value at 
+ at 30 Sept 2013 30 Sept 2013 at 30 Sept 2012 30 Sept 2012 
+ % p.a.  '000 % p.a.  '000
+Equities 7.90 130,293 7.95 118,882 
+Liability driven investments  2.65 84,689 2.70 80,404 
+Corporate bonds 4.50 30,696 4.55 31,121 
+Cash 2.65 43,369 2.70 51,898
+Average expected long term rate of return/total fair value of assets 5.21* 289,047 5.11* 282,305
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+91 10 PENSIONS AND OTHER RETIREMENT BENEFITS (CONTINUED)
+Reconciliation of funded status to balance sheet  2013 2012 
+   '000  '000
+Fair value of plan assets  289,047 282,305 
+Present value of funded defined benefit obligations  (300,326) (284,543)
+Liability recognised on the balance sheet  (11,279) (2,238)
+Amounts (credited)/charged to profit before taxation in respect of post retirement benefits 2013 2012 
+   '000  '000
+Interest cost  12,636 13,602 
+Expected return on plan assets  (12,974) (13,557)
+Total (credited)/charged to profit before taxation  (338) 45
+ 2013 2012 
+  '000  '000
+Opening defined benefit obligation 284,543 278,831 
+Interest cost 12,636 13,602 
+Actuarial losses on plan liabilities* 18,503 5,662 
+Net benefits paid out (15,356) (13,552)
+Closing defined benefit obligation 300,326 284,543
+* Includes changes to the actuarial assumptions.
+Changes to the present value of the defined benefit obligation during the year
+ 2013 2012 
+  '000  '000
+Opening fair value of plan assets 282,305 279,111 
+Expected return on plan assets 12,974 13,557 
+Actuarial gains on plan assets 8,532 2,564 
+Contributions by the employer 592 625 
+Net benefits paid out (15,356) (13,552)
+Closing fair value of plan assets 289,047 282,305
+Changes to the fair value of scheme assets during the year
+As the plan is closed to future accrual, the total charge is included in other finance expense.
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+92
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 10 PENSIONS AND OTHER RETIREMENT BENEFITS (CONTINUED)
+ 2013 2012 
+  '000  '000
+Expected return on plan assets 12,974 13,557 
+Actuarial gain on plan assets 8,532 2,564
+Actual return on plan assets 21,506 16,121
+Actual return on plan assets
+ 2013 2012 2011 2010 2009 
+  '000  '000  '000  '000  '000
+Fair value of plan assets 289,047 282,305 279,111 270,713 253,408 
+Defined benefit obligation (300,326) (284,543) (278,831) (276,989) (261,785)
+(Deficit)/surplus in plan (11,279) (2,238) 280 (6,276) (8,377)
+ 2013 2012 2011 2010 2009 
+  '000  '000  '000  '000  '000
+Experience gains/(losses) on plan assets 8,532 2,564 7,758 18,696 (10,864) 
+Experience (losses)/gains on plan liabilities* (803) (4,864) 4,357 (6,189) (1,917)
+*This item consists of (losses)/gains in respect of liability experience only and excludes any change in liabilities in respect of changes to the 
+actuarial assumptions used.
+In addition, commencing 1 February 2003, a defined contribution scheme was introduced for employees within the UK. The cost to the Group 
+in respect of this scheme for the year ended 30 September 2013 was  353,000 (2012:  321,000).
+History of asset values, defined benefit obligation, deficit/surplus in scheme and experience gains and (losses)
+ 2013 2012 
+  '000  '000
+Total actuarial losses recognised as other comprehensive income (9,971) (3,098) 
+Cumulative amount of (losses)/gains recognised as other comprehensive income (3,529) 6,442
+Amounts recognised as other comprehensive income
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+93 11 INTANGIBLE ASSETS
+   
+   Acquired Development Computer 
+ Goodwill intangibles expenditure software Total 
+  '000  '000  '000  '000  '000
+At 1 October 2011  
+Cost - - 18,147 1,268 19,415 
+Accumulated amortisation and impairment - - (7,903) (1,043) (8,946)
+Net book amount - - 10,244 225 10,469
+Year ended 30 September 2012  
+Opening net book amount - - 10,244 225 10,469 
+Exchange differences - - (306) (6) (312) 
+Additions - - 4,205 492 4,697 
+Amortisation  - - (1,501) (72) (1,573)
+Closing net book amount - - 12,642 639 13,281
+At 30 September 2012  
+Cost - - 21,778 1,736 23,514 
+Accumulated amortisation and impairment - - (9,136) (1,097) (10,233)
+Net book amount - - 12,642 639 13,281
+Year ended 30 September 2013    
+Opening net book amount - - 12,642 639 13,281 
+Exchange differences - - 68 2 70 
+Additions - 167 3,317 1,103 4,587 
+Acquisitions (note 26) 63 923 - - 986 
+Disposals - - (62) - (62) 
+Amortisation  - (417) (1,837) (67) (2,321)
+Closing net book amount 63 673 14,128 1,677 16,541
+At 30 September 2013    
+Cost 63 1,090 22,450 2,848 26,451 
+Accumulated amortisation and impairment - (417) (8,322) (1,171) (9,910)
+Net book amount 63 673 14,128 1,677 16,541
+Development expenditure is amortised over a period between 5 and 15 years. 
+Computer software is amortised over a period between 3 and 7 years. 
+The remaining useful economic life of the development expenditure is between 5 and 12 years. 
+Acquired intangibles include customer relationships, order book on acquisition and brands and are amortised over 3 years.
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+94
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 12 PROPERTY, PLANT AND EQUIPMENT
+   Short  Plant and   
+  Freeholds leaseholds machinery Total 
+   '000  '000  '000  '000
+At 1 October 2011  
+Cost  1,102 352 34,723 36,177 
+Accumulated depreciation and impairment   (128) (236) (19,095) (19,459)
+Net book amount  974 116 15,628 16,718
+Year ended 30 September 2012  
+Opening net book amount  974 116 15,628 16,718 
+Exchange differences  (32) (3) (369) (404) 
+Additions  318 85 4,386 4,789 
+Disposals  - - (61) (61) 
+Depreciation charge  (133) (26) (3,005) (3,164)
+Closing net book amount  1,127 172 16,579 17,878
+At 30 September 2012  
+Cost  1,382 425 38,128 39,935 
+Accumulated depreciation and impairment  (255) (253) (21,549) (22,057)
+Net book amount  1,127 172 16,579 17,878
+Year ended 30 September 2013  
+Opening net book amount  1,127 172 16,579 17,878 
+Exchange differences  5 4 138 147 
+Additions  2,017 32 4,126 6,175 
+Acquisitions (note 26)  - - 109 109 
+Reclassifications  28 - (28) - 
+Disposals  - - (26) (26) 
+Depreciation charge  (142) (127) (3,627) (3,896)
+Closing net book amount  3,035 81 17,271 20,387
+At 30 September 2013  
+Cost  3,402 261 42,080 45,743 
+Accumulated depreciation and impairment  (367) (180) (24,809) (25,356)
+Net book amount  3,035 81 17,271 20,387
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+95 13 INVENTORIES
+14 TRADE AND OTHER RECEIVABLES
+Other receivables include  956,000 (2012:  956,000) in respect of a rent deposit relating to the Company's premises in Melksham, Wiltshire, UK. 
+The remaining balance comprises sundry receivables including accrued income.
+The creation and release of provision for impaired receivables have been included in administrative expenses in the consolidated statement of 
+comprehensive income.
+ 2013 2012 
+  '000  '000
+Trade receivables 17,009 10,238 
+Less: provision for impairment of receivables (269) (381)
+Trade receivables - net 16,740 9,857 
+Prepayments 1,141 1,242 
+Other receivables 2,796 3,517
+ 20,677 14,616
+Provisions for inventory write downs were  1,710,000 (2012:  1,582,000). 
+The cost of inventories recognised as an expense and included in cost of sales amounted to  51,782,000 (2012:  44,649,000).
+ 2013 2012 
+  '000  '000
+Raw materials 6,020 7,814 
+Work in progress 2,481 3,207 
+Finished goods 4,873 4,428
+ 13,374 15,449
+ 2013 2012 
+  '000  '000
+At 1 October 381 278 
+Provision for impairment of receivables 5 113 
+Receivables written off during the year as uncollectable (117) (10)
+At 30 September 269 381
+Movements on the Group provision for impairment of receivables are as follows:
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+96
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 16 TRADE AND OTHER PAYABLES
+17 BORROWINGS
+Other payables comprise sundry items which are not individually significant for disclosure.
+ 2013 2012 
+  '000  '000
+Trade payables 4,139 5,060 
+Other taxation and social security  282 241 
+Other payables 3,289 2,418 
+Accruals  8,970 8,029
+ 16,680 15,748
+ 2013 2012 
+  '000  '000
+Non-current  
+Bank loans  11,059 8,901
+Total borrowings 11,059 8,901
+The maturity profile of the Group's borrowings at the year end was as follows:   
+In one year or less, or on demand - - 
+Between one and two years 11,059 423 
+Between two and five years - 8,478
+ 11,059 8,901
+15 CASH AND CASH EQUIVALENTS
+Cash at bank and in hand balances are denominated in a number of foreign currencies and earn interest based on national rates.
+ 2013 2012 
+  '000  '000
+Cash at bank and in hand 184 176
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+97 17 BORROWINGS (CONTINUED)
+On 30 September 2010 the Group agreed new bank facilities with Barclays Bank and Comerica Bank. The Barclays facility comprises a revolving 
+credit facility of  5m and $15.5m and expires on 30 March 2015. The Comerica facility is a $15m revolving credit facility and expires on 30 March 
+2015. These facilities are priced on average at the appropriate currency LIBOR plus a margin of 1.75% and include financial covenants which are 
+measured on a quarterly basis. The Group was in compliance with its financial covenants during 2013 and 2012.  
+The facilities are secured by charges over Group assets and certain shares in Group companies.
+All facilities are at floating interest rates.
+The effective interest rates at the balance sheet dates were as follows:
+The Group has the following undrawn committed facilities:
+  2013 2012 
+   '000  '000
+Expiring within one year  - - 
+Expiring beyond one year  12,518 14,606
+Total undrawn committed borrowing facilities  12,518 14,606 
+Bank loans and overdrafts utilised  11,059 8,901 
+Utilised in respect of guarantees  341 381
+Total Group facilities  23,918 23,888
+ 2013 2013 2012 2012 
+ Sterling Dollar Sterling Dollar 
+ % % % %
+Bank loans 2.2 2.8 2.3 2.0
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+98
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 18 PROVISIONS FOR LIABILITIES AND CHARGES
+ 2013 2012 
+Analysis of total provisions  '000  '000
+Non-current  1,997 2,377 
+Current 616 616
+ 2,613 2,993
+ Property  
+ o b l i g a t io n s   
+   '000
+Balance at 1 October 2011 3,208  
+Unwinding of discount 329 
+Payments in the year (544)
+Balance at 30 September 2012 2,993 
+Unwinding of discount  220 
+Payments in the year (600)
+Balance at 30 September 2013 2,613
+Property obligations include an onerous lease provision of  1.8m in respect of unutilised space at the Group's leased Hampton Park West facility 
+in the UK.  0.6m of this provision is expected to be utilised in 2014, and the remaining  1.2m over the following two years. Other property 
+obligations relate to former premises of the Group which are subject to dilapidation risks and are expected to be utilised within the next eight 
+years. Property provisions are subject to uncertainty in respect of the utilisation, non-utilisation, or subletting of surplus leasehold property and 
+the final negotiated settlement of any dilapidation claims with landlords.
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+99 19 FINANCIAL INSTRUMENTS
+ 2013 2012 
+Carrying amount  '000  '000
+Trade receivables 16,740 9,857 
+Other receivables 2,796 3,517 
+Cash and cash equivalents 184 176 
+Forward exchange contracts used for hedging 214 121
+  19,934 13,671
+Financial instruments by category
+Trade and other receivables (excluding prepayments) and cash and cash equivalents are classified as 'loans and receivables'. Borrowings and 
+trade and other payables are classified as 'other financial liabilities at amortised cost'. Both categories are initially measured at fair value and 
+subsequently held at amortised cost.
+Derivatives (forward exchange contracts) are classified as 'derivatives used for hedging' and accounted for at fair value with gains and  
+losses taken to reserves through the consolidated statement of comprehensive income. 
+ 
+Financial risk and treasury policies
+The Group's treasury management team maintains liquidity, manages relations with the Group's bankers, identifies and manages foreign 
+exchange risk and provides a treasury service to the Group's businesses. Treasury dealings such as investments, borrowings and foreign 
+exchange are conducted only to support underlying business transactions.
+The Group has clearly defined policies for the management of foreign exchange rate risk. The Group treasury management team is not a 
+profit centre and, therefore, does not undertake speculative foreign exchange dealings for which there is no underlying exposure. Exposures 
+resulting from sales and purchases in foreign currency are matched where possible and the net exposure may be hedged by the use of forward 
+exchange contracts. 
+ 
+(i) Credit risk
+Credit risk is the risk of financial loss to the Group if a customer or counterparty to a financial instrument fails to meet its contractual obligations, 
+and arises principally from the Group's receivables from customers and monies on deposit with financial institutions.
+The US Government through the Department of Defense is a major customer of the Group. Credit evaluations are carried out on all non-
+Government customers requiring credit above a certain threshold, with varying approval levels set above this depending on the value of the 
+sale. At the balance sheet date there were no significant concentrations of credit risk, except in respect of the US Government noted above.
+Counterparty risk arises from the use of derivative financial instruments. This is managed through credit limits, counterparty approvals and 
+rigorous monitoring procedures.
+Where possible, goods are sold subject to retention of title clauses, so that in the event of non-payment the Group may have a secure claim.
+The Group establishes an allowance for impairment in respect of receivables where recoverability is considered doubtful.
+Exposure to credit risk
+The carrying amount of financial assets represents the maximum credit exposure. The maximum exposure to credit risk at the reporting date was:
+ 2013 2012 
+Carrying amount of financial assets  '000  '000
+Sterling  1,182 2,429 
+US dollar 14,519 6,199 
+Euro 585 1,140 
+Other currencies 638 265
+ 16,924 10,033
+The maximum exposure to credit risk for financial assets at the reporting date by currency was:
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+100
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 19 FINANCIAL INSTRUMENTS (CONTINUED)
+The total past due receivables, net of provisions is  1,922,000 (2012:  1,205,000).
+The individually impaired receivables mainly relate to a number of independent customers. A portion of these receivables is expected to be 
+recovered.
+(ii) Liquidity risk
+Liquidity risk is the risk that the Group will not be able to meet its financial obligations as they fall due. The Group's approach to managing 
+liquidity is to ensure, as far as possible, that it will always have sufficient liquidity to meet its liabilities when due, under both normal and stressed 
+conditions, without incurring unacceptable losses or risking damage to the Group's reputation.
+The Group uses weekly cash flow forecasts to monitor cash requirements and to optimise its borrowing position. Typically the Group ensures 
+that it has sufficient borrowing facility to meet foreseeable operational expenses and at the year end had facilities of  23.9m (2012:  23.9m).
+The following shows the contractual maturities of financial liabilities, including interest payments, where applicable and excluding the impact of 
+netting agreements and on an undiscounted basis:
+ Gross Provision Net Gross Provision Net 
+ 2013 2013 2013 2012 2012 2012 
+  '000  '000  '000  '000  '000  '000
+Not past due 14,818 - 14,818 8,707 (55) 8,652 
+Past due 0-30 days 1,369 (19) 1,350 898 (39) 859 
+Past due 31-60 days 634 (130) 504 202 (52) 150 
+Past due 61-90 days 116 (62) 54 152 (67) 85 
+Past due more than 91 days 72 (58) 14 279 (168) 111
+ 17,009 (269) 16,740 10,238 (381) 9,857
+ Carrying Contractual Less than 1 - 2 2 - 5 More than 
+ amount cash flows 12 months Years Years 5 Years 
+Analysis of contractual cash flow maturities  '000  '000  '000  '000  '000  '000
+30 September 2013      
+Secured bank loans 11,059 11,507 299 11,208  -  - 
+Trade and other payables 16,398 16,398 16,398 - - - 
+Forward exchange contracts used for hedging   
+  -  Outflow - 4,125 4,125 - - - 
+  -  Inflow  (214) - - - - - 
+    
+ 27,243 32,030 20,822 11,208 - - 
+    
+Provisions against trade receivables
+The ageing of trade receivables and associated provision for impairment at the reporting date was:
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+101 (iii) Market risks
+Market risk is the risk that changes in market prices, such as currency rates and interest rates, will affect the Group's results. The objective of 
+market risk management is to manage and control risk within suitable parameters.
+(a) Currency risk
+The Group is exposed to foreign currency risk on sales and purchases that are denominated in a currency other than sterling. The currencies 
+giving rise to this risk are primarily the US dollar and related currencies and the Euro. The Group hedges material forecast US dollar or Euro 
+foreign currency transactional exposures using forward exchange contracts. In respect of other monetary assets and liabilities held in currencies 
+other than sterling, the Group ensures that the net exposure is kept to an acceptable level, by buying or selling foreign currencies at spot rates 
+where necessary to address short-term imbalances.
+The Group classifies its forward exchange contracts hedging forecasted transactions as cash flow hedges and states them at fair value through 
+the consolidated statement of comprehensive income. Fair value is assessed by reference to year end spot exchange rates, adjusted for forward 
+points associated with contracts of similar duration. The fair value of forward exchange contracts used as hedges at 30 September 2013 was a 
+ 214,000 asset (2012:  121,000) comprising an asset of  214,000 (2012:  121,000) and a liability of nil (2012: nil).
+All forward exchange contracts in place at 30 September 2013 mature within one year.
+19 FINANCIAL INSTRUMENTS (CONTINUED)
+ Carrying Contractual Less than 1 - 2 2 - 5 More than 
+ Amount Cash flows 12 months Years Years 5 Years 
+Analysis of contractual cash flow maturities  '000  '000  '000  '000  '000  '000
+30 September 2012       
+Secured bank loans 8,901 9,410 206 629 8,575 - 
+Trade and other payables 15,507 15,507 15,507 - - - 
+Forward exchange contracts used for hedging       
+  -  Outflow - 5,016 5,016 - - - 
+  -  Inflow  (121) - - - - -
+ 24,287 29,933 20,729 629 8,575 -
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+102
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 19 FINANCIAL INSTRUMENTS (CONTINUED)
+(b) Interest rate risk
+The Group does not undertake any hedging activity in this area. All foreign currency cash deposits are made at prevailing interest rates and 
+where rates are fixed the period of the fix is generally not more than one month. The main element of interest rate risk concerns borrowings 
+which are made on a floating LIBOR-based rate and short-term overdrafts in foreign currencies which are also on a floating rate.
+The Group is exposed to interest rate fluctuations and with net debt of  10.9m (2012:  8.7m) a 1% movement in interest rates would impact the 
+interest costs by  109,000 (2012:  87,000).
+The floating rate financial liabilities comprise bank loans bearing floating interest rates fixed by reference to the relevant LIBOR or equivalent rate. 
+All cash deposits are on floating rates or overnight rates based on the relevant LIBOR or equivalent rate.
+Sensitivity analysis
+It is estimated that, with all other variables held equal (in particular other exchange rates), a general change of five cents in the value of the 
+US dollar against sterling would have had a  368,000 (2012:  378,000) impact on the Group's current year profit before interest and tax and 
+a  294,000 (2012:  274,000) impact on the Group's profit after tax. The method of estimation, which has been applied consistently, involves 
+assessing the translation impact of US dollar and Euro cash flows. 
+The following significant exchange rates applied during year:
+ Average rate Closing rate Average rate  Closing rate  
+ 2013 2013 2012 2012
+US dollar 1.559 1.612 1.576 1.615 
+Euro 1.188 1.191 1.215 1.255
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+103 19 FINANCIAL INSTRUMENTS (CONTINUED)
+ 2013 2012 
+  '000  '000
+Total borrowings 11,059 8,901 
+Cash and cash equivalents (184) (176)
+Group net debt 10,875 8,725
+Market capitalisation of the Group at 30 September 168,978 95,857
+Gearing ratio 6.0% 8.3%
+(iv) Capital risk management
+The Group's objectives when managing capital are to safeguard the Group's ability to continue as a going concern in order to provide returns 
+for shareholders and benefits for other stakeholders and to maintain an optimal capital structure.
+In order to maintain or adjust the capital structure the Group may adjust the amount of dividends paid to shareholders, return capital to 
+shareholders or issue new shares.
+The Group monitors capital on the basis of the gearing ratio, calculated as net debt divided by capital. Net debt is calculated as total borrowings 
+less cash and cash equivalents. Total capital is measured by the current market capitalisation of the Group, plus net debt. The increased market 
+capitalisation has positively impacted the gearing ratio in 2013 as shown below.
+The Group's net debt at the balance sheet date was:
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+104
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 19 FINANCIAL INSTRUMENTS (CONTINUED)
+(v) Fair values
+The fair values of financial assets and liabilities, together with the carrying amounts shown in the balance sheet, are as follows:
+ Carrying Fair Carrying  Fair 
+ amount value amount  value 
+ 2013 2013 2012 2012 
+  '000  '000  '000  '000
+Trade receivables 16,740 16,740 9,857 9,857 
+Other receivables 2,796 2,796 3,517 3,517 
+Cash and cash equivalents 184 184 176 176 
+Forward exchange contracts 214 214 121 121 
+Secured loans (11,059) (11,059) (8,901) (8,901) 
+Trade and other payables (16,398) (16,398) (15,507) (15,507)
+ (7,523) (7,523) (10,737) (10,737)
+Basis for determining fair value
+The following summarises the significant methods and assumptions used in estimating the fair values of financial instruments reflected in the 
+table above.
+Derivatives 
+The fair value of forward exchange contracts is determined by using valuation techniques using year-end spot rates, adjusted for the forward 
+points to the contract's value date. No contract's value date is greater than one year from the year end. These instruments are included in level 2 
+in the fair value hierarchy as the valuation is based on inputs that are either directly or indirectly observable.
+Secured loans 
+As the loans are floating rate borrowings, amortised cost is deemed to reflect fair value.
+Trade and other receivables/payables 
+As the majority of receivables/payables have a remaining life of less than one year, the notional amount is deemed to reflect the fair value.
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+105 20 SHARE CAPITAL
+Details of outstanding share options and movements in share options during the year are given in the Remuneration Report on pages 52-71.
+Ordinary shareholders are entitled to receive dividends and are entitled to vote at meetings of the Company.
+At 30 September 2013 1,242,111 (2012: 1,400,642) ordinary shares were held by a trust in respect of obligations under the 2002 Performance Share 
+Plan and the 2010 Performance Share Plan. Dividends on these shares have been waived. The market value of the shares held by the trust at 30 
+September 2013 was  6,832,000 (2012:  4,370,000). These shares are held at cost as treasury shares and deducted from shareholders' equity.
+During the year the trust acquired 522,000 (2012: 90,000) shares at a cost of  1,765,000 (2012:  279,000). 680,070 (2012: 1,225,347) shares were 
+used to satisfy awards following the vesting of shares relating to the 2002 Performance Share Plan.  
+ 2013 2013 2013 2012 2012 2012 
+ No. of Ordinary Share No. of Ordinary Share 
+ shares shares premium shares shares premium 
+   '000  '000   '000  '000
+Called up, allotted and fully   
+paid ordinary shares of  1 each      
+At the beginning of the year 30,723,292 30,723 34,708 30,723,292 30,723 34,708 
+ 
+At the end of the year 30,723,292 30,723 34,708 30,723,292 30,723 34,708
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+106
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 21 CASH GENERATED FROM OPERATIONS
+ 2013 2012 
+  '000  '000
+Profit for the financial year 9,628 7,829 
+Adjustments for:  
+Taxation 3,566 3,176 
+Depreciation 3,896 3,164 
+Amortisation of intangible assets  2,321 1,573 
+Finance income (1) (7) 
+Finance costs 348 249 
+Other finance (income)/expense (118) 374 
+Loss on disposal of intangibles 62 - 
+Loss on disposal of property, plant and equipment 24 57 
+Movement in respect of employee share scheme 113 131 
+Decrease/(increase) in inventories 2,259 (5,259) 
+(Increase)/decrease in receivables (6,295) 3,352 
+(Decrease)/increase in payables and provisions (503) 87
+ 15,300 14,726
+22 ANALYSIS OF NET DEBT
+  At 1 Oct  Exchange  At 30 Sept 
+  2012 Cash flow movements 2013  
+   '000   '000  '000  '000
+Cash at bank and in hand  176 8 - 184
+Net cash and cash equivalents  176 8 - 184 
+Debt due in more than 1 year  (8,901) (2,281) 123 (11,059)
+  (8,725) (2,273) 123 (10,875)
+This note sets out the calculation of net debt, a measure considered important in explaining our financial position.
+OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+107 24 SHARE BASED PAYMENTS
+The Group operates an equity-settled share-based performance share plan (PSP). Details of the Plan, awards granted and options outstanding 
+are set out in the Remuneration Report on page 68 and are incorporated by reference into these financial statements. The charge against profit 
+of  113,000 (2012:  131,000) in respect of PSP options granted after 7 November 2002 has been calculated using the Monte Carlo pricing model 
+and the following principal assumptions:
+  2013  2012 
+  PSP  PSP
+Weighted average fair value ( )  0.21  0.28 
+Key assumptions used:     
+Weighted average share price ( )  3.41  3.00 
+Volatility (%)  39  39 
+Risk-free interest rate (%)  1.75  2.47 
+Expected option term (yrs)  3.0  3.0 
+Divided yield (%)  1.0  1.0
+23 OTHER FINANCIAL COMMITMENTS
+ 2013 2012 
+  '000  '000
+Capital expenditure committed  918 608
+Capital expenditure committed represents the amount contracted in respect of property, plant and equipment at the end of the financial year 
+for which no provision has been made in the financial statements.
+The future aggregate minimum lease payments under non-cancellable operating leases are:
+The majority of leases of land and buildings are subject to rent reviews.
+Volatility is estimated based on actual experience over the last three years.
+ 2013 2012 
+  '000  '000
+Within one year 2,052 2,177 
+Between 1 and 5 years 5,025 6,462 
+Later than 5 years 6,472 7,243
+  13,549 15,882
+Avon Rubber p.l.c.  Annual Report and Accounts 2013 delivering our strategy
+108
+Notes to the Group Financial Statements continued
+for the year ended 30 September 2013 OVERVIEW OF THE YEAR HOW WE RUN OUR BUSINESS HOW WE PERFORMED SHAREHOLDER INFORMATION
+delivering our strategy Avon Rubber p.l.c.  Annual Report and Accounts 2013
+109
+26 ACQUISITION
+  Accounting Fair value   
+ Book value policy alignment adjustment Fair value  
+  '000   '000  '000  '000
+Intangible assets - 301 622 923 
+Property, plant and equipment 109 - - 109 
+Inventories 36 - - 36 
+Trade and other receivables 137 - - 137 
+Cash and cash equivalents 64 - - 64 
+Trade and other payables (499) - - (499)
+Net assets acquired (153) 301 622 770
+Goodwill    63
+Total consideration    833
+On 26 April 2013 Avon Polymer Products Limited acquired 100% of the share capital of VR Technology Holdings Limited (VR), a market leader 
+in diving rebreather systems and dive computers, for consideration of  833,000. VR's products and key technologies will complement and 
+enhance the Group's current and planned product ranges and increase respiratory protection opportunities for the Group, particularly with 
+navies around the world.
+The results of the acquired entity have been consolidated in the Group's consolidated statement of comprehensive income from 26 April 2013 
+and contributed  278,000 of revenue and a loss of  126,000 to the profit attributable to equity shareholders of the Group during the year.
+The impact of the acquisition on the consolidated balance sheet was as follows:
+The goodwill is attributable to the workforce of the acquired business and synergies expected to arise in the period following the acquisition. 
+The Directors have reviewed the goodwill for impairment and concluded that the carrying value is recoverable. Full details of the review are not 
+disclosed given the immateriality of the goodwill balance.
+The contingent consideration becomes payable over the next three years, providing certain performance conditions are met, based on both 
+qualitative and quantitative factors. The range of outcomes is expected to be between nil and  200,000.
+Had VR been consolidated from 1 October 2012, the consolidated statement of comprehensive income would show revenue of  124,863,000 
+and profit for the year of  9,637,000.
+Cash 483 
+Deferred/contingent consideration 350
+ 833
+Satisfied by:
+25 RELATED PARTY TRANSACTIONS
+There were no related party transactions during the year or outstanding at the end of the year (2012:  nil). Key management compensation is 
+disclosed in note 9.

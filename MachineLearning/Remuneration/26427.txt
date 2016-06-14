@@ -1,0 +1,63 @@
+ 1 Key information continued
+1.4 Selected key measures
+1.4. 1 Financial information
+Our selected financial information reflects the operations of the BHP Billiton Group, and should be read in conjunction with the 201 2 financial 
+statements, together with the accompanying notes.
+We prepare our consolidated financial statements in accordance with International Financial Reporting Standards (IFRS), as issued by the 
+International Accounting Standards Board, and as outlined in note 1  Accounting policies' to the financial statements in this Annual Report. 
+We publish our consolidated financial statements in US dollars.
+ 2012 2011 2010 2009 2008
+Consolidated Income Statement  
+(US$M except per share data)     
+Revenue 72,226 71,739 52,798 50,211 59,473
+Profit from operations 23,752 31,816 20,031 12,160 24,145
+Profit attributable to members of BHP Billiton Group 15,41 7 23,648 12,722 5,877 15,390
+Dividends per ordinary share - paid during the period (US cents) 110.0 91.0 83.0 82.0 56.0
+Dividends per ordinary share - declared in respect  
+of the period (US cents) 1 12.0 101.0 87.0 82.0 70.0
+Earnings per ordinary share (basic) (US cents)
+ (a) 
+289.6 429.1 228.6 105.6 275.3
+Earnings per ordinary share (diluted) (US cents)
+ (a) 
+288.4 426.9 227.8 105.4 274.8
+Number of ordinary shares (millions)     
+- At period end 5,348 5,350 5,589 5,589 5,589
+- Weighted average 5,323 5,511 5,565 5,565 5,590
+- Diluted 5,346 5,540 5,595 5,598 5,605
+Consolidated Balance Sheet (US$M)     
+T otal assets 129,273 102,920 88,852 78,770 76,008
+Share capital (including share premium) 2,773 2,771 2,861 2,861 2,861
+T otal equity attributable to members of BHP Billiton Group 65,870 56,762 48,525 39,954 38,335
+Other financial information     
+Underlying EBIT (US$M)
+ (b) 
+27 ,238 31,980 19,719 18,214 24,282
+Underlying EBIT margin
+ (b)(c)(e) 
+39.4% 47.0% 40.7% 40.1% 47.5%
+Return on capital employed
+ (e) 
+23.0% 38.5% 26.4% 24.6% 37.5%
+Net operating cash flow (US$M)
+ (d) 
+24,384 30,080 16,890 17,854 16,958
+Project investment (US$M)
+  
+22,791 24,517 10,770 13,965 11,440
+Gearing
+  
+26.0% 9.2% 6.3% 12.1% 17.8% 
+(a) The calculation of the number of ordinary shares used in the computation of basic earnings per share is the aggregate of the weighted average number  
+of ordinary shares outstanding during the period of BHP Billiton Limited and BHP Billiton Plc after deduction of the weighted average number of shares  
+held by the Billiton share repurchase scheme and the Billiton Employee Share Ownership Plan Trust and the BHP Bonus Equity Plan Trust and adjusting for  
+the BHP Billiton Limited bonus share issue. Included in the calculation of fully diluted earnings per share are shares contingently issuable under Employee  
+Share Ownership Plans.
+(b) Underlying EBIT is Profit from operations, excluding the effect of exceptional items. See section 3.6.2 for more information about this measure, including  
+a reconciliation to Profit from operations.
+(c) Underlying EBIT margin excludes third party product.
+(d) On 1 July 201 0, the Group adopted the policy of classifying exploration cash flows which are not recognised as assets as Net operating cash flows.  
+Previously such cash flows were classified as net investing cash flows. The change in policy arose from amendments to IAS7/AASB7  Cash Flows'.  
+Comparative figures have been restated.
+(e) Underlying EBIT margin and Return on capital employed are non-IFRS measures. See section 3.3 for a reconciliation to the corresponding IFRS measure. 
+6 | BHP BILLITON ANNUAL REPORT 201 2

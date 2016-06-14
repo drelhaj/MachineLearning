@@ -1,0 +1,312 @@
+ Andor Technology PLC   Annual Report 2010
+Page 46 Page 47
+5. Critical accounting estimates and judgements
+Estimates and judgements are continually evaluated and are based on historical experience and other factors, including expectations 
+of future events that are believed to be reasonable under the circumstances. The group makes estimates and assumptions 
+concerning the future. The resulting accounting estimates will, by definition, seldom equal the related actual results.  The estimates 
+and assumptions that have a significant risk of causing a material adjustment to the carrying value of assets and liabilities within 
+the next financial year are discussed below:
+(a) Assessment of the fair value of acquired intangibles 
+The fair value of the acquired intangibles is based on a number of assumptions, including a discount rate and growth rates in 
+revenue. If the discount rate and growth rates were to have changed by 1% the effect on the fair value of the acquired intangibles 
+as of the date of acquisition would have been:
+ '000
+Increase in discount rate by 1% (455)
+Decrease in discount rate by 1% 488
+Increase in revenue growth rates by 1% 360
+Decrease in revenue growth rates by 1% (356)
+The effect of a change in the fair value of the acquired intangibles of  100,000 on the consolidated comprehensive income statement 
+for the year ended 30 September 2010 would be  6,998.
+(b) Estimate of useful economic life of intangible assets 
+The group assesses the useful economic life of intangible assets on an annual basis. The useful economic life of the intangible 
+assets ranges from four years to ten years.  If the remaining useful economic lives had been shortened by 1 year, amortisation 
+charged to the income statement during the year would have increased by  71,000 and if the remaining useful economic lives had 
+been extended by 1year, amortisation charged to the income statement during the year would have decreased by  63,000.
+(c) Accounting treatment of contingent consideration payable for acquisitions.
+As part of the acquisition of Bitplane AG and Photonics Inc certain shareholders of those entities were employed by the group 
+post acquisition. In accordance with IFRS 3 (Revised) management have determined that the contingent consideration payable is 
+consideration rather than remuneration. Had management determined that the contingent consideration was remuneration the 
+group's operating profit would have decreased by  1m.
+Notes to the consolidated financial statements for 
+the year ended 30 September 2010 (continued)
+6. Segment information
+Management has determined the operating segments based on the reports reviewed by the management board for strategic 
+decision-making purposes. The management board has considered the business from both a geographic and market sector 
+perspective. 
+From a geographic perspective, the management board considers that the group has four operating segments: i) Rest of World; ii) 
+United States of America; iii) Japan, and; iv) Bitplane, all of which are separate reportable segments.  The Rest of World, United States 
+of America and Japan segments derive their revenues from the sale of high performance digital cameras and microscopy systems. 
+Bitplane derives its revenues from the sale of microscopy image analysis software.
+The segment information provided to the management board for the reportable segments for the years ended 30 September 2010 
+and 30 September 2009 is as follows:
+2010 2009
+Segment revenues  '000  '000
+Rest of World 19,195 16,913
+United States of America 16,258 11,748
+Japan 4,565 4,452
+Bitplane * 2,755 -
+Total segment revenue 42,773 33,113
+Inter segment revenue (54) -
+Revenue from external customers 42,719 33,113
+* The results of the company's subsidiary undertaking, which was acquired during the year, are separately reported to the 
+management board and are therefore disclosed as a separate reportable segment. Andor Technology PLC   Annual Report 2010
+Page 48 Page 49
+ 2010 2009
+Segment assets  '000  '000
+Rest of World 22,287 24,188
+United States of America 7,711 3,194
+Japan 2,456 1,413
+Bitplane * 11,574 -
+Total operating assets 44,028 28,795
+Deferred income tax assets 2,310 210
+Total assets 46,338 29,005
+ 2010 2009
+Segment liabilities  '000  '000
+Rest of World 10,149 7,102
+United States of America 795 573
+Japan 317 256
+Bitplane * 836 -
+Total operating liabilities 12,097 7,931
+Borrowings 1,863 2,049
+Deferred income tax liabilities 3,277 1,387
+Total liabilities 17,237 11,367
+Sales between segments are carried out at arm's length. Revenue from external customers reported to the management board is 
+measured in a manner consistent with that in the income statement. There are no significant seasonal fluctuations. The management 
+board assesses the performance of each operating segment based on its material margin.  Material margin is measured in a manner 
+consistent with that in the income statement.
+The amounts provided to the management board with respect to total assets and liabilities are measured in a manner consistent 
+with that of the financial statements. The assets are allocated based on the operations of the segment and their physical location. 
+The liabilities are allocated based on the operations of the segment. The group interest bearing loan is not considered to be a 
+segment liability.
+ 2010 2009
+Segment results  '000  '000
+Rest of World 12,090 10,278
+United States of America 10,324 7,108
+Japan 3,287 3,321
+Bitplane * 2,646 -
+Total segment results 28,347 20,707
+Production costs (4,467) (3,892)
+Gross profit per financial statements 23,880 16,815
+Operating expenses (18,167) (12,274)
+Operating profit per financial statements 5,713 4,541
+Finance income 150 128
+Finance costs (58) (56)
+Profit before income tax 5,805 4,613
+Income tax expense (1,236) (744)
+Profit for the year 4,569 3,869
+Net finance income
+Depreciation and 
+amortisation Tax expense
+ '000  '000  '000
+Rest of World
+94 (1,140) (663)
+United States of America
+- - (401)
+Japan
+- - (186)
+Bitplane
+(2) (549) 14
+Total 92 (1,689) (1,236)
+Net finance income
+Depreciation and 
+amortisation
+Tax expense
+2009  '000  '000  '000
+Rest of World 72 (869) (744)
+United States of America - - -
+Japan - - -
+Total 72 (869) (744)
+6. Segment information (continued)
+Notes to the consolidated financial statements for 
+the year ended 30 September 2010 (continued)
+2010 Andor Technology PLC   Annual Report 2010
+Page 50 Page 51
+The group's customers are located globally. There are no individual customers that account for >10% of total revenue. Analysis of 
+revenues from external customers is as follows:
+2010 2009
+ '000  '000
+Analysis by geographical area 
+United Kingdom (country of domicile) 3,403 2,116
+United States of America 17,484 11,748
+Japan 4,733 4,452
+Other 17,099 14,797
+Revenue from external customers 42,719 33,113
+2010 2009
+ '000  '000
+Analysis by product/market
+Research 25,629 19,746
+Systems 6,106 6,413
+OEM 10,984 6,954
+Revenue from external customers 42,719 33,113
+7. Auditor remuneration
+During the year the group (including its overseas subsidiaries) obtained the following services from the company's auditor and its 
+associates:
+2010 2009
+Group  '000  '000
+Fees payable to the company's auditor for the audit of the parent 
+company and consolidated financial statements
+37 33
+Fees payable to the company's auditor and its associates for other 
+services:
+-
+ - The audit of the company's subsidiaries pursuant to legislation 14 -
+ - Taxation 33 28
+ - Corporate finance transactions 67 8
+ - All other services 21 41
+Total fees payable to the company's auditor and its associates 172 110
+Notes to the consolidated financial statements for 
+the year ended 30 September 2010 (continued)
+6. Segment information (continued) 8. Expenses by nature
+2010 2009
+Group  '000  '000
+Changes in inventories of finished goods and work in progress 1,189 781
+Raw materials and consumables used 14,372 12,407
+Employee benefit expense (note 9) 12,599 8,656
+Depreciation, amortisation and impairment charges - owned assets 1,689 1,234
+Operating lease expenses 151 108
+Impairment of trade receivables 20 225
+Release of deferred income in respect of government grants (373) (121)
+Repairs and maintenance expenditure on property, plant and equipment 55 40
+Research and development expenditure* 773 671
+Government revenue grants receivable (141) (399)
+Foreign exchange losses 20 245
+Other expenses 6,652 4,725
+Total cost of sales and net operating expenses 37,006 28,572
+* Excludes employee benefit expenses and amortisation of capitalized development expenditure.
+9. Employee benefit expense
+2010 2009
+Group  '000  '000
+Wages and salaries 10,631 7,280
+Social security costs 1,101 799
+Share options granted to Directors and employees 264 84
+Pension costs - defined contribution plans 603 493
+12,599 8,656
+2010 2009
+Number Number
+Average number of persons employed (including Directors) during the year by 
+activity
+Production, engineering and research and development 145 124
+Finance and administration 18 13
+Sales and marketing 83 66
+246 203
+The group pension plan is a defined contribution plan. The contributions made to the plan were  603,000 (2009:  493,000). At the 
+end of the year, contributions of  39,000 (2009:  38,000) representing unpaid contributions for the year ended 30 September 2010, 
+were outstanding. Andor Technology PLC   Annual Report 2010
+Page 52 Page 53
+Key management includes directors (executive and non-executive), and certain other management considered to be key to the 
+organisation's development. The compensation paid or payable to key management for employee services is shown below:
+2010 2009
+ '000  '000
+Key management compensation 
+Salaries and short term employee benefits 1,581 1,213
+Post-employment benefits 121 93
+Share-based payments 264 -
+Total 1,966 1,306
+2010 2009
+ '000  '000
+Directors' emoluments
+Aggregate emoluments 908 855
+Gains on exercise of share options 248 -
+Company pension contributions to money purchase schemes 66 57
+Aggregate emoluments paid to the highest paid director during the year totalled  264,086.  The highest paid director made gains 
+on share options exercised of  117,800. Company pension contributions totalling  18,211 were made on the highest paid director's 
+behalf.
+The report of the remuneration committee, which details the emoluments of all directors including the highest paid director, is set 
+out on pages 17 to 20.
+Notes to the consolidated financial statements for 
+the year ended 30 September 2010 (continued)
+9. Employee benefit expense (continued) 10.  Finance income and costs
+2010 2009
+Group  '000  '000
+Finance income
+Interest income on short-term bank deposits 150 128
+Finance income 150 128
+Finance costs
+Bank borrowings 55 54
+Invoice discounting 3 2
+Finance costs 58 56
+Finance income - net 92 72
+11. Income tax expense
+2010 2009
+Group  '000  '000
+Current income tax
+Current tax on profits for the year 1,075 692
+Adjustments to tax in respect of previous periods 65 (191)
+Total current tax 1,140 501
+Deferred income tax
+Origination and reversal of temporary differences 96 298
+Adjustments to tax in respect of previous periods - (55)
+Total deferred tax 96 243
+Income tax expense 1,236 744 Andor Technology PLC   Annual Report 2010
+Page 54 Page 55
+The tax on the group's profit before income tax differs from the amount that would arise using the standard rate of UK Corporation 
+Tax of 28% (2009: 28%) applied to profits of the consolidated entities as follows:
+2010 2009
+ '000  '000
+Profit before income tax 5,805 4,613
+Tax calculated at the standard rate of UK Corporation Tax 28% (2009: 28%) 1,625 1,291
+Tax effects of:
+Adjustments to tax in respect of previous periods 65 (246)
+Profits taxed at rates other than 28% 152 12
+Research and development tax credits (517) (476)
+Share based payments (221) (33)
+Other 132 196
+Income tax expense 1,236 744
+A number of changes to the UK Corporation tax system were announced in the June 2010 Budget Statement. The Finance (No 2) 
+Act 2010 is expected to include legislation to reduce the main rate of corporation tax from 28% to 27% from 1 April 2011. Further 
+reductions to the main rate are proposed to reduce the rate by 1% per annum to 24% by 1 April 2014. The changes had not been 
+substantively enacted at the balance sheet date and, therefore, are not included in these financial statements. 
+The effect of the changes to be enacted in the Finance (No 2) Act 2010 would be to reduce the deferred tax asset provided at 30 
+September 2010 by  56,000. This  56,000 decrease in the deferred tax asset would increase profit for the year by  21,000, with 
+a reduction in deferred tax credit recognised in equity of  77,000. This decrease in the deferred tax asset is due to the reduction in 
+the corporation tax rate from 28% to 27% with effect from 1 April 2011. 
+The proposed reductions of the main rate of corporation tax by 1% per year to 24% by 1 April 2014 are expected to be enacted 
+separately each year. The overall effect of the further changes from 27% to 24%, if these applied to the deferred tax balance at 30 
+September 2010, would be to reduce the deferred tax asset by  168,000 (being  56,000 recognised each year until 2014).
+Notes to the consolidated financial statements for 
+the year ended 30 September 2010 (continued)
+11. Income tax expense (continued) 12. Earnings per share
+Basic earnings per ordinary share is based on retained profit for the financial period and on the weighted average number of 
+ordinary shares in issue during the period. Diluted earnings per ordinary share is calculated using an adjusted number of shares 
+reflecting the number of dilutive shares under option and the number of dilutive shares forming part of contingent consideration 
+payable on acquisitions.  
+2010 Group
+Earnings
+ '000
+Number of  
+shares
+EPS
+pence
+Basic EPS 4,569 29,056,532 15.72
+Effect of dilutive securities - share options 2,127,300
+Effect of dilutive securities - contingent shares 114,308
+Diluted EPS 4,569 31,298,140 14.60
+Earnings
+ '000
+Number of  
+shares
+EPS
+pence
+Basic EPS 3,869 26,900,576 14.38
+Effect of dilutive securities - share options 1,296,667
+Diluted EPS 3,869 28,197,243 13.72
+13. Property, plant and equipment
+Freehold land  
+and buildings
+Plant & 
+Machinery
+Total
+Group  '000  '000  '000
+Cost
+At 1 October 2009 5,242 3,945 9,187
+Additions 4 422 426
+Arising on business combinations (Note 28) - 43 43
+Exchange adjustments - 2 2
+At 30 September 2010 5,246 4,412 9,658
+Accumulated depreciation
+At 1 October 2009 940 2,842 3,782
+Charge for the year 197 422 619
+At 30 September 2010 1,137 3,264 4,401
+Net book amount
+At 30 September 2010 4,109 1,148 5,257
+2009 Group

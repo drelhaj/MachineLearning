@@ -1,0 +1,166 @@
+ BrainJuicer Group PLC Annual Report and Accounts 2011 17
+Financial Statements
+Consolidated  
+Cash Flow Statement
+For the year ended 31 December 2011 
+Note
+2011 
+ '000 
+2010
+ '000
+Net cash generated from operations 24 2,565 3,536
+Tax paid (770) (675)
+Net cash generated from operating activities 1,795 2,861
+Cash flows from investing activities
+Acquisition of subsidiary, net of cash received   (43)
+Purchases of property, plant and equipment (232) (272)
+Purchase of intangible assets (117) (762)
+Interest received 2 1
+Net cash used by investing activities (347) (1,076)
+Net cash flow before financing activities 1,448 1,785
+Cash flows from financing activities
+Proceeds from issue of shares and sale of treasury shares 216 39
+Dividends paid to owners (318) (247)
+Purchase of own shares (433) (1,150)
+Net cash used by financing activities (535) (1,358)
+Net increase in cash and cash equivalents 913 427
+Cash and cash equivalents at beginning of year 2,770 2,343
+Cash and cash equivalents at end of year 3,683 2,770
+Consolidated  
+Balance Sheet
+As at 31 December 2011 
+Note
+2011
+ '000
+2010
+ '000
+ASSETS
+Non-current assets
+Property, plant and equipment 5 291 259
+Intangible assets 6 1,449 1,623
+Financial assets - available for sale investments 7 133 133
+Deferred tax asset 20 288 97
+2,161 2,112
+Current assets
+Inventories 9 50 47
+Trade and other receivables 10 6,087 4,719
+Cash and cash equivalents 3,683 2,770
+9,820 7,536
+Total assets 11,981 9,648
+EQUITY
+Capital and reserves attributable to equity holders of the Company
+Share capital 11 131 131
+Share premium account 1,579 1,549
+Merger reserve 477 477
+Foreign currency translation reserve 125 172
+Retained earnings 4,676 2,990
+Total equity 6,988 5,319
+LIABILITIES
+Non-current
+Provisions 12 156 78
+Non-current liabilities 156 78
+Current
+Provisions 12 47  
+Trade and other payables 13 4,377 4,004
+Current income tax liabilities 413 247
+Current liabilities 4,837 4,251
+Total liabilities 4,993 4,329
+Total equity and liabilities 11,981 9,648
+Consolidated Finan Cial  s tatements For the year ended 31 d ecember 2011  continued on next page  
+Consolidated Statement  
+of Changes in Equity 
+For the year ended 31 December 2011
+Note
+Share
+capital
+ '000
+Share 
+premium 
+account
+ '000
+Merger
+reserve
+ '000
+Foreign 
+currency 
+translation 
+reserve
+ '000
+Retained 
+earnings
+ '000
+Total
+ '000
+At 1 January 2010 129 1,447 477 149 2,533 4,735
+Profit for the financial year         1,480 1,480
+Other comprehensive income:
+ Currency translation differences       23   23
+Total comprehensive income       23 1,480 1,503
+Transactions with owners:
+Employee share options scheme:
+- value of employee services         308 308
+- proceeds from shares issued 1 37       38
+- current tax credited to equity         66 66
+Dividends paid to owners         (247) (247)
+Purchase of own shares         (1,150) (1,150)
+Non-employee share based payment 1 65       66
+2 102     (1,023) (919)
+At 31 December 2010 131 1,549 477 172 2,990 5,319
+Profit for the financial year         1,850 1,850
+Other comprehensive income:
+ Currency translation differences       (47)   (47)
+Total comprehensive income       (47) 1,850 1,803
+Transactions with owners:
+Employee share options scheme:
+- value of employee services         236 236
+- proceeds from shares issued   30       30
+- deferred tax credited to equity 20         138 138
+- current tax credited to equity         27 27
+Dividends paid to owners         (318) (318)
+Sale of treasury shares         186 186
+Purchase of treasury shares         (433) (433)
+  30     (164) (134)
+At 31 December 2011 131 1,579 477 125 4,676 6,988
+The notes on pages 18 to 21 are an integral part 
+of these consolidated financial statements.
+Registered Company No. 5940040
+These financial statements were approved by the directors on 22 March 2012 
+and are signed on their behalf by:
+John Kearon James Geddes
+Director Director
+Consolidated  
+Income Statement
+For the year ended 31 December 2011 
+Note
+2011 
+ '000 
+2010
+ '000
+Revenue 4 20,713 16,360
+Cost of sales (4,650) (3,738)
+Gross profit 16,063 12,622
+Administrative expenses (13,305) (10,406)
+Operating profit 4 2,758 2,216
+Investment income - bank interest 18 2 1
+Profit before taxation 2,760 2,217
+Income tax expense 19 (910) (737)
+Profit for the financial year 1,850 1,480
+Attributable to equity holders of the Company 1,850 1,480
+Earnings per share for profit attributable to the equity holders  
+of the Company
+Basic earnings per share 21 14.8p 11.7p
+Diluted earnings per share 21 14.1p 11.3p
+All of the activities of the Group are classed as continuing.
+Consolidated Statement 
+of Comprehensive Income
+For the year ended 31 December 2011 2011 
+ '000 
+2010
+ '000
+Profit for the financial year 1,850 1,480
+Other comprehensive income:
+Exchange differences on translating foreign operations (47) 23
+Other comprehensive income for the year, net of tax (47) 23
+Total comprehensive income for the year  
+and amounts attributable to equity holders 1,803 1,503
+_2(33)_BJU_ar11_pages 14-17_[SM.KC].indd   17 04/04/2012   17:28:30

@@ -1,0 +1,514 @@
+ ARM Holdings plc 25
+Environmental, social, corporate governance and ethical policies
+While the Group is accountable to its shareholders, it also endeavours to take into account the interests of all its 
+stakeholders, including employees, customers and suppliers and the local communities and environments in which  
+it operates. The Chief Financial Officer takes responsibility for these matters, which are considered at board level.  
+A corporate responsibility (CR) report is on pages 26 and 27 of this report and a more detailed version is available  
+via the Group's website www.arm.com. The company's Code of Business Conduct and Ethics is also available on  
+the Group's website and the Group regularly monitors employees' awareness of Group policies and procedures,  
+including ethical policies. The Group also operates a whistleblowing policy which provides for employees to have  
+access to senior management to raise concerns in strict confidence about any unethical business practices. There  
+is also a facility to make reports by telephone to an independent third party through a whistleblowing hotline.
+As a company whose primary business is the licensing of IP, employees are highly valued and their rights and dignity 
+are respected. The Group strives for equal opportunities for all its employees and does not tolerate any harassment  
+of, or discrimination against, its staff. The Group endeavours to be honest and fair in its relationships with its customers  
+and suppliers and to be a good corporate citizen respecting the laws of the countries in which it operates.
+The Group's premises are composed entirely of offices since it has no manufacturing activities. Staff make use of 
+computer-aided design tools to generate IP. This involves neither hazardous substances nor complex waste emissions. 
+With the exception of development systems products, the majority of products  sold by the Group comprise 
+microprocessor core and physical IP designs that are delivered electronically to customers. 
+A number of initiatives in this area have continued in 2008. The Group's environmental policy is published on its website within 
+the CR report. An environmental action plan is implemented through various initiatives. These include monitoring energy usage, 
+resource consumption and waste creation so that targets set for improvement are realistic and meaningful, ensuring existing 
+controls continue to operate satisfactorily and working with suppliers to improve environmental management.
+In line with the Companies Act 2006, the articles of association enable the Company to send information to shareholders 
+electronically and make documents available through the website rather than in hard copy, which provide both 
+environmental and cost benefits. Shareholders can opt to continue receiving a printed copy of the annual report  
+if they prefer.
+Health and safety
+Although ARM operates in an industry and in environments which are considered low risk from a health and safety 
+perspective, the safety of employees, contractors and visitors is a priority in all ARM workplaces world-wide. Continual 
+improvement in safety management systems is achieved through detailed risk assessments to identify and eliminate  
+potential hazards and through occupational health assessments for employees. More detail about the Group's approach  
+to environmental matters and health and safety is included in the CR report on pages 26 and 27.
+By order of the board
+ 
+ 
+Patricia Alsop, Company Secretary 26 ARM Holdings plc
+Corporate responsibility
+ARM's corporate responsibility programme encompasses accountability to shareholders, commitment to employees  
+and their families, service to our Partners, fostering good relationships with suppliers, involvement in the betterment  
+of local communities and minimising impact on the environment. Within each of these pillars, we focus on continuous 
+improvement measured by internal objectives, external audits and benchmarking. 
+Employees
+ARM endeavours to attract and retain the best people available by being a good and ethical employer. In the UK,  
+ARM participated in the Sunday Times Best Company to Work For  survey in 2008 and in January 2009, was presented 
+with a 1 star award which means it is a first class  employer. In 2008 ARM was judged by the UK's Guardian newspaper  
+as a Top Employer .
+Benefits
+Employees receive benefits including private medical/healthcare; health, travel and life insurance; pensions/401k 
+plan, sabbaticals and flexible working. ARM aligns the interests of employees and shareholders by providing equity 
+participation through restricted shares under the Employee Equity Plan and the opportunity to buy shares through 
+savings plans. ARM supports family-friendly initiatives such as a child care voucher scheme in the UK and a flexible 
+spending account in the US. 
+Feedback, development and training
+ARM recognises the importance of enabling employees to learn and develop, encouraging each individual to embark 
+on a path of self-betterment using a blend of reflection and feedback, coaching, mentoring, training and education.  
+At least once a year, employees and managers have a formal discussion on performance and development through 
+the ARM Feedback and Development System. Training needs are tracked, delivered and progress is monitored through 
+our Learning and Development team, ensuring that the Group's skills base is increased in line with business needs and 
+personal aspirations. 
+Health and safety
+The safety and welfare of employees, contractors and visitors is a priority. ARM has adopted UK health and safety 
+legislation as the global corporate standard due to its depth and breadth and maintains membership of the British  
+Safety Council to reflect this standard. ARM's global internal audit programme, the Facilities Management Review, 
+evaluates health and safety performance across all sites with a goal of consistency of health and safety provision  
+world-wide. We have seen increased awareness from design centre managers of health, safety and welfare issues  
+and their mitigation in 2008, in the results of audits conducted by Lloyds Register Quality Assurance (LRQA).
+To date ARM has had no serious issues and retains a very low accident rate - less than two recorded accidents per one 
+hundred employees annually. 
+Health and safety issues are communicated to employees through various media including the intranet, email and 
+workshops. As part of ARM's induction process, an extensive workshop introduces new employees to health and safety 
+issues in their office. 
+Suppliers
+ARM has relatively few suppliers, but the Company engages in dialogue with larger vendors to assess their CR 
+credentials. ARM evaluates suppliers on several factors including vendor policies (where applicable) and the  
+reputation of the supplier or contractor. ARM encourages suppliers and contractors to abide by its Human Rights  
+and Ethical Trading Policy. ARM continues to work with suppliers and service providers to minimise environmental 
+impact, wherever practicable. 
+Local communities
+ARM believes a good corporate citizen invests in and engages with local communities. 
+Business community
+ARM is a founding member of both The Learning Collaboration (TLC) and the Cambridge Network as well as a founding 
+sponsor of the Electronics Knowledge Transfer Network. In 2008, ARM co-founded the Cambridge Business Lectures. Four 
+lectures were held in 2008 with combined attendance of more than 1,000. The lectures are free to participants through 
+corporate sponsorship.
+Youth and education
+ARM supports educational endeavours through sponsorship of science/IT-related education initiatives and donations 
+of supplies such as redundant computer equipment to schools. We support the Engineering Education Scheme, Young 
+Engineers and Young Enterprise as well as the Cambridge University Entrepreneurs, University of Texas College of 
+Communication, Cambridge University Engineering Society and primary educational establishments.
+ARM's University Programme engages with universities in nearly every region of the world, including the EU, North and 
+South America, Australia, India, China and Japan - designing course material, providing technical seminars, donating 
+equipment and software and offering assistance to students. This reflects ARM's commitment to help universities produce 
+graduates with the necessary skills that its Partners need.  ARM Holdings plc 27
+Employee volunteering and gift matching programme
+ARM encourages employees to support their local communities by providing paid volunteer time and a charitable  
+gift matching programme. Employee volunteering includes acting as school governors, mentors to young people,  
+or volunteers to organise events to raise money for charity. Some employees volunteer time for work on engineering 
+projects with school and college students. 
+Environment
+ARM designs technology at the heart of low-power products across a wide range of application areas. Intelligence 
+within its low-power IP cores can be used to measure, manage and control the environmental performance of consumer 
+electronics and IT equipment, while improving functional performance and reducing carbon footprint. Additionally, 
+ARM can leverage its Connected Community  of partners to provide complete low-power solutions for products based 
+on the ARM architecture. 
+ARM's activities do not produce harmful waste or emissions, and the Ethical Investment Research Service (EIRIS) 
+grades ARM as an environmentally low impact  business. However, ARM recognises the need to mitigate any form 
+of environmental impact. ARM's environmental performance is measured against targets to reduce resource usage, 
+increase reuse and recycling and control carbon emissions. 
+ARM works with LRQA environmental auditors to develop and improve our environmental management system. LRQA's 
+twice yearly environmental and health and safety themed audits are now integrated with their other accreditation work, 
+which has increased understanding of ARM's environmental objectives among the local management and provided 
+action plans for achieving these objectives. Adopting LRQA's Business Assurance approach provides an independent 
+assessment of the ARM Management System and the various review procedures in place within the company. This 
+approach enables LRQA to verify ARM's compliance with ISO9001:2000 and components of other relevant ISO standards.
+In UK offices where ARM procures its own energy, supplies are from renewable sources. The application of a greener 
+policy on energy procurement is being extended to other ARM locations where practicable. For example, the new 92,000 
+sq ft office in San Jose, California has incorporated some of the building technologies that score towards the Leadership 
+in Energy & Environmental Design (LEED) Green Building Rating System and this principle will be implemented in future 
+sites where feasible. In the UK, ARM decreased CO2 production by 22% from 2006 to 2007 and by 89% between 2007 
+and 2008. In 2008, ARM also implemented an off-site regional Data Centre in the US and by centralising these services 
+the number of server rooms distributed across multiple ARM locations was reduced with an associated reduction in 
+environmental impact.
+ARM continues to assess its waste management strategies and improve the provision for recycling. Paper, cardboard 
+packaging, glass, aluminum and plastic can be recycled in many locations. In the UK, paper recycling grew by 56% 
+between 2006 and 2007 and by 103% between 2007 and 2008. Likewise the cardboard packaging recycling growth  
+between 2006 and 2007 of 12% saw a further increase of 30% between 2007 and 2008.
+Travel
+ARM recognises the environmental impact of travel and employees are encouraged to cycle to work, to share car 
+journeys, or to use public transport. Consistent with local custom and practice, bus transport is provided for employees  
+in Bangalore to minimise the environmental impact of individual travel to work and to reduce congestion. In a company 
+of 1,740 people, there are fewer than 30 company cars.
+Business travel, particularly by air, is important to maintain ARM's very effective Partner relationships, but ways this 
+can be reduced are regularly reviewed. Video conferencing is utilised where practicable and we are progressively 
+upgrading our equipment to make this option more effective. Data regarding flights is benchmarked with a view to 
+reducing business travel while ensuring that good business relationships are maintained. Despite ARM's increased 
+headcount and number of locations between 2006 and the end of 2008, we have achieved a reduction in flight-related 
+CO2 production of 3.4% over this period.
+Ethics and equal opportunities
+ARM recognises its ethical responsibilities to all stakeholders which are manifested in a range of policies and processes. 
+ARM conducts its business with integrity, respecting cultures and the dignity and rights of individuals. The Company 
+has an obligation to promote respect for and observance of human rights and fundamental freedoms for all, without 
+distinction as to colour, ethnic origin, gender, age, religion or similar belief, political or other opinion, disability or  
+sexual orientation. 
+Business continuity plans
+ARM has developed business continuity plans for all of its operations world-wide to enable business to continue should  
+a serious event or incident occur. These plans are designed to protect the interests of ARM's stakeholders and in particular 
+ARM's employees, property and other assets, and to provide facilities and infrastructure to reinstate business operations 
+as quickly as possible after an event. The continual review of these plans forms part of the management review process 
+alongside environmental management and health, safety and welfare. 
+A more detailed CR report is available on our website at www.arm.com 28 ARM Holdings plc
+Directors' report
+The directors present their annual report and audited financial statements for the year ended 31 December 2008.
+Principal activities and review of business
+The principal activities of the Group and its subsidiaries are the licensing, marketing, research and development of RISC-
+based microprocessors, physical IP and associated systems IP and tools. The nature of the global semiconductor industry 
+is such that most of its business is conducted overseas and, to serve its customers better, the Group has sales offices around 
+the world. These include six offices in the US and offices in Shanghai and Beijing, PR China; Shin-Yokohama, Japan; 
+Seoul, South Korea; Taipei, Taiwan; Kfar Saba, Israel; Paris, France; Munich, Germany and Bangalore, India. Design 
+offices are based in Cambridge, Maidenhead, Sheffield and Blackburn, UK; Sophia Antipolis and Grenoble, France; 
+Leuven-Heverlee, Belgium; Aachen and Grasbrunn, Germany; Trondheim, Norway; Sentjernej, Slovenia; Lund, Sweden; 
+Austin, Texas, Olympia, Washington and San Jose, California in the US and Bangalore, India. More information about 
+the business and key performance indicators are set out in the business review comprising the Chairman's statement on 
+pages 2 and 3, the Chief Executive Officer's review of operations on pages 5 to 8, the financial review on pages 11 to 15 
+and the corporate responsibility report on pages 26 and 27.
+Future developments
+The Group's stated objective is to establish a global standard for its RISC architecture, physical IP and other products in 
+the embedded microprocessor and semiconductor markets. The directors believe that, in order to achieve this goal, it is 
+important to expand the number and range of potential customers for its technology. The Group intends to enter into licence 
+agreements with new customers and to increase the range of new technology supplied to existing customers. Relationships 
+will continue to be established with third-party tools and software vendors to ensure that their products will operate with 
+the Group's products. As a result of its position in its industry, the Group is presented with many opportunities to acquire 
+complementary technology or resources and it intends to continue to make appropriate acquisitions from time to time.
+Going concern
+After dividend payments of  26.4 million and spending  40.3 million on the share buyback programme in 2008, the 
+Group grew its cash, cash equivalents, short-term investments and marketable securities balance to  78.8 million at 
+the end of 2008 from  51.3 million at the start of the year. After reviewing the 2009 budget and longer-term plans, the 
+directors are satisfied that, at the time of approving the financial statements, it is appropriate to adopt the going concern 
+basis in preparing the financial statements of both the Group and the parent company.
+Dividends
+The directors recommend a final dividend in respect of the year to 31 December 2008 of 1.32 pence per share which, 
+subject to approval at the Annual General Meeting (AGM) on 14 May 2009, will be paid on 20 May 2009 to shareholders 
+on the register on 1 May 2009. This final dividend, combined with the interim dividend of 0.88 pence per share paid 
+during the year, makes a total of 2.2 pence per share for the year, an increase of 10% on the total dividend of 2.0 pence 
+per share for 2007. 
+Share buyback programme
+In accordance with the rolling authority given by shareholders at the 2007 AGM, 41.2 million shares (representing 3.1% 
+of the issued share capital) of 0.05 pence each were bought back by the Company in 2008 (2007: 94.5 million shares)  
+at a total cost of  40.3 million (2007:  128.6 million). In 2009 to date, no shares have been bought back, but the buyback 
+programme remains in place and may be used during the year, if appropriate.
+Research and development (R&D)
+R&D is of major importance and, as part of its research activities, the Group collaborates closely with universities world-
+wide and plans to continue its successful engagement with Michigan University. Key areas of product development 
+for 2009 include the development of further energy efficient, high-performance engines for both data and control 
+applications such as ARM cores based on symmetric multiprocessor and superscalar technology. The Group is investing 
+in future physical IP development including low-power, low-leakage technologies for both bulk CMOS (complementary 
+metal oxide semiconductor) and SOI (silicon on insulator) processes to ensure leadership in this market. In addition, the 
+Group will deliver development tools, graphics processors and fabric IP to enable its customers to design and programme 
+systems-on-chip (SoCs). 
+The Group incurred R&D expenses of  87.6 million in 2008, representing 29.3% of revenues, compared with  84.0 million 
+in 2007. R&D expenses have been charged to the income statement since the requirements for capitalisation were not 
+met. The requirements for capitalisation are considered in more detail in note 1 on page 53.
+Donations
+During the year the Group made donations for charitable purposes of  42,290 (2007:  41,214). The total amounts given  
+for each such purpose were: 
+Local charities          14,435
+Promotion of education         1,300
+Wider understanding of science, maths and information technology      18.250
+Medical research         1,005
+Relief of poverty          4,047
+Other           3,253 ARM Holdings plc 29
+ARM employees are encouraged to offer their time and expertise to help charities and other groups in need. The Group 
+operates a gift matching system for employee fundraising. The Group does not make any political donations. 
+Directors in the year
+The following served as directors of the Company during the year ended 31 December 2008:
+Doug Dunn OBE (Chairman)  
+Warren East (Chief Executive Officer)  
+Tim Score (Chief Financial Officer)  
+Tudor Brown (President from 1 July 2008, previously Chief Operating Officer) 
+Mike Muller (Chief Technology Officer)  
+Mike Inglis (General Manager, Processor Division from 1 July 2008, previously EVP Sales and Marketing)  
+Simon Segars (General Manager, Physical IP Division)  
+Lucio Lanza (independent non-executive director)  
+Kathleen O'Donovan (independent non-executive director and financial expert)  
+Philip Rowley (independent non-executive director and financial expert)  
+John Scarisbrick (independent non-executive director)  
+Jeremy Scudamore (senior independent non-executive director)  
+Young Sohn (independent non-executive director) 
+(See pages 18 and 19 for the directors' biographies.)
+Election and re-election of directors
+In accordance with Article 79 of the Group's articles of association, Mike Inglis will retire by rotation at the Company's 
+AGM and will seek re-election at that meeting. 
+Directors' shareholdings in the Company
+The interests of the directors in the Company's ordinary shares of 0.05 pence, all of which were beneficially held,  
+are disclosed in the remuneration report on page 36.
+The additional information required for shareholders as a result of the implementation of the EU Takeovers Directive  
+is set out below:
+Share capital
+As at 31 December 2008, ARM's share capital comprised a single class of ordinary shares of 0.05 pence each and there 
+were 1,344,055,696 ordinary shares in issue (2007: 1,344,055,696) of which 91,160,488 ordinary shares were held in 
+treasury (2007: 65,201,176). The rights attached to treasury shares are restricted in accordance with the Companies Acts. 
+The rights attached to ordinary shares are as follows:
+1  On a show of hands at a general meeting, every shareholder present in person (or, in the case of a corporation, present 
+at the meeting by way of a representative) and entitled to vote shall have one vote and every proxy present who has 
+been duly appointed by a shareholder entitled to vote on the resolution has one vote; 
+2  On a poll, every shareholder present in person (or in the case of a corporation, present at the meeting by way  
+of a representative) or by proxy and entitled to vote shall have one vote for every ordinary share held; 
+3  Shareholders are entitled to a dividend where declared or paid out of profits available for such purposes; and 
+4  Shareholders are entitled to participate in a return of capital on a winding-up. 
+The notice of the AGM specifies deadlines for exercising voting rights and appointing a proxy or proxies to vote in relation  
+to resolutions to be passed at the AGM. All proxy votes are counted and the numbers for, against or withheld in relation 
+to each resolution are announced at the AGM and published on ARM's website after the meeting.
+There are no restrictions on the transfer of ordinary shares in ARM other than:
+-  Restrictions that may from time to time be imposed by laws and regulations (for example, those relating to market 
+abuse and insider dealing);
+-  Restrictions that may be imposed pursuant to the Listing Rules of the Financial Services Authority under which certain 
+employees of ARM require the approval of the Company to deal in shares;
+-  Restrictions on the transfer of shares that may be imposed under article 61.2 of ARM's articles of association or under 
+Part 22 of the Companies Act 2006, in either case following a failure to supply information required to be disclosed 
+following service of a request under section 793 of the Companies Act 2006; and
+-  Restrictions on transfer of shares held under certain of the Company's employee share plans while they remain subject  
+to the plan. 30 ARM Holdings plc
+Directors' report/  
+continued
+Substantial shareholdings
+The directors are aware of the following substantial interests in the issued share capital of the Company as at  
+20 March 2009:
+        Percentage of issued  
+        ordinary share capital
+Janus Capital Corporation        13.30%
+Thornburg Investment Management        10.17%
+Capital Group Companies        9.03%
+Fidelity Investments        5.12%
+Invesco         4.99%
+Wellington Management Company       4.98%
+Legal and General Investment Management       3.96%
+Save for the above, the Company has not been notified, as at 20 March 2009, of any material interest of 3% or more  
+or any non-material interest exceeding 10% of the issued share capital of the Company.
+Appointment of directors
+ARM shareholders may by ordinary resolution appoint any person to be a director. ARM must have not less than two 
+and no more than 16 directors holding office at all times. ARM may by ordinary resolution from time to time vary the 
+minimum and/or maximum number of directors. 
+At each AGM, any director who was elected or last re-elected at or before the AGM held in the third calendar year 
+before the then current calendar year must retire by rotation. A retiring director is eligible for re-election unless the 
+directors have agreed otherwise.
+The directors may appoint a director to fill a casual vacancy or as an additional director to hold office until the next 
+AGM, who shall then be eligible for election.
+Articles of association
+ARM's articles of association may be amended only by a special resolution at a general meeting of shareholders. 
+Directors' authority
+The directors are responsible for the management of the business of ARM and may exercise all powers of ARM subject  
+to applicable legislation and regulation and the memorandum and articles of association.
+At the 2008 AGM, the directors were given authority to buy back a maximum number of 127,208,000 ordinary shares  
+at a minimum price of 0.05 pence each. The maximum price was an amount equal to 105% of the average of the closing 
+mid market prices of ARM's ordinary shares as derived from the London Stock Exchange Daily Official List for the five 
+business days immediately preceding the day on which such ordinary shares are contracted to be purchased. This 
+authority will expire at the earlier of the conclusion of the 2009 AGM or 14 August 2009.
+Accordingly, resolution 9 will be proposed as a special resolution at the 2009 AGM to give ARM authority to acquire  
+up to 126,012,000 ordinary shares following expiry of the current authority. The directors will use this authority only 
+after careful consideration, taking into account market conditions prevailing at the time, other investment opportunities, 
+appropriate gearing levels and the overall position of ARM. In particular, this authority will be exercised only if the 
+directors believe that it is in the best interests of shareholders generally and will increase earnings per share.
+Resolution 7 to be proposed at the 2009 AGM will authorise the directors generally to allot up to  210,020 in nominal 
+amount of ordinary shares, and in addition will authorise the directors to allot up to a further  210,020 in nominal amount 
+of ordinary shares in connection with a rights issue  (as defined in resolution 7). Further, resolution 8 will authorise the 
+directors to allot ordinary shares (or sell treasury shares) for cash (i) otherwise than in connection with a pre-emptive 
+offer  (as defined in resolution 8) up to an aggregate nominal amount of  33,600, or (ii) in connection with a pre-emptive 
+offer up to an aggregate nominal amount of  210,020, or (iii) in connection with a rights issue up to a further nominal 
+amount of  210,020, in each case as if section 89(1) of the Companies Act 1985 did not apply to such allotment (or sale). 
+The period of authorisation will in each case expire at the earlier of the conclusion of the 2010 AGM or on 13 August 2010. 
+Change of control
+All of ARM's equity-based plans contain provisions relating to a change of control. Outstanding awards and options 
+would normally vest and become exercisable on a change of control, subject to the satisfaction of any performance 
+conditions at that time.
+There are no significant agreements to which ARM is a party that take effect, alter or terminate upon a change  
+of control.
+Disabled persons
+The Group has a strong demand for highly qualified staff and disability is not seen to be an inhibitor to employment or 
+career development. In the event of any staff becoming disabled while with the Group, their needs and abilities would 
+be assessed and the Group would, where possible, seek to offer alternative employment to them if they were no longer 
+able to continue in their current role.  ARM Holdings plc 31
+Employee involvement
+As the Group is an IP enterprise, it is vital that all levels of staff are consulted and involved in its decision-making 
+processes. To this end, internal conferences and communications meetings are held regularly which involve employees 
+from all parts of the Group in discussions on future strategy and developments. Furthermore, employee share ownership 
+is encouraged and all employees are able to participate in one of the Group's schemes to encourage share ownership. 
+The Group has an informal and delegated organisational structure. It does not presently operate any collective 
+agreements with any trade unions.
+Policy on payment of creditors
+The Group's policy is to pay suppliers before the end of the month following the month of receipt of the invoice, unless 
+terms have been specifically agreed in advance. This policy and any specific terms agreed with suppliers are made 
+known to the appropriate staff and to suppliers on request. Trade creditors of the Group at 31 December 2008 were 
+equivalent to 25 days' purchases for the Group (2007: ten days) and nil days for the Company in both years. 
+Financial instruments
+The Group's financial risk management and policies and exposure to risks in relation to financial instruments are  
+detailed in note 1c.
+Essential contracts
+There are no parties with whom the Group has contractual or other arrangements which are essential to the business  
+of the Group.
+Annual General Meeting (AGM)
+The AGM will be held at 110 Fulbourn Road, Cambridge, CB1 9NJ, UK, on 14 May 2009 at 2.30pm. A presentation will 
+be made at this meeting outlining recent developments in the business. The Group will convey the results of proxy votes 
+cast at the AGM and on the website after the AGM. Shareholders are invited to submit written questions in advance of 
+the meeting. Questions should be sent to The Company Secretary, ARM Holdings plc, 110 Fulbourn Road, Cambridge 
+CB1 9NJ, UK.
+A resolution to reappoint PricewaterhouseCoopers LLP as auditors to the Group will be proposed at the AGM. Details of 
+other resolutions to be proposed at the meeting are set out in the Circular and Notice of AGM 2009 which will be made 
+available to all shareholders together with a proxy card.
+Statement of directors' responsibilities 
+The directors are responsible for preparing the annual report, the directors' remuneration report and the Group and the 
+parent company financial statements in accordance with applicable law and regulations. 
+Company law requires the directors to prepare financial statements for each financial year. Under that law the directors 
+have prepared the Group financial statements in accordance with International Financial Reporting Standards (IFRSs)  
+as adopted by the European Union, and the parent company financial statements and the directors' remuneration report 
+in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted 
+Accounting Practice). The Group and parent company financial statements are required by law to give a true and fair 
+view of the state of affairs of the Company and the Group and of the profit or loss of the Group for that period.
+In preparing those financial statements, the directors are required to:
+-  Select suitable accounting policies and then apply them consistently;
+-  Make judgements and estimates that are reasonable and prudent;
+-  State that the Group financial statements comply with IFRSs as adopted by the European Union, and with regard to the 
+parent company financial statements, that applicable UK Accounting Standards have been followed, subject to any 
+material departures disclosed and explained in the financial statements; and
+-  Prepare the Group and parent company financial statements on the going concern basis unless it is inappropriate to presume 
+that the Group will continue in business, in which case there should be supporting assumptions or qualifications as necessary. 
+The directors confirm that they have complied with the above requirements in preparing the financial statements.
+The directors are also required by the Disclosure and Transparency Rules of the Financial Services Authority to include  
+a report containing a fair view of the business and a description of the principal risks and uncertainties facing the Company  
+and the Group. These are set out in the financial review on pages 11 to 15.
+The directors are responsible for keeping proper accounting records that disclose with reasonable accuracy at any time 
+the financial position of the Company and the Group and to enable them to ensure that the Group financial statements 
+comply with the Companies Act 1985 and Article 4 of the IAS Regulation and the parent company financial statements 
+and the directors' remuneration report comply with the Companies Act 1985. They are also responsible for safeguarding 
+the assets of the Company and the Group and hence for taking reasonable steps for the prevention and detection of 
+fraud and other irregularities. 32 ARM Holdings plc
+Directors' report/  
+continued
+Directors' statement pursuant to the Disclosure and Transparency Rules
+Each of the directors whose names and functions are described in the biographies on pages 18 and 19 confirm that  
+to the best of each person's knowledge and belief:
+-  The financial statements, prepared in accordance with IFRS as adopted by the EU, give a true and fair view  
+of the assets, liabilities, financial position and profit of the Company and the Group; and
+-  The directors' report and the financial review on pages 11 to 15 include a fair review of the development and 
+performance of the business and the position of the Company and the Group, together with a description of the 
+principal risks and uncertainties that they face.
+The directors are responsible for ensuring the maintenance and integrity of the Group's website. Legislation in the  
+United Kingdom governing the preparation and dissemination of financial statements may differ from legislation  
+in other jurisdictions. 
+Disclosure of information to auditors
+In the case of each of the persons who are directors at the time when the report is approved, the following applies:
+-  So far as each director is aware, there is no relevant audit information of which the Group's auditors are unaware.
+-  Each director has taken all the steps that he or she ought to have taken in his or her duty as a director in order to  
+make himself or herself aware of any relevant audit information and to establish that the Group's auditors are aware  
+of that information
+By order of the board 
+Patricia Alsop, Company Secretary ARM Holdings plc 33
+Remuneration committee
+The remuneration committee has responsibility for determining and agreeing with the board, within agreed terms of reference, 
+the Group's policy for the remuneration of the executive directors and the individual remuneration packages for each executive 
+director. This includes basic salary, annual bonus, the level and terms of conditional awards under the Long Term Incentive Plan 
+and the terms of performance conditions that apply to such benefits, pension rights and any compensation payments. Where 
+the remuneration committee considers it appropriate, the committee will make recommendations in relation to the remuneration 
+of senior management. The committee also liaises with the board in relation to the preparation of the board's annual report  
+to shareholders on the Group's policy on the remuneration of executive directors and in particular the directors' remuneration 
+report, as required by the Companies Act 1985, the Combined Code and the Listing Rules of the Financial Services Authority.  
+The committee's terms of reference are published on the company's website at www.arm.com. 
+The committee is chaired by Jeremy Scudamore and the other members are Kathleen O'Donovan, Young Sohn and John 
+Scarisbrick, who joined the committee in September 2008. The committee met three times during 2008. Given their diverse 
+experience, these four independent non-executive directors are able to offer a balanced view and international expertise 
+in relation to remuneration issues for the Group. The committee has access to professional advice from external advisers 
+(generally appointed by the Executive Vice President, Human Resources) in the furtherance of its duties and makes 
+use of such advice. During 2008, KPMG provided general advice on remuneration and benefits, including tax advice 
+for employees who are seconded overseas and they also worked on royalty audits and the acquisition of Logipard AB. 
+Linklaters provided legal services in relation to equity plans and corporate matters. Monks provided salary survey data. 
+Deloitte provided salary survey data, royalty audit services and tax training. Kepler Associates provided independent 
+verification of TSR calculations for the Long Term Incentive Plan. The Executive Vice President, Human Resources also 
+provided advice to the committee and to the Group. Monks, which provided salary survey data, is an associate of the 
+Group's external auditor and these services were approved by the audit committee in accordance with the procedure 
+described in the corporate governance report. The Chief Executive Officer and the Executive Vice President, Human 
+Resources, normally attend for part of remuneration committee meetings. No director is involved in deciding his or  
+her own remuneration.
+The Deferred Annual Bonus Plan for executive directors and senior managers and the Employee Equity Plan for all other 
+employees were approved by shareholders at the 2006 AGM. These plans brought the Group's remuneration structure 
+more closely in line with UK market norms, increased alignment between remuneration and financial performance  
+and strengthened the retention aspect of the deferred bonus. Cessation of option grants to executive directors (other than 
+in exceptional circumstances) and the reduction from three plans to two for executive directors and senior managers, 
+together with the move away from options to shares for all employees, reduces potential dilution and has simplified 
+remuneration arrangements.
+Remuneration policy
+The remuneration committee, in its deliberations on remuneration policy for the Group's executive directors, seeks  
+to give full consideration to the principles set out in the Combined Code. The committee is able to consider corporate 
+performance on environmental, social and corporate governance issues when setting the remuneration of executive 
+directors. The committee also monitors developments in accounting for equity-based remuneration on an ongoing basis.
+The Group operates a remuneration policy and framework for executive directors designed to ensure that it attracts  
+and retains the high quality management skills necessary to achieve a high level of corporate performance, in line with 
+the best interests of shareholders. This policy seeks to provide rewards and incentives for the remuneration of executive 
+directors that reflect their performance and align with the objectives of the Group. These comprise a mix of performance-
+related and non-performance-related remuneration. The committee believes that a director's total remuneration should 
+seek to recognise his worth in the external market and, to this end, operates a policy of paying base salaries which are 
+in line with the market median, as part of a total remuneration package which is upper quartile. The committee believes 
+that this is justified, recognising that more than 50% of total potential remuneration is performance-related. The committee 
+obtains information about the external market from various independently published remuneration surveys and is 
+committed to benchmarking the total remuneration package.
+However for 2009, recognising current market conditions and the uncertainty over when the global economy will start 
+to improve, the board took the decision to postpone the annual pay review across the Group and to review the situation 
+at the mid year in the light of actual business performance and prospects for the remainder of the year and 2010. This 
+applies to all employees and to the board, including executive and non-executive directors.
+The nature of the Group's development has meant that there has been a good deal of focus on the attainment  
+of short-term objectives with a high level of variable remuneration. Since 2007, variable remuneration has consisted  
+of two performance-related elements: annual bonus and a conditional award under the Long Term Incentive Plan.  
+A shareholding guideline is in place for executive directors and certain senior managers, who are required to build up 
+a holding of shares in the Company over a period of five years. The shareholdings may be built up of shares received 
+through earlier grants under the Company's share option schemes and/or the Long Term Incentive Plan and/or the 
+Deferred Annual Bonus Plan and, in the case of executive directors, the required holding is 100% of basic salary.
+Remuneration report 34 ARM Holdings plc
+Remuneration report/  
+continued
+Incentive arrangements
+The remuneration committee aims to ensure that individuals are fairly rewarded for their contribution to the success  
+of the Group. The various incentive schemes that comprise the remuneration packages of executive directors and  
+senior managers are described below.
+Deferred Annual Bonus Plan
+There is a strong variable element to executive directors' remuneration and a bonus of up to 125% of base salary  
+(after application of a personal performance multiplier which flexes the payment by 0.75 to 1.25) can be earned  
+through the Deferred Annual Bonus Plan (DAB) if all targets are met. The personal performance multiplier depends  
+on the achievement of pre-determined objectives which are reviewed and approved by the committee each year.  
+These include key strategic objectives related to each director's role and responsibilities including compliance with  
+the Management Charter which is designed to foster employee development, understanding of the overall vision  
+and strategy of the Group and good governance.
+There is compulsory deferral into shares of 50% of the bonus earned and an opportunity to earn an equity match 
+of up to 2:1, subject to achievement of an EPS performance condition. Deferred shares and any matching shares 
+earned will normally be transferred three years from the date of award. Payment of the bonus for 2008 was subject 
+to the achievement of US dollar revenue and normalised operating profit targets set by the remuneration committee, 
+which were directly related to the Group's financial results. The bonuses payable to executive directors in respect of 
+performance during 2008 are shown in the table on page 41 and are in the range 69.0% to 70.7% of base salary, 50%  
+of which was compulsorily deferred into shares. For 2008, 50% of bonus was dependent on achieving a US dollar revenue 
+target and 50% on achieving a normalised operating profit target. At EPS growth equal to the increase in the Consumer 
+Prices Index (CPI) plus 4% per annum, the deferred shares will be matched on a 0.3:1 basis, rising to 2:1 when EPS growth 
+is in excess of CPI plus 12% per annum. The deferred shares can be forfeited in the event of gross misconduct and the 
+matching shares are subject to forfeiture for bad leavers . 
+For 2009, 30% of bonus is dependent on achieving a US dollar revenue target and 70% on achieving a normalised 
+operating profit target, which the committee believes have been set at challenging but motivational levels. These targets 
+are directly related to the Group's financial results and encourage achievement of the Group's short-term financial goals, 
+while the deferral and matching elements encourage a longer term view of the success of the Group. Maximum bonus  
+is 125% of base salary depending on the personal performance multiplier described above.
+Existing option schemes
+The grant of options under the existing share option schemes ceased in 2006 when the DAB and the Employee Equity 
+Plan were approved by shareholders. The Employee Equity Plan has the facility for option grants to be made, but this 
+will be done only in exceptional circumstances. The existing option grants to executive directors remain available for 
+exercise and vesting in accordance with the rules of the relevant schemes. In line with practice among the Group's peers 
+in the technology sector, there are generally no performance conditions attached to the issue or exercise of discretionary 
+options under the existing schemes, except for those issued to executive directors where performance conditions based 
+on real EPS growth apply. Share options issued to executive directors prior to their appointment to the board of the Group 
+do not have performance conditions attached to them. However, discretionary options issued to executive directors after 
+their appointment to the board of the Group do have performance conditions attached to them. These discretionary 
+options will vest after seven years, but may vest after three years from grant to the extent that the performance 
+conditions are satisfied. 
+The performance conditions applicable to the Long Term Incentive Plan are described in more detail below and are 
+based on TSR rather than EPS, providing the link to performance against an appropriate peer group.
+These performance conditions were selected having regard to the position of the Group within its sector and the nature  
+of the companies against which it competes to attract and retain high calibre employees. The committee believes that 
+the performance conditions represent the correct balance between being motivational and challenging.
+Pensions
+The Group does not operate its own pension scheme but makes payments into a Group personal pension plan, which is 
+a money purchase scheme. For executive directors, the normal rate of Group contribution is 10% of the executive's basic 
+salary plus additional amounts in accordance with the Group's salary sacrifice scheme. Full details of Group contributions 
+are set out in the directors' emoluments table on page 41. 
+Service agreements
+Executive directors have rolling  service contracts that may be terminated by either party on one year's notice. These 
+agreements provide for each of the directors to provide services to the Group on a full-time basis and contain restrictive covenants 
+for periods of three to six months following termination of employment relating to non-competition, non-solicitation of the Group's 
+customers, non-dealing with customers and non-solicitation of the Group's suppliers and employees. In addition, each service 
+contract contains an express obligation of confidentiality in respect of the Group's trade secrets and confidential information  
+and provides for the Group to own any intellectual property rights created by the directors in the course of their employment.
