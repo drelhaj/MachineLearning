@@ -130,7 +130,7 @@ import java.io.*;
 	public static void main (String[] args) {
 	
 		classifierName = "NaiveBayes";//SMO
-		
+		System.out.println("Classifier: >>> "+classifierName+" <<<\n");
 		MyFilteredClassifier classifier;
 		String testFile = "Gov";//Chair, Gov
 		String model = "TwoClasses"+classifierName;
