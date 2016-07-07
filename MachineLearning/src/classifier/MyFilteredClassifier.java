@@ -129,11 +129,11 @@ import java.io.*;
 	 */
 	public static void main (String[] args) {
 	
-		classifierName = "SMO";//SMO
+		classifierName = "NaiveBayes";//SMO
 		
 		MyFilteredClassifier classifier;
 		String testFile = "Gov";//Chair, Gov
-		String model = "TwoClassesSMO";
+		String model = "TwoClasses"+classifierName;
 		for(int i=1 ; i<7; i++){
 		classifier = new MyFilteredClassifier();
 			classifier.load("MachineLearning/test/"+testFile+"_"+i+".txt");

@@ -177,7 +177,7 @@ public class ReducedFilteredLearner {
 	 */
 	public static void main (String[] args) throws Exception {
 		
-		classifierName = "SMO";//SMO
+		classifierName = "NaiveBayes";//SMO
 
 		
 		System.out.println("Present Project Directory : "+ System.getProperty("user.dir"));

@@ -147,7 +147,7 @@ public class MyFilteredLearner {
 	 */
 	public static void main (String[] args) throws Exception {
 		//classifier name (either NaiveBayes or SMO for this summer school experiment)
-		classifierName = "SMO";//SMO
+		classifierName = "NaiveBayes";//SMO
 		
 		System.out.println("Present Project Directory : "+ System.getProperty("user.dir"));
 		MyFilteredLearner learner;
