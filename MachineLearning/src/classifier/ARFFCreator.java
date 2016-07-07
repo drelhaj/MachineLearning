@@ -24,8 +24,8 @@ public class ARFFCreator {
 
 	public static void main(String[] args) throws ClassNotFoundException, IOException {
 
-		String arffDirectory = "arff";//where you want to save the ARFF File
-		String datasetDirectory = "dataset";//where your dataset is (should contain sub-directories for each class (label or attribute).
+		String arffDirectory = "MachineLearning/arff";//where you want to save the ARFF File
+		String datasetDirectory = "MachineLearning/dataset";//where your dataset is (should contain sub-directories for each class (label or attribute).
 		String[] classes = getClassNames(datasetDirectory);//get the classes (@attribute) names by simply reading the sub-directory names.
 		System.out.println(Arrays.toString(classes));
 		createArffHeader(arffDirectory+"/TwoClasses.arff", Arrays.toString(classes).trim(),"text String");//method to create the ARFF file, the third argument is the datatype you may need to change this manually at some point (e.g. "String, String, Int, Int")

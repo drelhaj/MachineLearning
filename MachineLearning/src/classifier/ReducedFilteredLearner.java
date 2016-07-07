@@ -183,11 +183,11 @@ public class ReducedFilteredLearner {
 		System.out.println("Present Project Directory : "+ System.getProperty("user.dir"));
 		ReducedFilteredLearner learner;
 			learner = new ReducedFilteredLearner();
-			learner.loadDataset("arff/TwoClasses.arff");
+			learner.loadDataset("MachineLearning/arff/TwoClasses.arff");
 			// Evaluation must be done before training
 			learner.evaluate();
 			learner.learn();
-			learner.saveModel("model/TwoClasses"+classifierName+"_Reduced.dat");
+			learner.saveModel("MachineLearning/model/TwoClasses"+classifierName+"_Reduced.dat");
 		
 	}
 	 

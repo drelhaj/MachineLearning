@@ -111,7 +111,7 @@ public class MyFilteredLearner {
 			Instances trainingDataFiltered = Filter.useFilter(trainData, filter); // filter training data
 			ArffSaver saver = new ArffSaver();
 			saver.setInstances(trainingDataFiltered);
-			saver.setFile(new File("arff/MyFilteredLearner"+classifierName+".arff"));
+			saver.setFile(new File("MachineLearning/arff/MyFilteredLearner"+classifierName+".arff"));
 			saver.writeBatch();
 			// Uncomment to see the classifier
 			//System.out.println("--------->  "+classifier);
@@ -152,11 +152,11 @@ public class MyFilteredLearner {
 		System.out.println("Present Project Directory : "+ System.getProperty("user.dir"));
 		MyFilteredLearner learner;
 			learner = new MyFilteredLearner();
-			learner.loadDataset("arff/TwoClasses.arff");
+			learner.loadDataset("MachineLearning/arff/TwoClasses.arff");
 			// Evaluation must be done before training
 			learner.evaluate();
 			learner.learn();
-			learner.saveModel("model/TwoClasses"+classifierName+".dat");
+			learner.saveModel("MachineLearning/model/TwoClasses"+classifierName+".dat");
 		
 	}
 	 

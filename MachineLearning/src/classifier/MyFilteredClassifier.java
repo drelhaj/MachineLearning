@@ -136,8 +136,8 @@ import java.io.*;
 		String model = "TwoClassesSMO";
 		for(int i=1 ; i<7; i++){
 		classifier = new MyFilteredClassifier();
-			classifier.load("test/"+testFile+"_"+i+".txt");
-			classifier.loadModel("model/"+model+".dat");
+			classifier.load("MachineLearning/test/"+testFile+"_"+i+".txt");
+			classifier.loadModel("MachineLearning/model/"+model+".dat");
 			classifier.makeInstance();
 			classifier.classify();
 		}
