@@ -6,7 +6,7 @@ http://ucrel.lancs.ac.uk/summerschool/nlp.php
 
 
 Presented by Dr. Mahmoud El-Haj
-http://www.lancaster.ac.uk/staff/elhaj/publications.htm
+http://www.lancaster.ac.uk/staff/elhaj
 
 Slides are avialable online:
 
