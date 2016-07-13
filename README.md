@@ -20,6 +20,6 @@ The code trains classifiers for chairman's statements, governance & remuneration
 Using WEKA Java the code does the following:
 - Creates an ARFF File
 - Train a model using different Algorithms 
-- Extract n-gram featuers using stringToWordsVector
+- Extract n-gram features using stringToWordsVector
 - Reduce features
 - Classify unseen documents using the created models.
