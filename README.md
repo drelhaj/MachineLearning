@@ -11,10 +11,10 @@ http://www.lancaster.ac.uk/staff/elhaj
 Slides are avialable online here:
 
 Course:
-https://lancaster.box.com/s/7213r22dmx89twlkyvhnypvl8zs49t3u
+https://lancaster.box.com/s/fi15evvbtcs4ab0tx5zo8nxmy2yylztx
 
 Workspace Setup:
-https://lancaster.box.com/s/bnhkk34m7we2cmq03qze3exvg04bd58m
+https://lancaster.box.com/s/j78l0b4197il98oze2gfqlidlsvg7jlt
 
 The code trains classifiers for chairman's statements, governance & remuneration sections from 1,000 annual financial reports.
 Using WEKA Java the code does the following:
